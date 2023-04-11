@@ -1,0 +1,2408 @@
+[12/10/2022 11:04:41 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[12/10/2022 11:04:41 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[12/10/2022 11:04:41 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[12/10/2022 11:04:41 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[12/10/2022 11:04:41 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[12/10/2022 11:04:41 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[12/10/2022 11:04:41 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[12/10/2022 11:04:41 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[12/10/2022 11:04:41 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[12/10/2022 11:04:41 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[12/10/2022 11:04:41 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[12/10/2022 11:04:41 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[12/10/2022 11:04:41 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[12/10/2022 11:04:41 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[12/10/2022 11:04:41 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[12/10/2022 11:04:41 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[12/10/2022 11:04:41 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[12/10/2022 11:04:41 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[12/10/2022 11:04:41 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[12/10/2022 11:04:41 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[12/10/2022 11:04:41 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[12/10/2022 11:04:41 PM] [Info] Loading uEssentials from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\uEssentials.dll
+[12/10/2022 11:04:41 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp-firstpass
+[12/10/2022 11:04:42 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp
+[12/10/2022 11:04:42 PM] [Error] Invalid or outdated plugin assembly: Rocket.API
+[12/10/2022 11:04:42 PM] [Error] Invalid or outdated plugin assembly: Rocket.Core
+[12/10/2022 11:04:42 PM] [Error] Invalid or outdated plugin assembly: Rocket.Unturned
+[12/10/2022 11:04:42 PM] [Error] Invalid or outdated plugin assembly: UnityEngine.CoreModule
+[12/10/2022 11:04:42 PM] [Error] Invalid or outdated plugin assembly: UnityEngine
+[12/10/2022 11:04:42 PM] [Error] Invalid or outdated plugin assembly: Newtonsoft.Json
+[12/10/2022 11:04:42 PM] [Info] 
+[loading] uEssentials
+[12/10/2022 11:04:42 PM] [Error] Failed to load uEssentials, unloading now... :System.MissingMethodException: SDG.Unturned.ConsoleInput SDG.Unturned.CommandWindow.get_input()
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00033] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/10/2022 11:04:42 PM] [Info] 
+[unloading] uEssentials
+[12/10/2022 11:04:42 PM] [Error] Failed to unload uEssentials:System.MissingMethodException: SDG.Unturned.ConsoleInput SDG.Unturned.CommandWindow.get_input()
+  at Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (Rocket.API.PluginState state) [0x0003b] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x0005c] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/10/2022 11:04:42 PM] [Info] This server will automatically save every 1800 seconds
+[12/10/2022 11:04:42 PM] [Info] Steam servers ready!
+[12/10/2022 11:04:42 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/MyServer/Workshop/Steam
+[12/10/2022 11:04:42 PM] [Info] 1 workshop item(s) requested
+[12/10/2022 11:04:42 PM] [Info] Submitting workshop query for 1 item(s)...
+[12/10/2022 11:04:42 PM] [Info] Workshop query yielded 1 result(s)
+[12/10/2022 11:04:42 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/10/2022 11:04:42 PM] [Info] 2899517511 'LFO Mods' has 15 children
+[12/10/2022 11:04:42 PM] [Info] 	1232252658
+[12/10/2022 11:04:42 PM] [Info] 	2528363491
+[12/10/2022 11:04:42 PM] [Info] 	2309977886
+[12/10/2022 11:04:42 PM] [Info] 	2407744519
+[12/10/2022 11:04:42 PM] [Info] 	2407742380
+[12/10/2022 11:04:42 PM] [Info] 	1959614756
+[12/10/2022 11:04:42 PM] [Info] 	1727733956
+[12/10/2022 11:04:42 PM] [Info] 	2069342497
+[12/10/2022 11:04:42 PM] [Info] 	2463099029
+[12/10/2022 11:04:42 PM] [Info] 	2519307620
+[12/10/2022 11:04:42 PM] [Info] 	1717095606
+[12/10/2022 11:04:42 PM] [Info] 	2796081018
+[12/10/2022 11:04:42 PM] [Info] 	2427849541
+[12/10/2022 11:04:42 PM] [Info] 	2454681372
+[12/10/2022 11:04:42 PM] [Info] 	1909152337
+[12/10/2022 11:04:42 PM] [Info] Submitting workshop query for 15 item(s)...
+[12/10/2022 11:04:43 PM] [Info] Workshop query yielded 15 result(s)
+[12/10/2022 11:04:43 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/10/2022 11:04:43 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2528363491 'Wind Vehicles' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2309977886 'Wind Cars 2.0' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2407744519 'Uncreated Vehicles' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2407742380 'Uncreated Clothes' queued for download
+[12/10/2022 11:04:43 PM] [Info] 1959614756 'The Far East Conflict | Nordic Studios™ | Nordic Armory 3.0 [3.28+]' queued for download
+[12/10/2022 11:04:43 PM] [Info] 1727733956 'Pento's Tactical Apparel' queued for download
+[12/10/2022 11:04:43 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[12/10/2022 11:04:43 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2463099029 'A.C.M.S. Unturnov Armors | WIP version 1.1.2' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2519307620 'Medicals of Unturnov II | WIP version 1.0.1' queued for download
+[12/10/2022 11:04:43 PM] [Info] 1717095606 'Creator Tools' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2796081018 'Nordic Compatable Arid' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2427849541 'Dark Valley' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2427849541 'Dark Valley' has 16 children
+[12/10/2022 11:04:43 PM] [Info] 	1232252658 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	1727733956 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	1959614756 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	1975500516
+[12/10/2022 11:04:43 PM] [Info] 	2069342497 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	2309977886 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	2528363491 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	2454681372 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	2407744519 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	2407742380 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	2099073425
+[12/10/2022 11:04:43 PM] [Info] 	2796081018 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	2519307620 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	1717095606 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	2463099029 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 	1909152337 (already queued)
+[12/10/2022 11:04:43 PM] [Info] 2454681372 'Raum's Lockers' queued for download
+[12/10/2022 11:04:43 PM] [Info] 1909152337 'California Assets' queued for download
+[12/10/2022 11:04:43 PM] [Info] Submitting workshop query for 2 item(s)...
+[12/10/2022 11:04:43 PM] [Info] Workshop query yielded 2 result(s)
+[12/10/2022 11:04:43 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/10/2022 11:04:43 PM] [Info] 1975500516 '[Official] France (Updated June 2021)' queued for download
+[12/10/2022 11:04:43 PM] [Info] 2099073425 'Paradise Stereo [3.28]' queued for download
+[12/10/2022 11:04:43 PM] [Info] 17 workshop item(s) to download...
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 1232252658
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 1232252658
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 1232252658
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2528363491
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2528363491
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2528363491
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2309977886
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2309977886
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2309977886
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2407744519
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2407744519
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2407744519
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2407742380
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2407742380
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2407742380
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 1959614756
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 1959614756
+[12/10/2022 11:05:59 PM] [Error] Exception has been thrown by the target of an invocation.
+[12/10/2022 11:05:59 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <affe003bba9f44acb443d5523a93208c>:0 
+[12/10/2022 11:05:59 PM] [Error] Missing effect gameobject
+[12/10/2022 11:05:59 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <affe003bba9f44acb443d5523a93208c>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 1959614756
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 1727733956
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 1727733956
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 1727733956
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2069342497
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2069342497
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2069342497
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2463099029
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2463099029
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2463099029
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2519307620
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2519307620
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2519307620
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 1717095606
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 1717095606
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 1717095606
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2796081018
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2796081018
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2796081018
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2427849541
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2427849541
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2427849541
+[12/10/2022 11:05:59 PM] [Info] Workshop item found in cache: 2454681372
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 2454681372
+[12/10/2022 11:05:59 PM] [Info] Installed workshop item: 2454681372
+[12/10/2022 11:05:59 PM] [Info] Downloading workshop item: 1909152337
+[12/10/2022 11:05:59 PM] [Info] Successfully downloaded workshop item: 1909152337
+[12/10/2022 11:05:59 PM] [Info] Installing workshop item: 1909152337
+[12/10/2022 11:06:08 PM] [Info] Installed workshop item: 1909152337
+[12/10/2022 11:06:08 PM] [Info] Workshop item found in cache: 1975500516
+[12/10/2022 11:06:08 PM] [Info] Installing workshop item: 1975500516
+[12/10/2022 11:06:08 PM] [Info] Installed workshop item: 1975500516
+[12/10/2022 11:06:08 PM] [Info] Workshop item found in cache: 2099073425
+[12/10/2022 11:06:08 PM] [Info] Installing workshop item: 2099073425
+[12/10/2022 11:06:08 PM] [Info] Installed workshop item: 2099073425
+[12/10/2022 11:06:08 PM] [Info] Monitoring workshop map 'Dark_Valley' (2427849541) for changes
+[12/10/2022 11:06:08 PM] [Error] Navigation bounds count (5) does not match graph count (14) during server load
+[12/10/2022 11:06:08 PM] [Info] Loading level: 8%
+[12/10/2022 11:06:08 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:08 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:08 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:08 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:08 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 24: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 24: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 24: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 25: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 25: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 25: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 25: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 25: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 25: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 25: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 27: 31521 2868eed1-17e9-4654-9e29-4889d2f2b08c
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:09 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 25, 31: 5999 5d265052-ebba-4dfc-9e78-572da246a638
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 30, 31: 57418 0393db6c-dba0-4c6c-b624-3c3fceed76e8
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 30, 36: 57330 82c9a6f8-c852-4485-9a7c-770b5e167eb2
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 30, 36: 57330 82c9a6f8-c852-4485-9a7c-770b5e167eb2
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 31, 31: 30181 9139fa6d-8191-412c-b528-c2708937d3dd
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 31, 31: 30181 9139fa6d-8191-412c-b528-c2708937d3dd
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 32, 25: 57106 32fec7a2-25aa-4a5d-bea2-c6178afd64a3
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 32, 26: 57330 82c9a6f8-c852-4485-9a7c-770b5e167eb2
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 32, 27: 57330 82c9a6f8-c852-4485-9a7c-770b5e167eb2
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 34, 38: 45678 ca55b823-013d-4b1f-97a9-bcaadc621892
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 36, 28: 57421 6fa407f6-b4d1-4c50-9857-2e7af9c5156a
+[12/10/2022 11:06:10 PM] [Error] Object with no asset in region 37, 26: 57106 32fec7a2-25aa-4a5d-bea2-c6178afd64a3
+[12/10/2022 11:06:10 PM] [Info] Loading level: 16%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 25%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 33%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 41%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 50%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 58%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 66%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 75%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 83%
+[12/10/2022 11:06:10 PM] [Info] Loading level: 91%
+[12/10/2022 11:34:41 PM] [Info] Loading level: 100%
+[12/10/2022 11:34:41 PM] [Info] Saving server
+[12/11/2022 12:04:41 AM] [Info] Saving server
+[12/11/2022 12:34:41 AM] [Info] Saving server
+[12/11/2022 1:04:41 AM] [Info] Saving server
+[12/11/2022 1:34:41 AM] [Info] Saving server
+[12/11/2022 2:04:41 AM] [Info] Saving server
+[12/11/2022 2:34:41 AM] [Info] Saving server
+[12/11/2022 3:04:41 AM] [Info] Saving server
+[12/11/2022 3:34:41 AM] [Info] Saving server
+[12/11/2022 4:04:41 AM] [Info] Saving server
+[12/11/2022 4:05:07 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/11/2022 4:05:08 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/11/2022 4:05:20 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/11/2022 4:05:29 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/11/2022 4:34:41 AM] [Info] Saving server
+[12/11/2022 5:04:41 AM] [Info] Saving server
+[12/11/2022 5:34:41 AM] [Info] Saving server
+[12/11/2022 6:04:41 AM] [Info] Saving server
+[12/11/2022 6:24:09 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/11/2022 6:24:09 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/11/2022 6:24:21 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/11/2022 6:34:41 AM] [Info] Saving server
+[12/11/2022 7:04:41 AM] [Info] Saving server
+[12/11/2022 7:34:42 AM] [Info] Saving server
+[12/11/2022 8:04:42 AM] [Info] Saving server
+[12/11/2022 8:34:42 AM] [Info] Saving server
+[12/11/2022 9:04:42 AM] [Info] Saving server
+[12/11/2022 9:34:42 AM] [Info] Saving server
+[12/11/2022 9:48:27 AM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: [USM]Red__Bear
+[12/11/2022 9:48:45 AM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta-97 Character: [USM]Red__Bear
+[12/11/2022 9:49:12 AM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/11/2022 9:49:20 AM] [Info] [Group] Red__Bear [Delta-97]: "/weather clear"
+[12/11/2022 9:49:23 AM] [Error] Failed to find weather called clear.
+[12/11/2022 9:49:23 AM] [Info] [Group] Red__Bear [Delta-97]: "/weather none\"
+[12/11/2022 9:49:23 AM] [Error] Failed to find weather called none\.
+[12/11/2022 9:49:25 AM] [Info] [Group] Red__Bear [Delta-97]: "/day"
+[12/11/2022 9:49:42 AM] [Info] Successfully set time to day!
+[12/11/2022 9:49:42 AM] [Info] [Group] Red__Bear [Delta-97]: "/teleporrt w["
+[12/11/2022 9:49:46 AM] [Info] [World] Red__Bear [Delta-97]: "/teleporrt p"
+[12/11/2022 9:49:51 AM] [Info] [Group] Red__Bear [Delta-97]: "/teleport p"
+[12/11/2022 9:49:56 AM] [Error] Failed to find anyone or anywhere called p.
+[12/11/2022 9:49:56 AM] [Info] [Group] Red__Bear [Delta-97]: "/teleport p"
+[12/11/2022 9:49:56 AM] [Error] Failed to find anyone or anywhere called p.
+[12/11/2022 9:49:59 AM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 9:49:59 AM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 9:49:59 AM] [Info] Red__Bear moved x:-868.5313 y:86.73963(+43.00667) z:-19.92969 in the last second (0.9301834)
+[12/11/2022 9:50:17 AM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/11/2022 10:04:42 AM] [Info] Saving server
+[12/11/2022 10:34:42 AM] [Info] Saving server
+[12/11/2022 11:04:42 AM] [Info] Saving server
+[12/11/2022 11:34:42 AM] [Info] Saving server
+[12/11/2022 12:04:42 PM] [Info] Saving server
+[12/11/2022 12:12:23 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/11/2022 12:15:02 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/11/2022 12:15:18 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/11/2022 12:15:34 PM] [Info] Successfully admined reaper
+[12/11/2022 12:15:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i ak"
+[12/11/2022 12:15:37 PM] [Info] Giving reaper item 471:1
+[12/11/2022 12:15:37 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/11/2022 12:16:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "how big is this map"
+[12/11/2022 12:16:24 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 12:16:28 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 12:16:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tpa red"
+[12/11/2022 12:16:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport red"
+[12/11/2022 12:16:31 PM] [Info] Successfully teleported JACK THE RIPPER to Delta-97!
+[12/11/2022 12:16:36 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 12:16:36 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 12:16:37 PM] [Info] Red__Bear moved x:-868.5313 y:85.90949(+41.3068) z:-19.92969 in the last second (0.1000443)
+[12/11/2022 12:16:38 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere reaper"
+[12/11/2022 12:16:39 PM] [Info] reaper was teleported to Red__Bear
+[12/11/2022 12:16:39 PM] [Info] reaper moved x:-868.5313 y:85.9095(+41.30681) z:-19.92969 in the last second (0.1000519)
+[12/11/2022 12:16:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/i bed"
+[12/11/2022 12:16:50 PM] [Info] Giving Red__Bear item 19864:1
+[12/11/2022 12:16:50 PM] [Info] [Group] Red__Bear [Delta-97]: "/home"
+[12/11/2022 12:16:54 PM] [Info] [Group] Red__Bear [Delta-97]: "/home"
+[12/11/2022 12:17:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/11/2022 12:17:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "dont have a bed"
+[12/11/2022 12:17:31 PM] [Info] [Group] Red__Bear [Delta-97]: "/i bed"
+[12/11/2022 12:17:33 PM] [Info] Giving Red__Bear item 19864:1
+[12/11/2022 12:17:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i bed"
+[12/11/2022 12:17:39 PM] [Info] Giving reaper item 19864:1
+[12/11/2022 12:17:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/11/2022 12:17:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "it work"
+[12/11/2022 12:17:42 PM] [Info] [Group] Red__Bear [Delta-97]: "/home"
+[12/11/2022 12:17:44 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere reaper"
+[12/11/2022 12:17:44 PM] [Info] reaper was teleported to Red__Bear
+[12/11/2022 12:18:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "good times"
+[12/11/2022 12:18:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "i miss trump"
+[12/11/2022 12:18:54 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 12:18:54 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 12:18:54 PM] [Info] Red__Bear moved x:-868.8309 y:85.90482(+42.17185) z:-20.26532 in the last second (0.1000061)
+[12/11/2022 12:18:58 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere reaper"
+[12/11/2022 12:18:59 PM] [Info] reaper was teleported to Red__Bear
+[12/11/2022 12:18:59 PM] [Info] reaper moved x:-868.4199 y:85.91123(+42.17827) z:-19.49063 in the last second (0.1000748)
+[12/11/2022 12:19:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i map"
+[12/11/2022 12:19:15 PM] [Info] Giving reaper item 507:1
+[12/11/2022 12:19:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i compiss"
+[12/11/2022 12:19:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "how can i see the map"
+[12/11/2022 12:19:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "i cant"
+[12/11/2022 12:19:44 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/11/2022 12:19:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "cool"
+[12/11/2022 12:20:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "i can r\hear some fucker talking to me in this"
+[12/11/2022 12:20:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "sos and xray"
+[12/11/2022 12:21:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "let go to the city"
+[12/11/2022 12:21:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "if there is one"
+[12/11/2022 12:21:11 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 12:21:11 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 12:21:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport red"
+[12/11/2022 12:21:15 PM] [Info] Successfully teleported JACK THE RIPPER to Delta-97!
+[12/11/2022 12:21:15 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere reaper"
+[12/11/2022 12:21:31 PM] [Info] reaper was teleported to Red__Bear
+[12/11/2022 12:21:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "bank"
+[12/11/2022 12:21:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "good times"
+[12/11/2022 12:21:56 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/11/2022 12:22:16 PM] [Info] [Group] Red__Bear [Delta-97]: "/v m1a2"
+[12/11/2022 12:22:23 PM] [Info] Giving Red__Bear vehicle 38337
+[12/11/2022 12:22:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "omg"
+[12/11/2022 12:22:34 PM] [Info] [Group] Red__Bear [Delta-97]: "/v hum"
+[12/11/2022 12:22:40 PM] [Info] Giving Red__Bear vehicle 107
+[12/11/2022 12:22:40 PM] [Info] [Group] Red__Bear [Delta-97]: "/v hum"
+[12/11/2022 12:22:40 PM] [Info] Giving Red__Bear vehicle 107
+[12/11/2022 12:22:42 PM] [Info] [World] Red__Bear [Delta-97]: "/v humv"
+[12/11/2022 12:23:18 PM] [Info] Giving Red__Bear vehicle 38333
+[12/11/2022 12:23:18 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 38330"
+[12/11/2022 12:23:57 PM] [Info] Giving Red__Bear vehicle 38330
+[12/11/2022 12:23:57 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "120mm armor""
+[12/11/2022 12:24:12 PM] [Info] Giving Red__Bear item 38371:1
+[12/11/2022 12:24:12 PM] [Info] [Group] Red__Bear [Delta-97]: "/i dragon"
+[12/11/2022 12:24:21 PM] [Info] Giving Red__Bear item 132:1
+[12/11/2022 12:24:21 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/11/2022 12:24:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 12:24:27 PM] [Error] Failed to find anyone or anywhere called james.
+[12/11/2022 12:24:32 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport red"
+[12/11/2022 12:24:32 PM] [Info] Successfully teleported JACK THE RIPPER to Delta-97!
+[12/11/2022 12:24:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "back to other sever"
+[12/11/2022 12:25:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "also what our plan when were back other sever"
+[12/11/2022 12:25:14 PM] [Info] [Group] Red__Bear [Delta-97]: "/kick reaper"
+[12/11/2022 12:25:17 PM] [Info] Successfully kicked JACK THE RIPPER!
+[12/11/2022 12:25:17 PM] [Info] [Group] Red__Bear [Delta-97]: "/kick red"
+[12/11/2022 12:34:42 PM] [Info] Successfully kicked Delta-97!
+[12/11/2022 12:34:42 PM] [Info] Saving server
+[12/11/2022 1:04:42 PM] [Info] Saving server
+[12/11/2022 1:34:42 PM] [Info] Saving server
+[12/11/2022 2:04:42 PM] [Info] Saving server
+[12/11/2022 2:34:42 PM] [Info] Saving server
+[12/11/2022 2:40:44 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/11/2022 2:41:29 PM] [Info] [Group] Red__Bear [Delta-97]: "/v undercover"
+[12/11/2022 2:41:33 PM] [Info] Giving Red__Bear vehicle 47135
+[12/11/2022 2:41:33 PM] [Info] [Group] Red__Bear [Delta-97]: "/v undercover"
+[12/11/2022 2:41:45 PM] [Info] Giving Red__Bear vehicle 47135
+[12/11/2022 2:41:45 PM] [Info] [Group] Red__Bear [Delta-97]: "/i drago"
+[12/11/2022 2:42:06 PM] [Info] Giving Red__Bear item 132:1
+[12/11/2022 2:42:06 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 2:42:06 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 2:42:23 PM] [Info] [Group] Red__Bear [Delta-97]: "/i clacker"
+[12/11/2022 2:43:28 PM] [Info] Giving Red__Bear item 4091:1
+[12/11/2022 2:43:28 PM] [Info] [Group] Red__Bear [Delta-97]: "/v ferruc"
+[12/11/2022 2:43:37 PM] [Info] Giving Red__Bear vehicle 47190
+[12/11/2022 2:43:37 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 47195"
+[12/11/2022 2:45:01 PM] [Info] Giving Red__Bear vehicle 47195
+[12/11/2022 2:45:01 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 47194"
+[12/11/2022 2:45:08 PM] [Info] Giving Red__Bear vehicle 47194
+[12/11/2022 2:45:08 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 47193"
+[12/11/2022 2:45:21 PM] [Info] Giving Red__Bear vehicle 47193
+[12/11/2022 2:45:21 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/11/2022 2:45:27 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere reaper"
+[12/11/2022 2:45:27 PM] [Info] reaper was teleported to Red__Bear
+[12/11/2022 2:46:11 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34008"
+[12/11/2022 2:46:15 PM] [Info] Giving reaper item 34008:1
+[12/11/2022 2:46:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34009"
+[12/11/2022 2:46:27 PM] [Info] Giving reaper item 34009:1
+[12/11/2022 2:46:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34010"
+[12/11/2022 2:46:42 PM] [Info] Giving reaper item 34010:1
+[12/11/2022 2:46:42 PM] [Info] Connecting: PlayerID: 76561198881259191 Name: Deoxys XDG Character: James
+[12/11/2022 2:46:42 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal reaper"
+[12/11/2022 2:46:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34133"
+[12/11/2022 2:46:54 PM] [Info] Giving reaper item 34133:1
+[12/11/2022 2:46:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34137"
+[12/11/2022 2:46:54 PM] [Info] Giving reaper item 34137:1
+[12/11/2022 2:46:54 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 2:46:54 PM] [Info] James teleported to Red__Bear
+[12/11/2022 2:47:04 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 2:47:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34062"
+[12/11/2022 2:47:17 PM] [Info] Giving reaper item 34062:1
+[12/11/2022 2:47:17 PM] [Info] James [Deoxys XDG] was shot in the head by Red__Bear [Delta-97]!
+[12/11/2022 2:47:19 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 2:47:19 PM] [Info] James teleported to Red__Bear
+[12/11/2022 2:47:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/11/2022 2:47:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34235"
+[12/11/2022 2:47:26 PM] [Info] Giving reaper item 34235:1
+[12/11/2022 2:47:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i v"
+[12/11/2022 2:47:38 PM] [Info] Giving reaper item 1250:1
+[12/11/2022 2:47:38 PM] [Info] Red__Bear [Delta-97] was shot in the arm by James [Deoxys XDG]!
+[12/11/2022 2:47:39 PM] [Info] Red__Bear moved x:325.4839 y:63.77817(+15.62471) z:118.8361 in the last second (0.1007996)
+[12/11/2022 2:47:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34242"
+[12/11/2022 2:47:47 PM] [Info] Giving reaper item 34242:1
+[12/11/2022 2:47:47 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "garand clip" 5"
+[12/11/2022 2:47:50 PM] [Info] Giving Red__Bear item 58516:5
+[12/11/2022 2:47:50 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 2:47:50 PM] [Info] Red__Bear teleported to James
+[12/11/2022 2:47:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34249"
+[12/11/2022 2:48:07 PM] [Info] Giving reaper item 34249:1
+[12/11/2022 2:48:07 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "festive wire" 5"
+[12/11/2022 2:48:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 34199"
+[12/11/2022 2:48:12 PM] [Info] Giving reaper item 34199:1
+[12/11/2022 2:48:12 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "wire" 5"
+[12/11/2022 2:48:22 PM] [Info] Giving Red__Bear item 65:5
+[12/11/2022 2:48:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/i barbed 5"
+[12/11/2022 2:48:31 PM] [Info] Giving Red__Bear item 386:5
+[12/11/2022 2:48:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 126"
+[12/11/2022 2:48:31 PM] [Info] Giving reaper item 126:1
+[12/11/2022 2:48:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i ammo"
+[12/11/2022 2:48:47 PM] [Info] Giving reaper item 19542:1
+[12/11/2022 2:48:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 2:48:47 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 2:48:49 PM] [Info] James [Deoxys XDG] was shot in the head by reaper [JACK THE RIPPER]!
+[12/11/2022 2:48:55 PM] [Info] [World] James [Deoxys XDG]: "/tpa reap"
+[12/11/2022 2:48:59 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 2:48:59 PM] [Info] James teleported to reaper
+[12/11/2022 2:49:02 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 2:49:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 2:49:12 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 2:49:19 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 2:49:26 PM] [Info] James [Deoxys XDG] was shot in the head by Red__Bear [Delta-97]!
+[12/11/2022 2:49:31 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 2:49:31 PM] [Info] James teleported to Red__Bear
+[12/11/2022 2:49:33 PM] [Info] James [Deoxys XDG] was shot in the head by Red__Bear [Delta-97]!
+[12/11/2022 2:49:43 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/11/2022 2:49:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport red"
+[12/11/2022 2:49:47 PM] [Error] Failed to teleport player while in a vehicle.
+[12/11/2022 2:50:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 519"
+[12/11/2022 2:50:05 PM] [Info] Giving reaper item 519:1
+[12/11/2022 2:50:05 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 2:50:05 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 2:50:15 PM] [Info] James moved x:325.2422 y:63.76721(+15.26139) z:118.5703 in the last second (0.1008301)
+[12/11/2022 2:50:17 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 2:50:17 PM] [Info] James teleported to reaper
+[12/11/2022 2:50:24 PM] [Info] reaper [JACK THE RIPPER] was shot in the arm by James [Deoxys XDG]!
+[12/11/2022 2:50:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 2:50:29 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 2:50:38 PM] [Info] reaper [JACK THE RIPPER] bled to death!
+[12/11/2022 2:50:39 PM] [Info] [Group] Red__Bear [Delta-97]: "/experience red 1000"
+[12/11/2022 2:50:43 PM] [Info] Successfully gave Delta-97 +1000 experience!
+[12/11/2022 2:50:43 PM] [Info] [World] James [Deoxys XDG]: "/ammo"
+[12/11/2022 2:50:46 PM] [Info] [Group] Red__Bear [Delta-97]: "/experience red 1000"
+[12/11/2022 2:50:46 PM] [Info] Successfully gave Delta-97 +1000 experience!
+[12/11/2022 2:50:47 PM] [Info] [Group] Red__Bear [Delta-97]: "/experience red 1000"
+[12/11/2022 2:50:47 PM] [Info] Successfully gave Delta-97 +1000 experience!
+[12/11/2022 2:50:49 PM] [Info] [World] James [Deoxys XDG]: "/i minigun"
+[12/11/2022 2:51:10 PM] [Info] Giving James item 58768:1
+[12/11/2022 2:51:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 1365"
+[12/11/2022 2:51:10 PM] [Info] Giving reaper item 1365:1
+[12/11/2022 2:51:16 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 1364"
+[12/11/2022 2:51:16 PM] [Info] Giving reaper item 1364:1
+[12/11/2022 2:51:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i hellfu"
+[12/11/2022 2:51:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/i carjack"
+[12/11/2022 2:51:23 PM] [Info] Giving Red__Bear item 277:1
+[12/11/2022 2:51:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i hell"
+[12/11/2022 2:51:33 PM] [Info] Giving reaper item 19541:1
+[12/11/2022 2:51:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 2:51:33 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 2:51:34 PM] [Info] James [Deoxys XDG] was shot in the head by reaper [JACK THE RIPPER]!
+[12/11/2022 2:51:39 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 2:51:39 PM] [Info] James teleported to reaper
+[12/11/2022 2:51:44 PM] [Info] reaper [JACK THE RIPPER] was shot in the arm by James [Deoxys XDG]!
+[12/11/2022 2:51:50 PM] [Info] [World] James [Deoxys XDG]: "/i blow"
+[12/11/2022 2:51:53 PM] [Info] Giving James item 76:1
+[12/11/2022 2:51:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 2:51:53 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 2:51:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 76"
+[12/11/2022 2:52:04 PM] [Info] Giving reaper item 76:1
+[12/11/2022 2:52:04 PM] [Info] [Group] Red__Bear [Delta-97]: "/v m1a2"
+[12/11/2022 2:52:15 PM] [Info] Giving Red__Bear vehicle 38337
+[12/11/2022 2:52:15 PM] [Info] James [Deoxys XDG] was shot in the head by Red__Bear [Delta-97]!
+[12/11/2022 2:52:21 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by Red__Bear [Delta-97]!
+[12/11/2022 2:52:21 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 2:52:21 PM] [Info] James teleported to reaper
+[12/11/2022 2:52:22 PM] [Info] James [Deoxys XDG] was shot in the leg by Red__Bear [Delta-97]!
+[12/11/2022 2:52:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v tank"
+[12/11/2022 2:52:36 PM] [Info] Giving reaper vehicle 121
+[12/11/2022 2:52:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 2:52:36 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 2:52:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v tank"
+[12/11/2022 2:52:52 PM] [Info] Giving reaper vehicle 121
+[12/11/2022 2:52:52 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "120mm armor" 5"
+[12/11/2022 2:52:59 PM] [Info] Giving Red__Bear item 38371:5
+[12/11/2022 2:52:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tank ammo"
+[12/11/2022 2:53:02 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "120mm armor" 5"
+[12/11/2022 2:53:08 PM] [Info] Giving Red__Bear item 38371:5
+[12/11/2022 2:53:08 PM] [Info] [World] James [Deoxys XDG]: "/tp waypoint"
+[12/11/2022 2:53:14 PM] [Info] [World] James [Deoxys XDG]: "/tp waypoint"
+[12/11/2022 2:53:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 1302 10"
+[12/11/2022 2:53:18 PM] [Info] Giving reaper item 1302:10
+[12/11/2022 2:53:18 PM] [Info] [World] James [Deoxys XDG]: "/tp way point"
+[12/11/2022 2:53:22 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v tank"
+[12/11/2022 2:53:24 PM] [Info] Giving reaper vehicle 121
+[12/11/2022 2:53:24 PM] [Info] [World] James [Deoxys XDG]: "/waypoint"
+[12/11/2022 2:53:27 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 2:53:27 PM] [Info] James teleported to reaper
+[12/11/2022 2:53:29 PM] [Info] Red__Bear [Delta-97] was blown up by a vehicle!
+[12/11/2022 2:53:35 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 2:53:35 PM] [Info] James teleported to Red__Bear
+[12/11/2022 2:53:38 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 2:53:38 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 2:53:54 PM] [Info] [Group] Red__Bear [Delta-97]: "/i smaw"
+[12/11/2022 2:53:57 PM] [Info] Giving Red__Bear item 58073:1
+[12/11/2022 2:53:57 PM] [Info] [World] James [Deoxys XDG]: "/i rpg"
+[12/11/2022 2:54:02 PM] [Info] Giving James item 19358:1
+[12/11/2022 2:54:02 PM] [Info] [World] James [Deoxys XDG]: "/i smaw"
+[12/11/2022 2:54:06 PM] [Info] Giving James item 58073:1
+[12/11/2022 2:54:06 PM] [Info] reaper [JACK THE RIPPER] was blown up by Red__Bear [Delta-97] with a missile!
+[12/11/2022 2:54:08 PM] [Info] reaper moved x:325.2422 y:64.09901(+15.22401) z:118.5703 in the last second (0.4326248)
+[12/11/2022 2:54:09 PM] [Info] [World] James [Deoxys XDG]: "/i chev"
+[12/11/2022 2:54:15 PM] [Info] Giving James item 148:1
+[12/11/2022 2:54:15 PM] [Info] [Group] Red__Bear [Delta-97]: "/i mk.6 5"
+[12/11/2022 2:54:15 PM] [Info] Giving Red__Bear item 58074:5
+[12/11/2022 2:54:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v tank"
+[12/11/2022 2:54:17 PM] [Info] Giving reaper vehicle 121
+[12/11/2022 2:54:17 PM] [Info] [World] James [Deoxys XDG]: "/i adapt"
+[12/11/2022 2:54:21 PM] [Info] Giving James item 1007:1
+[12/11/2022 2:54:21 PM] [Info] Red__Bear [Delta-97] was blown up by reaper [JACK THE RIPPER] with a missile!
+[12/11/2022 2:54:22 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/11/2022 2:54:41 PM] [Info] [World] James [Deoxys XDG]: "/i smaw"
+[12/11/2022 2:54:46 PM] [Info] Giving James item 58073:1
+[12/11/2022 2:54:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport ames"
+[12/11/2022 2:54:46 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 2:54:49 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 2:54:49 PM] [Info] Red__Bear teleported to James
+[12/11/2022 2:54:56 PM] [Info] Red__Bear [Delta-97] was blown up by James [Deoxys XDG] with a missile!
+[12/11/2022 2:54:56 PM] [Info] reaper [JACK THE RIPPER] was blown up by James [Deoxys XDG] with a missile!
+[12/11/2022 2:54:58 PM] [Info] Red__Bear moved x:325.2422 y:63.76721(+15.41958) z:118.5703 in the last second (0.1008301)
+[12/11/2022 2:54:59 PM] [Info] [Group] Red__Bear [Delta-97]: "/back"
+[12/11/2022 2:55:02 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 2:55:02 PM] [Info] Red__Bear teleported to James
+[12/11/2022 2:55:06 PM] [Info] [World] James [Deoxys XDG]: "/i smaw"
+[12/11/2022 2:55:09 PM] [Info] Giving James item 58073:1
+[12/11/2022 2:55:09 PM] [Info] reaper moved x:325.2422 y:64.47571(+16.36915) z:118.5703 in the last second (0.8093262)
+[12/11/2022 2:55:09 PM] [Info] Red__Bear [Delta-97] was blown up by James [Deoxys XDG] with a missile!
+[12/11/2022 2:55:16 PM] [Info] [World] James [Deoxys XDG]: "/i medkit"
+[12/11/2022 2:55:21 PM] [Info] Giving James item 15:1
+[12/11/2022 2:55:21 PM] [Info] [World] James [Deoxys XDG]: "/i barret"
+[12/11/2022 2:55:29 PM] [Info] Giving James item 58226:1
+[12/11/2022 2:55:29 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 2:55:29 PM] [Info] Red__Bear teleported to James
+[12/11/2022 2:55:30 PM] [Info] [World] James [Deoxys XDG]: "/i ?barret m107""
+[12/11/2022 2:55:30 PM] [Info] [Area] reaper [JACK THE RIPPER]: "mk.153"
+[12/11/2022 2:55:37 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i mk.153"
+[12/11/2022 2:55:38 PM] [Info] Giving reaper item 58075:1
+[12/11/2022 2:55:38 PM] [Info] [World] James [Deoxys XDG]: "/i "barret m107""
+[12/11/2022 2:55:39 PM] [Info] [Group] Red__Bear [Delta-97]: "/v lav"
+[12/11/2022 2:55:47 PM] [Info] Giving Red__Bear vehicle 38335
+[12/11/2022 2:55:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 58076"
+[12/11/2022 2:55:47 PM] [Info] Giving reaper item 58076:1
+[12/11/2022 2:56:01 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 58076"
+[12/11/2022 2:56:01 PM] [Info] Giving reaper item 58076:1
+[12/11/2022 2:56:17 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i medkit"
+[12/11/2022 2:56:27 PM] [Info] Giving reaper item 15:1
+[12/11/2022 2:56:27 PM] [Info] James [Deoxys XDG] was blown up by reaper [JACK THE RIPPER] with a missile!
+[12/11/2022 2:56:27 PM] [Info] Red__Bear [Delta-97] was blown up by a vehicle!
+[12/11/2022 2:56:32 PM] [Info] Red__Bear [Delta-97] was blown up by reaper [JACK THE RIPPER] with a missile!
+[12/11/2022 2:56:37 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 2:56:37 PM] [Info] James teleported to Red__Bear
+[12/11/2022 2:56:37 PM] [Info] James moved x:335.25 y:64.71008(+24.93443) z:121.7344 in the last second (0.4085693)
+[12/11/2022 2:56:41 PM] [Info] [World] James [Deoxys XDG]: "/i smaw"
+[12/11/2022 2:56:45 PM] [Info] Giving James item 58073:1
+[12/11/2022 2:56:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "let me beee"
+[12/11/2022 2:56:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "i have a famly"
+[12/11/2022 2:57:00 PM] [Info] [World] James [Deoxys XDG]: "/i "barret m107""
+[12/11/2022 2:57:04 PM] [Info] [Group] Red__Bear [Delta-97]: "/i bounce 20"
+[12/11/2022 2:57:06 PM] [Info] Giving Red__Bear item 1691:20
+[12/11/2022 2:57:06 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 2:57:06 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 2:57:06 PM] [Info] [World] James [Deoxys XDG]: "/i barret"
+[12/11/2022 2:57:12 PM] [Info] Giving James item 58226:1
+[12/11/2022 2:57:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i58076"
+[12/11/2022 2:57:14 PM] [Info] [World] James [Deoxys XDG]: "/i "barret M107""
+[12/11/2022 2:57:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 58076"
+[12/11/2022 2:57:21 PM] [Info] Giving reaper item 58076:1
+[12/11/2022 2:57:21 PM] [Info] [World] James [Deoxys XDG]: "/i 58225"
+[12/11/2022 2:57:22 PM] [Info] Giving James item 58225:1
+[12/11/2022 2:57:25 PM] [Info] [World] James [Deoxys XDG]: "/i 58224"
+[12/11/2022 2:57:25 PM] [Info] Giving James item 58224:1
+[12/11/2022 2:57:27 PM] [Info] [World] James [Deoxys XDG]: "/i 58223"
+[12/11/2022 2:57:27 PM] [Info] Giving James item 58223:1
+[12/11/2022 2:57:31 PM] [Info] [World] James [Deoxys XDG]: "/i 58222"
+[12/11/2022 2:57:58 PM] [Info] Giving James item 58222:1
+[12/11/2022 2:57:58 PM] [Info] [Group] reaper [JACK THE RIPPER]: "/i pg-7v 10"
+[12/11/2022 2:57:59 PM] [Info] Giving reaper item 38397:10
+[12/11/2022 2:57:59 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "black um""
+[12/11/2022 2:58:02 PM] [Info] Giving Red__Bear item 1103:1
+[12/11/2022 2:58:02 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "black um""
+[12/11/2022 2:58:16 PM] [Info] Giving Red__Bear item 1103:1
+[12/11/2022 2:58:16 PM] [Info] [World] James [Deoxys XDG]: "/maxskills"
+[12/11/2022 2:58:35 PM] [Info] Red__Bear moved x:302.0788 y:151.1902(+92.64383) z:126.2079 in the last second (89.49998)
+[12/11/2022 2:58:35 PM] [Info] reaper moved x:334.7133 y:157.5393(+99.15765) z:120.0662 in the last second (93.20149)
+[12/11/2022 2:58:35 PM] [Info] James moved x:336.5681 y:132.4564(+74.02528) z:112.6731 in the last second (67.7937)
+[12/11/2022 2:58:36 PM] [Info] Red__Bear moved x:373.0421 y:354.8565(+203.6663) z:152.3817 in the last second (289.9749)
+[12/11/2022 2:58:36 PM] [Info] reaper moved x:458.3974 y:335.5126(+177.9733) z:129.7385 in the last second (275.359)
+[12/11/2022 2:58:36 PM] [Info] James moved x:488.7023 y:290.9052(+158.4488) z:106.7633 in the last second (233.8066)
+[12/11/2022 2:58:37 PM] [Info] Red__Bear moved x:444.0053 y:531.4001(+176.5436) z:178.5555 in the last second (476.1713)
+[12/11/2022 2:58:37 PM] [Info] reaper moved x:592.3885 y:497.7098(+162.1972) z:140.2169 in the last second (451.5132)
+[12/11/2022 2:58:37 PM] [Info] James moved x:653.5145 y:431.9509(+141.0457) z:100.3611 in the last second (388.5637)
+[12/11/2022 2:58:38 PM] [Info] Red__Bear moved x:520.8823 y:692.0482(+160.6481) z:206.9105 in the last second (633.9399)
+[12/11/2022 2:58:38 PM] [Info] reaper moved x:716.0726 y:619.1769(+121.4671) z:149.8893 in the last second (576.1128)
+[12/11/2022 2:58:38 PM] [Info] James moved x:805.6487 y:533.894(+101.9431) z:94.45139 in the last second (490.5789)
+[12/11/2022 2:58:39 PM] [Info] Red__Bear moved x:597.7595 y:820.8651(+128.8169) z:235.2655 in the last second (763.217)
+[12/11/2022 2:58:39 PM] [Info] reaper moved x:850.0637 y:720.1592(+100.9823) z:160.3677 in the last second (676.844)
+[12/11/2022 2:58:39 PM] [Info] James moved x:959.5 y:613.7237(+79.82965) z:88.05153 in the last second (564.4394)
+[12/11/2022 2:58:40 PM] [Info] Red__Bear moved x:668.7231 y:911.5199(+90.65479) z:261.4393 in the last second (865.124)
+[12/11/2022 2:58:40 PM] [Info] reaper moved x:959.5009 y:785.1204(+64.96124) z:170.038 in the last second (727.6)
+[12/11/2022 2:58:40 PM] [Info] James moved x:959.5516 y:661.7004(+47.97668) z:81.6765 in the last second (2.144836)
+[12/11/2022 2:58:41 PM] [Info] Red__Bear moved x:745.6004 y:979.1222(+67.60229) z:289.7943 in the last second (931.9102)
+[12/11/2022 2:58:41 PM] [Info] reaper moved x:959.5096 y:824.8853(+39.76489) z:180.5071 in the last second (764.878)
+[12/11/2022 2:58:41 PM] [Info] James moved x:959.5992 y:677.7338(+16.03345) z:75.79185 in the last second (628.6341)
+[12/11/2022 2:58:42 PM] [Info] Red__Bear moved x:822.4777 y:1014.893(+35.77063) z:318.1493 in the last second (961.8448)
+[12/11/2022 2:58:50 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "black um""
+[12/11/2022 2:58:51 PM] [Info] Giving Red__Bear item 1103:1
+[12/11/2022 2:58:51 PM] [Info] reaper [JACK THE RIPPER] fractured to death!
+[12/11/2022 2:59:02 PM] [Info] [Area] reaper [JACK THE RIPPER]: "pg-7v heat"
+[12/11/2022 2:59:11 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i pg-7v heat"
+[12/11/2022 2:59:11 PM] [Info] [Group] Red__Bear [Delta-97]: "/i plate"
+[12/11/2022 2:59:17 PM] [Info] Giving Red__Bear item 19013:1
+[12/11/2022 2:59:17 PM] [Info] [Group] Red__Bear [Delta-97]: "/i locker"
+[12/11/2022 2:59:18 PM] [Info] Giving Red__Bear item 328:1
+[12/11/2022 2:59:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i pg-7v heat"
+[12/11/2022 2:59:21 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 2:59:21 PM] [Info] James teleported to Red__Bear
+[12/11/2022 2:59:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i PG-7V HEAT"
+[12/11/2022 2:59:48 PM] [Info] [World] James [Deoxys XDG]: "/i medkit"
+[12/11/2022 2:59:51 PM] [Info] Giving James item 15:1
+[12/11/2022 2:59:51 PM] [Info] Red__Bear moved x:901.5917 y:180.6812(+111.1151) z:481.971 in the last second (123.6422)
+[12/11/2022 2:59:51 PM] [Info] James moved x:910.9885 y:198.1522(+128.5373) z:472.8276 in the last second (138.2994)
+[12/11/2022 2:59:52 PM] [Info] Red__Bear moved x:876.6335 y:398.1691(+217.4879) z:405.6829 in the last second (334.2834)
+[12/11/2022 2:59:52 PM] [Info] James moved x:907.1857 y:397.0791(+198.927) z:396.8542 in the last second (330.3268)
+[12/11/2022 2:59:53 PM] [Info] Red__Bear moved x:851.6753 y:583.8253(+185.6562) z:329.3948 in the last second (526.7841)
+[12/11/2022 2:59:53 PM] [Info] James moved x:904.0168 y:542.1328(+145.0537) z:333.543 in the last second (476.2787)
+[12/11/2022 2:59:54 PM] [Info] Red__Bear moved x:828.637 y:726.9471(+143.1218) z:258.975 in the last second (680.3798)
+[12/11/2022 2:59:54 PM] [Info] James moved x:898.9465 y:735.041(+192.9082) z:232.2452 in the last second (684.2273)
+[12/11/2022 2:59:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i pg-7v"
+[12/11/2022 2:59:55 PM] [Info] Giving reaper item 38397:1
+[12/11/2022 2:59:55 PM] [Info] Red__Bear moved x:803.6788 y:851.3882(+124.4411) z:182.6869 in the last second (807.6611)
+[12/11/2022 2:59:55 PM] [Info] James moved x:894.8268 y:856.2743(+121.2333) z:149.9407 in the last second (811.9919)
+[12/11/2022 2:59:56 PM] [Info] Red__Bear moved x:778.7206 y:943.9982(+92.60992) z:106.3988 in the last second (900.7981)
+[12/11/2022 2:59:56 PM] [Info] James moved x:891.0241 y:939.9293(+83.65503) z:73.96729 in the last second (896.6141)
+[12/11/2022 2:59:57 PM] [Info] Red__Bear moved x:753.7624 y:1004.776(+60.77808) z:30.11066 in the last second (962.2756)
+[12/11/2022 2:59:57 PM] [Info] James moved x:886.9045 y:999.9481(+60.01874) z:-8.337219 in the last second (955.4849)
+[12/11/2022 2:59:58 PM] [Info] Red__Bear moved x:730.7241 y:1022.629(+17.85278) z:-40.30914 in the last second (980.2714)
+[12/11/2022 2:59:58 PM] [Info] James moved x:882.7849 y:1022.959(+23.01062) z:-90.64172 in the last second (978.513)
+[12/11/2022 3:00:01 PM] [Info] [Group] Red__Bear [Delta-97]: "/weather none"
+[12/11/2022 3:00:09 PM] [Info] Successfully set weather to none!
+[12/11/2022 3:00:09 PM] [Info] [Area] reaper [JACK THE RIPPER]: "baz"
+[12/11/2022 3:00:17 PM] [Info] [Area] reaper [JACK THE RIPPER]: "alt"
+[12/11/2022 3:00:21 PM] [Info] [Area] reaper [JACK THE RIPPER]: "bazalt"
+[12/11/2022 3:00:33 PM] [Info] Red__Bear [Delta-97] suffocated to death!
+[12/11/2022 3:00:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "rpg-7v"
+[12/11/2022 3:00:43 PM] [Info] [World] James [Deoxys XDG]: "/i "oxygen tank""
+[12/11/2022 3:00:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i bazalt rpg-7v2"
+[12/11/2022 3:00:48 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 3:00:48 PM] [Info] James teleported to reaper
+[12/11/2022 3:00:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i rpg"
+[12/11/2022 3:00:56 PM] [Info] Giving reaper item 19358:1
+[12/11/2022 3:00:56 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "m134 belt""
+[12/11/2022 3:01:05 PM] [Info] Giving Red__Bear item 58769:1
+[12/11/2022 3:01:05 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 3:01:05 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 3:01:10 PM] [Info] Red__Bear [Delta-97] was shot in the arm by James [Deoxys XDG]!
+[12/11/2022 3:01:11 PM] [Info] reaper [JACK THE RIPPER] was blown up by reaper [JACK THE RIPPER] with a missile!
+[12/11/2022 3:01:11 PM] [Info] James [Deoxys XDG] was blown up by reaper [JACK THE RIPPER] with a missile!
+[12/11/2022 3:01:19 PM] [Info] Red__Bear [Delta-97] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:01:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:01:42 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:01:42 PM] [Info] Red__Bear moved x:325.2422 y:63.76721(+19.16452) z:118.5703 in the last second (0.1008301)
+[12/11/2022 3:01:44 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:01:44 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:01:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i rpg"
+[12/11/2022 3:02:08 PM] [Info] Giving reaper item 19358:1
+[12/11/2022 3:02:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i rpg-7v2"
+[12/11/2022 3:02:14 PM] [Info] Giving reaper item 38397:1
+[12/11/2022 3:02:14 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 3:02:14 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 3:02:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:02:21 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:02:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:02:41 PM] [Info] reaper teleported to James
+[12/11/2022 3:02:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:02:41 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:02:50 PM] [Info] [World] James [Deoxys XDG]: "/tp waypoint"
+[12/11/2022 3:02:51 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 3:02:51 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 3:02:53 PM] [Info] [Group] Red__Bear [Delta-97]: "/tpall"
+[12/11/2022 3:02:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp re"
+[12/11/2022 3:02:54 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:02:54 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 3:02:54 PM] [Info] James teleported to Red__Bear
+[12/11/2022 3:03:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 67 10"
+[12/11/2022 3:03:08 PM] [Info] Giving reaper item 67:10
+[12/11/2022 3:03:25 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 1440"
+[12/11/2022 3:03:25 PM] [Info] Giving Red__Bear item 1440:1
+[12/11/2022 3:03:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 67 10"
+[12/11/2022 3:03:33 PM] [Info] Giving reaper item 67:10
+[12/11/2022 3:03:35 PM] [Info] [World] James [Deoxys XDG]: "/i 1222"
+[12/11/2022 3:03:43 PM] [Info] Giving James item 1222:1
+[12/11/2022 3:03:43 PM] [Info] [World] James [Deoxys XDG]: "/i carjack"
+[12/11/2022 3:03:47 PM] [Info] Giving James item 277:1
+[12/11/2022 3:03:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 67 10"
+[12/11/2022 3:03:47 PM] [Info] Giving reaper item 67:10
+[12/11/2022 3:03:55 PM] [Info] [World] James [Deoxys XDG]: "/i "industrial gas""
+[12/11/2022 3:04:06 PM] [Info] Giving James item 1440:1
+[12/11/2022 3:04:06 PM] [Info] [Group] reaper [JACK THE RIPPER]: "omg"
+[12/11/2022 3:04:23 PM] [Info] [Group] reaper [JACK THE RIPPER]: "ya'"
+[12/11/2022 3:04:42 PM] [Info] Saving server
+[12/11/2022 3:04:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/11/2022 3:04:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "my car is not good"
+[12/11/2022 3:05:22 PM] [Info] [World] reaper [JACK THE RIPPER]: "/kick me"
+[12/11/2022 3:05:26 PM] [Info] Successfully kicked Deoxys XDG!
+[12/11/2022 3:05:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "sorry"
+[12/11/2022 3:05:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "red can you kick me"
+[12/11/2022 3:05:37 PM] [Info] Connecting: PlayerID: 76561198881259191 Name: Deoxys XDG Character: James
+[12/11/2022 3:05:43 PM] [Info] [World] reaper [JACK THE RIPPER]: "i need to change sittge"
+[12/11/2022 3:05:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "james kick me"
+[12/11/2022 3:05:57 PM] [Info] [Group] Red__Bear [Delta-97]: "/kick reaper"
+[12/11/2022 3:06:00 PM] [Info] Successfully kicked JACK THE RIPPER!
+[12/11/2022 3:06:00 PM] [Info] [World] James [Deoxys XDG]: "/kick reaper"
+[12/11/2022 3:06:00 PM] [Error] Failed to find anyone called reaper.
+[12/11/2022 3:06:21 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/11/2022 3:07:04 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:07:04 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:07:06 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 3:07:06 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 3:07:09 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 3:07:09 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 3:07:35 PM] [Info] [Group] Red__Bear [Delta-97]: "/v t-90"
+[12/11/2022 3:08:04 PM] [Info] Giving Red__Bear vehicle 38344
+[12/11/2022 3:08:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "to james"
+[12/11/2022 3:09:19 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 46551"
+[12/11/2022 3:09:22 PM] [Info] Giving Red__Bear vehicle 46551
+[12/11/2022 3:09:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 46551"
+[12/11/2022 3:09:27 PM] [Info] Giving Red__Bear vehicle 46551
+[12/11/2022 3:09:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "wait i cant fly"
+[12/11/2022 3:09:34 PM] [Info] Red__Bear moved x:-91.68835 y:114.4832(+15.92725) z:345.5913 in the last second (55.94936)
+[12/11/2022 3:09:35 PM] [Info] Red__Bear moved x:-106.4305 y:132.8109(+18.32771) z:363.6957 in the last second (64.40964)
+[12/11/2022 3:09:35 PM] [Info] reaper moved x:-29.35085 y:97.60705(+16.12597) z:318.0376 in the last second (50.2196)
+[12/11/2022 3:09:36 PM] [Info] Red__Bear moved x:-118.1397 y:151.6663(+18.85545) z:381.8182 in the last second (79.99104)
+[12/11/2022 3:09:36 PM] [Info] reaper moved x:-29.14025 y:117.0603(+19.45325) z:323.1767 in the last second (66.75047)
+[12/11/2022 3:09:37 PM] [Info] Red__Bear moved x:-131.5274 y:173.1011(+21.4348) z:402.7125 in the last second (101.7335)
+[12/11/2022 3:09:37 PM] [Info] reaper moved x:-29.02868 y:135.9174(+18.85707) z:328.5579 in the last second (0.1807709)
+[12/11/2022 3:09:38 PM] [Info] Red__Bear moved x:-147.3265 y:194.1199(+21.01875) z:425.2045 in the last second (125.7348)
+[12/11/2022 3:09:38 PM] [Info] reaper moved x:-28.98822 y:152.7924(+16.87502) z:333.5345 in the last second (105.5395)
+[12/11/2022 3:09:39 PM] [Info] reaper moved x:-28.98739 y:172.0635(+19.27109) z:339.0679 in the last second (124.7952)
+[12/11/2022 3:09:40 PM] [Info] reaper moved x:-29.06351 y:191.1564(+19.09297) z:344.4365 in the last second (143.8869)
+[12/11/2022 3:09:41 PM] [Info] reaper moved x:-28.71036 y:211.4903(+20.33388) z:352.45 in the last second (164.1457)
+[12/11/2022 3:09:42 PM] [Info] reaper moved x:-27.5927 y:229.6781(+18.18773) z:362.6408 in the last second (182.1529)
+[12/11/2022 3:09:43 PM] [Info] reaper moved x:-25.84025 y:249.9769(+20.2988) z:375.6701 in the last second (202.2155)
+[12/11/2022 3:09:44 PM] [Info] reaper moved x:-24.54535 y:272.3168(+22.33998) z:388.0396 in the last second (224.5036)
+[12/11/2022 3:09:45 PM] [Info] reaper moved x:-23.5567 y:295.9773(+23.66043) z:399.942 in the last second (248.1826)
+[12/11/2022 3:09:46 PM] [Info] reaper moved x:-22.49041 y:317.2453(+21.26804) z:411.6262 in the last second (269.3178)
+[12/11/2022 3:09:47 PM] [Info] reaper moved x:-21.0251 y:338.6318(+21.38651) z:425.1261 in the last second (289.472)
+[12/11/2022 3:09:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "fuck"
+[12/11/2022 3:09:48 PM] [Info] reaper moved x:-20.98438 y:356.1641(+17.53226) z:431.6094 in the last second (306.0009)
+[12/11/2022 3:09:51 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:09:51 PM] [Info] reaper teleported to James
+[12/11/2022 3:09:53 PM] [Info] reaper [JACK THE RIPPER] fractured to death!
+[12/11/2022 3:10:01 PM] [Info] [World] reaper [JACK THE RIPPER]: "i just die''"
+[12/11/2022 3:10:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:10:06 PM] [Info] reaper teleported to James
+[12/11/2022 3:10:08 PM] [Info] James [Deoxys XDG] was blown up by a vehicle!
+[12/11/2022 3:10:08 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/11/2022 3:10:19 PM] [Info] [World] James [Deoxys XDG]: "/v race"
+[12/11/2022 3:10:31 PM] [Info] Giving James vehicle 77
+[12/11/2022 3:10:31 PM] [Info] Red__Bear moved x:-541.004 y:298.6347(+15.82156) z:284.4113 in the last second (255.6947)
+[12/11/2022 3:10:32 PM] [Info] Red__Bear moved x:-541.9706 y:314.1352(+15.50049) z:314.6988 in the last second (271.3932)
+[12/11/2022 3:10:33 PM] [Info] Red__Bear moved x:-546.5259 y:329.9582(+15.823) z:349.7561 in the last second (287.4056)
+[12/11/2022 3:10:34 PM] [Info] Red__Bear moved x:-541.9641 y:345.5933(+15.6351) z:379.693 in the last second (303.4964)
+[12/11/2022 3:10:35 PM] [Info] Red__Bear moved x:-534.7175 y:361.3897(+15.79639) z:387.2602 in the last second (319.293)
+[12/11/2022 3:10:36 PM] [Info] Red__Bear moved x:-532.6909 y:383.0776(+21.68793) z:387.4227 in the last second (340.9519)
+[12/11/2022 3:10:37 PM] [Info] Red__Bear moved x:-529.5281 y:407.3516(+24.27396) z:388.9524 in the last second (365.2002)
+[12/11/2022 3:10:38 PM] [Info] Red__Bear moved x:-517.8434 y:427.8714(+20.51984) z:399.6128 in the last second (385.4572)
+[12/11/2022 3:10:38 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/11/2022 3:10:39 PM] [Info] Red__Bear moved x:-504.0175 y:445.5884(+17.71698) z:415.4388 in the last second (403.1111)
+[12/11/2022 3:10:40 PM] [Info] Red__Bear moved x:-488.2257 y:467.9918(+22.40335) z:427.2288 in the last second (425.4617)
+[12/11/2022 3:10:41 PM] [Info] Red__Bear moved x:-472.9243 y:490.5946(+22.60287) z:430.0013 in the last second (448.0128)
+[12/11/2022 3:10:42 PM] [Info] Red__Bear moved x:-455.7936 y:516.1094(+25.5148) z:426.4817 in the last second (473.2912)
+[12/11/2022 3:10:43 PM] [Info] Red__Bear moved x:-439.8869 y:539.4725(+23.3631) z:419.2811 in the last second (496.4569)
+[12/11/2022 3:10:44 PM] [Info] Red__Bear moved x:-429.2993 y:554.739(+15.26648) z:413.0301 in the last second (511.4863)
+[12/11/2022 3:10:45 PM] [Info] Red__Bear moved x:-418.695 y:569.7591(+15.02008) z:405.4152 in the last second (526.361)
+[12/11/2022 3:11:01 PM] [Info] Red__Bear moved x:-312.0657 y:183.3931(+15.25346) z:344.7898 in the last second (126.0716)
+[12/11/2022 3:11:02 PM] [Info] Red__Bear moved x:-292.1287 y:201.4544(+18.06134) z:347.1913 in the last second (143.0805)
+[12/11/2022 3:11:03 PM] [Info] Red__Bear moved x:-273.3303 y:218.2615(+16.8071) z:350.5359 in the last second (159.7604)
+[12/11/2022 3:11:15 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "hmg box" 5"
+[12/11/2022 3:11:55 PM] [Info] Giving Red__Bear item 1395:5
+[12/11/2022 3:11:55 PM] [Info] Red__Bear moved x:-574.8629 y:172.7576(+15.76625) z:-138.5795 in the last second (113.9413)
+[12/11/2022 3:11:56 PM] [Info] Red__Bear moved x:-564.9907 y:188.9(+16.14243) z:-124.1707 in the last second (131.1978)
+[12/11/2022 3:11:57 PM] [Info] Red__Bear moved x:-560.5766 y:206.9001(+18.00015) z:-102.0976 in the last second (150.5411)
+[12/11/2022 3:12:14 PM] [Info] Red__Bear moved x:-865.7005 y:226.6519(+17.95178) z:221.9576 in the last second (155.6799)
+[12/11/2022 3:12:15 PM] [Info] Red__Bear moved x:-853.4983 y:248.8241(+22.17221) z:203.1006 in the last second (176.6266)
+[12/11/2022 3:12:16 PM] [Info] Red__Bear moved x:-833.8772 y:271.8075(+22.98344) z:189.7306 in the last second (205.1969)
+[12/11/2022 3:12:17 PM] [Info] Red__Bear moved x:-808.5908 y:293.9497(+22.14218) z:178.4979 in the last second (235.9978)
+[12/11/2022 3:12:18 PM] [Info] Red__Bear moved x:-780.6241 y:312.73(+18.7803) z:169.7534 in the last second (261.8721)
+[12/11/2022 3:12:19 PM] [Info] Red__Bear moved x:-746.1213 y:330.5976(+17.86755) z:161.0971 in the last second (285.4433)
+[12/11/2022 3:12:19 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/11/2022 3:12:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:12:26 PM] [Info] reaper teleported to James
+[12/11/2022 3:12:32 PM] [Info] [World] James [Deoxys XDG]: "/i ".50 BMG M2 AP""
+[12/11/2022 3:12:36 PM] [Info] Giving James item 58358:1
+[12/11/2022 3:12:36 PM] [Info] Red__Bear moved x:-378.0945 y:208.2771(+15.22252) z:302.3469 in the last second (157.0335)
+[12/11/2022 3:12:37 PM] [Info] Red__Bear moved x:-386.3778 y:225.6008(+17.32373) z:283.8524 in the last second (174.6593)
+[12/11/2022 3:12:38 PM] [Info] Red__Bear moved x:-389.7871 y:240.6837(+15.0829) z:258.8864 in the last second (189.5953)
+[12/11/2022 3:12:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "hmg box" 5"
+[12/11/2022 3:13:01 PM] [Info] Giving Red__Bear item 1395:5
+[12/11/2022 3:13:01 PM] [Info] James [Deoxys XDG] was blown up by Red__Bear [Delta-97] with an explosive bullet!
+[12/11/2022 3:13:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38305"
+[12/11/2022 3:13:08 PM] [Info] Giving reaper vehicle 38305
+[12/11/2022 3:13:08 PM] [Info] [World] James [Deoxys XDG]: "a/v race"
+[12/11/2022 3:13:11 PM] [Info] [World] James [Deoxys XDG]: "/v race"
+[12/11/2022 3:13:23 PM] [Info] Giving James vehicle 77
+[12/11/2022 3:13:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38305"
+[12/11/2022 3:13:23 PM] [Info] Giving reaper vehicle 38305
+[12/11/2022 3:13:26 PM] [Info] Red__Bear moved x:-367.0692 y:240.7352(+16.84483) z:154.8318 in the last second (171.7559)
+[12/11/2022 3:13:27 PM] [Info] Red__Bear moved x:-337.4848 y:259.1035(+18.3683) z:155.1104 in the last second (196.0155)
+[12/11/2022 3:13:28 PM] [Info] Red__Bear moved x:-309.1947 y:275.3366(+16.23303) z:148.2986 in the last second (220.8546)
+[12/11/2022 3:13:29 PM] [Info] Red__Bear moved x:-279.0126 y:292.968(+17.63141) z:135.0122 in the last second (243.6819)
+[12/11/2022 3:13:30 PM] [Info] Red__Bear moved x:-251.3081 y:310.9062(+17.9382) z:116.3147 in the last second (262.6159)
+[12/11/2022 3:13:31 PM] [Info] Red__Bear moved x:-225.3814 y:327.4254(+16.5192) z:97.25333 in the last second (275.5445)
+[12/11/2022 3:13:32 PM] [Info] Red__Bear moved x:-195.9173 y:343.9499(+16.52451) z:75.34871 in the last second (278.1093)
+[12/11/2022 3:13:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:13:59 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:13:59 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "hmg box" 5"
+[12/11/2022 3:14:00 PM] [Info] Giving Red__Bear item 1395:5
+[12/11/2022 3:14:00 PM] [Info] James [Deoxys XDG] was blown up by a vehicle!
+[12/11/2022 3:14:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp jam"
+[12/11/2022 3:14:00 PM] [Info] reaper teleported to James
+[12/11/2022 3:14:07 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:14:10 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:14:10 PM] [Info] [Group] Red__Bear [Delta-97]: "/v bradley"
+[12/11/2022 3:14:12 PM] [Info] Giving Red__Bear vehicle 38336
+[12/11/2022 3:14:12 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 3:14:12 PM] [Info] James teleported to reaper
+[12/11/2022 3:14:16 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 3:14:16 PM] [Info] James teleported to reaper
+[12/11/2022 3:14:20 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 3:14:20 PM] [Info] James teleported to Red__Bear
+[12/11/2022 3:14:25 PM] [Info] Red__Bear moved x:53.30997 y:145.5536(+20.57143) z:85.17536 in the last second (93.97942)
+[12/11/2022 3:14:26 PM] [Info] Red__Bear moved x:63.29121 y:167.3137(+21.76009) z:103.7678 in the last second (116.6121)
+[12/11/2022 3:14:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:14:27 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:14:27 PM] [Info] Red__Bear moved x:74.31702 y:191.6412(+24.32745) z:123.7359 in the last second (138.3445)
+[12/11/2022 3:14:28 PM] [Info] Red__Bear moved x:86.39069 y:210.4814(+18.84019) z:146.004 in the last second (153.1265)
+[12/11/2022 3:14:29 PM] [Info] [World] James [Deoxys XDG]: "/tp waypoint"
+[12/11/2022 3:14:35 PM] [Info] [World] James [Deoxys XDG]: "/tp"
+[12/11/2022 3:14:47 PM] [Info] [World] James [Deoxys XDG]: "/teleport waypoint"
+[12/11/2022 3:14:47 PM] [Error] Failed to find anyone or anywhere called waypoint.
+[12/11/2022 3:14:55 PM] [Info] [World] James [Deoxys XDG]: "/teleport waypoint"
+[12/11/2022 3:14:55 PM] [Error] Failed to find anyone or anywhere called waypoint.
+[12/11/2022 3:14:56 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp jam"
+[12/11/2022 3:14:56 PM] [Info] reaper teleported to James
+[12/11/2022 3:15:00 PM] [Info] [World] Red__Bear [Delta-97]: "teleport wp"
+[12/11/2022 3:15:02 PM] [Info] [World] James [Deoxys XDG]: "/tp waypoint"
+[12/11/2022 3:15:13 PM] [Info] [World] James [Deoxys XDG]: "/teleport wp"
+[12/11/2022 3:15:13 PM] [Info] Successfully teleported Deoxys XDG to waypoint!
+[12/11/2022 3:15:14 PM] [Info] James moved x:-324.0322 y:66.84038(+22.23769) z:-56.90449 in the last second (0.1108856)
+[12/11/2022 3:15:21 PM] [Info] [World] James [Deoxys XDG]: "/teleport wp"
+[12/11/2022 3:15:21 PM] [Info] Successfully teleported Deoxys XDG to waypoint!
+[12/11/2022 3:15:32 PM] [Info] [World] James [Deoxys XDG]: "/teleport wp"
+[12/11/2022 3:15:32 PM] [Info] Successfully teleported Deoxys XDG to waypoint!
+[12/11/2022 3:15:40 PM] [Info] Red__Bear moved x:272.0862 y:141.7822(+15.55093) z:685.4496 in the last second (98.7411)
+[12/11/2022 3:15:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp jam"
+[12/11/2022 3:15:41 PM] [Info] reaper teleported to James
+[12/11/2022 3:15:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp jam"
+[12/11/2022 3:15:46 PM] [Info] reaper teleported to James
+[12/11/2022 3:15:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tpa james"
+[12/11/2022 3:15:54 PM] [Info] [World] James [Deoxys XDG]: "/i "smoke munition""
+[12/11/2022 3:15:54 PM] [Info] Giving James item 38384:1
+[12/11/2022 3:15:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tpa red"
+[12/11/2022 3:15:57 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:15:57 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:16:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:16:25 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:16:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:16:29 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:16:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "where are you guys"
+[12/11/2022 3:16:40 PM] [Info] [Area] Red__Bear [Delta-97]: "/v bradley"
+[12/11/2022 3:16:42 PM] [Info] Giving Red__Bear vehicle 38336
+[12/11/2022 3:16:42 PM] [Info] [World] Red__Bear [Delta-97]: "/i "hmg box" 5"
+[12/11/2022 3:16:45 PM] [Info] Giving Red__Bear item 1395:5
+[12/11/2022 3:16:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:16:45 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:16:47 PM] [Info] Red__Bear [Delta-97] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:16:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tel jam"
+[12/11/2022 3:16:53 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:16:53 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:16:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/11/2022 3:16:55 PM] [Info] Successfully teleported JACK THE RIPPER to Deoxys XDG!
+[12/11/2022 3:17:02 PM] [Info] Red__Bear [Delta-97] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:17:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:17:20 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:17:20 PM] [Info] Red__Bear moved x:325.4826 y:63.77807(+18.29644) z:118.8373 in the last second (0.1008224)
+[12/11/2022 3:17:23 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 140"
+[12/11/2022 3:17:24 PM] [Info] Giving Red__Bear vehicle 140
+[12/11/2022 3:17:24 PM] [Info] James [Deoxys XDG] was shot in the arm by reaper [JACK THE RIPPER]!
+[12/11/2022 3:17:32 PM] [Info] [World] James [Deoxys XDG]: "/v jet"
+[12/11/2022 3:17:33 PM] [Info] Giving James vehicle 140
+[12/11/2022 3:17:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "it my now'"
+[12/11/2022 3:17:41 PM] [Info] James moved x:382.3611 y:97.936(+15.87041) z:257.1293 in the last second (42.31881)
+[12/11/2022 3:17:43 PM] [Info] James moved x:375.9198 y:113.2783(+15.34235) z:289.2689 in the last second (57.83486)
+[12/11/2022 3:17:46 PM] [Info] [Group] Red__Bear [Delta-97]: "/i pink"
+[12/11/2022 3:18:07 PM] [Info] Giving Red__Bear item 58323:1
+[12/11/2022 3:18:07 PM] [Info] [World] reaper [JACK THE RIPPER]: "/ 38308"
+[12/11/2022 3:18:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v"
+[12/11/2022 3:18:11 PM] [Info] Red__Bear [Delta-97] was blown up by James [Deoxys XDG] with an explosive bullet!
+[12/11/2022 3:18:13 PM] [Info] Red__Bear moved x:325.2422 y:64.47571(+18.68745) z:118.5703 in the last second (0.8093262)
+[12/11/2022 3:18:16 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 3:18:16 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 3:18:16 PM] [Info] James [Deoxys XDG] was blown up by a vehicle!
+[12/11/2022 3:18:26 PM] [Info] [World] James [Deoxys XDG]: "/v f1"
+[12/11/2022 3:18:34 PM] [Info] Giving James vehicle 46565
+[12/11/2022 3:18:34 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 15x137"
+[12/11/2022 3:18:36 PM] [Info] James moved x:-457.6612 y:88.11485(+17.55211) z:-826.2504 in the last second (36.99335)
+[12/11/2022 3:18:37 PM] [Info] James moved x:-414.7263 y:110.735(+22.62016) z:-843.7324 in the last second (66.21243)
+[12/11/2022 3:18:38 PM] [Info] James moved x:-373.744 y:133.9296(+23.1946) z:-854.243 in the last second (69.84819)
+[12/11/2022 3:18:39 PM] [Info] James moved x:-328.8141 y:157.4845(+23.55486) z:-855.7668 in the last second (83.34714)
+[12/11/2022 3:18:40 PM] [Info] James moved x:-284.8698 y:175.9494(+18.46494) z:-843.863 in the last second (104.4964)
+[12/11/2022 3:18:41 PM] [Info] Red__Bear [Delta-97] was shot in the head by reaper [JACK THE RIPPER]!
+[12/11/2022 3:18:43 PM] [Info] Red__Bear moved x:325.2422 y:64.09901(+17.88302) z:118.5703 in the last second (0.4326248)
+[12/11/2022 3:18:52 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 missle""
+[12/11/2022 3:18:57 PM] [Info] [World] reaper [JACK THE RIPPER]: "fuck am out"
+[12/11/2022 3:19:03 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/11/2022 3:19:05 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 3:19:05 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 3:19:07 PM] [Info] James moved x:-492.2936 y:90.28162(+20.48655) z:15.03282 in the last second (44.90845)
+[12/11/2022 3:19:08 PM] [Info] James moved x:-481.9884 y:113.2669(+22.98523) z:45.99945 in the last second (67.73267)
+[12/11/2022 3:19:09 PM] [Info] James moved x:-470.4753 y:135.7756(+22.50874) z:82.16898 in the last second (89.5002)
+[12/11/2022 3:19:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:19:09 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:19:10 PM] [Info] James moved x:-459.4259 y:154.7319(+18.9563) z:118.5023 in the last second (101.2451)
+[12/11/2022 3:19:11 PM] [Info] James moved x:-447.3345 y:172.865(+18.13315) z:159.0577 in the last second (114.7797)
+[12/11/2022 3:19:14 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:19:16 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:19:16 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:19:16 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:19:18 PM] [Info] [Group] Red__Bear [Delta-97]: "/jump"
+[12/11/2022 3:19:26 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:19:32 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:19:32 PM] [Info] James [Deoxys XDG] was shot in the head by reaper [JACK THE RIPPER]!
+[12/11/2022 3:19:38 PM] [Info] [World] James [Deoxys XDG]: "/v f1"
+[12/11/2022 3:19:44 PM] [Info] Giving James vehicle 46565
+[12/11/2022 3:19:44 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:19:44 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:19:51 PM] [Info] Red__Bear moved x:-502.3946 y:121.4021(+15.3562) z:-33.79166 in the last second (76.09621)
+[12/11/2022 3:19:52 PM] [Info] James moved x:-3.476843 y:92.31549(+18.48772) z:-103.1792 in the last second (45.18292)
+[12/11/2022 3:19:53 PM] [Info] James moved x:-49.51344 y:115.5582(+23.24268) z:-122.6761 in the last second (67.55524)
+[12/11/2022 3:19:54 PM] [Info] James moved x:-92.9356 y:134.2053(+18.64713) z:-139.8071 in the last second (86.13988)
+[12/11/2022 3:19:55 PM] [Info] Red__Bear moved x:-424.83 y:169.027(+15.19133) z:66.82634 in the last second (112.2765)
+[12/11/2022 3:19:56 PM] [Info] Red__Bear moved x:-405.0027 y:186.3625(+17.33548) z:86.97474 in the last second (120.3661)
+[12/11/2022 3:19:57 PM] [Info] Red__Bear moved x:-384.7683 y:208.6532(+22.2907) z:96.51829 in the last second (140.6107)
+[12/11/2022 3:19:58 PM] [Info] Red__Bear moved x:-372.0628 y:232.0445(+23.39128) z:91.70913 in the last second (166.9608)
+[12/11/2022 3:19:59 PM] [Info] Red__Bear moved x:-371.6448 y:251.8295(+19.78502) z:78.04966 in the last second (189.9855)
+[12/11/2022 3:20:00 PM] [Info] Red__Bear moved x:-379.8566 y:272.5726(+20.74312) z:58.84128 in the last second (212.7264)
+[12/11/2022 3:20:01 PM] [Info] Red__Bear moved x:-387.5779 y:291.861(+19.28836) z:36.44841 in the last second (231.5394)
+[12/11/2022 3:20:01 PM] [Info] James moved x:-367.5984 y:201.9205(+19.54655) z:-29.72562 in the last second (135.7111)
+[12/11/2022 3:20:02 PM] [Info] Red__Bear moved x:-394.506 y:308.4091(+16.5481) z:4.825513 in the last second (247.7556)
+[12/11/2022 3:20:02 PM] [Info] James moved x:-384.1239 y:232.3596(+30.4391) z:7.322092 in the last second (2.287018)
+[12/11/2022 3:20:03 PM] [Info] James moved x:-395.3244 y:266.5278(+34.16827) z:30.39364 in the last second (3.713013)
+[12/11/2022 3:20:04 PM] [Info] James moved x:-406.711 y:305.1401(+38.61227) z:37.78053 in the last second (246.6206)
+[12/11/2022 3:20:05 PM] [Info] James moved x:-419.0632 y:334.5893(+29.44916) z:27.38228 in the last second (0.2862854)
+[12/11/2022 3:20:06 PM] [Info] James moved x:-432.8341 y:351.8157(+17.22644) z:0.3982315 in the last second (300.4467)
+[12/11/2022 3:20:12 PM] [Info] Red__Bear moved x:-633.015 y:262.2239(+15.3625) z:-158.2992 in the last second (199.6895)
+[12/11/2022 3:20:13 PM] [Info] Red__Bear moved x:-651.6374 y:278.8626(+16.63867) z:-170.6315 in the last second (220.2643)
+[12/11/2022 3:20:14 PM] [Info] Red__Bear moved x:-666.4636 y:296.0541(+17.19153) z:-179.1704 in the last second (241.4547)
+[12/11/2022 3:20:15 PM] [Info] Red__Bear moved x:-679.9476 y:315.2776(+19.22345) z:-184.6663 in the last second (263.8807)
+[12/11/2022 3:20:15 PM] [Info] James moved x:-716.1473 y:267.7015(+23.56087) z:-191.7292 in the last second (220.8635)
+[12/11/2022 3:20:16 PM] [Info] Red__Bear moved x:-691.1143 y:333.9252(+18.64767) z:-186.756 in the last second (284.324)
+[12/11/2022 3:20:16 PM] [Info] James moved x:-733.0383 y:294.3779(+26.67642) z:-204.0642 in the last second (4.095673)
+[12/11/2022 3:20:17 PM] [Info] Red__Bear moved x:-700.4348 y:351.2527(+17.32751) z:-186.2925 in the last second (302.6464)
+[12/11/2022 3:20:17 PM] [Info] James moved x:-733.8431 y:322.8495(+28.47159) z:-211.1197 in the last second (278.2444)
+[12/11/2022 3:20:18 PM] [Info] James moved x:-720.1837 y:346.3229(+23.47336) z:-207.9237 in the last second (301.1312)
+[12/11/2022 3:20:19 PM] [Info] James moved x:-701.6632 y:366.1813(+19.85843) z:-194.7818 in the last second (318.7636)
+[12/11/2022 3:20:20 PM] [Info] James moved x:-687.8593 y:383.3692(+17.1879) z:-176.1371 in the last second (4.736115)
+[12/11/2022 3:20:21 PM] [Info] James moved x:-683.2095 y:401.0161(+17.64685) z:-154.3119 in the last second (344.2715)
+[12/11/2022 3:20:24 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "hmg box" 5"
+[12/11/2022 3:20:26 PM] [Info] Giving Red__Bear item 1395:5
+[12/11/2022 3:20:26 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:20:35 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:20:35 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:20:35 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:20:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:20:35 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:20:42 PM] [Info] James [Deoxys XDG] was blown up by a vehicle!
+[12/11/2022 3:20:50 PM] [Info] [World] James [Deoxys XDG]: "/v f1"
+[12/11/2022 3:20:51 PM] [Info] Giving James vehicle 46565
+[12/11/2022 3:20:51 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:20:52 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:20:52 PM] [Info] Red__Bear moved x:-806.0719 y:102.2142(+15.64764) z:-299.8807 in the last second (56.61057)
+[12/11/2022 3:20:52 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:20:53 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:20:53 PM] [Info] Red__Bear moved x:-794.9415 y:118.1472(+15.93304) z:-285.0137 in the last second (1.544586)
+[12/11/2022 3:20:55 PM] [Info] Red__Bear moved x:-803.345 y:147.8208(+15.50807) z:-249.5189 in the last second (102.1374)
+[12/11/2022 3:20:56 PM] [Info] Red__Bear moved x:-807.5563 y:166.7373(+18.91655) z:-232.0137 in the last second (121.2549)
+[12/11/2022 3:20:57 PM] [Info] Red__Bear moved x:-804.2535 y:184.0646(+17.3273) z:-214.5086 in the last second (138.8431)
+[12/11/2022 3:20:58 PM] [Info] Red__Bear moved x:-791.4344 y:201.4578(+17.39314) z:-195.5576 in the last second (156.0592)
+[12/11/2022 3:21:00 PM] [Info] James moved x:-464.8167 y:78.97293(+15.41518) z:-606.2156 in the last second (26.31424)
+[12/11/2022 3:21:01 PM] [Info] James moved x:-438.7932 y:98.7919(+19.81897) z:-570.684 in the last second (36.81754)
+[12/11/2022 3:21:02 PM] [Info] James moved x:-416.908 y:119.1004(+20.30849) z:-536.2198 in the last second (71.62847)
+[12/11/2022 3:21:03 PM] [Info] James moved x:-397.564 y:141.2982(+22.19779) z:-494.2321 in the last second (98.035)
+[12/11/2022 3:21:04 PM] [Info] James moved x:-386.1581 y:159.7453(+18.44708) z:-450.7317 in the last second (115.9529)
+[12/11/2022 3:21:05 PM] [Info] James moved x:-381.9701 y:176.4324(+16.68709) z:-399.7921 in the last second (131.1395)
+[12/11/2022 3:21:09 PM] [Info] Red__Bear moved x:-498.4974 y:279.8836(+15.3447) z:-108.5053 in the last second (226.4796)
+[12/11/2022 3:21:10 PM] [Info] Red__Bear moved x:-497.0266 y:301.0521(+21.16849) z:-125.6202 in the last second (245.2825)
+[12/11/2022 3:21:10 PM] [Info] James moved x:-441.8365 y:234.3701(+16.04584) z:-149.3437 in the last second (187.7937)
+[12/11/2022 3:21:11 PM] [Info] Red__Bear moved x:-484.3282 y:320.9183(+19.86624) z:-141.5771 in the last second (267.0277)
+[12/11/2022 3:21:11 PM] [Info] James moved x:-464.9389 y:258.9011(+24.53098) z:-115.5287 in the last second (3.954681)
+[12/11/2022 3:21:12 PM] [Info] James moved x:-482.2423 y:283.5212(+24.62012) z:-103.3156 in the last second (229.5442)
+[12/11/2022 3:21:13 PM] [Info] James moved x:-489.0435 y:305.2348(+21.71356) z:-109.2144 in the last second (250.167)
+[12/11/2022 3:21:14 PM] [Info] James moved x:-482.0284 y:320.3044(+15.06958) z:-121.0094 in the last second (263.7375)
+[12/11/2022 3:21:15 PM] [Info] James moved x:-467.6409 y:335.3279(+15.02356) z:-128.866 in the last second (4.752899)
+[12/11/2022 3:21:24 PM] [Info] James [Deoxys XDG] was shot in the head by Red__Bear [Delta-97]!
+[12/11/2022 3:21:34 PM] [Info] [World] James [Deoxys XDG]: "/v jet"
+[12/11/2022 3:21:42 PM] [Info] Giving James vehicle 140
+[12/11/2022 3:21:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/god"
+[12/11/2022 3:21:42 PM] [Info] reaper enabled Godmode
+[12/11/2022 3:21:45 PM] [Info] James moved x:-508.0816 y:92.87766(+16.04769) z:-559.8182 in the last second (28.33469)
+[12/11/2022 3:21:46 PM] [Info] James moved x:-523.3215 y:109.6712(+16.79358) z:-531.4103 in the last second (54.71933)
+[12/11/2022 3:21:47 PM] [Info] James moved x:-541.3894 y:125.2271(+15.55591) z:-497.7032 in the last second (81.17075)
+[12/11/2022 3:22:10 PM] [Info] [World] James [Deoxys XDG]: "/i "hmg"
+[12/11/2022 3:22:11 PM] [Info] Giving James item 1394:1
+[12/11/2022 3:22:11 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:22:11 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:22:18 PM] [Info] [World] James [Deoxys XDG]: "/i "hmg box""
+[12/11/2022 3:22:20 PM] [Info] Giving James item 1395:1
+[12/11/2022 3:22:20 PM] [Info] James moved x:-299.5302 y:245.6904(+15.26465) z:393.7496 in the last second (193.6822)
+[12/11/2022 3:22:29 PM] [Info] [Group] Red__Bear [Delta-97]: "/v armed"
+[12/11/2022 3:22:38 PM] [Info] Giving Red__Bear vehicle 46552
+[12/11/2022 3:22:38 PM] [Info] Red__Bear moved x:-717.4042 y:108.2252(+15.18755) z:38.13714 in the last second (49.02796)
+[12/11/2022 3:22:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "come out come out james"
+[12/11/2022 3:22:39 PM] [Info] Red__Bear moved x:-720.9708 y:125.705(+17.4798) z:42.27111 in the last second (66.64461)
+[12/11/2022 3:22:40 PM] [Info] Red__Bear moved x:-723.2712 y:141.8268(+16.12177) z:48.01691 in the last second (83.06929)
+[12/11/2022 3:22:41 PM] [Info] Red__Bear moved x:-714.1794 y:160.5922(+18.7654) z:55.01774 in the last second (104.3059)
+[12/11/2022 3:22:47 PM] [Info] James [Deoxys XDG] was shot in the head by reaper [JACK THE RIPPER]!
+[12/11/2022 3:22:51 PM] [Info] Red__Bear moved x:-660.926 y:186.4363(+15.1967) z:85.93233 in the last second (138.5106)
+[12/11/2022 3:22:57 PM] [Info] [World] James [Deoxys XDG]: "/v f1"
+[12/11/2022 3:23:01 PM] [Info] Giving James vehicle 46565
+[12/11/2022 3:23:01 PM] [Info] [World] James [Deoxys XDG]: "/v f1"
+[12/11/2022 3:23:01 PM] [Info] Giving James vehicle 46565
+[12/11/2022 3:23:06 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:23:09 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:23:09 PM] [Info] Red__Bear moved x:-838.5996 y:106.1201(+16.82172) z:-491.4178 in the last second (47.7778)
+[12/11/2022 3:23:10 PM] [Info] Red__Bear moved x:-854.0789 y:126.0435(+19.92342) z:-513.2386 in the last second (60.65472)
+[12/11/2022 3:23:10 PM] [Info] James [Deoxys XDG] was blown up by a vehicle!
+[12/11/2022 3:23:30 PM] [Info] [Group] Red__Bear [Delta-97]: "/day"
+[12/11/2022 3:23:30 PM] [Info] Successfully set time to day!
+[12/11/2022 3:23:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:23:45 PM] [Info] reaper teleported to James
+[12/11/2022 3:23:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:23:54 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:23:54 PM] [Info] [World] James [Deoxys XDG]: "/i "hmg"
+[12/11/2022 3:24:12 PM] [Info] Giving James item 1394:1
+[12/11/2022 3:24:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:24:12 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:24:16 PM] [Info] James [Deoxys XDG] was blown up by reaper [JACK THE RIPPER] with an explosive bullet!
+[12/11/2022 3:24:18 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 46567"
+[12/11/2022 3:24:18 PM] [Info] Giving Red__Bear item 46567:1
+[12/11/2022 3:24:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "oh"
+[12/11/2022 3:24:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "it was red"
+[12/11/2022 3:24:33 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 46567  10"
+[12/11/2022 3:24:33 PM] [Info] Giving Red__Bear item 46567:10
+[12/11/2022 3:24:39 PM] [Info] [World] James [Deoxys XDG]: "/i "hmg"
+[12/11/2022 3:24:40 PM] [Info] Giving James item 1394:1
+[12/11/2022 3:24:40 PM] [Info] [Group] Red__Bear [Delta-97]: "/v "armed russian""
+[12/11/2022 3:24:44 PM] [Info] [Group] Red__Bear [Delta-97]: "/v "armed rus""
+[12/11/2022 3:24:57 PM] [Info] [Area] Red__Bear [Delta-97]: "/v "ed russian""
+[12/11/2022 3:25:00 PM] [Info] James [Deoxys XDG] was blown up by James [Deoxys XDG] with an explosive bullet!
+[12/11/2022 3:25:01 PM] [Info] [Group] Red__Bear [Delta-97]: "/v armed"
+[12/11/2022 3:25:05 PM] [Info] Giving Red__Bear vehicle 46552
+[12/11/2022 3:25:05 PM] [Info] [World] reaper [JACK THE RIPPER]: "/ungod"
+[12/11/2022 3:25:08 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 3:25:08 PM] [Info] James teleported to Red__Bear
+[12/11/2022 3:25:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "how do ungod"
+[12/11/2022 3:25:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "/god"
+[12/11/2022 3:25:16 PM] [Info] reaper disabled Godmode
+[12/11/2022 3:25:16 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 3:25:16 PM] [Info] James teleported to reaper
+[12/11/2022 3:25:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "oh now am not god"
+[12/11/2022 3:25:23 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:25:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:25:28 PM] [Info] reaper teleported to James
+[12/11/2022 3:25:31 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:25:35 PM] [Info] [World] James [Deoxys XDG]: "/hral"
+[12/11/2022 3:25:42 PM] [Info] [World] James [Deoxys XDG]: "/buy medkit"
+[12/11/2022 3:25:45 PM] [Info] [World] James [Deoxys XDG]: "/i medkit"
+[12/11/2022 3:25:57 PM] [Info] Giving James item 15:1
+[12/11/2022 3:25:57 PM] [Info] [World] James [Deoxys XDG]: "/heal"
+[12/11/2022 3:25:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:25:59 PM] [Info] reaper teleported to James
+[12/11/2022 3:26:07 PM] [Info] Red__Bear [Delta-97] was blown up by James [Deoxys XDG] with an explosive bullet!
+[12/11/2022 3:26:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i rpg"
+[12/11/2022 3:26:11 PM] [Info] Giving reaper item 19358:1
+[12/11/2022 3:26:11 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:26:11 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:26:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i heal"
+[12/11/2022 3:26:16 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i heal"
+[12/11/2022 3:26:16 PM] [Info] [World] James [Deoxys XDG]: "/i "hmg"
+[12/11/2022 3:26:17 PM] [Info] Giving James item 1394:1
+[12/11/2022 3:26:17 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "ak mista""
+[12/11/2022 3:26:19 PM] [Info] Giving Red__Bear item 58764:1
+[12/11/2022 3:26:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/11/2022 3:26:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "can i see"
+[12/11/2022 3:26:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i sp-6"
+[12/11/2022 3:26:40 PM] [Info] Giving reaper item 58356:1
+[12/11/2022 3:26:40 PM] [Info] [World] James [Deoxys XDG]: "/i pink"
+[12/11/2022 3:27:07 PM] [Info] Giving James item 58323:1
+[12/11/2022 3:27:07 PM] [Info] [World] James [Deoxys XDG]: "/i pink"
+[12/11/2022 3:27:25 PM] [Info] Giving James item 58323:1
+[12/11/2022 3:27:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i pinkval"
+[12/11/2022 3:27:36 PM] [Info] Giving reaper item 58323:1
+[12/11/2022 3:27:36 PM] [Info] [Group] Red__Bear [Delta-97]: "/i guita"
+[12/11/2022 3:27:45 PM] [Info] Giving Red__Bear item 48102:1
+[12/11/2022 3:27:45 PM] [Info] [World] James [Deoxys XDG]: "/i guitar"
+[12/11/2022 3:28:06 PM] [Info] Giving James item 48102:1
+[12/11/2022 3:28:06 PM] [Info] [Group] Red__Bear [Delta-97]: "/i mpson"
+[12/11/2022 3:28:11 PM] [Info] Giving Red__Bear item 59259:1
+[12/11/2022 3:28:11 PM] [Info] [Group] Red__Bear [Delta-97]: "/i guita"
+[12/11/2022 3:28:12 PM] [Info] Giving Red__Bear item 48102:1
+[12/11/2022 3:28:12 PM] [Info] reaper [JACK THE RIPPER] killed themself.
+[12/11/2022 3:28:17 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp jam"
+[12/11/2022 3:28:17 PM] [Info] reaper teleported to James
+[12/11/2022 3:28:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:28:29 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:28:30 PM] [Info] reaper [JACK THE RIPPER] was shot in the torso by James [Deoxys XDG]!
+[12/11/2022 3:28:33 PM] [Info] James [Deoxys XDG] was shot in the arm by Red__Bear [Delta-97]!
+[12/11/2022 3:28:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "mpson dru" 2"
+[12/11/2022 3:28:41 PM] [Info] Giving Red__Bear item 59264:2
+[12/11/2022 3:28:41 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 3:28:41 PM] [Info] James teleported to Red__Bear
+[12/11/2022 3:28:46 PM] [Info] reaper moved x:325.2422 y:63.76721(+15.42996) z:118.5703 in the last second (0.1008301)
+[12/11/2022 3:28:48 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:28:48 PM] [Info] reaper teleported to James
+[12/11/2022 3:29:08 PM] [Info] James [Deoxys XDG] was shot in the arm by reaper [JACK THE RIPPER]!
+[12/11/2022 3:29:25 PM] [Info] [World] James [Deoxys XDG]: "/v f16"
+[12/11/2022 3:29:34 PM] [Info] Giving James vehicle 46565
+[12/11/2022 3:29:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "am not in it"
+[12/11/2022 3:29:37 PM] [Info] James moved x:-701.4677 y:72.34804(+16.47461) z:435.605 in the last second (33.34572)
+[12/11/2022 3:29:38 PM] [Info] James moved x:-678.0391 y:95.90168(+23.55364) z:392.1418 in the last second (56.0583)
+[12/11/2022 3:29:39 PM] [Info] James moved x:-652.7172 y:121.7562(+25.85455) z:349.2149 in the last second (81.14002)
+[12/11/2022 3:29:40 PM] [Info] James moved x:-628.0916 y:145.1919(+23.43569) z:310.681 in the last second (103.8172)
+[12/11/2022 3:29:41 PM] [Info] James moved x:-600.7698 y:168.8685(+23.67657) z:270.6274 in the last second (105.5849)
+[12/11/2022 3:29:42 PM] [Info] James moved x:-573.4548 y:190.2523(+21.38385) z:232.6047 in the last second (147.335)
+[12/11/2022 3:29:43 PM] [Info] James moved x:-548.6989 y:207.8101(+17.55779) z:199.3968 in the last second (164.1933)
+[12/11/2022 3:29:44 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:29:44 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:29:44 PM] [Info] James moved x:-522.7153 y:224.4681(+16.65794) z:165.4719 in the last second (180.0933)
+[12/11/2022 3:29:55 PM] [Info] [World] James [Deoxys XDG]: "/i f16"
+[12/11/2022 3:30:04 PM] [Info] Giving James item 46564:1
+[12/11/2022 3:30:04 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:30:36 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:30:36 PM] [Info] James [Deoxys XDG] was shot in the head by Red__Bear [Delta-97]!
+[12/11/2022 3:30:37 PM] [Info] James moved x:189.8281 y:48.01192(+34.61735) z:122.1953 in the last second (0.1000519)
+[12/11/2022 3:30:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i carjack"
+[12/11/2022 3:30:44 PM] [Info] Giving reaper item 277:1
+[12/11/2022 3:30:44 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 3:30:44 PM] [Info] James teleported to Red__Bear
+[12/11/2022 3:30:48 PM] [Info] Red__Bear [Delta-97] suffocated to death!
+[12/11/2022 3:30:54 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 3:30:54 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 3:30:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:30:55 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:30:55 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 3:30:55 PM] [Info] James teleported to reaper
+[12/11/2022 3:30:57 PM] [Info] [Group] Red__Bear [Delta-97]: "/i flash 5"
+[12/11/2022 3:31:19 PM] [Info] Giving Red__Bear item 1346:5
+[12/11/2022 3:31:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/11/2022 3:31:19 PM] [Info] Giving reaper vehicle 38308
+[12/11/2022 3:31:24 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:31:33 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:31:33 PM] [Info] [World] James [Deoxys XDG]: "/i "f16 miss""
+[12/11/2022 3:31:37 PM] [Info] Giving James item 46565:1
+[12/11/2022 3:31:37 PM] [Info] James [Deoxys XDG] was shot in the leg by reaper [JACK THE RIPPER]!
+[12/11/2022 3:31:42 PM] [Info] [World] James [Deoxys XDG]: "/i gustov"
+[12/11/2022 3:31:45 PM] [Info] [World] James [Deoxys XDG]: "/i gust"
+[12/11/2022 3:31:55 PM] [Info] Giving James item 58872:1
+[12/11/2022 3:31:55 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 3:31:55 PM] [Info] James teleported to Red__Bear
+[12/11/2022 3:32:11 PM] [Info] Red__Bear [Delta-97] was shot in the arm by James [Deoxys XDG]!
+[12/11/2022 3:32:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:32:21 PM] [Info] reaper teleported to James
+[12/11/2022 3:32:23 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:32:23 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:32:26 PM] [Info] reaper [JACK THE RIPPER] was shot in the torso by James [Deoxys XDG]!
+[12/11/2022 3:32:31 PM] [Info] [World] James [Deoxys XDG]: "/heal"
+[12/11/2022 3:32:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i .50"
+[12/11/2022 3:32:53 PM] [Info] Giving reaper item 38302:1
+[12/11/2022 3:32:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i belt"
+[12/11/2022 3:32:58 PM] [Info] Giving reaper item 19542:1
+[12/11/2022 3:32:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:32:58 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:33:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp jam"
+[12/11/2022 3:33:28 PM] [Info] reaper teleported to James
+[12/11/2022 3:33:29 PM] [Info] reaper moved x:811.8203 y:45.1776(+17.22396) z:-552.1016 in the last second (0.1000061)
+[12/11/2022 3:33:37 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/11/2022 3:33:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "what id for that"
+[12/11/2022 3:33:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "??"
+[12/11/2022 3:33:43 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/11/2022 3:33:47 PM] [Info] Red__Bear [Delta-97] was shot in the arm by James [Deoxys XDG]!
+[12/11/2022 3:33:52 PM] [Info] [World] James [Deoxys XDG]: "/heal"
+[12/11/2022 3:33:55 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 3:33:55 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 3:33:59 PM] [Info] [Group] Red__Bear [Delta-97]: "/i ace"
+[12/11/2022 3:33:59 PM] [Info] Giving Red__Bear item 107:1
+[12/11/2022 3:33:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i mingun"
+[12/11/2022 3:34:23 PM] [Info] James [Deoxys XDG] was chopped in the leg by Red__Bear [Delta-97]!
+[12/11/2022 3:34:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i minigun"
+[12/11/2022 3:34:41 PM] [Info] Giving reaper item 58768:1
+[12/11/2022 3:34:41 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 3:34:41 PM] [Info] James teleported to reaper
+[12/11/2022 3:34:42 PM] [Info] Saving server
+[12/11/2022 3:34:47 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 3:34:47 PM] [Info] James teleported to reaper
+[12/11/2022 3:34:49 PM] [Info] [World] James [Deoxys XDG]: "/tp reap"
+[12/11/2022 3:34:49 PM] [Info] James teleported to reaper
+[12/11/2022 3:34:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:34:54 PM] [Info] reaper teleported to James
+[12/11/2022 3:35:12 PM] [Info] [Group] Red__Bear [Delta-97]: ".v marrel"
+[12/11/2022 3:35:15 PM] [Info] [Group] Red__Bear [Delta-97]: "/v marrel"
+[12/11/2022 3:35:28 PM] [Info] reaper [JACK THE RIPPER] was chopped in the head by Red__Bear [Delta-97]!
+[12/11/2022 3:35:30 PM] [Info] reaper moved x:189.8281 y:48.73352(+19.89785) z:122.1953 in the last second (0.8216591)
+[12/11/2022 3:35:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "/ marrel"
+[12/11/2022 3:35:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i marrel"
+[12/11/2022 3:35:40 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 46568"
+[12/11/2022 3:35:43 PM] [Info] Giving Red__Bear vehicle 46568
+[12/11/2022 3:35:43 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v marrel"
+[12/11/2022 3:35:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:35:46 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:35:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:35:49 PM] [Info] reaper teleported to James
+[12/11/2022 3:35:49 PM] [Info] [World] James [Deoxys XDG]: "/i ".50 BMG M2 AP 10rnd""
+[12/11/2022 3:36:02 PM] [Info] Giving James item 58224:1
+[12/11/2022 3:36:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v marrel"
+[12/11/2022 3:36:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v marrel"
+[12/11/2022 3:36:19 PM] [Info] [Group] Red__Bear [Delta-97]: "/i floor"
+[12/11/2022 3:36:32 PM] [Info] Giving Red__Bear item 52:1
+[12/11/2022 3:36:32 PM] [Info] [World] James [Deoxys XDG]: "/i ".50 BMG M2 AP""
+[12/11/2022 3:36:46 PM] [Info] Giving James item 58358:1
+[12/11/2022 3:36:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 46568"
+[12/11/2022 3:36:47 PM] [Info] Giving reaper vehicle 46568
+[12/11/2022 3:36:47 PM] [Info] [Group] Red__Bear [Delta-97]: "/i ramp"
+[12/11/2022 3:36:50 PM] [Info] Giving Red__Bear item 324:1
+[12/11/2022 3:36:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 46568"
+[12/11/2022 3:36:50 PM] [Info] Giving reaper vehicle 46568
+[12/11/2022 3:37:00 PM] [Info] [Group] Red__Bear [Delta-97]: "/i barret"
+[12/11/2022 3:37:10 PM] [Info] Giving Red__Bear item 58226:1
+[12/11/2022 3:37:10 PM] [Info] Red__Bear [Delta-97] was shot in the torso by James [Deoxys XDG]!
+[12/11/2022 3:37:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 46572"
+[12/11/2022 3:37:19 PM] [Info] Giving reaper vehicle 46572
+[12/11/2022 3:37:19 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport w"
+[12/11/2022 3:37:19 PM] [Error] Failed to find anyone or anywhere called w.
+[12/11/2022 3:37:21 PM] [Info] [Area] Red__Bear [Delta-97]: "/teleport wp"
+[12/11/2022 3:37:21 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/11/2022 3:37:35 PM] [Info] [Group] Red__Bear [Delta-97]: "/i hmg"
+[12/11/2022 3:37:39 PM] [Info] Giving Red__Bear item 1394:1
+[12/11/2022 3:37:39 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/11/2022 3:37:51 PM] [Info] reaper [JACK THE RIPPER] was shot in the torso by James [Deoxys XDG]!
+[12/11/2022 3:37:56 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:37:56 PM] [Info] reaper teleported to James
+[12/11/2022 3:38:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:38:02 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:38:26 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/11/2022 3:38:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:38:30 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:38:34 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 46571"
+[12/11/2022 3:38:36 PM] [Info] Giving Red__Bear vehicle 46571
+[12/11/2022 3:38:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 46572"
+[12/11/2022 3:38:36 PM] [Info] Giving reaper vehicle 46572
+[12/11/2022 3:38:56 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:38:58 PM] [Info] Red__Bear [Delta-97] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:38:59 PM] [Info] reaper moved x:325.2422 y:63.76721(+28.65784) z:118.5703 in the last second (0.1008301)
+[12/11/2022 3:39:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp james"
+[12/11/2022 3:39:00 PM] [Info] reaper teleported to James
+[12/11/2022 3:39:01 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 46571"
+[12/11/2022 3:39:03 PM] [Info] Giving Red__Bear vehicle 46571
+[12/11/2022 3:39:03 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:39:03 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:39:05 PM] [Info] James [Deoxys XDG] was shot in the arm by reaper [JACK THE RIPPER]!
+[12/11/2022 3:39:09 PM] [Info] [World] James [Deoxys XDG]: "xD"
+[12/11/2022 3:39:16 PM] [Info] [Group] Red__Bear [Delta-97]: "/i pento"
+[12/11/2022 3:39:20 PM] [Info] Giving Red__Bear item 34921:1
+[12/11/2022 3:39:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "james is a god with  snipers"
+[12/11/2022 3:39:23 PM] [Info] [World] James [Deoxys XDG]: "xD"
+[12/11/2022 3:39:34 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34900"
+[12/11/2022 3:39:35 PM] [Info] Giving Red__Bear item 34900:1
+[12/11/2022 3:39:35 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34901"
+[12/11/2022 3:39:35 PM] [Info] Giving Red__Bear item 34901:1
+[12/11/2022 3:39:37 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34902"
+[12/11/2022 3:39:37 PM] [Info] Giving Red__Bear item 34902:1
+[12/11/2022 3:39:37 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 3:39:37 PM] [Info] James teleported to Red__Bear
+[12/11/2022 3:39:39 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34903"
+[12/11/2022 3:39:39 PM] [Info] Giving Red__Bear item 34903:1
+[12/11/2022 3:39:40 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34904"
+[12/11/2022 3:39:40 PM] [Info] Giving Red__Bear item 34904:1
+[12/11/2022 3:39:42 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34905"
+[12/11/2022 3:39:42 PM] [Info] Giving Red__Bear item 34905:1
+[12/11/2022 3:39:45 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34906"
+[12/11/2022 3:39:45 PM] [Info] Giving Red__Bear item 34906:1
+[12/11/2022 3:39:51 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34907"
+[12/11/2022 3:39:51 PM] [Info] Giving Red__Bear item 34907:1
+[12/11/2022 3:39:53 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34908"
+[12/11/2022 3:39:53 PM] [Info] Giving Red__Bear item 34908:1
+[12/11/2022 3:39:55 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34909"
+[12/11/2022 3:39:55 PM] [Info] Giving Red__Bear item 34909:1
+[12/11/2022 3:39:57 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34910"
+[12/11/2022 3:39:57 PM] [Info] Giving Red__Bear item 34910:1
+[12/11/2022 3:40:07 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:40:09 PM] [Info] [World] James [Deoxys XDG]: "No"
+[12/11/2022 3:40:10 PM] [Info] James [Deoxys XDG] was shot in the head by Red__Bear [Delta-97]!
+[12/11/2022 3:40:11 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:40:11 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:40:18 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34911"
+[12/11/2022 3:40:18 PM] [Info] Giving Red__Bear item 34911:1
+[12/11/2022 3:40:18 PM] [Info] [World] James [Deoxys XDG]: "Also took 3 headshots"
+[12/11/2022 3:40:20 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34912"
+[12/11/2022 3:40:20 PM] [Info] Giving Red__Bear item 34912:1
+[12/11/2022 3:40:21 PM] [Info] [World] James [Deoxys XDG]: "/tp red"
+[12/11/2022 3:40:21 PM] [Info] James teleported to Red__Bear
+[12/11/2022 3:40:22 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34913"
+[12/11/2022 3:40:22 PM] [Info] Giving Red__Bear item 34913:1
+[12/11/2022 3:40:24 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34914"
+[12/11/2022 3:40:24 PM] [Info] Giving Red__Bear item 34914:1
+[12/11/2022 3:40:25 PM] [Info] [World] James [Deoxys XDG]: "wtf"
+[12/11/2022 3:40:27 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34915"
+[12/11/2022 3:40:27 PM] [Info] Giving Red__Bear item 34915:1
+[12/11/2022 3:40:29 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34916"
+[12/11/2022 3:40:29 PM] [Info] Giving Red__Bear item 34916:1
+[12/11/2022 3:40:37 PM] [Info] [World] James [Deoxys XDG]: "Furry took 3 headshot from barret AP"
+[12/11/2022 3:41:05 PM] [Info] [Group] Red__Bear [Delta-97]: "/clear red"
+[12/11/2022 3:41:24 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34917"
+[12/11/2022 3:41:24 PM] [Info] Giving Red__Bear item 34917:1
+[12/11/2022 3:41:26 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34918"
+[12/11/2022 3:41:26 PM] [Info] Giving Red__Bear item 34918:1
+[12/11/2022 3:41:27 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34919"
+[12/11/2022 3:41:27 PM] [Info] Giving Red__Bear item 34919:1
+[12/11/2022 3:41:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "na"
+[12/11/2022 3:41:29 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34920"
+[12/11/2022 3:41:29 PM] [Info] Giving Red__Bear item 34920:1
+[12/11/2022 3:41:31 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34921"
+[12/11/2022 3:41:31 PM] [Info] Giving Red__Bear item 34921:1
+[12/11/2022 3:41:53 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 34920"
+[12/11/2022 3:41:53 PM] [Info] Giving Red__Bear item 34920:1
+[12/11/2022 3:41:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "i need one too"
+[12/11/2022 3:41:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "what id"
+[12/11/2022 3:42:02 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34920"
+[12/11/2022 3:42:02 PM] [Info] Giving Red__Bear item 34920:1
+[12/11/2022 3:42:14 PM] [Info] Red__Bear [Delta-97] was shot in the torso by James [Deoxys XDG]!
+[12/11/2022 3:42:17 PM] [Info] Red__Bear moved x:325.2422 y:63.76721(+18.5896) z:118.5703 in the last second (0.1008301)
+[12/11/2022 3:42:19 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:42:19 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:42:35 PM] [Info] [Group] Red__Bear [Delta-97]: "/i benell"
+[12/11/2022 3:42:43 PM] [Info] Giving Red__Bear item 58197:1
+[12/11/2022 3:42:43 PM] [Info] reaper [JACK THE RIPPER] was shot in the leg by Red__Bear [Delta-97]!
+[12/11/2022 3:42:45 PM] [Info] reaper moved x:325.2422 y:63.76721(+18.5896) z:118.5703 in the last second (0.1008301)
+[12/11/2022 3:42:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:42:49 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:42:56 PM] [Info] [World] James [Deoxys XDG]: "He can take 3 AP bullets to head"
+[12/11/2022 3:42:57 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "8-rounds of 12" 10"
+[12/11/2022 3:42:58 PM] [Info] Giving Red__Bear item 59296:10
+[12/11/2022 3:42:58 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "8-rounds of 12" 10"
+[12/11/2022 3:43:03 PM] [Info] Giving Red__Bear item 59296:10
+[12/11/2022 3:43:03 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by James [Deoxys XDG]!
+[12/11/2022 3:43:10 PM] [Info] [World] James [Deoxys XDG]: "Fiiiiiine"
+[12/11/2022 3:43:17 PM] [Info] [World] James [Deoxys XDG]: "3 AP Barret"
+[12/11/2022 3:43:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:43:19 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:43:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere reaper"
+[12/11/2022 3:43:22 PM] [Info] reaper was teleported to Red__Bear
+[12/11/2022 3:43:51 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:43:51 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:44:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "going back home"
+[12/11/2022 3:44:33 PM] [Info] reaper [JACK THE RIPPER] killed themself.
+[12/11/2022 3:44:38 PM] [Info] [World] James [Deoxys XDG]: "xD"
+[12/11/2022 3:44:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/back"
+[12/11/2022 3:44:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp back"
+[12/11/2022 3:44:48 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 3:44:48 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 3:45:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/i law"
+[12/11/2022 3:45:23 PM] [Info] Giving Red__Bear item 38321:1
+[12/11/2022 3:45:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i minigun"
+[12/11/2022 3:45:30 PM] [Info] Giving reaper item 58768:1
+[12/11/2022 3:45:30 PM] [Info] [Group] Red__Bear [Delta-97]: "/v m60"
+[12/11/2022 3:45:34 PM] [Info] [Group] Red__Bear [Delta-97]: "/v m240"
+[12/11/2022 3:45:40 PM] [Info] [Group] Red__Bear [Delta-97]: "/v "m-240""
+[12/11/2022 3:45:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 67 10"
+[12/11/2022 3:45:45 PM] [Info] Giving reaper item 67:10
+[12/11/2022 3:45:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 67 10"
+[12/11/2022 3:45:58 PM] [Info] Giving reaper item 67:10
+[12/11/2022 3:46:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 67 10"
+[12/11/2022 3:46:00 PM] [Info] Giving reaper item 67:10
+[12/11/2022 3:46:11 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 67 10"
+[12/11/2022 3:46:11 PM] [Info] Giving reaper item 67:10
+[12/11/2022 3:46:13 PM] [Info] [Group] Red__Bear [Delta-97]: "/i ied"
+[12/11/2022 3:46:14 PM] [Info] Giving Red__Bear item 41103:1
+[12/11/2022 3:46:14 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 67 10"
+[12/11/2022 3:46:14 PM] [Info] Giving reaper item 67:10
+[12/11/2022 3:46:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "artilery shell ied""
+[12/11/2022 3:46:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i bed"
+[12/11/2022 3:46:40 PM] [Info] Giving reaper item 19864:1
+[12/11/2022 3:46:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i bedroll"
+[12/11/2022 3:46:45 PM] [Info] Giving reaper item 19218:1
+[12/11/2022 3:46:45 PM] [Info] [Group] Red__Bear [Delta-97]: "/i rpg-7"
+[12/11/2022 3:46:54 PM] [Info] Giving Red__Bear item 38397:1
+[12/11/2022 3:46:54 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 7v2 5"
+[12/11/2022 3:47:08 PM] [Info] Giving Red__Bear item 38397:5
+[12/11/2022 3:47:08 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "7v2 5 heat" 5"
+[12/11/2022 3:47:14 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/11/2022 3:47:19 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "7v2 heat" 5"
+[12/11/2022 3:47:25 PM] [Info] Giving Red__Bear item 38400:5
+[12/11/2022 3:47:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "kos"
+[12/11/2022 3:47:36 PM] [Info] Red__Bear [Delta-97] was blown up by Red__Bear [Delta-97] with a missile!
+[12/11/2022 3:47:42 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 3:47:47 PM] [Info] Red__Bear teleported to James
+[12/11/2022 3:47:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "i live"
+[12/11/2022 3:48:04 PM] [Info] [Group] Red__Bear [Delta-97]: "/i charge 5"
+[12/11/2022 3:48:08 PM] [Info] Giving Red__Bear item 19280:5
+[12/11/2022 3:48:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "brb"
+[12/11/2022 3:48:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "dont kill me '"
+[12/11/2022 3:48:15 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "demolition charge" 5"
+[12/11/2022 3:49:34 PM] [Info] Giving Red__Bear item 1241:5
+[12/11/2022 3:49:34 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "garageframe""
+[12/11/2022 3:49:42 PM] [Info] Giving Red__Bear item 1088:1
+[12/11/2022 3:49:42 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "metal gate""
+[12/11/2022 3:50:19 PM] [Info] Giving Red__Bear item 457:1
+[12/11/2022 3:50:19 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "metal gate""
+[12/11/2022 3:52:19 PM] [Info] Giving Red__Bear item 457:1
+[12/11/2022 3:52:19 PM] [Info] [Group] Red__Bear [Delta-97]: "/i flashbang 4"
+[12/11/2022 3:52:46 PM] [Info] Giving Red__Bear item 1346:4
+[12/11/2022 3:52:46 PM] [Info] [Group] Red__Bear [Delta-97]: "/i claymore 5"
+[12/11/2022 3:53:06 PM] [Info] Giving Red__Bear item 1102:5
+[12/11/2022 3:53:06 PM] [Info] [Group] Red__Bear [Delta-97]: "/i barbed 10"
+[12/11/2022 3:56:45 PM] [Info] Giving Red__Bear item 386:10
+[12/11/2022 3:56:45 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal james"
+[12/11/2022 3:56:49 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james reaper"
+[12/11/2022 3:57:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/v m1a2"
+[12/11/2022 3:57:46 PM] [Info] Giving Red__Bear vehicle 38337
+[12/11/2022 3:57:46 PM] [Info] [Group] Red__Bear [Delta-97]: "/v bradley"
+[12/11/2022 3:57:59 PM] [Info] Giving Red__Bear vehicle 38336
+[12/11/2022 3:57:59 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "barbed wire fence" 10"
+[12/11/2022 3:58:34 PM] [Info] Giving Red__Bear item 1119:10
+[12/11/2022 3:58:34 PM] [Info] [World] James [Deoxys XDG]: "/heal"
+[12/11/2022 3:59:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/v kord"
+[12/11/2022 4:02:00 PM] [Info] Giving Red__Bear vehicle 38317
+[12/11/2022 4:02:00 PM] [Info] [Group] Red__Bear [Delta-97]: "/i smaw"
+[12/11/2022 4:02:08 PM] [Info] Giving Red__Bear item 58073:1
+[12/11/2022 4:02:08 PM] [Info] [Group] Red__Bear [Delta-97]: "/i heaa 5"
+[12/11/2022 4:02:37 PM] [Info] Giving Red__Bear item 58074:5
+[12/11/2022 4:02:37 PM] [Info] [World] reaper [JACK THE RIPPER]: "back"
+[12/11/2022 4:02:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/11/2022 4:02:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/day"
+[12/11/2022 4:02:46 PM] [Info] Successfully set time to day!
+[12/11/2022 4:03:05 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/11/2022 4:03:25 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "108mm ammu""
+[12/11/2022 4:03:30 PM] [Info] Giving Red__Bear item 38305:1
+[12/11/2022 4:03:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 4:03:30 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 4:03:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 4:03:35 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 4:03:56 PM] [Info] James [Deoxys XDG] was blown up by Red__Bear [Delta-97] with a missile!
+[12/11/2022 4:04:01 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere james"
+[12/11/2022 4:04:01 PM] [Info] James was teleported to Red__Bear
+[12/11/2022 4:04:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i 1175"
+[12/11/2022 4:04:02 PM] [Info] Giving reaper item 1175:1
+[12/11/2022 4:04:03 PM] [Info] [Area] Red__Bear [Delta-97]: "sorry"
+[12/11/2022 4:04:16 PM] [Info] [World] reaper [JACK THE RIPPER]: "can some one tell me wtf going on'"
+[12/11/2022 4:04:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp w"
+[12/11/2022 4:04:38 PM] [Info] reaper [JACK THE RIPPER] was shredded to bits!
+[12/11/2022 4:04:42 PM] [Info] Saving server
+[12/11/2022 4:04:48 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp w"
+[12/11/2022 4:04:56 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport waypoint"
+[12/11/2022 4:04:56 PM] [Error] Failed to find anyone or anywhere called waypoint.
+[12/11/2022 4:05:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tpa waypoint"
+[12/11/2022 4:05:02 PM] [Info] [Group] Red__Bear [Delta-97]: "/i heaa 2"
+[12/11/2022 4:05:04 PM] [Info] Giving Red__Bear item 58074:2
+[12/11/2022 4:05:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp"
+[12/11/2022 4:05:05 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere reaper"
+[12/11/2022 4:05:05 PM] [Info] reaper was teleported to Red__Bear
+[12/11/2022 4:05:07 PM] [Info] [Area] Red__Bear [Delta-97]: "I was bored"
+[12/11/2022 4:05:13 PM] [Info] [Area] reaper [JACK THE RIPPER]: "my home"
+[12/11/2022 4:05:32 PM] [Info] [World] reaper [JACK THE RIPPER]: "fuck i need to use the bathroom"
+[12/11/2022 4:05:38 PM] [Info] [World] James [Deoxys XDG]: "/i ".50 BMG M2 AP""
+[12/11/2022 4:05:43 PM] [Info] Giving James item 58358:1
+[12/11/2022 4:05:43 PM] [Info] [World] James [Deoxys XDG]: "/heal"
+[12/11/2022 4:05:44 PM] [Info] [Area] Red__Bear [Delta-97]: "cya soom"
+[12/11/2022 4:05:46 PM] [Info] [Area] Red__Bear [Delta-97]: "soon"
+[12/11/2022 4:05:52 PM] [Info] [World] reaper [JACK THE RIPPER]: "thanks to taco bell"
+[12/11/2022 4:06:04 PM] [Info] [Area] Red__Bear [Delta-97]: "fucking taco bell"
+[12/11/2022 4:06:12 PM] [Info] [World] James [Deoxys XDG]: "xD"
+[12/11/2022 4:06:51 PM] [Info] reaper [JACK THE RIPPER] was punched in the head by Red__Bear [Delta-97]!
+[12/11/2022 4:09:19 PM] [Info] [World] James [Deoxys XDG]: "/i ".50 BMG M2 AP""
+[12/11/2022 4:09:20 PM] [Info] Giving James item 58358:1
+[12/11/2022 4:09:20 PM] [Info] [World] James [Deoxys XDG]: "/i ".50 BMG M2 AP""
+[12/11/2022 4:09:55 PM] [Info] Giving James item 58358:1
+[12/11/2022 4:09:55 PM] [Info] [World] James [Deoxys XDG]: "/i ".50 BMG M2 AP 20rnd M82 Magazine""
+[12/11/2022 4:10:01 PM] [Info] [World] James [Deoxys XDG]: "/i ".50 BMG M2 AP 10rnd M82 Magazine""
+[12/11/2022 4:10:51 PM] [Info] Giving James item 58224:1
+[12/11/2022 4:10:51 PM] [Info] [Group] Red__Bear [Delta-97]: "/i heaa 55"
+[12/11/2022 4:10:53 PM] [Info] Giving Red__Bear item 58074:55
+[12/11/2022 4:10:53 PM] [Info] [World] James [Deoxys XDG]: "/i smaw"
+[12/11/2022 4:11:16 PM] [Info] Giving James item 58073:1
+[12/11/2022 4:11:16 PM] [Info] Red__Bear [Delta-97] was blown up by James [Deoxys XDG] with a missile!
+[12/11/2022 4:11:21 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp james"
+[12/11/2022 4:11:21 PM] [Info] Red__Bear teleported to James
+[12/11/2022 4:11:25 PM] [Info] [World] James [Deoxys XDG]: "cD"
+[12/11/2022 4:11:47 PM] [Info] [Group] Red__Bear [Delta-97]: "/v 46548"
+[12/11/2022 4:11:56 PM] [Info] Giving Red__Bear vehicle 46548
+[12/11/2022 4:11:56 PM] [Info] [Area] Red__Bear [Delta-97]: "lets clear the emties on ma"
+[12/11/2022 4:11:59 PM] [Info] [World] Red__Bear [Delta-97]: "map"
+[12/11/2022 4:12:06 PM] [Info] Red__Bear moved x:759.8546 y:87.91565(+15.07165) z:-562.753 in the last second (0.2858734)
+[12/11/2022 4:12:06 PM] [Info] [World] James [Deoxys XDG]: "Yup"
+[12/11/2022 4:12:07 PM] [Info] Red__Bear moved x:749.5917 y:102.9756(+15.05991) z:-559.071 in the last second (57.89795)
+[12/11/2022 4:12:08 PM] [Info] Red__Bear moved x:737.9001 y:123.2307(+20.25512) z:-551.8459 in the last second (78.15306)
+[12/11/2022 4:12:08 PM] [Info] James moved x:738.3187 y:123.041(+20.20913) z:-550.9577 in the last second (77.96344)
+[12/11/2022 4:12:09 PM] [Info] Red__Bear moved x:725.6276 y:144.6244(+21.39375) z:-541.4467 in the last second (0.521698)
+[12/11/2022 4:12:09 PM] [Info] James moved x:726.0308 y:144.4451(+21.40404) z:-540.5493 in the last second (0.524292)
+[12/11/2022 4:12:10 PM] [Info] Red__Bear moved x:708.0784 y:161.5475(+16.92313) z:-527.9785 in the last second (116.4699)
+[12/11/2022 4:12:10 PM] [Info] James moved x:708.5732 y:161.4201(+16.97505) z:-527.1188 in the last second (116.3425)
+[12/11/2022 4:12:15 PM] [Info] [World] James [Deoxys XDG]: "/i "missle""
+[12/11/2022 4:12:25 PM] [Info] [Area] Red__Bear [Delta-97]: "go to 3rd seat"
+[12/11/2022 4:12:47 PM] [Info] James [Deoxys XDG] was roadkilled by Red__Bear [Delta-97]!
+[12/11/2022 4:12:47 PM] [Info] Red__Bear [Delta-97] was blown up by a vehicle!
+[12/11/2022 4:12:52 PM] [Info] [World] James [Deoxys XDG]: "xD"
+[12/11/2022 4:12:56 PM] [Info] [World] Red__Bear [Delta-97]: "/v 46548"
+[12/11/2022 4:12:57 PM] [Info] Giving Red__Bear vehicle 46548
+[12/11/2022 4:12:57 PM] [Info] [World] James [Deoxys XDG]: "/v jet"
+[12/11/2022 4:13:31 PM] [Info] Giving James vehicle 140
+[12/11/2022 4:13:31 PM] [Info] [World] James [Deoxys XDG]: "/v jet"
+[12/11/2022 4:13:45 PM] [Info] Giving James vehicle 140
+[12/11/2022 4:13:45 PM] [Info] James moved x:-73.80141 y:110.6204(+15.87967) z:-52.33138 in the last second (62.3675)
+[12/11/2022 4:14:06 PM] [Info] Red__Bear moved x:87.72392 y:168.2572(+17.39859) z:479.2608 in the last second (123.0404)
+[12/11/2022 4:14:07 PM] [Info] Red__Bear moved x:104.3064 y:188.0986(+19.84138) z:496.1634 in the last second (142.663)
+[12/11/2022 4:14:08 PM] [Info] Red__Bear moved x:112.0778 y:209.006(+20.90747) z:510.4092 in the last second (163.7271)
+[12/11/2022 4:14:09 PM] [Info] Red__Bear moved x:105.3379 y:229.1509(+20.14487) z:528.1766 in the last second (184.0259)
+[12/11/2022 4:14:10 PM] [Info] Red__Bear moved x:86.22848 y:244.6862(+15.53526) z:548.1914 in the last second (199.9058)
+[12/11/2022 4:14:23 PM] [Info] Red__Bear moved x:-368.6273 y:345.3035(+16.76346) z:496.4304 in the last second (302.4326)
+[12/11/2022 4:14:24 PM] [Info] Red__Bear moved x:-382.5693 y:361.1049(+15.80145) z:464.5016 in the last second (317.8601)
+[12/11/2022 4:14:59 PM] [Info] reaper moved x:325.2422 y:64.47571(+19.2981) z:118.5703 in the last second (0.8093262)
+[12/11/2022 4:15:06 PM] [Info] [Area] Red__Bear [Delta-97]: "wheeeeee"
+[12/11/2022 4:15:07 PM] [Info] [World] reaper [JACK THE RIPPER]: "guys"
+[12/11/2022 4:15:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "am back"
+[12/11/2022 4:15:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "am never eating tacobell again"
+[12/11/2022 4:15:19 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/11/2022 4:15:41 PM] [Info] [World] Red__Bear [Delta-97]: "now what"
+[12/11/2022 4:15:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "ALSO AM GETTING BACK OTHER SEVER JAMES IS GETTING ON SOON"
+[12/11/2022 4:15:48 PM] [Info] [World] reaper [JACK THE RIPPER]: "alos i mean cheese james"
+[12/11/2022 4:15:55 PM] [Info] [World] Red__Bear [Delta-97]: "ok"
+[12/11/2022 4:15:56 PM] [Info] [World] James [Deoxys XDG]: "obvius"
+[12/11/2022 4:16:17 PM] [Info] [World] reaper [JACK THE RIPPER]: "also should be make an assain club"
+[12/11/2022 4:16:37 PM] [Info] [Group] Red__Bear [Delta-97]: "/kick red"
+[12/11/2022 4:16:49 PM] [Info] Successfully kicked Delta-97!
+[12/11/2022 4:16:49 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/11/2022 4:34:42 PM] [Info] Saving server
+[12/11/2022 4:35:10 PM] [Info] Disconnecting: PlayerID: 76561198881259191 Name: Deoxys XDG Character: James
+[12/11/2022 5:04:42 PM] [Info] Saving server
+[12/11/2022 5:16:06 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/11/2022 5:16:58 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/11/2022 5:17:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 5:17:04 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 5:17:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "can we make a base"
+[12/11/2022 5:17:18 PM] [Info] reaper [JACK THE RIPPER] was blown up by Red__Bear [Delta-97] with a missile!
+[12/11/2022 5:17:25 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere reaper"
+[12/11/2022 5:17:25 PM] [Info] reaper was teleported to Red__Bear
+[12/11/2022 5:17:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 5:17:25 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 5:17:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "in city"
+[12/11/2022 5:17:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport w"
+[12/11/2022 5:17:42 PM] [Error] Failed to find anyone or anywhere called w.
+[12/11/2022 5:17:48 PM] [Info] [World] reaper [JACK THE RIPPER]: "ho do i tp waypoint"
+[12/11/2022 5:17:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wt"
+[12/11/2022 5:17:58 PM] [Error] Failed to find anyone or anywhere called wt.
+[12/11/2022 5:18:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "wt?"
+[12/11/2022 5:18:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "/wt"
+[12/11/2022 5:18:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/11/2022 5:18:10 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/11/2022 5:18:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "there"
+[12/11/2022 5:18:15 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/11/2022 5:18:15 PM] [Info] Red__Bear teleported to reaper
+[12/11/2022 5:18:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "copy righttttt"
+[12/11/2022 5:18:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "where zombie"
+[12/11/2022 5:19:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "no"
+[12/11/2022 5:19:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "it an pvp and rolyplay sevevr"
+[12/11/2022 5:19:28 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/11/2022 5:19:32 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/11/2022 5:19:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "ya"
+[12/11/2022 5:19:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "but not a big map"
+[12/11/2022 5:19:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "just like the other one"
+[12/11/2022 5:21:07 PM] [Info] Connecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: James Soprano
+[12/11/2022 5:21:22 PM] [Info] [World] reaper [JACK THE RIPPER]: "idk"
+[12/11/2022 5:21:44 PM] [Info] [World] reaper [JACK THE RIPPER]: "oh ya where is five?"
+[12/11/2022 5:22:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "kill me"
+[12/11/2022 5:22:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "i cant"
+[12/11/2022 5:22:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "how"
+[12/11/2022 5:22:31 PM] [Info] [Group] Red__Bear [Delta-97]: "/kill reap"
+[12/11/2022 5:22:35 PM] [Info] Successfully killed JACK THE RIPPER!
+[12/11/2022 5:22:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/11/2022 5:22:35 PM] [Info] reaper teleported to Red__Bear
+[12/11/2022 5:22:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "dam"
+[12/11/2022 5:22:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "am look good"
+[12/11/2022 5:23:58 PM] [Info] [Group] Red__Bear [Delta-97]: "/admin james"
+[12/11/2022 5:24:00 PM] [Info] [Group] Red__Bear [Delta-97]: "/tphere james"
+[12/11/2022 5:24:00 PM] [Info] James Soprano was teleported to Red__Bear
+[12/11/2022 5:24:11 PM] [Info] [World] reaper [JACK THE RIPPER]: "brb"
+[12/11/2022 5:24:18 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/11/2022 5:25:13 PM] [Info] [Group] Red__Bear [Delta-97]: "/kick red"
+[12/11/2022 5:34:42 PM] [Info] Successfully kicked Delta-97!
+[12/11/2022 5:34:42 PM] [Info] Saving server
+[12/11/2022 5:46:23 PM] [Info] Disconnecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: James Soprano
+[12/11/2022 6:04:42 PM] [Info] Saving server
+[12/11/2022 6:26:54 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/11/2022 6:34:42 PM] [Info] Saving server
+[12/11/2022 7:04:42 PM] [Info] Saving server
+[12/11/2022 7:34:42 PM] [Info] Saving server
+[12/11/2022 8:04:42 PM] [Info] Saving server
+[12/11/2022 8:34:42 PM] [Info] Saving server
+[12/11/2022 8:42:32 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/11/2022 9:04:42 PM] [Info] Saving server
+[12/11/2022 9:34:42 PM] [Info] Saving server
+[12/11/2022 10:04:42 PM] [Info] Saving server
+[12/11/2022 10:34:42 PM] [Info] Saving server
+[12/11/2022 11:04:42 PM] [Info] Saving server
+[12/11/2022 11:34:42 PM] [Info] Saving server
+[12/12/2022 12:01:16 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/12/2022 12:01:16 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/12/2022 12:04:42 AM] [Info] Saving server
+[12/12/2022 12:34:42 AM] [Info] Saving server
+[12/12/2022 12:57:26 AM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/12/2022 12:57:59 AM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/12/2022 12:57:59 AM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/12/2022 12:58:11 AM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/12/2022 1:04:42 AM] [Info] Saving server
+[12/12/2022 1:33:35 AM] [Info] Lost connection to Steam servers because k_EResultOK
+[12/12/2022 7:20:47 AM] [Info] Saving server
+[12/12/2022 7:50:47 AM] [Info] Saving server
+[12/12/2022 8:12:55 AM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/12/2022 8:13:03 AM] [Info] [Group] Red__Bear [Delta-97]: "/weather clear"
+[12/12/2022 8:13:03 AM] [Error] Failed to find weather called clear.
+[12/12/2022 8:13:16 AM] [Info] [Group] Red__Bear [Delta-97]: "/i 363"
+[12/12/2022 8:13:35 AM] [Info] Giving Red__Bear item 363:1
+[12/12/2022 8:13:35 AM] [Info] [Group] Red__Bear [Delta-97]: "/i 17"
+[12/12/2022 8:13:35 AM] [Info] Giving Red__Bear item 17:1
+[12/12/2022 8:14:09 AM] [Info] [Group] Red__Bear [Delta-97]: "/i 121"
+[12/12/2022 8:14:36 AM] [Info] Giving Red__Bear item 121:1
+[12/12/2022 8:14:36 AM] [Info] [Group] Red__Bear [Delta-97]: "/i 1176"
+[12/12/2022 8:14:36 AM] [Info] Giving Red__Bear item 1176:1
+[12/12/2022 8:16:02 AM] [Info] [Group] Red__Bear [Delta-97]: "/ adapt"
+[12/12/2022 8:16:05 AM] [Info] [Group] Red__Bear [Delta-97]: "/i adapt"
+[12/12/2022 8:16:10 AM] [Info] Giving Red__Bear item 1007:1
+[12/12/2022 8:16:10 AM] [Info] [Group] Red__Bear [Delta-97]: "/i 8"
+[12/12/2022 8:16:10 AM] [Info] Giving Red__Bear item 8:1
+[12/12/2022 8:17:02 AM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/12/2022 8:20:47 AM] [Info] Saving server
+[12/12/2022 8:26:21 AM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Rick Astley
+[12/12/2022 8:27:00 AM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Rick Astley
+[12/12/2022 8:50:47 AM] [Info] Saving server
+[12/12/2022 8:55:29 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/12/2022 8:55:41 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/12/2022 8:55:41 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/12/2022 8:55:53 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/12/2022 9:20:47 AM] [Info] Saving server
+[12/12/2022 9:50:47 AM] [Info] Saving server
+[12/12/2022 9:52:58 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/12/2022 9:52:58 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/12/2022 10:20:47 AM] [Info] Saving server
+[12/12/2022 10:50:47 AM] [Info] Saving server
+[12/12/2022 11:20:47 AM] [Info] Saving server
+[12/12/2022 11:45:30 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/12/2022 11:45:31 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/12/2022 11:50:47 AM] [Info] Saving server
+[12/12/2022 12:18:15 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/12/2022 12:20:47 PM] [Info] Saving server
+[12/12/2022 12:24:40 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Rick Astley
+[12/12/2022 12:26:33 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Rick Astley
+[12/12/2022 12:28:35 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Rick Astley
+[12/12/2022 12:28:42 PM] [Info] [Group] Rick Astley [Delta-97]: "/i benell"
+[12/12/2022 12:30:05 PM] [Info] Giving Rick Astley item 58197:1
+[12/12/2022 12:30:05 PM] [Info] [Group] Rick Astley [Delta-97]: "/i pink"
+[12/12/2022 12:32:02 PM] [Info] Giving Rick Astley item 58323:1
+[12/12/2022 12:32:02 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Rick Astley
+[12/12/2022 12:50:47 PM] [Info] Saving server
+[12/12/2022 1:20:47 PM] [Info] Saving server
+[12/12/2022 1:50:47 PM] [Info] Saving server
+[12/12/2022 2:20:47 PM] [Info] Saving server
+[12/12/2022 2:50:47 PM] [Info] Saving server
+[12/12/2022 2:51:36 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/12/2022 2:51:44 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/12/2022 3:20:47 PM] [Info] Saving server
+[12/12/2022 3:50:47 PM] [Info] Saving server
+[12/12/2022 4:20:47 PM] [Info] Saving server
+[12/12/2022 4:50:47 PM] [Info] Saving server
+[12/12/2022 5:20:47 PM] [Info] Saving server
+[12/12/2022 5:50:47 PM] [Info] Saving server
+[12/12/2022 6:20:47 PM] [Info] Saving server
+[12/12/2022 6:50:47 PM] [Info] Saving server
+[12/12/2022 7:20:47 PM] [Info] Saving server
+[12/12/2022 7:50:47 PM] [Info] Saving server
+[12/12/2022 8:20:47 PM] [Info] Saving server
+[12/12/2022 8:50:47 PM] [Info] Saving server
+[12/12/2022 9:20:47 PM] [Info] Saving server
+[12/12/2022 9:50:47 PM] [Info] Saving server
+[12/12/2022 10:20:47 PM] [Info] Saving server
+[12/12/2022 10:23:50 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta-97 Character: Red__Bear
+[12/12/2022 10:24:12 PM] [Info] [Group] Red__Bear [Delta-97]: "/i lazer"
+[12/12/2022 10:24:17 PM] [Info] [World] Red__Bear [Delta-97]: "/i bat"
+[12/12/2022 10:24:20 PM] [Info] Giving Red__Bear item 1023:1
+[12/12/2022 10:24:20 PM] [Info] [Area] Red__Bear [Delta-97]: "/i batter"
+[12/12/2022 10:24:34 PM] [Info] Giving Red__Bear item 19884:1
+[12/12/2022 10:24:34 PM] [Info] [Group] Red__Bear [Delta-97]: "/i flame"
+[12/12/2022 10:24:39 PM] [Info] Giving Red__Bear item 3056:1
+[12/12/2022 10:24:39 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/12/2022 10:24:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:24:48 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:24:48 PM] [Info] reaper moved x:385.5469 y:63.98438(+18.73466) z:28.74219 in the last second (0.621582)
+[12/12/2022 10:25:08 PM] [Info] [Group] reaper [JACK THE RIPPER]: "can i make my own base"
+[12/12/2022 10:25:15 PM] [Info] [Group] reaper [JACK THE RIPPER]: "red"
+[12/12/2022 10:25:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp wp"
+[12/12/2022 10:25:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:25:36 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:25:54 PM] [Info] [Area] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:25:54 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:25:54 PM] [Info] reaper moved x:903.8203 y:70.47401(+16.06641) z:512.6797 in the last second (0.9306412)
+[12/12/2022 10:26:05 PM] [Info] [Group] Red__Bear [Delta-97]: "/i horizon"
+[12/12/2022 10:26:07 PM] [Info] Giving Red__Bear item 145:1
+[12/12/2022 10:26:07 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i heal"
+[12/12/2022 10:26:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 10:26:13 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 17 10"
+[12/12/2022 10:26:13 PM] [Info] Giving Red__Bear item 17:10
+[12/12/2022 10:26:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:26:21 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:26:21 PM] [Info] reaper moved x:789.4453 y:98.13862(+39.28916) z:831.3125 in the last second (0.101265)
+[12/12/2022 10:26:26 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "military bar""
+[12/12/2022 10:26:32 PM] [Info] Giving Red__Bear item 149:1
+[12/12/2022 10:26:32 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/12/2022 10:26:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wo"
+[12/12/2022 10:26:39 PM] [Error] Failed to find anyone or anywhere called wo.
+[12/12/2022 10:26:43 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "cross scope""
+[12/12/2022 10:26:43 PM] [Info] Giving Red__Bear item 22:1
+[12/12/2022 10:26:43 PM] [Info] [Area] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:26:43 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:26:51 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/12/2022 10:26:51 PM] [Info] Red__Bear teleported to reaper
+[12/12/2022 10:27:17 PM] [Info] [Group] Red__Bear [Delta-97]: "/i bed"
+[12/12/2022 10:27:24 PM] [Info] Giving Red__Bear item 19864:1
+[12/12/2022 10:27:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "idk how"
+[12/12/2022 10:28:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "am working on it"
+[12/12/2022 10:28:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "yes"
+[12/12/2022 10:28:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "but  i chnage my setup"
+[12/12/2022 10:29:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "hear you guys"
+[12/12/2022 10:29:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/12/2022 10:29:28 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/12/2022 10:29:28 PM] [Info] Red__Bear teleported to reaper
+[12/12/2022 10:29:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/12/2022 10:29:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/12/2022 10:29:43 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/12/2022 10:29:43 PM] [Info] Red__Bear teleported to reaper
+[12/12/2022 10:30:40 PM] [Info] [Group] Red__Bear [Delta-97]: "/i garand"
+[12/12/2022 10:30:48 PM] [Info] Giving Red__Bear item 58515:1
+[12/12/2022 10:30:48 PM] [Info] [Group] Red__Bear [Delta-97]: "/i pento""
+[12/12/2022 10:30:52 PM] [Info] Giving Red__Bear item 34921:1
+[12/12/2022 10:30:52 PM] [Info] [World] reaper [JACK THE RIPPER]: "i know i did it before i trump sever"
+[12/12/2022 10:30:57 PM] [Info] [World] Red__Bear [Delta-97]: "/i 34920"
+[12/12/2022 10:30:57 PM] [Info] Giving Red__Bear item 34920:1
+[12/12/2022 10:31:36 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "remington 700""
+[12/12/2022 10:31:40 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "remington700""
+[12/12/2022 10:31:44 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "r700""
+[12/12/2022 10:31:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "i did it"
+[12/12/2022 10:32:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "my is shift+fn thin f1"
+[12/12/2022 10:32:11 PM] [Info] [Group] Red__Bear [Delta-97]: "/i m1a"
+[12/12/2022 10:32:34 PM] [Info] Giving Red__Bear item 38370:1
+[12/12/2022 10:32:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf there more"
+[12/12/2022 10:32:39 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "mini 14""
+[12/12/2022 10:32:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "i see red"
+[12/12/2022 10:32:43 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "miniw14""
+[12/12/2022 10:32:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "under water bunker"
+[12/12/2022 10:32:46 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "mini14""
+[12/12/2022 10:32:49 PM] [Info] [World] Red__Bear [Delta-97]: "/i "mini 14""
+[12/12/2022 10:33:39 PM] [Info] [Group] Red__Bear [Delta-97]: "/i dio"
+[12/12/2022 10:34:14 PM] [Info] Giving Red__Bear item 19828:1
+[12/12/2022 10:34:14 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "ham rad""
+[12/12/2022 10:34:26 PM] [Info] [Group] Red__Bear [Delta-97]: "/i siy"
+[12/12/2022 10:34:57 PM] [Info] Giving Red__Bear item 58997:1
+[12/12/2022 10:34:57 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "sa m1a""
+[12/12/2022 10:35:01 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "sam1a""
+[12/12/2022 10:35:10 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 58370"
+[12/12/2022 10:35:21 PM] [Info] Giving Red__Bear item 58370:1
+[12/12/2022 10:35:21 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 9x"
+[12/12/2022 10:35:37 PM] [Info] Giving Red__Bear item 4095:1
+[12/12/2022 10:35:37 PM] [Info] [Group] Red__Bear [Delta-97]: "/i brake"
+[12/12/2022 10:35:42 PM] [Info] Giving Red__Bear item 58635:1
+[12/12/2022 10:35:42 PM] [Info] [Group] Red__Bear [Delta-97]: "/i fal"
+[12/12/2022 10:35:47 PM] [Info] Giving Red__Bear item 488:1
+[12/12/2022 10:35:47 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "fn fal""
+[12/12/2022 10:36:14 PM] [Info] Giving Red__Bear item 58937:1
+[12/12/2022 10:36:14 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 58636"
+[12/12/2022 10:36:14 PM] [Info] Giving Red__Bear item 58636:1
+[12/12/2022 10:36:50 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 7x"
+[12/12/2022 10:37:08 PM] [Info] Giving Red__Bear item 153:1
+[12/12/2022 10:37:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "did every one die"
+[12/12/2022 10:37:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "30rnd fal" 10"
+[12/12/2022 10:37:45 PM] [Info] Giving Red__Bear item 58947:10
+[12/12/2022 10:37:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 10:37:47 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/12/2022 10:37:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:37:49 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:37:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:37:59 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:38:03 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/12/2022 10:38:03 PM] [Info] Red__Bear teleported to reaper
+[12/12/2022 10:38:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:38:34 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:38:46 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "fal mag" 5"
+[12/12/2022 10:38:50 PM] [Info] Giving Red__Bear item 58637:5
+[12/12/2022 10:38:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:38:50 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:39:01 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 10:39:12 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/12/2022 10:39:12 PM] [Info] Red__Bear teleported to reaper
+[12/12/2022 10:39:51 PM] [Info] [World] reaper [JACK THE RIPPER]: "go"
+[12/12/2022 10:40:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "yes"
+[12/12/2022 10:40:44 PM] [Info] [Group] Red__Bear [Delta-97]: "/weather clear"
+[12/12/2022 10:40:44 PM] [Error] Failed to find weather called clear.
+[12/12/2022 10:40:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "make base"
+[12/12/2022 10:40:57 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "ed floor""
+[12/12/2022 10:41:12 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 19946"
+[12/12/2022 10:42:00 PM] [Info] Giving Red__Bear item 19946:1
+[12/12/2022 10:42:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "/day"
+[12/12/2022 10:42:00 PM] [Info] Successfully set time to day!
+[12/12/2022 10:42:05 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 19248"
+[12/12/2022 10:42:05 PM] [Info] Giving Red__Bear item 19248:1
+[12/12/2022 10:42:09 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 19247"
+[12/12/2022 10:42:32 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 19290"
+[12/12/2022 10:42:32 PM] [Info] Giving Red__Bear item 19290:1
+[12/12/2022 10:42:35 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 19291"
+[12/12/2022 10:42:35 PM] [Info] Giving Red__Bear item 19291:1
+[12/12/2022 10:42:50 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 19258"
+[12/12/2022 10:42:51 PM] [Info] Giving Red__Bear item 19258:1
+[12/12/2022 10:42:53 PM] [Info] [Group] Red__Bear [Delta-97]: "/ammo"
+[12/12/2022 10:43:03 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 19259"
+[12/12/2022 10:43:03 PM] [Info] Giving Red__Bear item 19259:1
+[12/12/2022 10:43:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "/ammo"
+[12/12/2022 10:43:07 PM] [Info] [World] reaper [JACK THE RIPPER]: "/ammo"
+[12/12/2022 10:43:19 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "admin""
+[12/12/2022 10:43:20 PM] [Info] Giving Red__Bear item 19946:1
+[12/12/2022 10:43:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i >45  acp"
+[12/12/2022 10:43:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i ".45 acp""
+[12/12/2022 10:43:38 PM] [Info] Giving reaper item 58395:1
+[12/12/2022 10:43:38 PM] [Info] Red__Bear [Delta-97] was shot in the head by reaper [JACK THE RIPPER]!
+[12/12/2022 10:43:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp reaper"
+[12/12/2022 10:43:41 PM] [Info] Red__Bear teleported to reaper
+[12/12/2022 10:43:52 PM] [Info] [World] reaper [JACK THE RIPPER]: "SURE"
+[12/12/2022 10:44:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "fuck red kill me"
+[12/12/2022 10:44:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "kill me"
+[12/12/2022 10:44:46 PM] [Info] reaper [JACK THE RIPPER] was shot in the head by Red__Bear [Delta-97]!
+[12/12/2022 10:44:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:44:50 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:45:36 PM] [Info] Connecting: PlayerID: 76561199080731692 Name: tiron Character: bean mna 
+[12/12/2022 10:45:46 PM] [Info] [Group] Red__Bear [Delta-97]: "/i lsr"
+[12/12/2022 10:45:55 PM] [Info] Giving Red__Bear item 19436:1
+[12/12/2022 10:45:55 PM] [Info] [Group] Red__Bear [Delta-97]: "/i casket 10"
+[12/12/2022 10:45:58 PM] [Info] Giving Red__Bear item 19860:10
+[12/12/2022 10:45:58 PM] [Info] [Group] Red__Bear [Delta-97]: "/i ghost"
+[12/12/2022 10:46:03 PM] [Info] Giving Red__Bear item 19435:1
+[12/12/2022 10:46:03 PM] [Info] [Group] Red__Bear [Delta-97]: "/admin ricky"
+[12/12/2022 10:46:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport been to reaper"
+[12/12/2022 10:46:12 PM] [Error] Failed to find parameters in format [SteamID | Player]/[SteamID | Player | Location].
+[12/12/2022 10:46:13 PM] [Info] Successfully admined bean mna 
+[12/12/2022 10:46:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp been reaper"
+[12/12/2022 10:46:20 PM] [Info] [World] bean mna  [tiron]: "/i ak"
+[12/12/2022 10:46:23 PM] [Info] Giving bean mna  item 471:1
+[12/12/2022 10:46:23 PM] [Info] [World] bean mna  [tiron]: "/tpa red"
+[12/12/2022 10:46:27 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 10:46:27 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:46:34 PM] [Info] [World] bean mna  [tiron]: "/i aku"
+[12/12/2022 10:46:41 PM] [Info] [World] bean mna  [tiron]: "/i "m249"
+[12/12/2022 10:46:50 PM] [Info] Giving bean mna  item 58352:1
+[12/12/2022 10:46:50 PM] [Info] [World] bean mna  [tiron]: "/i huge"
+[12/12/2022 10:46:53 PM] [Info] [World] bean mna  [tiron]: "/i rpg"
+[12/12/2022 10:46:55 PM] [Info] Giving bean mna  item 19358:1
+[12/12/2022 10:46:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "to my bunker"
+[12/12/2022 10:46:56 PM] [Info] [Group] Red__Bear [Delta-97]: "/i stg"
+[12/12/2022 10:46:56 PM] [Info] Giving Red__Bear item 1462:1
+[12/12/2022 10:46:56 PM] [Info] [World] bean mna  [tiron]: "/ammo"
+[12/12/2022 10:46:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/12/2022 10:46:58 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/12/2022 10:47:07 PM] [Info] [World] bean mna  [tiron]: "/i "rpg-7""
+[12/12/2022 10:47:19 PM] [Info] Giving bean mna  item 38397:1
+[12/12/2022 10:47:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 10:47:20 PM] [Info] [Group] Red__Bear [Delta-97]: "/v m1a2"
+[12/12/2022 10:47:29 PM] [Info] Giving Red__Bear vehicle 38337
+[12/12/2022 10:47:29 PM] [Info] Red__Bear [Delta-97] was shot in the head by bean mna  [tiron]!
+[12/12/2022 10:47:36 PM] [Info] [Group] Red__Bear [Delta-97]: "/v armed"
+[12/12/2022 10:47:37 PM] [Info] Giving Red__Bear vehicle 46552
+[12/12/2022 10:47:37 PM] [Info] [World] bean mna  [tiron]: "/i daz"
+[12/12/2022 10:47:48 PM] [Info] [World] bean mna  [tiron]: "/i "rpg-7 rocket" 10"
+[12/12/2022 10:47:50 PM] [Info] Red__Bear moved x:291.2664 y:105.9012(+15.71812) z:139.9443 in the last second (45.97435)
+[12/12/2022 10:47:51 PM] [Info] Red__Bear moved x:284.2652 y:121.5361(+15.6349) z:141.3141 in the last second (62.63988)
+[12/12/2022 10:47:52 PM] [Info] Red__Bear moved x:273.4296 y:139.5643(+18.02822) z:141.5004 in the last second (82.36989)
+[12/12/2022 10:47:53 PM] [Info] Red__Bear moved x:255.9192 y:156.4144(+16.85005) z:140.2697 in the last second (102.5069)
+[12/12/2022 10:47:57 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 10:47:57 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:47:58 PM] [Info] bean mna  moved x:98.60938 y:158.8802(+109.3823) z:126.9609 in the last second (106.1321)
+[12/12/2022 10:48:02 PM] [Info] [World] bean mna  [tiron]: "/i 15"
+[12/12/2022 10:48:02 PM] [Info] Giving bean mna  item 15:1
+[12/12/2022 10:48:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/12/2022 10:48:15 PM] [Info] Giving reaper vehicle 38308
+[12/12/2022 10:48:15 PM] [Info] Disconnecting: PlayerID: 76561199080731692 Name: tiron Character: bean mna 
+[12/12/2022 10:48:23 PM] [Info] Red__Bear [Delta-97] fractured to death!
+[12/12/2022 10:48:36 PM] [Info] [Group] Red__Bear [Delta-97]: "/tpa ricky"
+[12/12/2022 10:48:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp ricky"
+[12/12/2022 10:48:44 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp bean"
+[12/12/2022 10:49:17 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp bean"
+[12/12/2022 10:49:19 PM] [Info] Connecting: PlayerID: 76561199080731692 Name: tiron Character: bean mna 
+[12/12/2022 10:49:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "to been"
+[12/12/2022 10:49:42 PM] [Info] [World] bean mna  [tiron]: "/i 59038"
+[12/12/2022 10:49:48 PM] [Info] Giving bean mna  item 59038:1
+[12/12/2022 10:49:48 PM] [Info] Red__Bear [Delta-97] was blown up by a vehicle!
+[12/12/2022 10:49:48 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/12/2022 10:49:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:49:54 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:49:54 PM] [Info] reaper moved x:323.1719 y:63.12781(+23.3699) z:131.6094 in the last second (0.1009521)
+[12/12/2022 10:49:57 PM] [Info] [World] reaper [JACK THE RIPPER]: "v 38308"
+[12/12/2022 10:50:01 PM] [Info] [World] bean mna  [tiron]: "/i 58873"
+[12/12/2022 10:50:02 PM] [Info] Giving bean mna  item 58873:1
+[12/12/2022 10:50:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/12/2022 10:50:02 PM] [Info] Giving reaper vehicle 38308
+[12/12/2022 10:50:28 PM] [Info] [World] bean mna  [tiron]: "/i 31253"
+[12/12/2022 10:50:28 PM] [Info] Giving bean mna  item 31253:1
+[12/12/2022 10:50:34 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp bean"
+[12/12/2022 10:50:34 PM] [Info] Red__Bear teleported to bean mna 
+[12/12/2022 10:50:35 PM] [Info] [World] bean mna  [tiron]: "/i 31222"
+[12/12/2022 10:50:47 PM] [Info] Giving bean mna  item 31222:1
+[12/12/2022 10:50:47 PM] [Info] Saving server
+[12/12/2022 10:50:49 PM] [Info] [World] bean mna  [tiron]: "/i 58669"
+[12/12/2022 10:50:53 PM] [Info] Giving bean mna  item 58669:1
+[12/12/2022 10:50:53 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/12/2022 10:50:59 PM] [Info] [Area] Red__Bear [Delta-97]: "/i pento"
+[12/12/2022 10:50:59 PM] [Info] Giving Red__Bear item 34921:1
+[12/12/2022 10:50:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:50:59 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:51:00 PM] [Info] reaper moved x:89.875 y:60.71801(+16.11533) z:177.5469 in the last second (0.1018028)
+[12/12/2022 10:51:01 PM] [Info] [World] bean mna  [tiron]: "/i 58873"
+[12/12/2022 10:51:03 PM] [Info] Giving bean mna  item 58873:1
+[12/12/2022 10:51:03 PM] [Info] bean mna  [tiron] was shot in the torso by reaper [JACK THE RIPPER]!
+[12/12/2022 10:51:03 PM] [Info] Red__Bear [Delta-97] was shot in the head by reaper [JACK THE RIPPER]!
+[12/12/2022 10:51:06 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 10:51:06 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:51:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "wrong person"
+[12/12/2022 10:51:10 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 341920"
+[12/12/2022 10:51:20 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 34920"
+[12/12/2022 10:51:20 PM] [Info] Giving Red__Bear item 34920:1
+[12/12/2022 10:51:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/12/2022 10:51:28 PM] [Info] Giving reaper vehicle 38308
+[12/12/2022 10:51:28 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/12/2022 10:51:38 PM] [Info] [World] bean mna  [tiron]: "/i 58678"
+[12/12/2022 10:51:38 PM] [Info] Giving bean mna  item 58678:1
+[12/12/2022 10:51:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v"
+[12/12/2022 10:51:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38309"
+[12/12/2022 10:51:54 PM] [Info] Giving reaper vehicle 38309
+[12/12/2022 10:51:54 PM] [Info] [World] bean mna  [tiron]: "/i 58814"
+[12/12/2022 10:52:03 PM] [Info] Giving bean mna  item 58814:1
+[12/12/2022 10:52:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "i know"
+[12/12/2022 10:52:04 PM] [Info] [World] bean mna  [tiron]: "/i 58642"
+[12/12/2022 10:52:04 PM] [Info] Giving bean mna  item 58642:1
+[12/12/2022 10:52:15 PM] [Info] Red__Bear [Delta-97] was shot in the torso by reaper [JACK THE RIPPER]!
+[12/12/2022 10:52:20 PM] [Info] bean mna  [tiron] was shot in the head by reaper [JACK THE RIPPER]!
+[12/12/2022 10:52:23 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 10:52:23 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:52:26 PM] [Info] [World] bean mna  [tiron]: "/tp re"
+[12/12/2022 10:52:26 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:52:30 PM] [Info] [World] bean mna  [tiron]: "/tp re"
+[12/12/2022 10:52:30 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:52:41 PM] [Info] [World] bean mna  [tiron]: "/ 58076"
+[12/12/2022 10:52:42 PM] [Info] [World] bean mna  [tiron]: "/i 58076"
+[12/12/2022 10:52:42 PM] [Info] Giving bean mna  item 58076:1
+[12/12/2022 10:52:45 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 10:52:45 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:52:50 PM] [Info] [World] bean mna  [tiron]: "/i 58073"
+[12/12/2022 10:52:50 PM] [Info] Giving bean mna  item 58073:1
+[12/12/2022 10:52:58 PM] [Info] [World] bean mna  [tiron]: "/tpa red"
+[12/12/2022 10:53:01 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 10:53:01 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:53:07 PM] [Info] bean mna  [tiron] was shot in the leg by reaper [JACK THE RIPPER]!
+[12/12/2022 10:53:10 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/12/2022 10:53:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38309"
+[12/12/2022 10:53:18 PM] [Info] Giving reaper vehicle 38309
+[12/12/2022 10:53:18 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/12/2022 10:53:22 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:53:22 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:53:25 PM] [Info] bean mna  [tiron] was shot in the head by reaper [JACK THE RIPPER]!
+[12/12/2022 10:53:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "am not"
+[12/12/2022 10:53:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "red shoot me"
+[12/12/2022 10:53:40 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 10:53:40 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:53:48 PM] [Info] [World] reaper [JACK THE RIPPER]: "see i do take dam"
+[12/12/2022 10:54:01 PM] [Info] [World] bean mna  [tiron]: "/i 58076"
+[12/12/2022 10:54:01 PM] [Info] Giving bean mna  item 58076:1
+[12/12/2022 10:54:01 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/12/2022 10:54:03 PM] [Info] [Group] Red__Bear [Delta-97]: "/i bear"
+[12/12/2022 10:54:08 PM] [Info] Giving Red__Bear item 37505:1
+[12/12/2022 10:54:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 10:54:10 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "bear base""
+[12/12/2022 10:54:13 PM] [Info] Giving Red__Bear item 37505:1
+[12/12/2022 10:54:13 PM] [Info] [World] bean mna  [tiron]: "/i "pg-7v heat" 10"
+[12/12/2022 10:54:14 PM] [Info] Giving bean mna  item 58077:10
+[12/12/2022 10:54:14 PM] [Info] [World] Red__Bear [Delta-97]: "/i "bear base up""
+[12/12/2022 10:54:17 PM] [Info] Giving Red__Bear item 37504:1
+[12/12/2022 10:54:17 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38309"
+[12/12/2022 10:54:22 PM] [Info] Giving reaper vehicle 38309
+[12/12/2022 10:54:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/i tv110"
+[12/12/2022 10:54:27 PM] [Info] [World] Red__Bear [Delta-97]: "/i "tv 110""
+[12/12/2022 10:54:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "am out off ammo"
+[12/12/2022 10:54:43 PM] [Info] [World] bean mna  [tiron]: "/heal"
+[12/12/2022 10:54:52 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i minigun"
+[12/12/2022 10:55:00 PM] [Info] Giving reaper item 58768:1
+[12/12/2022 10:55:00 PM] [Info] reaper [JACK THE RIPPER] bled to death!
+[12/12/2022 10:55:06 PM] [Info] [World] bean mna  [tiron]: "/i 58709"
+[12/12/2022 10:55:06 PM] [Info] Giving bean mna  item 58709:1
+[12/12/2022 10:55:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "lol"
+[12/12/2022 10:55:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:55:16 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:55:16 PM] [Info] Red__Bear [Delta-97] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 10:55:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38309"
+[12/12/2022 10:55:24 PM] [Info] Giving reaper vehicle 38309
+[12/12/2022 10:55:24 PM] [Info] [World] bean mna  [tiron]: "/i 58870"
+[12/12/2022 10:55:24 PM] [Info] Giving bean mna  item 58870:1
+[12/12/2022 10:55:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38310"
+[12/12/2022 10:55:34 PM] [Info] Giving reaper vehicle 38310
+[12/12/2022 10:55:34 PM] [Info] [World] bean mna  [tiron]: "/i 58216"
+[12/12/2022 10:55:34 PM] [Info] Giving bean mna  item 58216:1
+[12/12/2022 10:55:53 PM] [Info] [World] bean mna  [tiron]: "/i "6 rounds of 40x46mm he" 10"
+[12/12/2022 10:55:59 PM] [Info] Giving bean mna  item 58217:10
+[12/12/2022 10:55:59 PM] [Info] [World] bean mna  [tiron]: "/i 58220"
+[12/12/2022 10:55:59 PM] [Info] Giving bean mna  item 58220:1
+[12/12/2022 10:56:11 PM] [Info] [World] bean mna  [tiron]: "/i 59024"
+[12/12/2022 10:56:11 PM] [Info] Giving bean mna  item 59024:1
+[12/12/2022 10:56:18 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 58403"
+[12/12/2022 10:56:18 PM] [Info] Giving Red__Bear item 58403:1
+[12/12/2022 10:56:20 PM] [Info] [Group] Red__Bear [Delta-97]: "/i adapt"
+[12/12/2022 10:56:23 PM] [Info] Giving Red__Bear item 1007:1
+[12/12/2022 10:56:23 PM] [Info] [World] bean mna  [tiron]: "/i 59061"
+[12/12/2022 10:56:23 PM] [Info] Giving bean mna  item 59061:1
+[12/12/2022 10:56:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38310"
+[12/12/2022 10:56:32 PM] [Info] Giving reaper vehicle 38310
+[12/12/2022 10:56:32 PM] [Info] [Group] Red__Bear [Delta-97]: "/i rmr"
+[12/12/2022 10:56:34 PM] [Info] [World] bean mna  [tiron]: "/i 59213"
+[12/12/2022 10:56:43 PM] [Info] Giving bean mna  item 59213:1
+[12/12/2022 10:56:43 PM] [Info] [World] bean mna  [tiron]: "/i 58200"
+[12/12/2022 10:56:50 PM] [Info] Giving bean mna  item 58200:1
+[12/12/2022 10:56:50 PM] [Info] Red__Bear [Delta-97] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 10:56:52 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38311"
+[12/12/2022 10:57:00 PM] [Info] Giving reaper vehicle 38311
+[12/12/2022 10:57:00 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/12/2022 10:57:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:57:03 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:57:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38311"
+[12/12/2022 10:57:06 PM] [Info] Giving reaper vehicle 38311
+[12/12/2022 10:57:06 PM] [Info] [World] bean mna  [tiron]: "/i 58210"
+[12/12/2022 10:57:06 PM] [Info] Giving bean mna  item 58210:1
+[12/12/2022 10:57:13 PM] [Info] [World] bean mna  [tiron]: "/i 58211"
+[12/12/2022 10:57:13 PM] [Info] Giving bean mna  item 58211:1
+[12/12/2022 10:57:18 PM] [Info] [World] bean mna  [tiron]: "/i 58672"
+[12/12/2022 10:57:25 PM] [Info] Giving bean mna  item 58672:1
+[12/12/2022 10:57:25 PM] [Info] [World] bean mna  [tiron]: "/i 58800"
+[12/12/2022 10:57:25 PM] [Info] Giving bean mna  item 58800:1
+[12/12/2022 10:57:34 PM] [Info] Connecting: PlayerID: 76561198334369190 Name: Lagunastudios Character: Rob you UwU
+[12/12/2022 10:57:43 PM] [Info] [World] bean mna  [tiron]: "/i 59075"
+[12/12/2022 10:57:43 PM] [Info] Giving bean mna  item 59075:1
+[12/12/2022 10:57:43 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i minigun"
+[12/12/2022 10:57:45 PM] [Info] Giving reaper item 58768:1
+[12/12/2022 10:57:45 PM] [Info] [Group] Red__Bear [Delta-97]: "/i m240"
+[12/12/2022 10:57:45 PM] [Info] Giving Red__Bear item 38378:1
+[12/12/2022 10:57:45 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/tp red"
+[12/12/2022 10:57:45 PM] [Info] Rob you UwU teleported to Red__Bear
+[12/12/2022 10:57:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 10:58:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:58:02 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:58:12 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "m80a1"
+[12/12/2022 10:58:17 PM] [Info] Giving Rob you UwU item 58677:1
+[12/12/2022 10:58:17 PM] [Info] [World] bean mna  [tiron]: "/i 58063"
+[12/12/2022 10:58:17 PM] [Info] Giving bean mna  item 58063:1
+[12/12/2022 10:58:18 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "m80a1"]"
+[12/12/2022 10:58:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38312"
+[12/12/2022 10:58:28 PM] [Info] Giving reaper vehicle 38312
+[12/12/2022 10:58:28 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i rhin"
+[12/12/2022 10:58:39 PM] [Info] Giving Rob you UwU item 3045:1
+[12/12/2022 10:58:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/12/2022 10:58:39 PM] [Info] Giving reaper vehicle 38308
+[12/12/2022 10:58:54 PM] [Info] [Group] Red__Bear [Delta-97]: "/i m60"
+[12/12/2022 10:59:03 PM] [Info] Giving Red__Bear item 58540:1
+[12/12/2022 10:59:03 PM] [Info] [Group] Red__Bear [Delta-97]: "/i 58541"
+[12/12/2022 10:59:06 PM] [Info] Giving Red__Bear item 58541:1
+[12/12/2022 10:59:06 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i masterkey"
+[12/12/2022 10:59:10 PM] [Info] Giving Rob you UwU item 380:1
+[12/12/2022 10:59:10 PM] [Info] Red__Bear [Delta-97] was roadkilled by reaper [JACK THE RIPPER]!
+[12/12/2022 10:59:12 PM] [Info] bean mna  [tiron] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 10:59:12 PM] [Info] Rob you UwU [Lagunastudios] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 10:59:13 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp kab"
+[12/12/2022 10:59:15 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/tp red"
+[12/12/2022 10:59:15 PM] [Info] Rob you UwU teleported to Red__Bear
+[12/12/2022 10:59:22 PM] [Info] bean mna  [tiron] was shot in the arm by Rob you UwU [Lagunastudios]!
+[12/12/2022 10:59:28 PM] [Info] Red__Bear [Delta-97] was shot in the arm by reaper [JACK THE RIPPER]!
+[12/12/2022 10:59:31 PM] [Info] Rob you UwU [Lagunastudios] was blown up by reaper [JACK THE RIPPER] with an explosive bullet!
+[12/12/2022 10:59:47 PM] [Info] [World] bean mna  [tiron]: "/tp re"
+[12/12/2022 10:59:47 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 10:59:47 PM] [Info] Rob you UwU moved x:325.2422 y:64.66406(+16.34124) z:118.5703 in the last second (0.9976807)
+[12/12/2022 10:59:50 PM] [Info] reaper [JACK THE RIPPER] was blown up by a vehicle!
+[12/12/2022 10:59:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 10:59:54 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 10:59:58 PM] [Info] Red__Bear [Delta-97] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 10:59:58 PM] [Info] bean mna  [tiron] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 11:00:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 11:00:16 PM] [Info] [World] bean mna  [tiron]: "/i 58231"
+[12/12/2022 11:00:16 PM] [Info] Giving bean mna  item 58231:1
+[12/12/2022 11:00:17 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp kab"
+[12/12/2022 11:00:17 PM] [Info] Rob you UwU [Lagunastudios] was shot in the head by reaper [JACK THE RIPPER]!
+[12/12/2022 11:00:22 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp ord"
+[12/12/2022 11:00:22 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i 8x"
+[12/12/2022 11:00:24 PM] [Info] Giving Rob you UwU item 21:1
+[12/12/2022 11:00:24 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i vert"
+[12/12/2022 11:00:25 PM] [Info] Giving Rob you UwU item 8:1
+[12/12/2022 11:00:25 PM] [Info] [World] bean mna  [tiron]: "/i grip"
+[12/12/2022 11:00:26 PM] [Info] Giving bean mna  item 3103:1
+[12/12/2022 11:00:26 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp rob"
+[12/12/2022 11:00:26 PM] [Info] Red__Bear teleported to Rob you UwU
+[12/12/2022 11:00:26 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i adapt"
+[12/12/2022 11:00:30 PM] [Info] Giving Rob you UwU item 1007:1
+[12/12/2022 11:00:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "/v 38308"
+[12/12/2022 11:00:30 PM] [Info] Giving reaper vehicle 38308
+[12/12/2022 11:00:32 PM] [Info] [World] bean mna  [tiron]: "/i da"
+[12/12/2022 11:00:35 PM] [Info] Giving bean mna  item 95:1
+[12/12/2022 11:00:35 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 11:00:35 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 11:00:36 PM] [Info] [World] bean mna  [tiron]: "/i ada"
+[12/12/2022 11:00:38 PM] [Info] Giving bean mna  item 19504:1
+[12/12/2022 11:00:38 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i bipod"
+[12/12/2022 11:00:42 PM] [Info] Giving Rob you UwU item 143:1
+[12/12/2022 11:00:42 PM] [Info] [Group] Red__Bear [Delta-97]: "/i pink"
+[12/12/2022 11:00:43 PM] [Info] Giving Red__Bear item 58323:1
+[12/12/2022 11:00:43 PM] [Info] Red__Bear [Delta-97] was shot in the head by bean mna  [tiron]!
+[12/12/2022 11:00:45 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i253"
+[12/12/2022 11:00:47 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i 253"
+[12/12/2022 11:00:47 PM] [Info] Giving Rob you UwU item 253:1
+[12/12/2022 11:00:48 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 11:00:48 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 11:00:50 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i pink"
+[12/12/2022 11:01:01 PM] [Info] Giving Rob you UwU item 58323:1
+[12/12/2022 11:01:01 PM] [Info] [World] bean mna  [tiron]: "/i 58946"
+[12/12/2022 11:01:01 PM] [Info] Giving bean mna  item 58946:1
+[12/12/2022 11:01:02 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i pink"
+[12/12/2022 11:01:10 PM] [Info] Giving Rob you UwU item 58323:1
+[12/12/2022 11:01:10 PM] [Info] [World] bean mna  [tiron]: "/i eotech"
+[12/12/2022 11:01:11 PM] [Info] Giving bean mna  item 59091:1
+[12/12/2022 11:01:11 PM] [Info] [World] bean mna  [tiron]: "/i ada"
+[12/12/2022 11:01:27 PM] [Info] Giving bean mna  item 19504:1
+[12/12/2022 11:01:27 PM] [Info] [World] bean mna  [tiron]: "/i vert"
+[12/12/2022 11:01:29 PM] [Info] Giving bean mna  item 8:1
+[12/12/2022 11:01:29 PM] [Info] [World] bean mna  [tiron]: "/i kac"
+[12/12/2022 11:01:41 PM] [Info] Giving bean mna  item 58039:1
+[12/12/2022 11:01:41 PM] [Info] [World] bean mna  [tiron]: "/i "20rnd fal magazine""
+[12/12/2022 11:01:51 PM] [Info] Giving bean mna  item 58637:1
+[12/12/2022 11:01:51 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i nyker"
+[12/12/2022 11:01:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 11:01:53 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i ny"
+[12/12/2022 11:01:58 PM] [Info] Giving Rob you UwU item 1366:1
+[12/12/2022 11:01:58 PM] [Info] [World] bean mna  [tiron]: "/i "pg-7v heat" 10"
+[12/12/2022 11:01:59 PM] [Info] Giving bean mna  item 58077:10
+[12/12/2022 11:01:59 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/nyek"
+[12/12/2022 11:02:03 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i nye"
+[12/12/2022 11:02:18 PM] [Info] [World] bean mna  [tiron]: "/i rpgf"
+[12/12/2022 11:02:21 PM] [Info] [World] bean mna  [tiron]: "/i rpg"
+[12/12/2022 11:02:28 PM] [Info] Giving bean mna  item 19358:1
+[12/12/2022 11:02:28 PM] [Info] [World] bean mna  [tiron]: "/i "rpg-7""
+[12/12/2022 11:02:31 PM] [Info] Giving bean mna  item 38397:1
+[12/12/2022 11:02:31 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i 126"
+[12/12/2022 11:02:35 PM] [Info] Giving Rob you UwU item 126:1
+[12/12/2022 11:02:35 PM] [Info] [Group] Red__Bear [Delta-97]: "/i mistake"
+[12/12/2022 11:02:40 PM] [Info] Giving Red__Bear item 58764:1
+[12/12/2022 11:02:40 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i adapt"
+[12/12/2022 11:02:59 PM] [Info] Giving Rob you UwU item 1007:1
+[12/12/2022 11:02:59 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "ak55 magazine" 4"
+[12/12/2022 11:03:03 PM] [Info] Giving Rob you UwU item 58476:4
+[12/12/2022 11:03:03 PM] [Info] Red__Bear [Delta-97] was blown up by bean mna  [tiron] with an explosive bullet!
+[12/12/2022 11:03:05 PM] [Info] bean mna  [tiron] was blown up by reaper [JACK THE RIPPER] with a missile!
+[12/12/2022 11:03:06 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/experience 10"
+[12/12/2022 11:03:10 PM] [Info] Successfully gave Lagunastudios +10 experience!
+[12/12/2022 11:03:10 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/experience 1000"
+[12/12/2022 11:03:10 PM] [Info] Successfully gave Lagunastudios +1000 experience!
+[12/12/2022 11:03:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "20%"
+[12/12/2022 11:03:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "am not"
+[12/12/2022 11:03:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "look at log"
+[12/12/2022 11:03:45 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i doty"
+[12/12/2022 11:03:48 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i dot"
+[12/12/2022 11:03:57 PM] [Info] Giving Rob you UwU item 146:1
+[12/12/2022 11:03:57 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i rpg"
+[12/12/2022 11:04:04 PM] [Info] Giving Rob you UwU item 19358:1
+[12/12/2022 11:04:04 PM] [Info] [Group] Red__Bear [Delta-97]: "/teleport wp"
+[12/12/2022 11:04:04 PM] [Info] Successfully teleported Delta-97 to waypoint!
+[12/12/2022 11:04:05 PM] [Info] [World] bean mna  [tiron]: "/i gps"
+[12/12/2022 11:04:10 PM] [Info] Giving bean mna  item 1176:1
+[12/12/2022 11:04:10 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 11:04:10 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 11:04:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 11:04:10 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 11:04:11 PM] [Info] Red__Bear [Delta-97] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 11:04:11 PM] [Info] bean mna  [tiron] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 11:04:14 PM] [Info] Red__Bear moved x:325.2344 y:63.78339(+18.54367) z:117.5042 in the last second (0.1008911)
+[12/12/2022 11:04:17 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "nykorev box" 10"
+[12/12/2022 11:04:18 PM] [Info] Giving Rob you UwU item 127:10
+[12/12/2022 11:04:18 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp bean"
+[12/12/2022 11:04:18 PM] [Info] Red__Bear teleported to bean mna 
+[12/12/2022 11:04:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/12/2022 11:04:19 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/tp red"
+[12/12/2022 11:04:19 PM] [Info] Rob you UwU teleported to Red__Bear
+[12/12/2022 11:04:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/12/2022 11:04:27 PM] [Info] reaper teleported to Red__Bear
+[12/12/2022 11:04:29 PM] [Info] Rob you UwU [Lagunastudios] was shot in the head by bean mna  [tiron]!
+[12/12/2022 11:04:33 PM] [Info] bean mna  [tiron] was shot in the arm by reaper [JACK THE RIPPER]!
+[12/12/2022 11:04:35 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/12/2022 11:04:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "bitch am in 30%"
+[12/12/2022 11:04:41 PM] [Info] [Group] Red__Bear [Delta-97]: "/kill reaper"
+[12/12/2022 11:04:41 PM] [Info] Successfully killed JACK THE RIPPER!
+[12/12/2022 11:04:44 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "spec ops vest""
+[12/12/2022 11:04:49 PM] [Info] Giving Rob you UwU item 1169:1
+[12/12/2022 11:04:49 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "spec ops helm""
+[12/12/2022 11:04:50 PM] [Info] Giving Rob you UwU item 1525:1
+[12/12/2022 11:04:50 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 11:04:50 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 11:04:51 PM] [Info] [World] reaper [JACK THE RIPPER]: "your not good"
+[12/12/2022 11:05:00 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "forest military shirt""
+[12/12/2022 11:05:04 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "forest military top""
+[12/12/2022 11:05:05 PM] [Info] Giving Rob you UwU item 307:1
+[12/12/2022 11:05:05 PM] [Info] [World] reaper [JACK THE RIPPER]: "grow up bitch"
+[12/12/2022 11:05:17 PM] [Info] [World] bean mna  [tiron]: "/i 59201"
+[12/12/2022 11:05:17 PM] [Info] Giving bean mna  item 59201:1
+[12/12/2022 11:05:19 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "forest military bottom""
+[12/12/2022 11:05:23 PM] [Info] Giving Rob you UwU item 308:1
+[12/12/2022 11:05:23 PM] [Info] [World] bean mna  [tiron]: "/i hera"
+[12/12/2022 11:05:29 PM] [Info] Giving bean mna  item 58168:1
+[12/12/2022 11:05:29 PM] [Info] [World] bean mna  [tiron]: "/i etech"
+[12/12/2022 11:05:29 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "green bandana""
+[12/12/2022 11:05:30 PM] [Info] Giving Rob you UwU item 187:1
+[12/12/2022 11:05:30 PM] [Info] [Group] Red__Bear [Delta-97]: "/v m1a2"
+[12/12/2022 11:05:32 PM] [Info] Giving Red__Bear vehicle 38337
+[12/12/2022 11:05:32 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i 334"
+[12/12/2022 11:05:32 PM] [Info] Giving Rob you UwU item 334:1
+[12/12/2022 11:05:36 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/tp red"
+[12/12/2022 11:05:36 PM] [Info] Rob you UwU teleported to Red__Bear
+[12/12/2022 11:06:04 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "sp-6 30rnd""
+[12/12/2022 11:06:08 PM] [Info] [Group] Red__Bear [Delta-97]: "/i barret"
+[12/12/2022 11:06:08 PM] [Info] Giving Red__Bear item 58226:1
+[12/12/2022 11:06:08 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "sp-6 35rnd""
+[12/12/2022 11:06:11 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "sp-6 25rnd""
+[12/12/2022 11:06:16 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "sp-6 20rnd""
+[12/12/2022 11:06:17 PM] [Info] Giving Rob you UwU item 58271:1
+[12/12/2022 11:06:17 PM] [Info] [Group] Red__Bear [Delta-97]: "/i "barret m107 anti""
+[12/12/2022 11:06:20 PM] [Info] bean mna  [tiron] was shot in the head by Rob you UwU [Lagunastudios]!
+[12/12/2022 11:06:25 PM] [Info] [World] bean mna  [tiron]: "/tp ka"
+[12/12/2022 11:06:27 PM] [Info] [Area] Red__Bear [Delta-97]: "/i "barret m107 rifle""
+[12/12/2022 11:06:27 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 11:06:27 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 11:06:32 PM] [Info] Rob you UwU [Lagunastudios] was shot in the head by bean mna  [tiron]!
+[12/12/2022 11:06:34 PM] [Info] Rob you UwU moved x:325.2422 y:63.76721(+19.24658) z:118.5703 in the last second (0.1008301)
+[12/12/2022 11:06:45 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "sp-6 20rnd" 10"
+[12/12/2022 11:06:53 PM] [Info] Giving Rob you UwU item 58271:10
+[12/12/2022 11:06:53 PM] [Info] [World] bean mna  [tiron]: "/i "ghil"
+[12/12/2022 11:06:53 PM] [Info] Giving bean mna  item 235:1
+[12/12/2022 11:06:53 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/tp bean rob"
+[12/12/2022 11:06:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "am getting off"
+[12/12/2022 11:06:58 PM] [Info] [World] bean mna  [tiron]: "/i "ghil bottom""
+[12/12/2022 11:06:59 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/tp bean"
+[12/12/2022 11:06:59 PM] [Info] Rob you UwU teleported to bean mna 
+[12/12/2022 11:07:05 PM] [Info] [World] reaper [JACK THE RIPPER]: "get off"
+[12/12/2022 11:07:09 PM] [Info] [World] bean mna  [tiron]: "/i "ghillie bottom""
+[12/12/2022 11:07:10 PM] [Info] Giving bean mna  item 236:1
+[12/12/2022 11:07:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "bec of fucking schook"
+[12/12/2022 11:07:11 PM] [Info] [Group] Red__Bear [Delta-97]: "/i pink"
+[12/12/2022 11:07:20 PM] [Info] Giving Red__Bear item 58323:1
+[12/12/2022 11:07:20 PM] [Info] [World] bean mna  [tiron]: "/i "ghillie vest""
+[12/12/2022 11:07:20 PM] [Info] Giving bean mna  item 238:1
+[12/12/2022 11:07:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "some people have a life here"
+[12/12/2022 11:07:21 PM] [Info] [Group] Red__Bear [Delta-97]: "/i alty"
+[12/12/2022 11:07:24 PM] [Info] Giving Red__Bear item 31253:1
+[12/12/2022 11:07:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "byeeee guysss"
+[12/12/2022 11:07:35 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/12/2022 11:07:36 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "assult vest""
+[12/12/2022 11:07:39 PM] [Info] [Area] Red__Bear [Delta-97]: "/i 31252"
+[12/12/2022 11:07:39 PM] [Info] Giving Red__Bear item 31252:1
+[12/12/2022 11:07:41 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "assault vest""
+[12/12/2022 11:07:42 PM] [Info] Giving Rob you UwU item 34046:1
+[12/12/2022 11:07:42 PM] [Info] [World] Red__Bear [Delta-97]: "/i 31254"
+[12/12/2022 11:07:42 PM] [Info] Giving Red__Bear item 31254:1
+[12/12/2022 11:07:54 PM] [Info] [World] bean mna  [tiron]: "/i "ghillie hemlet""
+[12/12/2022 11:07:59 PM] [Info] [Group] Red__Bear [Delta-97]: "/heal"
+[12/12/2022 11:08:06 PM] [Info] [World] bean mna  [tiron]: "/i "ghillie hat""
+[12/12/2022 11:08:24 PM] [Info] [World] bean mna  [tiron]: "/i "ghillie hood""
+[12/12/2022 11:08:34 PM] [Info] Giving bean mna  item 237:1
+[12/12/2022 11:08:34 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "assault bullet-proof vest""
+[12/12/2022 11:08:42 PM] [Info] Giving Rob you UwU item 31254:1
+[12/12/2022 11:08:42 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "31255"
+[12/12/2022 11:09:08 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "balaclava"
+[12/12/2022 11:09:19 PM] [Info] Giving Rob you UwU item 37541:1
+[12/12/2022 11:09:19 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "bear base upper""
+[12/12/2022 11:09:20 PM] [Info] Giving Rob you UwU item 37504:1
+[12/12/2022 11:09:20 PM] [Info] Red__Bear [Delta-97] was blown up by bean mna  [tiron] with an explosive bullet!
+[12/12/2022 11:09:20 PM] [Info] bean mna  [tiron] was blown up by bean mna  [tiron] with an explosive bullet!
+[12/12/2022 11:09:22 PM] [Info] Rob you UwU moved x:-852.6321 y:88.91387(+32.32998) z:628.2784 in the last second (46.0324)
+[12/12/2022 11:09:23 PM] [Info] bean mna  moved x:324.8821 y:64.97788(+20.37519) z:119.4966 in the last second (1.348488)
+[12/12/2022 11:09:24 PM] [Info] Rob you UwU [Lagunastudios] fractured to death!
+[12/12/2022 11:09:25 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp bean"
+[12/12/2022 11:09:25 PM] [Info] Red__Bear teleported to bean mna 
+[12/12/2022 11:09:26 PM] [Info] Red__Bear moved x:317.8828 y:64.09747(+24.33956) z:115.8281 in the last second (0.1007957)
+[12/12/2022 11:09:30 PM] [Info] [Group] Red__Bear [Delta-97]: "/tp kab"
+[12/12/2022 11:09:32 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/tp bean"
+[12/12/2022 11:09:32 PM] [Info] Rob you UwU teleported to bean mna 
+[12/12/2022 11:09:33 PM] [Info] Rob you UwU moved x:327.0391 y:63.85974(+24.10183) z:119.8359 in the last second (0.1008301)
+[12/12/2022 11:09:34 PM] [Info] bean mna  [tiron] was shot in the arm by Rob you UwU [Lagunastudios]!
+[12/12/2022 11:09:45 PM] [Info] [Group] Red__Bear [Delta-97]: "/i dash24"
+[12/12/2022 11:09:54 PM] [Info] Giving Red__Bear item 34920:1
+[12/12/2022 11:09:54 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 11:09:54 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 11:09:55 PM] [Info] bean mna  moved x:332.7578 y:64.49583(+24.73792) z:111.3984 in the last second (0.1014175)
+[12/12/2022 11:09:58 PM] [Info] [Group] Red__Bear [Delta-97]: "/i documents"
+[12/12/2022 11:10:04 PM] [Info] Giving Red__Bear item 19721:1
+[12/12/2022 11:10:04 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i 15 10"
+[12/12/2022 11:10:04 PM] [Info] Giving Rob you UwU item 15:10
+[12/12/2022 11:10:06 PM] [Info] bean mna  [tiron] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 11:10:06 PM] [Info] Rob you UwU [Lagunastudios] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 11:10:08 PM] [Info] Red__Bear [Delta-97] bled to death!
+[12/12/2022 11:10:14 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/tp bean"
+[12/12/2022 11:10:14 PM] [Info] Rob you UwU teleported to bean mna 
+[12/12/2022 11:10:15 PM] [Info] Rob you UwU moved x:332.5547 y:64.53391(+19.93122) z:109.6719 in the last second (0.1014175)
+[12/12/2022 11:10:18 PM] [Info] [Group] Red__Bear [Delta-97]: "/i benelli"
+[12/12/2022 11:10:35 PM] [Info] Giving Red__Bear item 58197:1
+[12/12/2022 11:10:35 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 11:10:35 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 11:10:35 PM] [Info] [Group] Red__Bear [Delta-97]: "/i buck"
+[12/12/2022 11:10:35 PM] [Info] Giving Red__Bear item 19562:1
+[12/12/2022 11:10:35 PM] [Info] bean mna  moved x:333.6172 y:64.69912(+24.44649) z:107.8672 in the last second (0.1019516)
+[12/12/2022 11:10:47 PM] [Info] bean mna  [tiron] was blown up by bean mna  [tiron] with a missile!
+[12/12/2022 11:10:50 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/i "sp-6 20rnd" 10"
+[12/12/2022 11:11:06 PM] [Info] Giving Rob you UwU item 58271:10
+[12/12/2022 11:11:06 PM] [Info] [World] bean mna  [tiron]: "/tp red"
+[12/12/2022 11:11:06 PM] [Info] bean mna  teleported to Red__Bear
+[12/12/2022 11:11:06 PM] [Info] bean mna  moved x:344.4063 y:66.04688(+18.00912) z:111.0625 in the last second (0.6004639)
+[12/12/2022 11:11:09 PM] [Info] bean mna  [tiron] was shot in the arm by Rob you UwU [Lagunastudios]!
+[12/12/2022 11:11:15 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/invisable"
+[12/12/2022 11:11:27 PM] [Info] [World] Rob you UwU [Lagunastudios]: "/kick bean"
+[12/12/2022 11:11:27 PM] [Info] Successfully kicked tiron!
+[12/12/2022 11:11:27 PM] [Info] [Group] Red__Bear [Delta-97]: "/reputation red 100"
+[12/12/2022 11:11:27 PM] [Info] Successfully gave Delta-97 +100 reputation!
+[12/12/2022 11:11:36 PM] [Info] [Group] Red__Bear [Delta-97]: "/kick rob"
+[12/12/2022 11:11:38 PM] [Info] Successfully kicked Lagunastudios!
+[12/12/2022 11:11:38 PM] [Info] [Group] Red__Bear [Delta-97]: "/kick red"
+[12/12/2022 11:15:56 PM] [Info] Successfully kicked Delta-97!
+[12/12/2022 11:15:56 PM] [Info] 
+[unloading] uEssentials

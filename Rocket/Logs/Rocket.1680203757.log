@@ -1,0 +1,853 @@
+[3/29/2023 4:56:54 PM] [Info] Steam servers ready!
+[3/29/2023 4:56:54 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[3/29/2023 4:56:54 PM] [Info] 9 workshop item(s) requested
+[3/29/2023 4:56:54 PM] [Info] Submitting workshop query for 9 item(s)...
+[3/29/2023 4:56:54 PM] [Info] Workshop query yielded 9 result(s)
+[3/29/2023 4:56:54 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[3/29/2023 4:56:54 PM] [Info] 1516033219 'Carpat Bundles' queued for download
+[3/29/2023 4:56:54 PM] [Info] 2839462324 'Uncreated Content' queued for download
+[3/29/2023 4:56:54 PM] [Info] 2541661347 'Tyrant's Arctic Apparel' queued for download
+[3/29/2023 4:56:54 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[3/29/2023 4:56:54 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[3/29/2023 4:56:54 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[3/29/2023 4:56:54 PM] [Info] 2099073425 'Paradise Stereo [3.28]' queued for download
+[3/29/2023 4:56:54 PM] [Info] 2365700338 'Vanilla Vehicles 2' queued for download
+[3/29/2023 4:56:54 PM] [Info] 2852980785 'Alaska' queued for download
+[3/29/2023 4:56:54 PM] [Info] 2852980785 'Alaska' has 9 children
+[3/29/2023 4:56:54 PM] [Info] 	1232252658 (already queued)
+[3/29/2023 4:56:54 PM] [Info] 	1516033219 (already queued)
+[3/29/2023 4:56:54 PM] [Info] 	2069342497 (already queued)
+[3/29/2023 4:56:54 PM] [Info] 	2099073425 (already queued)
+[3/29/2023 4:56:54 PM] [Info] 	2365700338 (already queued)
+[3/29/2023 4:56:54 PM] [Info] 	2541661347 (already queued)
+[3/29/2023 4:56:54 PM] [Info] 	1717095606 (already queued)
+[3/29/2023 4:56:54 PM] [Info] 	2133808330
+[3/29/2023 4:56:54 PM] [Info] 	2839462324 (already queued)
+[3/29/2023 4:56:54 PM] [Info] 1717095606 'Creator Tools' queued for download
+[3/29/2023 4:56:54 PM] [Info] Submitting workshop query for 1 item(s)...
+[3/29/2023 4:56:54 PM] [Info] Workshop query yielded 1 result(s)
+[3/29/2023 4:56:54 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[3/29/2023 4:56:54 PM] [Info] 2133808330 'Music Remaster 3.0' queued for download
+[3/29/2023 4:56:54 PM] [Info] 10 workshop item(s) to download...
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 1516033219
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 1516033219
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 1516033219
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 2839462324
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 2839462324
+[3/29/2023 4:57:49 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:57:49 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Error] Missing effect gameobject
+[3/29/2023 4:57:49 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:57:49 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:57:49 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Error] Missing effect gameobject
+[3/29/2023 4:57:49 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:57:49 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:57:49 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Error] Missing effect gameobject
+[3/29/2023 4:57:49 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:57:49 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:57:49 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Error] Missing effect gameobject
+[3/29/2023 4:57:49 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:57:49 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:57:49 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Error] Missing effect gameobject
+[3/29/2023 4:57:49 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:57:49 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:57:49 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Error] Missing effect gameobject
+[3/29/2023 4:57:49 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:57:49 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:57:49 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Error] Missing effect gameobject
+[3/29/2023 4:57:49 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:57:49 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:57:49 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Error] Missing effect gameobject
+[3/29/2023 4:57:49 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 2839462324
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 2541661347
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 2541661347
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 2541661347
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 2069342497
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 2069342497
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 2069342497
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 1232252658
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 1232252658
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 1232252658
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 2099073425
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 2099073425
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 2099073425
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 2365700338
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 2365700338
+[3/29/2023 4:57:49 PM] [Error] Value cannot be null.
+Parameter name: key
+[3/29/2023 4:57:49 PM] [Error]   at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryGetValue (TKey key, TValue& value) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader.readDictionary (System.IO.StreamReader input, System.Collections.Generic.Dictionary`2[TKey,TValue] scope) [0x000fe] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader..ctor (System.IO.StreamReader input) [0x00019] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader.readDictionary (System.IO.StreamReader input, System.Collections.Generic.Dictionary`2[TKey,TValue] scope) [0x00124] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader..ctor (System.IO.StreamReader input) [0x00019] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0002f] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 2365700338
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 2852980785
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 2852980785
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 2852980785
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 1717095606
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 1717095606
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 1717095606
+[3/29/2023 4:57:49 PM] [Info] Workshop item found in cache: 2133808330
+[3/29/2023 4:57:49 PM] [Info] Installing workshop item: 2133808330
+[3/29/2023 4:57:49 PM] [Info] Installed workshop item: 2133808330
+[3/29/2023 4:57:49 PM] [Info] Monitoring workshop map 'Alaska' (2852980785) for changes
+[3/29/2023 4:57:49 PM] [Info] Loading level: 8%
+[3/29/2023 4:57:49 PM] [Error] Object with no asset in region 20, 23: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 22: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 22: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 22: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 22: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 22: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 22: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 22: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 37: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 37: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 37: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 37: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 37: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 37: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 22, 37: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45707 0e50d50f-c3c2-4161-baef-e3496e87da4e
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 23, 26: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45706 3307f52d-4984-495c-9fa0-622f96b9754f
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45705 6433b2fb-c657-482d-9d8f-980b2523f616
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45707 0e50d50f-c3c2-4161-baef-e3496e87da4e
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 6109 b6eb4804-07cb-44c0-93d8-02c823de634b
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45757 3f5f9f6b-7518-4669-97cc-3d423a4cbecc
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 25: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45755 b38987db-014c-43fb-a3b6-a3b1f8ac10f5
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45762 679e5093-068e-4efe-af9c-0e888db8a89c
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45765 ee3039c3-4ba4-44f8-9502-87c330b26f72
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45753 df888165-310a-4342-8c4f-7bac4b6b5fbb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45753 df888165-310a-4342-8c4f-7bac4b6b5fbb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45751 342f1332-42d9-4d0f-b723-7e6e044d5847
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45757 3f5f9f6b-7518-4669-97cc-3d423a4cbecc
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 26: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 24, 39: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 28: 6616 cd7cd0d2-476b-4f14-8a8e-64ec36bcadae
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 28: 6616 cd7cd0d2-476b-4f14-8a8e-64ec36bcadae
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 32: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 33: 6106 d55a23f4-846c-4aa6-97b9-12db25cecc38
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 26, 33: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 27, 27: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 32: 45762 679e5093-068e-4efe-af9c-0e888db8a89c
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45774 9b0690a8-5a21-43e8-b89a-42fb265cf9b9
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 28, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 29, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 29, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 29, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 29, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 29, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 29, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 29, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 30, 32: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 30, 32: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 30, 32: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 30, 32: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 30, 32: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 30, 32: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 30, 32: 45743 71a12818-efda-49ea-aa8f-ca09987fc7fb
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 32, 28: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 32, 30: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 32, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 32, 43: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 33, 39: 45678 ca55b823-013d-4b1f-97a9-bcaadc621892
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 34, 29: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 34, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 34, 42: 45678 ca55b823-013d-4b1f-97a9-bcaadc621892
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 34, 42: 45678 ca55b823-013d-4b1f-97a9-bcaadc621892
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 34, 42: 45678 ca55b823-013d-4b1f-97a9-bcaadc621892
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 34, 42: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 35, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 36, 31: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 36, 33: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 36, 44: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 38, 29: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 38, 30: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 38, 32: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 40, 29: 45711 d8585964-2730-4e07-8d9e-84e9c40c69ac
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 40, 36: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 40, 36: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 40, 36: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 40, 36: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 40, 36: 45700 56ac7216-a828-4b6e-9fa8-25e8c024bd1c
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 45: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 45: 6109 b6eb4804-07cb-44c0-93d8-02c823de634b
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 45: 45704 aef75dfe-33ba-47d6-8b9f-b32b920f6768
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 41, 45: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 42, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 42, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 42, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 42, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 42, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 42, 32: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 43, 41: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45696 9da5acc7-a3eb-441f-8497-8966bf16eca2
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45703 1ea78d9e-7c16-4eb3-b3b9-afa138424c2a
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45707 0e50d50f-c3c2-4161-baef-e3496e87da4e
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45707 0e50d50f-c3c2-4161-baef-e3496e87da4e
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 6103 c9284eb7-67d3-453d-88f3-7cfdf30aaaab
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Error] Object with no asset in region 44, 35: 45747 3bd16b8a-2ef6-43d2-8bd1-a4c7f2ba6e1d
+[3/29/2023 4:57:52 PM] [Info] Loading level: 16%
+[3/29/2023 4:57:52 PM] [Info] Loading level: 25%
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 22, 27: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 22, 27: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 22, 27: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 25, 24: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 25, 24: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 25, 27: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 28, 32: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 28, 33: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 28, 33: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 28, 33: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 28, 33: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 39, 34: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 40, 31: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 40, 31: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 40, 31: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 40, 31: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 40, 32: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 41, 32: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 41, 32: 2011
+[3/29/2023 4:57:53 PM] [Error] Tree with no asset in region 43, 33: 2011
+[3/29/2023 4:57:53 PM] [Info] Loading level: 33%
+[3/29/2023 4:57:53 PM] [Info] Loading level: 41%
+[3/29/2023 4:57:53 PM] [Info] Loading level: 50%
+[3/29/2023 4:57:53 PM] [Info] Loading level: 58%
+[3/29/2023 4:57:54 PM] [Info] Loading level: 66%
+[3/29/2023 4:57:54 PM] [Info] Loading level: 75%
+[3/29/2023 4:57:54 PM] [Info] Loading level: 83%
+[3/29/2023 4:57:54 PM] [Info] Loading level: 91%
+[3/29/2023 5:09:18 PM] [Info] Loading level: 100%
+[3/29/2023 5:09:18 PM] [Info] Lost connection to Steam servers because k_EResultServiceUnavailable
+[3/29/2023 5:09:27 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/29/2023 5:15:32 PM] [Info] BattlEye Server: Player #0 Shake (73.253.101.49:57999) connected
+[3/29/2023 5:15:33 PM] [Info] BattlEye Server: Player #0 Shake - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[3/29/2023 5:15:33 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 5:15:33 PM] [Info] BattlEye Server: Connected to BE Master
+[3/29/2023 5:17:48 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 5:17:48 PM] [Info] BattlEye Server: Player #0 Shake disconnected
+[3/29/2023 5:18:43 PM] [Info] BattlEye Server: Player #0 Shake (73.253.101.49:57429) connected
+[3/29/2023 5:18:43 PM] [Info] BattlEye Server: Player #0 Shake - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[3/29/2023 5:19:55 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 5:19:55 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 5:19:55 PM] [Info] BattlEye Server: Player #0 Shake disconnected
+[3/29/2023 5:22:22 PM] [Info] BattlEye Server: Player #0 Shake (73.253.101.49:53838) connected
+[3/29/2023 5:22:22 PM] [Info] BattlEye Server: Player #0 Shake - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[3/29/2023 5:32:25 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 5:32:25 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 5:32:25 PM] [Info] BattlEye Server: Player #0 Shake disconnected
+[3/29/2023 5:32:25 PM] [Info] Player finished session: 76561199035738472
+[3/29/2023 5:34:06 PM] [Info] BattlEye Server: Player #0 Shake (73.253.101.49:59888) connected
+[3/29/2023 5:34:06 PM] [Info] BattlEye Server: Player #0 Shake - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[3/29/2023 5:50:02 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 5:50:02 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 5:50:02 PM] [Info] BattlEye Server: Player #0 Shake disconnected
+[3/29/2023 6:05:04 PM] [Info] BattlEye Server: Player #0 Shake (73.253.101.49:61260) connected
+[3/29/2023 6:05:04 PM] [Info] BattlEye Server: Player #0 Shake - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[3/29/2023 6:07:45 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 6:07:45 PM] [Info] Shake [Shake] was mauled by an animal!
+[3/29/2023 6:10:01 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/29/2023 6:10:01 PM] [Info] BattlEye Server: Player #0 Shake disconnected
+[3/29/2023 6:30:38 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[3/29/2023 7:04:50 PM] [Info] BattlEye Server: Failed to receive from BE Master (0)
+[3/29/2023 7:04:50 PM] [Info] BattlEye Server: Disconnected from BE Master
+[3/30/2023 1:18:22 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[3/30/2023 1:31:28 AM] [Info] BattlEye Server: Player #0 Lagunastudios (24.10.47.186:58211) connected
+[3/30/2023 1:31:28 AM] [Info] BattlEye Server: Player #0 Lagunastudios - BE GUID: 93a5fd09183ed672330b59dd16bb82ae
+[3/30/2023 1:31:29 AM] [Info] Connecting: PlayerID: 76561198334369190 Name: Lagunastudios Character: Happytoast767
+[3/30/2023 1:31:29 AM] [Info] BattlEye Server: Connected to BE Master
+[3/30/2023 1:31:37 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/day"
+[3/30/2023 1:31:37 AM] [Info] Successfully set time to day!
+[3/30/2023 1:31:41 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/godmode"
+[3/30/2023 1:31:43 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/god"
+[3/30/2023 1:31:47 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/infiniteammo"
+[3/30/2023 1:32:01 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/unlimitedammo"
+[3/30/2023 1:32:08 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/i chart"
+[3/30/2023 1:32:18 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/i bull dog"
+[3/30/2023 1:32:22 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/i bulldog"
+[3/30/2023 1:32:29 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/i vert"
+[3/30/2023 1:32:36 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment vert"
+[3/30/2023 1:32:40 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment hor"
+[3/30/2023 1:32:53 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 150"
+[3/30/2023 1:33:09 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment adapt"
+[3/30/2023 1:33:28 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 113"
+[3/30/2023 1:33:50 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 301"
+[3/30/2023 1:34:04 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 100"
+[3/30/2023 1:34:24 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 1006"
+[3/30/2023 1:34:34 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 1005"
+[3/30/2023 1:34:41 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 1381"
+[3/30/2023 1:34:56 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 381"
+[3/30/2023 1:35:10 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 113"
+[3/30/2023 1:35:36 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 1200"
+[3/30/2023 1:35:48 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 1177"
+[3/30/2023 1:36:12 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 1483"
+[3/30/2023 1:36:27 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 149"
+[3/30/2023 1:36:37 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 150"
+[3/30/2023 1:36:42 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment hor"
+[3/30/2023 1:36:51 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment hor"
+[3/30/2023 1:36:59 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment hor"
+[3/30/2023 1:37:04 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment vert"
+[3/30/2023 1:37:18 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 7"
+[3/30/2023 1:37:36 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 134"
+[3/30/2023 1:37:56 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 1201"
+[3/30/2023 1:38:07 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 1443"
+[3/30/2023 1:38:27 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment dot"
+[3/30/2023 1:38:36 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment hor"
+[3/30/2023 1:38:46 AM] [Info] [World] Happytoast767 [Lagunastudios]: "/attachment 381"
+[3/30/2023 1:38:50 AM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[3/30/2023 1:38:50 AM] [Info] BattlEye Server: Disconnected from BE Master
+[3/30/2023 1:38:51 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[3/30/2023 1:38:51 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:38:57 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:39:08 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:39:08 AM] [Info] Disconnecting: PlayerID: 76561198334369190 Name: Lagunastudios Character: Happytoast767
+[3/30/2023 1:39:08 AM] [Info] BattlEye Server: Player #0 Lagunastudios disconnected
+[3/30/2023 1:39:20 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:39:34 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:39:55 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:39:58 AM] [Info] BattlEye Server: Master query timed out, no response from BE Master
+[3/30/2023 1:40:23 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:40:58 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:41:54 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:43:15 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:45:08 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:47:39 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:50:33 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 1:57:26 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:00:37 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:06:50 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:11:03 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:18:03 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:20:34 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:23:15 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:28:24 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:35:22 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:38:18 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:42:03 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:47:14 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:53:14 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 2:56:56 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:02:52 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:08:28 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:15:12 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:20:05 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:23:54 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:29:38 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:35:11 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:38:25 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:43:49 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:49:55 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:54:03 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 3:57:19 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:04:35 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:11:16 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:18:30 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:23:35 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:29:41 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:32:18 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:36:57 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:40:13 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:44:33 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:47:57 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:54:41 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 4:59:38 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:05:59 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:10:28 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:14:33 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:20:08 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:25:54 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:32:58 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:36:45 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:44:00 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:50:02 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 5:55:05 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:02:11 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:08:55 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:12:21 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:16:03 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:18:58 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:25:16 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:32:04 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:38:34 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:43:36 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:48:23 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 6:53:07 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 7:00:22 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 7:07:14 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 7:11:44 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 7:19:10 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 7:24:56 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 7:29:51 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 9:20:34 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 9:20:37 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 9:20:41 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 9:20:50 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/30/2023 9:25:11 AM] [Info] 
+[unloading] Teleportation

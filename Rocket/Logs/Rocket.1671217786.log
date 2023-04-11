@@ -1,0 +1,292 @@
+[12/16/2022 1:39:28 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[12/16/2022 1:39:28 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[12/16/2022 1:39:28 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[12/16/2022 1:39:28 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[12/16/2022 1:39:31 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[12/16/2022 1:39:31 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[12/16/2022 1:39:31 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[12/16/2022 1:39:31 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[12/16/2022 1:39:31 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[12/16/2022 1:39:31 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[12/16/2022 1:39:31 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[12/16/2022 1:39:31 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[12/16/2022 1:39:31 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[12/16/2022 1:39:31 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[12/16/2022 1:39:31 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[12/16/2022 1:39:31 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[12/16/2022 1:39:31 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[12/16/2022 1:39:31 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[12/16/2022 1:39:31 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[12/16/2022 1:39:31 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[12/16/2022 1:39:31 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[12/16/2022 1:39:31 PM] [Info] Loading Feli.RocketMod.JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\Feli.RocketMod.JoinLeaveMessages.dll
+[12/16/2022 1:39:31 PM] [Info] Loading Feli.RocketMod.Teleporting from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\Feli.RocketMod.Teleporting.dll
+[12/16/2022 1:39:31 PM] [Info] Loading GarageLite from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\GarageLite.dll
+[12/16/2022 1:39:31 PM] [Info] Loading InfiniteEnergy from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\InfiniteEnergy.dll
+[12/16/2022 1:39:31 PM] [Info] Loading MoreHomes from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\MoreHomes.dll
+[12/16/2022 1:39:31 PM] [Info] Loading ReponseMod_HiddenName from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\ReponseMod_HiddenName.dll
+[12/16/2022 1:39:31 PM] [Info] Loading uEssentials from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\uEssentials.dll
+[12/16/2022 1:39:31 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp-firstpass
+[12/16/2022 1:39:32 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp
+[12/16/2022 1:39:32 PM] [Error] Invalid or outdated plugin assembly: Rocket.API
+[12/16/2022 1:39:32 PM] [Error] Invalid or outdated plugin assembly: Rocket.Core
+[12/16/2022 1:39:32 PM] [Error] Invalid or outdated plugin assembly: Rocket.Unturned
+[12/16/2022 1:39:32 PM] [Error] Invalid or outdated plugin assembly: UnityEngine.CoreModule
+[12/16/2022 1:39:32 PM] [Error] Invalid or outdated plugin assembly: UnityEngine
+[12/16/2022 1:39:32 PM] [Error] Invalid or outdated plugin assembly: Newtonsoft.Json
+[12/16/2022 1:39:32 PM] [Info] 
+[loading] Feli.RocketMod.JoinLeaveMessages
+[12/16/2022 1:39:32 PM] [Info] Feli.RocketMod.JoinLeaveMessages >> JoinLeaveMessages plugin v1.0.2 loaded !
+[12/16/2022 1:39:32 PM] [Info] Feli.RocketMod.JoinLeaveMessages >> Do you want more cool plugins? Join now: https://discord.gg/4FF2548 !
+[12/16/2022 1:39:32 PM] [Info] 
+[loading] Feli.RocketMod.Teleporting
+[12/16/2022 1:39:32 PM] [Info] [registered] /tpa (Feli.RocketMod.Teleporting.Commands.TpaCommand/tpa)
+[12/16/2022 1:39:32 PM] [Info] [registered] /tpr (Feli.RocketMod.Teleporting.Commands.TpaCommand/tpr)
+[12/16/2022 1:39:32 PM] [Info] Feli.RocketMod.Teleporting >> Teleporting plugin v1.6.4 loaded !
+[12/16/2022 1:39:32 PM] [Info] Feli.RocketMod.Teleporting >> Do you want more cool plugins? Join now: https://discord.gg/4FF2548 !
+[12/16/2022 1:39:32 PM] [Info] Feli.RocketMod.Teleporting >> Economy Provider: ExperienceEconomyProvider
+[12/16/2022 1:39:32 PM] [Info] 
+[loading] GarageLite
+[12/16/2022 1:39:32 PM] [Info] [registered] /gadd (GarageLite.Code/gadd)
+[12/16/2022 1:39:32 PM] [Info] [registered] /garageadd (GarageLite.Code/garageadd)
+[12/16/2022 1:39:32 PM] [Info] [registered] /vadd (GarageLite.Code/vadd)
+[12/16/2022 1:39:32 PM] [Info] [registered] /glist (GarageLite.Vlist/glist)
+[12/16/2022 1:39:32 PM] [Info] [registered] /garagelist (GarageLite.Vlist/garagelist)
+[12/16/2022 1:39:32 PM] [Info] [registered] /vlist (GarageLite.Vlist/vlist)
+[12/16/2022 1:39:32 PM] [Info] [registered] /gretrieve (GarageLite.Vretrieve/gretrieve)
+[12/16/2022 1:39:32 PM] [Info] [registered] /garageretrieve (GarageLite.Vretrieve/garageretrieve)
+[12/16/2022 1:39:32 PM] [Info] [registered] /vretrieve (GarageLite.Vretrieve/vretrieve)
+[12/16/2022 1:39:32 PM] [Warning] ++++++++++++++++++++++++++++++++++++++
+[12/16/2022 1:39:32 PM] [Warning] [GarageLite] has been loaded!
+[12/16/2022 1:39:32 PM] [Warning] Dev: MQS#7816
+[12/16/2022 1:39:32 PM] [Warning] Join this Discord for Support: https://discord.gg/Ssbpd9cvgp
+[12/16/2022 1:39:32 PM] [Warning] ++++++++++++++++++++++++++++++++++++++
+[12/16/2022 1:39:32 PM] [Info] 
+[loading] InfiniteEnergy
+[12/16/2022 1:39:32 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/16/2022 1:39:32 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/16/2022 1:39:32 PM] [Info] 
+[loading] ReponseMod_HiddenName
+[12/16/2022 1:39:32 PM] [Info] 
+[loading] uEssentials
+[12/16/2022 1:39:32 PM] [Error] Failed to load uEssentials, unloading now... :System.MissingMethodException: SDG.Unturned.ConsoleInput SDG.Unturned.CommandWindow.get_input()
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00033] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/16/2022 1:39:32 PM] [Info] 
+[unloading] uEssentials
+[12/16/2022 1:39:32 PM] [Error] Failed to unload uEssentials:System.MissingMethodException: SDG.Unturned.ConsoleInput SDG.Unturned.CommandWindow.get_input()
+  at Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (Rocket.API.PluginState state) [0x0003b] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x0005c] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/16/2022 1:39:32 PM] [Info] This server will automatically save every 1800 seconds
+[12/16/2022 1:39:32 PM] [Info] Steam servers ready!
+[12/16/2022 1:39:32 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/MyServer/Workshop/Steam
+[12/16/2022 1:39:32 PM] [Info] 1 workshop item(s) requested
+[12/16/2022 1:39:32 PM] [Info] Submitting workshop query for 1 item(s)...
+[12/16/2022 1:39:32 PM] [Info] Workshop query yielded 1 result(s)
+[12/16/2022 1:39:32 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/16/2022 1:39:32 PM] [Info] 2899517511 'LFO Mods' has 15 children
+[12/16/2022 1:39:32 PM] [Info] 	1232252658
+[12/16/2022 1:39:32 PM] [Info] 	2528363491
+[12/16/2022 1:39:32 PM] [Info] 	2309977886
+[12/16/2022 1:39:32 PM] [Info] 	2407744519
+[12/16/2022 1:39:32 PM] [Info] 	2407742380
+[12/16/2022 1:39:32 PM] [Info] 	1959614756
+[12/16/2022 1:39:32 PM] [Info] 	1727733956
+[12/16/2022 1:39:32 PM] [Info] 	2069342497
+[12/16/2022 1:39:32 PM] [Info] 	2463099029
+[12/16/2022 1:39:32 PM] [Info] 	2519307620
+[12/16/2022 1:39:32 PM] [Info] 	1717095606
+[12/16/2022 1:39:32 PM] [Info] 	2796081018
+[12/16/2022 1:39:32 PM] [Info] 	2427849541
+[12/16/2022 1:39:32 PM] [Info] 	2454681372
+[12/16/2022 1:39:32 PM] [Info] 	1909152337
+[12/16/2022 1:39:32 PM] [Info] Submitting workshop query for 15 item(s)...
+[12/16/2022 1:39:32 PM] [Info] Workshop query yielded 15 result(s)
+[12/16/2022 1:39:32 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/16/2022 1:39:32 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2528363491 'Wind Vehicles' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2309977886 'Wind Cars 2.0' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2407744519 'Uncreated Vehicles' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2407742380 'Uncreated Clothes' queued for download
+[12/16/2022 1:39:32 PM] [Info] 1959614756 'The Far East Conflict | Nordic Studios™ | Nordic Armory 3.0 [3.28+]' queued for download
+[12/16/2022 1:39:32 PM] [Info] 1727733956 'Pento's Tactical Apparel' queued for download
+[12/16/2022 1:39:32 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[12/16/2022 1:39:32 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2463099029 'A.C.M.S. Unturnov Armors | WIP version 1.1.2' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2519307620 'Medicals of Unturnov II | WIP version 1.0.1' queued for download
+[12/16/2022 1:39:32 PM] [Info] 1717095606 'Creator Tools' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2796081018 'Nordic Compatable Arid' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2427849541 'Dark Valley' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2427849541 'Dark Valley' has 16 children
+[12/16/2022 1:39:32 PM] [Info] 	1232252658 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	1727733956 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	1959614756 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	1975500516
+[12/16/2022 1:39:32 PM] [Info] 	2069342497 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	2309977886 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	2528363491 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	2454681372 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	2407744519 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	2407742380 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	2099073425
+[12/16/2022 1:39:32 PM] [Info] 	2796081018 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	2519307620 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	1717095606 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	2463099029 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 	1909152337 (already queued)
+[12/16/2022 1:39:32 PM] [Info] 2454681372 'Raum's Lockers' queued for download
+[12/16/2022 1:39:32 PM] [Info] 1909152337 'California Assets' queued for download
+[12/16/2022 1:39:32 PM] [Info] Submitting workshop query for 2 item(s)...
+[12/16/2022 1:39:32 PM] [Info] Workshop query yielded 2 result(s)
+[12/16/2022 1:39:32 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/16/2022 1:39:32 PM] [Info] 1975500516 '[Official] France (Updated June 2021)' queued for download
+[12/16/2022 1:39:32 PM] [Info] 2099073425 'Paradise Stereo [3.28]' queued for download
+[12/16/2022 1:39:32 PM] [Info] 17 workshop item(s) to download...
+[12/16/2022 1:39:46 PM] [Info] Workshop item found in cache: 1232252658
+[12/16/2022 1:39:46 PM] [Info] Installing workshop item: 1232252658
+[12/16/2022 1:39:46 PM] [Info] Installed workshop item: 1232252658
+[12/16/2022 1:39:46 PM] [Info] Workshop item found in cache: 2528363491
+[12/16/2022 1:39:46 PM] [Info] Installing workshop item: 2528363491
+[12/16/2022 1:39:46 PM] [Info] Installed workshop item: 2528363491
+[12/16/2022 1:39:46 PM] [Info] Workshop item 2309977886 found in cache, but remote (12/16/2022 9:32:34 AM) is newer than local (12/11/2022 11:13:57 AM)
+[12/16/2022 1:39:46 PM] [Info] Downloading workshop item: 2309977886
+[12/16/2022 1:39:46 PM] [Info] Successfully downloaded workshop item: 2309977886
+[12/16/2022 1:39:46 PM] [Info] Installing workshop item: 2309977886
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2309977886
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2407744519
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2407744519
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2407744519
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2407742380
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2407742380
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2407742380
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 1959614756
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 1959614756
+[12/16/2022 1:40:42 PM] [Error] Exception has been thrown by the target of an invocation.
+[12/16/2022 1:40:42 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <3142eb90e85d4a4aa20280507237d693>:0 
+[12/16/2022 1:40:42 PM] [Error] Missing effect gameobject
+[12/16/2022 1:40:42 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <3142eb90e85d4a4aa20280507237d693>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 1959614756
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 1727733956
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 1727733956
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 1727733956
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2069342497
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2069342497
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2069342497
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2463099029
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2463099029
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2463099029
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2519307620
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2519307620
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2519307620
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 1717095606
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 1717095606
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 1717095606
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2796081018
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2796081018
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2796081018
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2427849541
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2427849541
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2427849541
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2454681372
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2454681372
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2454681372
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 1909152337
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 1909152337
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 1909152337
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 1975500516
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 1975500516
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 1975500516
+[12/16/2022 1:40:42 PM] [Info] Workshop item found in cache: 2099073425
+[12/16/2022 1:40:42 PM] [Info] Installing workshop item: 2099073425
+[12/16/2022 1:40:42 PM] [Info] Installed workshop item: 2099073425
+[12/16/2022 1:40:42 PM] [Info] Monitoring workshop map 'Dark_Valley' (2427849541) for changes
+[12/16/2022 1:40:42 PM] [Error] Navigation bounds count (5) does not match graph count (14) during server load
+[12/16/2022 1:40:42 PM] [Info] Loading level: 8%
+[12/16/2022 1:40:43 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:43 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:43 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:43 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:43 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 24, 32: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 24: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 24: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 24: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 25: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 25: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 25: 30189 71ec574c-9800-4611-9eeb-0b7146d0035e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 25: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 25: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 25: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 25: 57417 11ade410-d4e7-4e5f-96be-cdd517a45b96
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 27: 31521 2868eed1-17e9-4654-9e29-4889d2f2b08c
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 57041 8df109a1-f748-494f-9230-94a47c2f7c99
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 25, 31: 5999 5d265052-ebba-4dfc-9e78-572da246a638
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 30, 31: 57418 0393db6c-dba0-4c6c-b624-3c3fceed76e8
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 30, 36: 57330 82c9a6f8-c852-4485-9a7c-770b5e167eb2
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 30, 36: 57330 82c9a6f8-c852-4485-9a7c-770b5e167eb2
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 31, 31: 30181 9139fa6d-8191-412c-b528-c2708937d3dd
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 31, 31: 30181 9139fa6d-8191-412c-b528-c2708937d3dd
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 32, 25: 57106 32fec7a2-25aa-4a5d-bea2-c6178afd64a3
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 32, 26: 57330 82c9a6f8-c852-4485-9a7c-770b5e167eb2
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 32, 27: 57330 82c9a6f8-c852-4485-9a7c-770b5e167eb2
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 34, 38: 30200 77b52027-c985-408a-b606-dd33cf4d5e6e
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 34, 38: 45678 ca55b823-013d-4b1f-97a9-bcaadc621892
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 36, 28: 57421 6fa407f6-b4d1-4c50-9857-2e7af9c5156a
+[12/16/2022 1:40:44 PM] [Error] Object with no asset in region 37, 26: 57106 32fec7a2-25aa-4a5d-bea2-c6178afd64a3
+[12/16/2022 1:40:44 PM] [Info] Loading level: 16%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 25%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 33%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 41%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 50%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 58%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 66%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 75%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 83%
+[12/16/2022 1:40:44 PM] [Info] Loading level: 91%
+[12/16/2022 2:06:02 PM] [Info] Loading level: 100%
+[12/16/2022 2:06:02 PM] [Info] 
+[unloading] InfiniteEnergy

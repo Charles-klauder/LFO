@@ -1,0 +1,124 @@
+[1/21/2023 12:12:50 PM] [Info] Steam servers ready!
+[1/21/2023 12:12:50 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[1/21/2023 12:12:50 PM] [Info] 8 workshop item(s) requested
+[1/21/2023 12:12:50 PM] [Info] Submitting workshop query for 8 item(s)...
+[1/21/2023 12:12:50 PM] [Info] Workshop query yielded 8 result(s)
+[1/21/2023 12:12:50 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[1/21/2023 12:13:43 PM] [Info] 2683620106 'Arid' queued for download
+[1/21/2023 12:13:43 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[1/21/2023 12:13:43 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[1/21/2023 12:13:43 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[1/21/2023 12:13:43 PM] [Info] 2133808330 'Music Remaster 3.0' queued for download
+[1/21/2023 12:13:43 PM] [Info] 1727733956 'Pento's Tactical Apparel' queued for download
+[1/21/2023 12:13:43 PM] [Info] 1909152337 'California Assets' queued for download
+[1/21/2023 12:13:43 PM] [Info] 2480988643 'LFO Washington' queued for download
+[1/21/2023 12:13:43 PM] [Info] 1629300697 '[Discontinued]Nordic Studios™ | Nordic Armory 2.0 [3.28+]' queued for download
+[1/21/2023 12:13:43 PM] [Info] 8 workshop item(s) to download...
+[1/21/2023 12:13:43 PM] [Info] Workshop item found in cache: 2683620106
+[1/21/2023 12:13:43 PM] [Info] Installing workshop item: 2683620106
+[1/21/2023 12:13:43 PM] [Info] Installed workshop item: 2683620106
+[1/21/2023 12:13:43 PM] [Info] Workshop item found in cache: 1232252658
+[1/21/2023 12:13:43 PM] [Info] Installing workshop item: 1232252658
+[1/21/2023 12:13:43 PM] [Info] Installed workshop item: 1232252658
+[1/21/2023 12:13:43 PM] [Info] Workshop item found in cache: 2069342497
+[1/21/2023 12:13:43 PM] [Info] Installing workshop item: 2069342497
+[1/21/2023 12:13:43 PM] [Info] Installed workshop item: 2069342497
+[1/21/2023 12:13:43 PM] [Info] Workshop item found in cache: 2133808330
+[1/21/2023 12:13:43 PM] [Info] Installing workshop item: 2133808330
+[1/21/2023 12:13:43 PM] [Info] Installed workshop item: 2133808330
+[1/21/2023 12:13:43 PM] [Info] Workshop item found in cache: 1727733956
+[1/21/2023 12:13:43 PM] [Info] Installing workshop item: 1727733956
+[1/21/2023 12:13:43 PM] [Info] Installed workshop item: 1727733956
+[1/21/2023 12:13:43 PM] [Info] Workshop item found in cache: 1909152337
+[1/21/2023 12:13:43 PM] [Info] Installing workshop item: 1909152337
+[1/21/2023 12:13:43 PM] [Info] Installed workshop item: 1909152337
+[1/21/2023 12:13:43 PM] [Info] Workshop item found in cache: 2480988643
+[1/21/2023 12:13:43 PM] [Info] Installing workshop item: 2480988643
+[1/21/2023 12:13:43 PM] [Info] Installed workshop item: 2480988643
+[1/21/2023 12:13:43 PM] [Info] Workshop item found in cache: 1629300697
+[1/21/2023 12:13:43 PM] [Info] Installing workshop item: 1629300697
+[1/21/2023 12:13:43 PM] [Info] Installed workshop item: 1629300697
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Items.Quality_Full_Chance because server value (1) is not the default (0.1)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Items.Quality_Multiplier: 1 (Default: 1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Items.Gun_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Items.Gun_Bullets_Multiplier because server value (1) is not the default (0.25)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Items.Magazine_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Items.Magazine_Bullets_Multiplier because server value (1) is not the default (0.5)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Items.Crate_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Items.Crate_Bullets_Multiplier: 1 (Default: 1)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Items.Despawn_Dropped_Time: 1080 (Default: 600)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Items.Despawn_Natural_Time: 1080 (Default: 900)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Items.Respawn_Time: 80 (Default: 100)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Health_Default: 100 (Default: 100)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Food_Default: 100 (Default: 100)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Water_Default: 100 (Default: 100)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Virus_Default: 100 (Default: 100)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Health_Regen_Min_Food: 70 (Default: 90)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Health_Regen_Min_Water: 70 (Default: 90)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Health_Regen_Ticks: 45 (Default: 60)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Food_Use_Ticks: 1400 (Default: 300)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Food_Damage_Ticks: 5 (Default: 15)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Water_Use_Ticks: 1200 (Default: 270)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Water_Damage_Ticks: 5 (Default: 20)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Players.Virus_Infect because server value (90) is not the default (50)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Virus_Use_Ticks: 60 (Default: 125)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Virus_Damage_Ticks: 1 (Default: 25)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Players.Detect_Radius_Multiplier because server value (5) is not the default (1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Players.Ray_Aggressor_Distance because server value (30) is not the default (8)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Bleed_Damage_Ticks: 21 (Default: 10)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Can_Stop_Bleeding: True (Default: True)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Players.Experience_Multiplier: 0 (Default: 1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[1/21/2023 12:13:43 PM] [Error] Failed to find mode config for level override: Platers
+[1/21/2023 12:13:43 PM] [Error] Failed to find mode config for level override: Platers
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Zombies.Slow_Movement because server value (True) is not the default (False)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Zombies.Acid_Chance because server value (0) is not the default (0.025)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Zombies.Loot_Chance because server value (1) is not the default (0.5)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Zombies.Min_Mega_Drops: 5 (Default: 5)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Zombies.Max_Mega_Drops because server value (10) is not the default (5)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Zombies.Min_Boss_Drops because server value (5) is not the default (8)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Zombies.Max_Boss_Drops: 15 (Default: 10)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Zombies.Respawn_Day_Time because server value (600) is not the default (360)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Zombies.Respawn_Night_Time: 180 (Default: 30)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Gameplay.Chart: False (Default: False)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Gameplay.Satellite: False (Default: False)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Gameplay.Compass: True (Default: False)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Gameplay.Ballistics: True (Default: True)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Gameplay.Group_Map: True (Default: True)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Gameplay.Timer_Home because server value (10) is not the default (30)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Events.Airdrop_Frequency_Min because server value (0) is not the default (0.8)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Events.Airdrop_Frequency_Max because server value (5) is not the default (6.5)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Events.Airdrop_Speed because server value (1) is not the default (128)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Events.Airdrop_Force because server value (1) is not the default (9.5)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Vehicles.Min_Battery_Charge because server value (1) is not the default (0.5)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Vehicles.Max_Battery_Charge because server value (1) is not the default (0.75)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Vehicles.Has_Battery_Chance because server value (1) is not the default (0.8)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Vehicles.Max_Instances_Large because server value (60) is not the default (32)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Vehicles.Decay_Time because server value (0) is not the default (604800)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Vehicles.Decay_Damage_Per_Second because server value (0) is not the default (0.1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Barricades.Armor_Lowtier_Multiplier because server value (100) is not the default (1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Barricades.Armor_Hightier_Multiplier because server value (100) is not the default (0.5)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Structures.Armor_Lowtier_Multiplier because server value (0.01) is not the default (1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Structures.Armor_Hightier_Multiplier because server value (0.01) is not the default (0.5)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Barricades.Gun_Lowcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Barricades.Gun_Highcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Structures.Gun_Lowcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Structures.Gun_Highcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Barricades.Decay_Time because server value (0) is not the default (604800)
+[1/21/2023 12:13:43 PM] [Info] Skipping level config override Structures.Decay_Time because server value (0) is not the default (604800)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: True (Default: True)
+[1/21/2023 12:13:43 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: True (Default: True)
+[1/21/2023 12:13:43 PM] [Info] Monitoring workshop map 'LFO Washington' (2480988643) for changes
+[1/21/2023 12:13:43 PM] [Info] Loading level: 8%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 16%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 25%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 33%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 41%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 50%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 58%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 66%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 75%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 83%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 91%
+[1/21/2023 12:13:46 PM] [Info] Loading level: 100%

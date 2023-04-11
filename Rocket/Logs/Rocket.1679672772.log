@@ -1,0 +1,67 @@
+[3/24/2023 11:34:12 AM] [Info] Steam servers ready!
+[3/24/2023 11:34:12 AM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[3/24/2023 11:34:12 AM] [Info] 9 workshop item(s) requested
+[3/24/2023 11:34:12 AM] [Info] Submitting workshop query for 9 item(s)...
+[3/24/2023 11:34:12 AM] [Info] Workshop query yielded 9 result(s)
+[3/24/2023 11:34:12 AM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[3/24/2023 11:36:28 AM] [Info] 877777769 'Furniture Expansion' queued for download
+[3/24/2023 11:36:28 AM] [Info] 1717095606 'Creator Tools' queued for download
+[3/24/2023 11:36:28 AM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[3/24/2023 11:36:28 AM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[3/24/2023 11:36:28 AM] [Info] 2133808330 'Music Remaster 3.0' queued for download
+[3/24/2023 11:36:28 AM] [Info] 1232252658 'More Farming Mod' queued for download
+[3/24/2023 11:36:28 AM] [Info] 1909152337 'California Assets' queued for download
+[3/24/2023 11:36:28 AM] [Info] Authorized to download 2802239233 'UDarkRP Vehicles'
+[3/24/2023 11:36:28 AM] [Info] 2802239233 'UDarkRP Vehicles' queued for download
+[3/24/2023 11:36:28 AM] [Info] 2683620106 'Arid' queued for download
+[3/24/2023 11:36:28 AM] [Info] 2839462324 'Uncreated Content' queued for download
+[3/24/2023 11:36:28 AM] [Info] 9 workshop item(s) to download...
+[3/24/2023 11:36:28 AM] [Info] Workshop item found in cache: 877777769
+[3/24/2023 11:36:28 AM] [Info] Installing workshop item: 877777769
+[3/24/2023 11:36:28 AM] [Info] Installed workshop item: 877777769
+[3/24/2023 11:36:28 AM] [Info] Workshop item found in cache: 1717095606
+[3/24/2023 11:36:28 AM] [Info] Installing workshop item: 1717095606
+[3/24/2023 11:36:28 AM] [Info] Installed workshop item: 1717095606
+[3/24/2023 11:36:28 AM] [Info] Workshop item found in cache: 2069342497
+[3/24/2023 11:36:28 AM] [Info] Installing workshop item: 2069342497
+[3/24/2023 11:36:28 AM] [Info] Installed workshop item: 2069342497
+[3/24/2023 11:36:28 AM] [Info] Workshop item found in cache: 2133808330
+[3/24/2023 11:36:28 AM] [Info] Installing workshop item: 2133808330
+[3/24/2023 11:36:28 AM] [Info] Installed workshop item: 2133808330
+[3/24/2023 11:36:28 AM] [Info] Workshop item 1232252658 found in cache, but remote (3/10/2023 9:00:22 AM) is newer than local (2/12/2023 9:30:42 AM)
+[3/24/2023 11:36:28 AM] [Info] Downloading workshop item: 1232252658
+[3/24/2023 11:36:28 AM] [Info] Successfully downloaded workshop item: 1232252658
+[3/24/2023 11:36:28 AM] [Info] Installing workshop item: 1232252658
+[3/24/2023 11:38:30 AM] [Info] Installed workshop item: 1232252658
+[3/24/2023 11:38:30 AM] [Info] Workshop item found in cache: 1909152337
+[3/24/2023 11:38:30 AM] [Info] Installing workshop item: 1909152337
+[3/24/2023 11:38:30 AM] [Info] Installed workshop item: 1909152337
+[3/24/2023 11:38:30 AM] [Info] Workshop item found in cache: 2802239233
+[3/24/2023 11:38:30 AM] [Info] Installing workshop item: 2802239233
+[3/24/2023 11:38:30 AM] [Info] Installed workshop item: 2802239233
+[3/24/2023 11:38:30 AM] [Info] Workshop item 2683620106 found in cache, but remote (3/16/2023 12:30:50 AM) is newer than local (11/16/2022 4:32:06 PM)
+[3/24/2023 11:38:30 AM] [Info] Downloading workshop item: 2683620106
+[3/24/2023 11:38:30 AM] [Info] Successfully downloaded workshop item: 2683620106
+[3/24/2023 11:38:30 AM] [Info] Installing workshop item: 2683620106
+[3/24/2023 11:42:32 AM] [Info] Installed workshop item: 2683620106
+[3/24/2023 11:42:32 AM] [Info] Downloading workshop item: 2839462324
+[3/24/2023 11:42:32 AM] [Info] Unable to download item!
+[3/24/2023 11:42:32 AM] [Info] Lost connection to Steam servers because k_EResultOK
+[3/24/2023 11:42:32 AM] [Info] Loading level: 8%
+[3/24/2023 11:42:35 AM] [Info] Loading level: 16%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 25%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 33%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 41%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 50%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 58%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 66%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 75%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 83%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 91%
+[3/24/2023 11:42:39 AM] [Info] Loading level: 100%
+[3/24/2023 11:42:45 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/24/2023 11:42:56 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/24/2023 11:44:05 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/24/2023 11:45:01 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/24/2023 11:45:11 AM] [Info] 
+[unloading] uEssentials

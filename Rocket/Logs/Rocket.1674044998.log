@@ -1,0 +1,353 @@
+[1/16/2023 11:05:04 PM] [Info] Steam servers ready!
+[1/16/2023 11:05:04 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[1/16/2023 11:05:04 PM] [Info] 2 workshop item(s) requested
+[1/16/2023 11:05:04 PM] [Info] Submitting workshop query for 2 item(s)...
+[1/16/2023 11:05:04 PM] [Info] Workshop query yielded 2 result(s)
+[1/16/2023 11:05:04 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[1/16/2023 11:05:04 PM] [Info] 2899517511 'LFO Mods' has 9 children
+[1/16/2023 11:05:04 PM] [Info] 	1232252658
+[1/16/2023 11:05:04 PM] [Info] 	2069342497
+[1/16/2023 11:05:04 PM] [Info] 	1717095606
+[1/16/2023 11:05:04 PM] [Info] 	1909152337
+[1/16/2023 11:05:04 PM] [Info] 	2480988643
+[1/16/2023 11:05:04 PM] [Info] 	2683620106 (already queued)
+[1/16/2023 11:05:04 PM] [Info] 	2133808330
+[1/16/2023 11:05:04 PM] [Info] 	1727733956
+[1/16/2023 11:05:04 PM] [Info] 	2363811642
+[1/16/2023 11:05:04 PM] [Info] 2683620106 'Arid' queued for download
+[1/16/2023 11:05:04 PM] [Info] Submitting workshop query for 8 item(s)...
+[1/16/2023 11:05:04 PM] [Info] Workshop query yielded 8 result(s)
+[1/16/2023 11:05:04 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[1/16/2023 11:05:04 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[1/16/2023 11:05:45 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[1/16/2023 11:05:45 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[1/16/2023 11:05:45 PM] [Info] 1717095606 'Creator Tools' queued for download
+[1/16/2023 11:05:45 PM] [Info] 1909152337 'California Assets' queued for download
+[1/16/2023 11:05:45 PM] [Info] 2480988643 'LFO Washington' queued for download
+[1/16/2023 11:05:45 PM] [Info] 2133808330 'Music Remaster 3.0' queued for download
+[1/16/2023 11:05:45 PM] [Info] 1727733956 'Pento's Tactical Apparel' queued for download
+[1/16/2023 11:05:45 PM] [Info] 2363811642 'Uncreated Armory 2021 | The Uncreated Project™' queued for download
+[1/16/2023 11:05:45 PM] [Info] 9 workshop item(s) to download...
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 2683620106
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 2683620106
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 2683620106
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 1232252658
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 1232252658
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 1232252658
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 2069342497
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 2069342497
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 2069342497
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 1717095606
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 1717095606
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 1717095606
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 1909152337
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 1909152337
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 1909152337
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 2480988643
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 2480988643
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 2480988643
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 2133808330
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 2133808330
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 2133808330
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 1727733956
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 1727733956
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 1727733956
+[1/16/2023 11:05:45 PM] [Info] Workshop item found in cache: 2363811642
+[1/16/2023 11:05:45 PM] [Info] Installing workshop item: 2363811642
+[1/16/2023 11:05:45 PM] [Info] Installed workshop item: 2363811642
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Items.Quality_Full_Chance because server value (1) is not the default (0.1)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Items.Quality_Multiplier: 1 (Default: 1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Items.Gun_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Items.Gun_Bullets_Multiplier because server value (1) is not the default (0.25)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Items.Magazine_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Items.Magazine_Bullets_Multiplier because server value (1) is not the default (0.5)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Items.Crate_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Items.Crate_Bullets_Multiplier: 1 (Default: 1)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Items.Despawn_Dropped_Time: 1080 (Default: 600)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Items.Despawn_Natural_Time: 1080 (Default: 900)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Items.Respawn_Time: 80 (Default: 100)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Health_Default: 100 (Default: 100)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Food_Default: 100 (Default: 100)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Water_Default: 100 (Default: 100)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Virus_Default: 100 (Default: 100)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Health_Regen_Min_Food: 70 (Default: 90)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Health_Regen_Min_Water: 70 (Default: 90)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Health_Regen_Ticks: 45 (Default: 60)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Food_Use_Ticks: 1400 (Default: 300)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Food_Damage_Ticks: 5 (Default: 15)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Water_Use_Ticks: 1200 (Default: 270)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Water_Damage_Ticks: 5 (Default: 20)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Players.Virus_Infect because server value (90) is not the default (50)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Virus_Use_Ticks: 60 (Default: 125)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Virus_Damage_Ticks: 1 (Default: 25)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Players.Detect_Radius_Multiplier because server value (5) is not the default (1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Players.Ray_Aggressor_Distance because server value (30) is not the default (8)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Bleed_Damage_Ticks: 21 (Default: 10)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Can_Stop_Bleeding: True (Default: True)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Players.Experience_Multiplier: 0 (Default: 1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[1/16/2023 11:05:45 PM] [Error] Failed to find mode config for level override: Platers
+[1/16/2023 11:05:45 PM] [Error] Failed to find mode config for level override: Platers
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Zombies.Slow_Movement because server value (True) is not the default (False)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Zombies.Acid_Chance because server value (0) is not the default (0.025)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Zombies.Loot_Chance because server value (1) is not the default (0.5)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Zombies.Min_Mega_Drops: 5 (Default: 5)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Zombies.Max_Mega_Drops because server value (10) is not the default (5)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Zombies.Min_Boss_Drops because server value (5) is not the default (8)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Zombies.Max_Boss_Drops: 15 (Default: 10)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Zombies.Respawn_Day_Time because server value (600) is not the default (360)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Zombies.Respawn_Night_Time: 180 (Default: 30)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Gameplay.Chart: False (Default: False)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Gameplay.Satellite: False (Default: False)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Gameplay.Compass: True (Default: False)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Gameplay.Ballistics: True (Default: True)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Gameplay.Group_Map: True (Default: True)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Gameplay.Timer_Home because server value (10) is not the default (30)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Events.Airdrop_Frequency_Min because server value (0) is not the default (0.8)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Events.Airdrop_Frequency_Max because server value (5) is not the default (6.5)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Events.Airdrop_Speed because server value (1) is not the default (128)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Events.Airdrop_Force because server value (1) is not the default (9.5)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Vehicles.Min_Battery_Charge because server value (1) is not the default (0.5)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Vehicles.Max_Battery_Charge because server value (1) is not the default (0.75)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Vehicles.Has_Battery_Chance because server value (1) is not the default (0.8)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Vehicles.Max_Instances_Large because server value (60) is not the default (32)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Vehicles.Decay_Time because server value (0) is not the default (604800)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Vehicles.Decay_Damage_Per_Second because server value (0) is not the default (0.1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Barricades.Armor_Lowtier_Multiplier because server value (100) is not the default (1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Barricades.Armor_Hightier_Multiplier because server value (100) is not the default (0.5)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Structures.Armor_Lowtier_Multiplier because server value (0.01) is not the default (1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Structures.Armor_Hightier_Multiplier because server value (0.01) is not the default (0.5)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Barricades.Gun_Lowcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Barricades.Gun_Highcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Structures.Gun_Lowcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Structures.Gun_Highcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Barricades.Decay_Time because server value (0) is not the default (604800)
+[1/16/2023 11:05:45 PM] [Info] Skipping level config override Structures.Decay_Time because server value (0) is not the default (604800)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: True (Default: True)
+[1/16/2023 11:05:45 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: True (Default: True)
+[1/16/2023 11:05:45 PM] [Info] Monitoring workshop map 'LFO Washington' (2480988643) for changes
+[1/16/2023 11:05:45 PM] [Info] Loading level: 8%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 16%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 25%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 33%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 41%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 50%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 58%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 66%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 75%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 83%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 91%
+[1/16/2023 11:05:47 PM] [Info] Loading level: 100%
+[1/16/2023 11:06:44 PM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:63377) connected
+[1/16/2023 11:06:44 PM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[1/16/2023 11:06:45 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[1/16/2023 11:06:45 PM] [Info] BattlEye Server: Connected to BE Master
+[1/16/2023 11:06:51 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i m249"
+[1/16/2023 11:08:12 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[1/16/2023 11:11:24 PM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[1/16/2023 11:11:24 PM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:63424) connected
+[1/16/2023 11:11:24 PM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[1/16/2023 11:15:51 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[1/16/2023 11:15:51 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i m4a1"
+[1/16/2023 11:15:59 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i mcx"
+[1/16/2023 11:16:09 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i mpx"
+[1/16/2023 11:16:24 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i model"
+[1/16/2023 11:16:32 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 1911"
+[1/16/2023 11:16:35 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i m1911"
+[1/16/2023 11:16:47 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "45 sup""
+[1/16/2023 11:17:00 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "hunting scope""
+[1/16/2023 11:17:13 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[1/16/2023 11:17:13 PM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[1/17/2023 1:04:35 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/17/2023 2:47:15 AM] [Error] Failed to respawn an item with ID 31368 from type Military_America [2]
+[1/17/2023 2:56:35 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/17/2023 3:47:55 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/17/2023 6:20:37 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/17/2023 6:51:17 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/17/2023 7:08:54 AM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[1/17/2023 7:08:54 AM] [Info] BattlEye Server: Disconnected from BE Master
+[1/17/2023 7:08:54 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/17/2023 7:25:58 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 7:25:58 AM] [Info] Lost connection to Steam servers because k_EResultOK
+[1/17/2023 6:05:46 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/17/2023 6:06:23 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 6:06:38 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 6:07:07 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 6:07:59 PM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/17/2023 6:08:34 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 6:09:20 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 6:34:11 PM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:49754) connected
+[1/17/2023 6:34:11 PM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[1/17/2023 6:34:13 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Delta.97
+[1/17/2023 6:34:13 PM] [Info] BattlEye Server: Connected to BE Master
+[1/17/2023 6:34:24 PM] [Info] [Group] Delta.97 [Red__Bear]: "/day"
+[1/17/2023 6:34:24 PM] [Info] Successfully set time to day!
+[1/17/2023 6:34:36 PM] [Info] [Group] Delta.97 [Red__Bear]: "/give 1176"
+[1/17/2023 6:34:36 PM] [Info] Successfully gave Red__Bear 1176 x1!
+[1/17/2023 6:34:42 PM] [Info] [Group] Delta.97 [Red__Bear]: "/teleport wp"
+[1/17/2023 6:34:42 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[1/17/2023 6:35:26 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i ak-74m"
+[1/17/2023 6:35:46 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "ak-101""
+[1/17/2023 6:35:49 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i "ak-105""
+[1/17/2023 6:36:05 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i vitya"
+[1/17/2023 6:37:07 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "56 sup""
+[1/17/2023 6:37:11 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i "56mm sup""
+[1/17/2023 6:37:22 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i kash"
+[1/17/2023 6:37:57 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i mcx"
+[1/17/2023 6:38:12 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i ar15"
+[1/17/2023 6:38:15 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i ar-15"
+[1/17/2023 6:39:42 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i scar"
+[1/17/2023 6:39:46 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i std"
+[1/17/2023 6:39:56 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31338"
+[1/17/2023 6:40:01 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31340"
+[1/17/2023 6:40:11 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i holograph"
+[1/17/2023 6:40:16 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i acog"
+[1/17/2023 6:40:26 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i grip"
+[1/17/2023 6:40:32 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i adaptive"
+[1/17/2023 6:40:49 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "40rnd 5.56""
+[1/17/2023 6:40:57 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i "56mm 40rnd" 10"
+[1/17/2023 6:41:01 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 40rnd 10"
+[1/17/2023 6:41:37 PM] [Info] [Group] Delta.97 [Red__Bear]: "/give 15"
+[1/17/2023 6:41:37 PM] [Info] Successfully gave Red__Bear 15 x1!
+[1/17/2023 6:42:20 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31470"
+[1/17/2023 6:42:29 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i pointer"
+[1/17/2023 6:43:05 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "cross scope""
+[1/17/2023 6:43:43 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i kedr"
+[1/17/2023 6:43:53 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "9mm sup""
+[1/17/2023 6:44:03 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "kedr mag" 10"
+[1/17/2023 6:45:25 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i hk416"
+[1/17/2023 6:46:08 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31473"
+[1/17/2023 6:46:38 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i mp5j"
+[1/17/2023 6:46:40 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i mp5k"
+[1/17/2023 6:46:59 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i holographic"
+[1/17/2023 6:47:06 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31473"
+[1/17/2023 6:47:24 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "mp5 dru""
+[1/17/2023 6:47:44 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31471"
+[1/17/2023 6:47:55 PM] [Info] [Area] Delta.97 [Red__Bear]: "/teleport wp"
+[1/17/2023 6:47:55 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[1/17/2023 6:48:00 PM] [Info] Delta.97 [Red__Bear] was infected to death!
+[1/17/2023 6:48:02 PM] [Info] [Group] Delta.97 [Red__Bear]: "/teleport wp"
+[1/17/2023 6:48:02 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[1/17/2023 6:48:31 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "mp5 sd""
+[1/17/2023 6:48:35 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i "mp5-sd""
+[1/17/2023 6:48:42 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31497"
+[1/17/2023 6:49:13 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i hk416"
+[1/17/2023 6:49:18 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i hk417"
+[1/17/2023 6:50:26 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i mac-10"
+[1/17/2023 6:51:05 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i r700"
+[1/17/2023 6:51:07 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i m110"
+[1/17/2023 6:52:00 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "20rnd 7.6""
+[1/17/2023 6:52:30 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i rangefi"
+[1/17/2023 6:52:43 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 32314"
+[1/17/2023 6:56:14 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i ak-101"
+[1/17/2023 6:56:26 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31472"
+[1/17/2023 6:57:06 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i mg3"
+[1/17/2023 6:58:23 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i barret"
+[1/17/2023 6:58:30 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 32300"
+[1/17/2023 6:58:32 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32315"
+[1/17/2023 6:58:34 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32316"
+[1/17/2023 6:58:35 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32317"
+[1/17/2023 6:58:37 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32318"
+[1/17/2023 6:58:40 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32319"
+[1/17/2023 6:58:42 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32320"
+[1/17/2023 6:58:44 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32321"
+[1/17/2023 6:58:45 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32322"
+[1/17/2023 6:58:47 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32323"
+[1/17/2023 6:58:49 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32324"
+[1/17/2023 6:58:51 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32325"
+[1/17/2023 6:58:53 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32326"
+[1/17/2023 6:58:55 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32327"
+[1/17/2023 6:58:58 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32329"
+[1/17/2023 6:59:01 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 32330"
+[1/17/2023 6:59:03 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32331"
+[1/17/2023 6:59:05 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 32332"
+[1/17/2023 6:59:07 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32333"
+[1/17/2023 6:59:09 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32334"
+[1/17/2023 6:59:11 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32335"
+[1/17/2023 6:59:28 PM] [Info] [World] Delta.97 [Red__Bear]: "/i 32336"
+[1/17/2023 6:59:30 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32337"
+[1/17/2023 7:01:35 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i berny"
+[1/17/2023 7:06:15 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i claymore"
+[1/17/2023 7:06:37 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 3192"
+[1/17/2023 7:06:39 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31392"
+[1/17/2023 7:06:41 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31394"
+[1/17/2023 7:06:44 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31395"
+[1/17/2023 7:06:46 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31397"
+[1/17/2023 7:06:49 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31381"
+[1/17/2023 7:06:51 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31382"
+[1/17/2023 7:06:53 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31383"
+[1/17/2023 7:06:54 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31384"
+[1/17/2023 7:06:58 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32390"
+[1/17/2023 7:07:01 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32360"
+[1/17/2023 7:07:03 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 32330"
+[1/17/2023 7:07:08 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31490"
+[1/17/2023 7:07:12 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31489"
+[1/17/2023 7:07:14 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31491"
+[1/17/2023 7:07:16 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31492"
+[1/17/2023 7:07:18 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31493"
+[1/17/2023 7:07:19 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31494"
+[1/17/2023 7:08:13 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31481"
+[1/17/2023 7:08:15 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31482"
+[1/17/2023 7:08:16 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31483"
+[1/17/2023 7:08:18 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31484"
+[1/17/2023 7:08:20 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31485"
+[1/17/2023 7:08:23 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31486"
+[1/17/2023 7:08:24 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31487"
+[1/17/2023 7:08:27 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31488"
+[1/17/2023 7:08:29 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31489"
+[1/17/2023 7:08:33 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31490"
+[1/17/2023 7:08:34 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31491"
+[1/17/2023 7:09:13 PM] [Info] [Group] Delta.97 [Red__Bear]: "/give 1176"
+[1/17/2023 7:09:13 PM] [Info] Successfully gave Red__Bear 1176 x1!
+[1/17/2023 7:09:17 PM] [Info] [Group] Delta.97 [Red__Bear]: "/teleport wp"
+[1/17/2023 7:09:17 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[1/17/2023 7:09:37 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31492"
+[1/17/2023 7:09:38 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31493"
+[1/17/2023 7:09:45 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "makeshift cla""
+[1/17/2023 7:09:47 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i can"
+[1/17/2023 7:09:52 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i raw"
+[1/17/2023 7:10:00 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i explosive"
+[1/17/2023 7:10:17 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i "tripwire""
+[1/17/2023 7:10:52 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31900"
+[1/17/2023 7:10:54 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31901"
+[1/17/2023 7:10:56 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31902"
+[1/17/2023 7:10:58 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31903"
+[1/17/2023 7:11:00 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31904"
+[1/17/2023 7:11:01 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31905"
+[1/17/2023 7:11:03 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31906"
+[1/17/2023 7:11:05 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31907"
+[1/17/2023 7:11:07 PM] [Info] [Group] Delta.97 [Red__Bear]: "/i 31908"
+[1/17/2023 7:11:09 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31909"
+[1/17/2023 7:11:11 PM] [Info] [Area] Delta.97 [Red__Bear]: "/i 31910"
+[1/17/2023 7:17:20 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/17/2023 7:18:40 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/17/2023 7:35:57 PM] [Info] [Group] Delta.97 [Red__Bear]: "/exit"
+[1/17/2023 7:35:57 PM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[1/17/2023 8:22:46 PM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[1/17/2023 8:22:46 PM] [Info] BattlEye Server: Disconnected from BE Master
+[1/17/2023 8:23:49 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/17/2023 8:23:57 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 8:24:00 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 8:24:17 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 8:50:01 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/17/2023 9:30:02 PM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/17/2023 10:00:50 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/17/2023 10:00:50 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/17/2023 11:55:23 PM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/17/2023 11:57:23 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/18/2023 12:22:43 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/18/2023 12:30:45 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/18/2023 12:31:01 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/18/2023 12:31:01 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/18/2023 2:39:29 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/18/2023 2:53:24 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/18/2023 3:39:45 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/18/2023 3:40:04 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/18/2023 5:35:26 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/18/2023 5:54:46 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/18/2023 5:55:25 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/18/2023 6:10:35 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/18/2023 7:26:14 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/18/2023 7:27:45 AM] [Info] 
+[unloading] InfiniteEnergy

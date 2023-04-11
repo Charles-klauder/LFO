@@ -1,0 +1,668 @@
+[12/16/2022 2:09:47 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[12/16/2022 2:09:47 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[12/16/2022 2:09:47 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[12/16/2022 2:09:47 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[12/16/2022 2:09:47 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[12/16/2022 2:09:47 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[12/16/2022 2:09:47 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[12/16/2022 2:09:47 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[12/16/2022 2:09:47 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[12/16/2022 2:09:47 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[12/16/2022 2:09:47 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[12/16/2022 2:09:47 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[12/16/2022 2:09:47 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[12/16/2022 2:09:47 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[12/16/2022 2:09:47 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[12/16/2022 2:09:47 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[12/16/2022 2:09:47 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[12/16/2022 2:09:47 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[12/16/2022 2:09:47 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[12/16/2022 2:09:47 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[12/16/2022 2:09:47 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[12/16/2022 2:09:47 PM] [Info] Loading Feli.RocketMod.JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\Feli.RocketMod.JoinLeaveMessages.dll
+[12/16/2022 2:09:47 PM] [Info] Loading Feli.RocketMod.Teleporting from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\Feli.RocketMod.Teleporting.dll
+[12/16/2022 2:09:47 PM] [Info] Loading GarageLite from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\GarageLite.dll
+[12/16/2022 2:09:47 PM] [Info] Loading InfiniteEnergy from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\InfiniteEnergy.dll
+[12/16/2022 2:09:47 PM] [Info] Loading MoreHomes from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\MoreHomes.dll
+[12/16/2022 2:09:47 PM] [Info] Loading ReponseMod_HiddenName from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\ReponseMod_HiddenName.dll
+[12/16/2022 2:09:47 PM] [Info] Loading uEssentials from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\uEssentials.dll
+[12/16/2022 2:09:47 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp-firstpass
+[12/16/2022 2:09:48 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp
+[12/16/2022 2:09:48 PM] [Error] Invalid or outdated plugin assembly: Rocket.API
+[12/16/2022 2:09:48 PM] [Error] Invalid or outdated plugin assembly: Rocket.Core
+[12/16/2022 2:09:48 PM] [Error] Invalid or outdated plugin assembly: Rocket.Unturned
+[12/16/2022 2:09:48 PM] [Error] Invalid or outdated plugin assembly: UnityEngine.CoreModule
+[12/16/2022 2:09:48 PM] [Error] Invalid or outdated plugin assembly: UnityEngine
+[12/16/2022 2:09:48 PM] [Error] Invalid or outdated plugin assembly: Newtonsoft.Json
+[12/16/2022 2:09:48 PM] [Info] 
+[loading] Feli.RocketMod.JoinLeaveMessages
+[12/16/2022 2:09:48 PM] [Info] Feli.RocketMod.JoinLeaveMessages >> JoinLeaveMessages plugin v1.0.2 loaded !
+[12/16/2022 2:09:48 PM] [Info] Feli.RocketMod.JoinLeaveMessages >> Do you want more cool plugins? Join now: https://discord.gg/4FF2548 !
+[12/16/2022 2:09:48 PM] [Info] 
+[loading] Feli.RocketMod.Teleporting
+[12/16/2022 2:09:48 PM] [Info] [registered] /tpa (Feli.RocketMod.Teleporting.Commands.TpaCommand/tpa)
+[12/16/2022 2:09:48 PM] [Info] [registered] /tpr (Feli.RocketMod.Teleporting.Commands.TpaCommand/tpr)
+[12/16/2022 2:09:48 PM] [Info] Feli.RocketMod.Teleporting >> Teleporting plugin v1.6.4 loaded !
+[12/16/2022 2:09:48 PM] [Info] Feli.RocketMod.Teleporting >> Do you want more cool plugins? Join now: https://discord.gg/4FF2548 !
+[12/16/2022 2:09:48 PM] [Info] Feli.RocketMod.Teleporting >> Economy Provider: ExperienceEconomyProvider
+[12/16/2022 2:09:48 PM] [Info] 
+[loading] GarageLite
+[12/16/2022 2:09:48 PM] [Info] [registered] /gadd (GarageLite.Code/gadd)
+[12/16/2022 2:09:48 PM] [Info] [registered] /garageadd (GarageLite.Code/garageadd)
+[12/16/2022 2:09:48 PM] [Info] [registered] /vadd (GarageLite.Code/vadd)
+[12/16/2022 2:09:48 PM] [Info] [registered] /glist (GarageLite.Vlist/glist)
+[12/16/2022 2:09:48 PM] [Info] [registered] /garagelist (GarageLite.Vlist/garagelist)
+[12/16/2022 2:09:48 PM] [Info] [registered] /vlist (GarageLite.Vlist/vlist)
+[12/16/2022 2:09:48 PM] [Info] [registered] /gretrieve (GarageLite.Vretrieve/gretrieve)
+[12/16/2022 2:09:48 PM] [Info] [registered] /garageretrieve (GarageLite.Vretrieve/garageretrieve)
+[12/16/2022 2:09:48 PM] [Info] [registered] /vretrieve (GarageLite.Vretrieve/vretrieve)
+[12/16/2022 2:09:48 PM] [Warning] ++++++++++++++++++++++++++++++++++++++
+[12/16/2022 2:09:48 PM] [Warning] [GarageLite] has been loaded!
+[12/16/2022 2:09:48 PM] [Warning] Dev: MQS#7816
+[12/16/2022 2:09:48 PM] [Warning] Join this Discord for Support: https://discord.gg/Ssbpd9cvgp
+[12/16/2022 2:09:48 PM] [Warning] ++++++++++++++++++++++++++++++++++++++
+[12/16/2022 2:09:48 PM] [Info] 
+[loading] InfiniteEnergy
+[12/16/2022 2:09:48 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/16/2022 2:09:48 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/16/2022 2:09:48 PM] [Info] 
+[loading] ReponseMod_HiddenName
+[12/16/2022 2:09:48 PM] [Info] 
+[loading] uEssentials
+[12/16/2022 2:09:48 PM] [Error] Failed to load uEssentials, unloading now... :System.MissingMethodException: SDG.Unturned.ConsoleInput SDG.Unturned.CommandWindow.get_input()
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00033] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/16/2022 2:09:48 PM] [Info] 
+[unloading] uEssentials
+[12/16/2022 2:09:48 PM] [Error] Failed to unload uEssentials:System.MissingMethodException: SDG.Unturned.ConsoleInput SDG.Unturned.CommandWindow.get_input()
+  at Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (Rocket.API.PluginState state) [0x0003b] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x0005c] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/16/2022 2:09:48 PM] [Info] This server will automatically save every 1800 seconds
+[12/16/2022 2:09:48 PM] [Info] Steam servers ready!
+[12/16/2022 2:09:48 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/MyServer/Workshop/Steam
+[12/16/2022 2:09:48 PM] [Info] 1 workshop item(s) requested
+[12/16/2022 2:09:48 PM] [Info] Submitting workshop query for 1 item(s)...
+[12/16/2022 2:09:48 PM] [Info] Workshop query yielded 1 result(s)
+[12/16/2022 2:09:48 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/16/2022 2:09:48 PM] [Info] 2899517511 'LFO Mods' has 16 children
+[12/16/2022 2:09:48 PM] [Info] 	1232252658
+[12/16/2022 2:09:48 PM] [Info] 	2528363491
+[12/16/2022 2:09:48 PM] [Info] 	2309977886
+[12/16/2022 2:09:48 PM] [Info] 	2407744519
+[12/16/2022 2:09:48 PM] [Info] 	2407742380
+[12/16/2022 2:09:48 PM] [Info] 	1959614756
+[12/16/2022 2:09:48 PM] [Info] 	1727733956
+[12/16/2022 2:09:48 PM] [Info] 	2069342497
+[12/16/2022 2:09:48 PM] [Info] 	2463099029
+[12/16/2022 2:09:48 PM] [Info] 	2519307620
+[12/16/2022 2:09:48 PM] [Info] 	1717095606
+[12/16/2022 2:09:48 PM] [Info] 	2796081018
+[12/16/2022 2:09:48 PM] [Info] 	2427849541
+[12/16/2022 2:09:48 PM] [Info] 	2454681372
+[12/16/2022 2:09:48 PM] [Info] 	1909152337
+[12/16/2022 2:09:48 PM] [Info] 	2898548949
+[12/16/2022 2:09:48 PM] [Info] Submitting workshop query for 16 item(s)...
+[12/16/2022 2:09:48 PM] [Info] Workshop query yielded 16 result(s)
+[12/16/2022 2:09:48 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/16/2022 2:09:48 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2528363491 'Wind Vehicles' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2309977886 'Wind Cars 2.0' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2407744519 'Uncreated Vehicles' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2407742380 'Uncreated Clothes' queued for download
+[12/16/2022 2:09:48 PM] [Info] 1959614756 'The Far East Conflict | Nordic Studios™ | Nordic Armory 3.0 [3.28+]' queued for download
+[12/16/2022 2:09:48 PM] [Info] 1727733956 'Pento's Tactical Apparel' queued for download
+[12/16/2022 2:09:48 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[12/16/2022 2:09:48 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2463099029 'A.C.M.S. Unturnov Armors | WIP version 1.1.2' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2519307620 'Medicals of Unturnov II | WIP version 1.0.1' queued for download
+[12/16/2022 2:09:48 PM] [Info] 1717095606 'Creator Tools' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2796081018 'Nordic Compatable Arid' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2427849541 'Dark Valley' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2427849541 'Dark Valley' has 16 children
+[12/16/2022 2:09:48 PM] [Info] 	1232252658 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	1727733956 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	1959614756 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	1975500516
+[12/16/2022 2:09:48 PM] [Info] 	2069342497 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	2309977886 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	2528363491 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	2454681372 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	2407744519 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	2407742380 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	2099073425
+[12/16/2022 2:09:48 PM] [Info] 	2796081018 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	2519307620 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	1717095606 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	2463099029 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 	1909152337 (already queued)
+[12/16/2022 2:09:48 PM] [Info] 2454681372 'Raum's Lockers' queued for download
+[12/16/2022 2:09:48 PM] [Info] 1909152337 'California Assets' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2898548949 'A6 Polaris' queued for download
+[12/16/2022 2:09:48 PM] [Info] Submitting workshop query for 2 item(s)...
+[12/16/2022 2:09:48 PM] [Info] Workshop query yielded 2 result(s)
+[12/16/2022 2:09:48 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/16/2022 2:09:48 PM] [Info] 1975500516 '[Official] France (Updated June 2021)' queued for download
+[12/16/2022 2:09:48 PM] [Info] 2099073425 'Paradise Stereo [3.28]' queued for download
+[12/16/2022 2:09:48 PM] [Info] 18 workshop item(s) to download...
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 1232252658
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 1232252658
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 1232252658
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2528363491
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2528363491
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2528363491
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2309977886
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2309977886
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2309977886
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2407744519
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2407744519
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2407744519
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2407742380
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2407742380
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2407742380
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 1959614756
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 1959614756
+[12/16/2022 2:11:32 PM] [Error] Exception has been thrown by the target of an invocation.
+[12/16/2022 2:11:32 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <3142eb90e85d4a4aa20280507237d693>:0 
+[12/16/2022 2:11:32 PM] [Error] Missing effect gameobject
+[12/16/2022 2:11:32 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <3142eb90e85d4a4aa20280507237d693>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 1959614756
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 1727733956
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 1727733956
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 1727733956
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2069342497
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2069342497
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2069342497
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2463099029
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2463099029
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2463099029
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2519307620
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2519307620
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2519307620
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 1717095606
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 1717095606
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 1717095606
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2796081018
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2796081018
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2796081018
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2427849541
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2427849541
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2427849541
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 2454681372
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2454681372
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 2454681372
+[12/16/2022 2:11:32 PM] [Info] Workshop item found in cache: 1909152337
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 1909152337
+[12/16/2022 2:11:32 PM] [Info] Installed workshop item: 1909152337
+[12/16/2022 2:11:32 PM] [Info] Downloading workshop item: 2898548949
+[12/16/2022 2:11:32 PM] [Info] Successfully downloaded workshop item: 2898548949
+[12/16/2022 2:11:32 PM] [Info] Installing workshop item: 2898548949
+[12/16/2022 2:11:43 PM] [Info] Installed workshop item: 2898548949
+[12/16/2022 2:11:43 PM] [Info] Workshop item found in cache: 1975500516
+[12/16/2022 2:11:43 PM] [Info] Installing workshop item: 1975500516
+[12/16/2022 2:11:43 PM] [Info] Installed workshop item: 1975500516
+[12/16/2022 2:11:43 PM] [Info] Workshop item found in cache: 2099073425
+[12/16/2022 2:11:43 PM] [Info] Installing workshop item: 2099073425
+[12/16/2022 2:11:43 PM] [Info] Installed workshop item: 2099073425
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Animals.Max_Instances_Medium because server value (50) is not the default (16)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Items.Quality_Full_Chance because server value (1) is not the default (0.1)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: False (Default: True)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: False (Default: True)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Barricades.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Barricades.Gun_Highcal_Damage_Multiplier because server value (2) is not the default (1)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Barricades.Armor_Lowtier_Multiplier: 1 (Default: 1)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Barricades.Armor_Hightier_Multiplier: 1 (Default: 0.5)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Structures.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Structures.Gun_Highcal_Damage_Multiplier because server value (2) is not the default (1)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Structures.Armor_Lowtier_Multiplier: 1 (Default: 1)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Structures.Armor_Hightier_Multiplier: 1 (Default: 0.5)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Structures.Melee_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Structures.Melee_Repair_Multiplier because server value (2) is not the default (1)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Events.Airdrop_Speed because server value (0) is not the default (128)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Events.Airdrop_Force because server value (0) is not the default (9.5)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Vehicles.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Vehicles.Melee_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Vehicles.Min_Battery_Charge because server value (1) is not the default (0.5)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Vehicles.Max_Battery_Charge because server value (1) is not the default (0.75)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Vehicles.Has_Battery_Chance because server value (1) is not the default (0.8)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Vehicles.Max_Instances_Medium because server value (40) is not the default (16)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Vehicles.Armor_Multiplier: 0.375 (Default: 1)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Players.Experience_Multiplier: 1 (Default: 1)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Players.Virus_Infect because server value (90) is not the default (50)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Zombies.Armor_Multiplier: 1 (Default: 1)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Zombies.Full_Moon_Experience_Multiplier because server value (5) is not the default (2)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Zombies.Spawn_Chance because server value (1) is not the default (0.25)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Zombies.Min_Mega_Drops because server value (10) is not the default (5)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Zombies.Max_Mega_Drops because server value (20) is not the default (5)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Zombies.Min_Boss_Drops because server value (30) is not the default (8)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Zombies.Max_Boss_Drops because server value (50) is not the default (10)
+[12/16/2022 2:11:43 PM] [Info] Skipping level config override Zombies.Loot_Chance because server value (1) is not the default (0.5)
+[12/16/2022 2:11:43 PM] [Info] Level overrides config Gameplay.Chart: True (Default: False)
+[12/16/2022 2:11:43 PM] [Info] Monitoring workshop map 'A6 Polaris' (2898548949) for changes
+[12/16/2022 2:11:43 PM] [Info] Loading level: 8%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 16%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 25%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 33%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 41%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 50%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 58%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 66%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 75%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 83%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 91%
+[12/16/2022 2:11:47 PM] [Info] Loading level: 100%
+[12/16/2022 2:12:23 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/16/2022 2:12:23 PM] [Error] Could not find dependency: System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[12/16/2022 2:12:23 PM] [Error] Could not find dependency: System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[12/16/2022 2:21:05 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.BadImageFormatException: Could not resolve field token 0x0400000a, due to: Could not load type of field 'Feli.RocketMod.JoinLeaveMessages.Helpers.IpGeolocationHelper+<GetCountryFromIp>d__0:<client>5__2' (3) due to: Could not load file or assembly 'System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. assembly:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a type:<unknown type> member:(null) signature:<none> assembly:C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\Feli.RocketMod.JoinLeaveMessages.dll type:<GetCountryFromIp>d__0 member:(null) signature:<none>
+File name: 'Feli.RocketMod.JoinLeaveMessages'
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 2:21:05 PM] [Info] Connecting: PlayerID: 76561198796248492 Name: Smoke Character: Smoke
+[12/16/2022 2:21:56 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 2:21:56 PM] [Info] [Group] Red__Bear [Red__Bear]: "/admin smoke"
+[12/16/2022 2:21:59 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tphere smoke"
+[12/16/2022 2:22:15 PM] [Info] Smoke was teleported to Red__Bear
+[12/16/2022 2:22:15 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i syr"
+[12/16/2022 2:22:29 PM] [Info] Giving Red__Bear item 36579:1
+[12/16/2022 2:22:29 PM] [Info] [Area] Red__Bear [Red__Bear]: "/i "syringe of bat""
+[12/16/2022 2:24:05 PM] [Info] Giving Red__Bear item 19863:1
+[12/16/2022 2:24:05 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "big ruck" 2"
+[12/16/2022 2:24:07 PM] [Info] Giving Red__Bear item 19669:2
+[12/16/2022 2:24:07 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp smo"
+[12/16/2022 2:24:26 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:24:26 PM] [Info] Smoke [Smoke] was shot in the head by Red__Bear [Red__Bear]!
+[12/16/2022 2:24:31 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tphere smoke"
+[12/16/2022 2:24:31 PM] [Info] Smoke was teleported to Red__Bear
+[12/16/2022 2:24:31 PM] [Info] [Area] Smoke [Smoke]: "/tpa Rec"
+[12/16/2022 2:25:30 PM] [Info] Red__Bear [Red__Bear] was chopped in the head by Smoke [Smoke]!
+[12/16/2022 2:25:36 PM] [Info] [Area] Red__Bear [Red__Bear]: "/tp smoke"
+[12/16/2022 2:25:36 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:25:37 PM] [Info] Red__Bear moved x:454.3047 y:56.01265(+30.39016) z:35.89844 in the last second (0.09999847)
+[12/16/2022 2:25:55 PM] [Info] [Group] Red__Bear [Red__Bear]: "/experience red 10000"
+[12/16/2022 2:26:01 PM] [Info] Successfully gave Red__Bear +10000 experience!
+[12/16/2022 2:26:01 PM] [Info] [Group] Smoke [Smoke]: "/i Bronze Coin"
+[12/16/2022 2:26:06 PM] [Info] [Group] Smoke [Smoke]: "/give Bronze coin"
+[12/16/2022 2:26:18 PM] [Error] Failed to convert coin into a number.
+[12/16/2022 2:26:18 PM] [Info] [Area] Smoke [Smoke]: "/give Bron coin"
+[12/16/2022 2:26:18 PM] [Error] Failed to convert coin into a number.
+[12/16/2022 2:26:23 PM] [Info] [Area] Smoke [Smoke]: "/i g"
+[12/16/2022 2:26:29 PM] [Info] Giving Smoke item 1394:1
+[12/16/2022 2:26:29 PM] [Info] [Area] Smoke [Smoke]: "/i Bronze Coin"
+[12/16/2022 2:26:38 PM] [Info] [World] Smoke [Smoke]: "/i "Bronze Coin""
+[12/16/2022 2:27:20 PM] [Info] Giving Smoke item 19265:1
+[12/16/2022 2:27:20 PM] [Info] [Group] Smoke [Smoke]: "/i Gas"
+[12/16/2022 2:27:28 PM] [Info] Giving Smoke item 1270:1
+[12/16/2022 2:27:28 PM] [Info] [Group] Smoke [Smoke]: "/teleprot wp"
+[12/16/2022 2:27:31 PM] [Info] [Area] Smoke [Smoke]: "/teleport wp"
+[12/16/2022 2:27:33 PM] [Info] Successfully teleported Smoke to waypoint!
+[12/16/2022 2:27:33 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "gasmask""
+[12/16/2022 2:27:36 PM] [Info] Giving Red__Bear item 1270:1
+[12/16/2022 2:27:36 PM] [Info] [Area] Red__Bear [Red__Bear]: "/tp smoke"
+[12/16/2022 2:27:36 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:27:54 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i mg3"
+[12/16/2022 2:28:00 PM] [Info] Giving Red__Bear item 58813:1
+[12/16/2022 2:28:00 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i m249 2"
+[12/16/2022 2:28:10 PM] [Info] Giving Red__Bear item 58352:2
+[12/16/2022 2:28:10 PM] [Info] [Group] Smoke [Smoke]: "/i Night"
+[12/16/2022 2:28:24 PM] [Info] Giving Smoke item 36380:1
+[12/16/2022 2:28:24 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "thi heatwave""
+[12/16/2022 2:28:24 PM] [Info] [Group] Smoke [Smoke]: "/i nightrader"
+[12/16/2022 2:28:35 PM] [Info] [Group] Smoke [Smoke]: "/i Gra"
+[12/16/2022 2:28:52 PM] [Info] Giving Smoke item 9824:1
+[12/16/2022 2:28:52 PM] [Info] [Group] Smoke [Smoke]: "/i M4a1"
+[12/16/2022 2:29:04 PM] [Info] Giving Smoke item 58000:1
+[12/16/2022 2:29:04 PM] [Info] [Area] Smoke [Smoke]: "/ammo"
+[12/16/2022 2:29:04 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 58403"
+[12/16/2022 2:29:04 PM] [Info] Giving Red__Bear item 58403:1
+[12/16/2022 2:29:06 PM] [Info] [Group] Red__Bear [Red__Bear]: "/ammo 10"
+[12/16/2022 2:29:10 PM] [Info] [Group] Red__Bear [Red__Bear]: "/ammo"
+[12/16/2022 2:29:19 PM] [Info] [Area] Smoke [Smoke]: "/i "M855 Ball 30rnd""
+[12/16/2022 2:29:27 PM] [Info] Giving Smoke item 58275:1
+[12/16/2022 2:29:27 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "50rnd mg3" 10"
+[12/16/2022 2:29:42 PM] [Info] Giving Red__Bear item 58393:10
+[12/16/2022 2:29:42 PM] [Info] [Group] Smoke [Smoke]: "/i "HMG BOX""
+[12/16/2022 2:30:00 PM] [Info] Giving Smoke item 1395:1
+[12/16/2022 2:30:00 PM] [Info] [World] Smoke [Smoke]: "/i "HMG BOX""
+[12/16/2022 2:30:17 PM] [Info] Giving Smoke item 1395:1
+[12/16/2022 2:30:17 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i filter 10"
+[12/16/2022 2:30:19 PM] [Info] Giving Red__Bear item 1271:10
+[12/16/2022 2:30:19 PM] [Info] [World] Smoke [Smoke]: "/i "HMG BOX""
+[12/16/2022 2:30:29 PM] [Info] Giving Smoke item 1395:1
+[12/16/2022 2:30:29 PM] [Info] [Area] Smoke [Smoke]: "/god"
+[12/16/2022 2:30:29 PM] [Info] Smoke enabled Godmode
+[12/16/2022 2:30:39 PM] [Info] [Group] Smoke [Smoke]: "/jump"
+[12/16/2022 2:30:52 PM] [Info] [Group] Red__Bear [Red__Bear]: "/god"
+[12/16/2022 2:30:52 PM] [Info] Red__Bear enabled Godmode
+[12/16/2022 2:31:07 PM] [Info] [Area] Smoke [Smoke]: "/i "HMG BOX""
+[12/16/2022 2:31:15 PM] [Info] Giving Smoke item 1395:1
+[12/16/2022 2:31:15 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "rocket""
+[12/16/2022 2:31:19 PM] [Info] Giving Red__Bear item 520:1
+[12/16/2022 2:31:19 PM] [Info] [World] Red__Bear [Red__Bear]: "/i "rocket lau""
+[12/16/2022 2:31:20 PM] [Info] Giving Red__Bear item 519:1
+[12/16/2022 2:31:20 PM] [Info] [Group] Smoke [Smoke]: "/i admin"
+[12/16/2022 2:31:21 PM] [Info] Giving Smoke item 19946:1
+[12/16/2022 2:31:21 PM] [Info] [World] Red__Bear [Red__Bear]: "/i "rocket" 10"
+[12/16/2022 2:31:31 PM] [Info] Giving Red__Bear item 520:10
+[12/16/2022 2:31:31 PM] [Info] Red__Bear moved x:-786.6959 y:103.4988(+32.79092) z:-146.7485 in the last second (32.61395)
+[12/16/2022 2:31:32 PM] [Info] Red__Bear moved x:-787.4276 y:185.6868(+82.18793) z:-141.9028 in the last second (106.2079)
+[12/16/2022 2:31:33 PM] [Info] Red__Bear moved x:-788.5778 y:239.9694(+54.28261) z:-137.1207 in the last second (1.602249)
+[12/16/2022 2:31:34 PM] [Info] Red__Bear moved x:-791.0384 y:265.3084(+25.33904) z:-132.5291 in the last second (185.8296)
+[12/16/2022 2:31:35 PM] [Info] [Area] Smoke [Smoke]: "/tp Red"
+[12/16/2022 2:31:35 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 2:31:35 PM] [Info] Smoke moved x:-796.6484 y:258.739(+186.7182) z:-126.6875 in the last second (148.7022)
+[12/16/2022 2:31:44 PM] [Info] [Area] Smoke [Smoke]: "/ammo"
+[12/16/2022 2:32:02 PM] [Info] [Group] Red__Bear [Red__Bear]: "/jump"
+[12/16/2022 2:32:05 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i bed"
+[12/16/2022 2:32:15 PM] [Info] Giving Red__Bear item 19864:1
+[12/16/2022 2:32:15 PM] [Info] [Group] Smoke [Smoke]: "/day"
+[12/16/2022 2:32:15 PM] [Info] Successfully set time to day!
+[12/16/2022 2:32:25 PM] [Info] [Group] Smoke [Smoke]: "/i Admin"
+[12/16/2022 2:32:38 PM] [Info] Giving Smoke item 19946:1
+[12/16/2022 2:32:38 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:32:38 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:32:47 PM] [Info] [Area] Smoke [Smoke]: "/wp"
+[12/16/2022 2:32:54 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp smoke"
+[12/16/2022 2:32:54 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:32:55 PM] [Info] Red__Bear moved x:-761.875 y:83.58276(+27.29155) z:-77.32813 in the last second (0.1039276)
+[12/16/2022 2:33:24 PM] [Info] [Group] Red__Bear [Red__Bear]: "/god smoke"
+[12/16/2022 2:33:24 PM] [Info] Red__Bear disabled Godmode
+[12/16/2022 2:33:26 PM] [Info] [Group] Red__Bear [Red__Bear]: "/kill smoke"
+[12/16/2022 2:33:30 PM] [Info] Successfully killed Smoke!
+[12/16/2022 2:33:30 PM] [Info] [Group] Red__Bear [Red__Bear]: "/god"
+[12/16/2022 2:33:30 PM] [Info] Red__Bear enabled Godmode
+[12/16/2022 2:33:30 PM] [Info] [Group] Smoke [Smoke]: "/god"
+[12/16/2022 2:33:30 PM] [Info] Smoke disabled Godmode
+[12/16/2022 2:33:34 PM] [Info] [Group] Smoke [Smoke]: "/kill Smoke"
+[12/16/2022 2:33:34 PM] [Info] Successfully killed Smoke!
+[12/16/2022 2:33:39 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:33:39 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:33:42 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i ed"
+[12/16/2022 2:33:43 PM] [Info] Giving Red__Bear item 19864:1
+[12/16/2022 2:33:43 PM] [Info] [Area] Smoke [Smoke]: "/tpa Red"
+[12/16/2022 2:33:44 PM] [Info] [Area] Smoke [Smoke]: "/God"
+[12/16/2022 2:33:44 PM] [Info] Smoke enabled Godmode
+[12/16/2022 2:33:47 PM] [Info] [Area] Smoke [Smoke]: "/tp Red"
+[12/16/2022 2:33:47 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 2:33:47 PM] [Info] Smoke moved x:-567.2969 y:57.12183(+30.73828) z:-61.34375 in the last second (0.18433)
+[12/16/2022 2:33:52 PM] [Info] [Group] Smoke [Smoke]: "/jump"
+[12/16/2022 2:33:52 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 2:33:59 PM] [Info] Red__Bear moved x:-623.3284 y:103.7466(+35.87409) z:-49.44394 in the last second (36.98404)
+[12/16/2022 2:34:00 PM] [Info] Red__Bear moved x:-689.6845 y:158.4059(+54.65929) z:-49.12385 in the last second (88.35231)
+[12/16/2022 2:34:01 PM] [Info] [Group] Smoke [Smoke]: "/i RPG"
+[12/16/2022 2:34:01 PM] [Info] Giving Smoke item 19358:1
+[12/16/2022 2:34:01 PM] [Info] Red__Bear moved x:-750.9406 y:184.0926(+25.68674) z:-49.28553 in the last second (100.775)
+[12/16/2022 2:34:09 PM] [Info] [Area] Smoke [Smoke]: "/ammo"
+[12/16/2022 2:34:10 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 2:34:14 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 2:34:15 PM] [Info] [Group] Smoke [Smoke]: "/i "rpg-7"
+[12/16/2022 2:34:37 PM] [Info] Giving Smoke item 38397:1
+[12/16/2022 2:34:37 PM] [Info] [Group] Smoke [Smoke]: "/i RPG-7"
+[12/16/2022 2:34:42 PM] [Info] Giving Smoke item 38397:1
+[12/16/2022 2:34:42 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:34:42 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:34:50 PM] [Info] [Area] Smoke [Smoke]: "/tp Red"
+[12/16/2022 2:34:50 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 2:34:56 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:34:56 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:35:03 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:35:03 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:35:03 PM] [Info] [Group] Smoke [Smoke]: "/i Bed"
+[12/16/2022 2:35:27 PM] [Info] Giving Smoke item 19864:1
+[12/16/2022 2:35:27 PM] [Info] [Group] Red__Bear [Red__Bear]: "/experience 1000"
+[12/16/2022 2:35:27 PM] [Info] Successfully gave Red__Bear +1000 experience!
+[12/16/2022 2:35:43 PM] [Info] [Area] Smoke [Smoke]: "/maxskills"
+[12/16/2022 2:36:20 PM] [Info] Red__Bear moved x:-699.5449 y:121.9268(+38.34798) z:-44.71486 in the last second (38.44798)
+[12/16/2022 2:36:21 PM] [Info] Red__Bear moved x:-704.7936 y:197.1197(+75.19286) z:-45.00953 in the last second (113.596)
+[12/16/2022 2:36:21 PM] [Info] [Area] Smoke [Smoke]: "/tp Red"
+[12/16/2022 2:36:21 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 2:36:21 PM] [Info] Smoke moved x:-705.9844 y:210.2185(+126.4804) z:-44.36719 in the last second (123.859)
+[12/16/2022 2:36:22 PM] [Info] Red__Bear moved x:-703.5278 y:251.7466(+54.62692) z:-41.41867 in the last second (168.429)
+[12/16/2022 2:36:23 PM] [Info] Red__Bear moved x:-699.2896 y:277.4035(+25.65686) z:-38.07187 in the last second (193.9246)
+[12/16/2022 2:36:24 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i parac"
+[12/16/2022 2:36:42 PM] [Info] Giving Red__Bear item 36373:1
+[12/16/2022 2:36:42 PM] [Info] [Area] Smoke [Smoke]: "/i Bed"
+[12/16/2022 2:36:45 PM] [Info] Giving Smoke item 19864:1
+[12/16/2022 2:36:45 PM] [Info] [Area] Smoke [Smoke]: "/tp Red"
+[12/16/2022 2:36:45 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 2:36:56 PM] [Info] Red__Bear moved x:-695.0773 y:125.2892(+54.684) z:-25.58095 in the last second (41.81089)
+[12/16/2022 2:36:57 PM] [Info] [Group] Smoke [Smoke]: "/i "Maple Plate""
+[12/16/2022 2:36:57 PM] [Info] Giving Smoke item 1058:1
+[12/16/2022 2:36:57 PM] [Info] Red__Bear moved x:-700.8885 y:198.11(+72.8208) z:-23.42019 in the last second (114.6317)
+[12/16/2022 2:36:58 PM] [Info] Red__Bear moved x:-693.244 y:250.1672(+52.05717) z:-21.15584 in the last second (180.4754)
+[12/16/2022 2:36:59 PM] [Info] Red__Bear moved x:-686.2156 y:273.4519(+23.28476) z:-16.74076 in the last second (202.761)
+[12/16/2022 2:37:15 PM] [Info] [Area] Smoke [Smoke]: "/home"
+[12/16/2022 2:37:33 PM] [Info] [Area] Smoke [Smoke]: "/home"
+[12/16/2022 2:37:46 PM] [Info] [World] Smoke [Smoke]: "/i Keycard"
+[12/16/2022 2:37:54 PM] [Info] Giving Smoke item 19725:1
+[12/16/2022 2:37:54 PM] [Info] [Area] Smoke [Smoke]: "/home"
+[12/16/2022 2:38:04 PM] [Info] Smoke moved x:-723.3503 y:121.004(+48.9883) z:-17.82816 in the last second (16.9964)
+[12/16/2022 2:38:05 PM] [Info] Red__Bear moved x:-590.4162 y:97.35004(+19.28182) z:36.84952 in the last second (41.43475)
+[12/16/2022 2:38:05 PM] [Info] Smoke moved x:-751.5634 y:155.3584(+34.35444) z:-42.32465 in the last second (72.04079)
+[12/16/2022 2:38:19 PM] [Info] [Group] Smoke [Smoke]: "/i Key"
+[12/16/2022 2:38:22 PM] [Info] Giving Smoke item 19044:1
+[12/16/2022 2:38:22 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "keycard""
+[12/16/2022 2:38:29 PM] [Info] Giving Red__Bear item 19725:1
+[12/16/2022 2:38:29 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp smo"
+[12/16/2022 2:38:29 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:38:48 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i key"
+[12/16/2022 2:39:38 PM] [Info] Giving Red__Bear item 19044:1
+[12/16/2022 2:39:38 PM] [Info] Red__Bear moved x:-682.9114 y:106.4183(+37.46494) z:-115.8358 in the last second (39.0119)
+[12/16/2022 2:39:39 PM] [Info] Red__Bear moved x:-596.2559 y:143.6773(+37.25899) z:-130.0505 in the last second (103.4997)
+[12/16/2022 2:39:42 PM] [Info] [Area] Smoke [Smoke]: "/i Rpg 7"
+[12/16/2022 2:39:47 PM] [Info] Giving Smoke item 19358:7
+[12/16/2022 2:39:47 PM] [Info] [World] Smoke [Smoke]: "/i Rpg-7"
+[12/16/2022 2:39:47 PM] [Info] Giving Smoke item 38397:1
+[12/16/2022 2:39:47 PM] [Info] Saving server
+[12/16/2022 2:39:56 PM] [Info] Smoke moved x:-781.3743 y:280.1739(+202.3837) z:-15.21795 in the last second (204.0489)
+[12/16/2022 2:39:57 PM] [Info] Smoke moved x:-785.3845 y:459.462(+179.2881) z:4.945775 in the last second (383.7938)
+[12/16/2022 2:40:38 PM] [Info] [Area] Smoke [Smoke]: "/i "9mm BOx" 5"
+[12/16/2022 2:41:21 PM] [Info] Giving Smoke item 36453:5
+[12/16/2022 2:41:21 PM] [Info] [Area] Smoke [Smoke]: "/i "9mm BOx" 10"
+[12/16/2022 2:41:40 PM] [Info] Giving Smoke item 36453:10
+[12/16/2022 2:41:40 PM] [Info] [Area] Smoke [Smoke]: "/i Rpg-7"
+[12/16/2022 2:41:57 PM] [Info] Giving Smoke item 38397:1
+[12/16/2022 2:41:57 PM] [Info] [Area] Smoke [Smoke]: "/i "RPG-7V2 HEAT""
+[12/16/2022 2:42:02 PM] [Info] Giving Smoke item 38400:1
+[12/16/2022 2:42:02 PM] [Info] [World] Smoke [Smoke]: "/i "RPG-7V2 HEAT" 12"
+[12/16/2022 2:42:28 PM] [Info] Giving Smoke item 38400:12
+[12/16/2022 2:42:28 PM] [Info] Smoke moved x:-781.4293 y:233.7969(+158.0578) z:-36.6363 in the last second (158.161)
+[12/16/2022 2:42:29 PM] [Info] Smoke moved x:-769.0569 y:459.1318(+225.3349) z:-70.98705 in the last second (375.653)
+[12/16/2022 2:43:36 PM] [Info] [Group] Smoke [Smoke]: "/i "9mm Drum" 10"
+[12/16/2022 2:44:13 PM] [Info] Giving Smoke item 36454:10
+[12/16/2022 2:44:13 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp smo"
+[12/16/2022 2:44:13 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:44:13 PM] [Info] Red__Bear moved x:-787.5 y:75.73901(+38.82432) z:-17.25781 in the last second (0.1030884)
+[12/16/2022 2:44:52 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i rocket 10"
+[12/16/2022 2:45:20 PM] [Info] Giving Red__Bear item 520:10
+[12/16/2022 2:45:20 PM] [Info] Red__Bear moved x:-767.0019 y:180.3842(+95.4501) z:-24.60956 in the last second (104.2942)
+[12/16/2022 2:45:21 PM] [Info] Red__Bear moved x:-760.5185 y:247.9289(+67.54475) z:-18.34835 in the last second (2.578583)
+[12/16/2022 2:45:22 PM] [Info] Red__Bear moved x:-754.3552 y:285.5099(+37.58098) z:-12.6267 in the last second (202.0311)
+[12/16/2022 2:45:45 PM] [Info] Smoke moved x:-773.4883 y:230.8022(+155.0662) z:-48.30598 in the last second (155.1662)
+[12/16/2022 2:45:46 PM] [Info] Smoke moved x:-771.1779 y:459.6271(+228.8249) z:-45.42693 in the last second (0.3350525)
+[12/16/2022 2:45:49 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:45:49 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:45:54 PM] [Info] Red__Bear moved x:737.046 y:139.686(+68.10658) z:132.8006 in the last second (68.30659)
+[12/16/2022 2:45:55 PM] [Info] [World] Smoke [Smoke]: "/tpa Red"
+[12/16/2022 2:45:55 PM] [Info] Red__Bear moved x:731.2589 y:212.1321(+72.44614) z:132.5567 in the last second (140.7527)
+[12/16/2022 2:45:56 PM] [Info] Red__Bear moved x:725.4238 y:256.673(+44.54085) z:132.9804 in the last second (183.215)
+[12/16/2022 2:45:57 PM] [Info] Red__Bear moved x:719.7093 y:273.3086(+16.63559) z:133.6933 in the last second (195.7563)
+[12/16/2022 2:45:58 PM] [Info] [World] Smoke [Smoke]: "/tp Red"
+[12/16/2022 2:45:59 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 2:45:59 PM] [Info] Smoke moved x:713.3203 y:250.8977(+167.4801) z:134.6563 in the last second (156.2174)
+[12/16/2022 2:46:49 PM] [Info] [World] Smoke [Smoke]: "/tp Red"
+[12/16/2022 2:46:49 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 2:46:58 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i nightvis"
+[12/16/2022 2:47:33 PM] [Info] Giving Red__Bear item 37557:1
+[12/16/2022 2:47:33 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i rocket 100"
+[12/16/2022 2:47:50 PM] [Info] Giving Red__Bear item 520:100
+[12/16/2022 2:47:50 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 11-12"
+[12/16/2022 2:48:15 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:48:15 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:48:36 PM] [Info] [Group] Smoke [Smoke]: "/i Devastor"
+[12/16/2022 2:48:39 PM] [Info] [Group] Smoke [Smoke]: "/tpa Red"
+[12/16/2022 2:48:42 PM] [Info] [World] Smoke [Smoke]: "/tp Red"
+[12/16/2022 2:48:42 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 2:48:43 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "polaris rose""
+[12/16/2022 2:48:51 PM] [Info] Giving Red__Bear item 36015:1
+[12/16/2022 2:48:51 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "cyan cry""
+[12/16/2022 2:49:00 PM] [Info] Giving Red__Bear item 36017:1
+[12/16/2022 2:49:00 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "copper coil""
+[12/16/2022 2:49:31 PM] [Info] Giving Red__Bear item 19008:1
+[12/16/2022 2:49:31 PM] [Info] [Group] Smoke [Smoke]: "/i 'Deva""
+[12/16/2022 2:49:37 PM] [Info] [Area] Smoke [Smoke]: "/i 'Devastator""
+[12/16/2022 2:49:50 PM] [Info] [Group] Smoke [Smoke]: "/i "Sentry Engine""
+[12/16/2022 2:49:59 PM] [Info] Giving Smoke item 36403:1
+[12/16/2022 2:49:59 PM] [Info] [World] Smoke [Smoke]: "/i "Sentry Rev""
+[12/16/2022 2:50:03 PM] [Info] [World] Smoke [Smoke]: "/i "Sentry Rec""
+[12/16/2022 2:50:16 PM] [Info] Giving Smoke item 36404:1
+[12/16/2022 2:50:16 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:50:16 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:50:17 PM] [Info] Red__Bear moved x:714.2811 y:77.65173(+30.58541) z:140.231 in the last second (0.09941864)
+[12/16/2022 2:50:20 PM] [Info] [World] Smoke [Smoke]: "/i "Lotas""
+[12/16/2022 2:50:20 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:50:20 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:50:21 PM] [Info] Red__Bear moved x:620.6625 y:109.1243(+31.47257) z:147.9543 in the last second (0.2593231)
+[12/16/2022 2:50:36 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:50:36 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:50:42 PM] [Info] [Group] Smoke [Smoke]: "/i "Copper Coil""
+[12/16/2022 2:51:13 PM] [Info] Giving Smoke item 19008:1
+[12/16/2022 2:51:13 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp smoke"
+[12/16/2022 2:51:13 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:51:14 PM] [Info] Red__Bear moved x:-312.0469 y:47.12979(+15.81348) z:83.76563 in the last second (0.1002998)
+[12/16/2022 2:51:33 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i b18"
+[12/16/2022 2:52:14 PM] [Info] Giving Red__Bear item 36558:1
+[12/16/2022 2:52:14 PM] [Info] [World] Smoke [Smoke]: "/i "Lotus""
+[12/16/2022 2:52:23 PM] [Info] Giving Smoke item 36092:1
+[12/16/2022 2:52:23 PM] [Info] [Area] Smoke [Smoke]: "/Exp 100000000000"
+[12/16/2022 2:52:27 PM] [Info] [Area] Smoke [Smoke]: "/Experience 100000000000"
+[12/16/2022 2:52:27 PM] [Error] Failed to convert 100000000000 into a number.
+[12/16/2022 2:52:33 PM] [Info] [World] Smoke [Smoke]: "/Experience 100000000000"
+[12/16/2022 2:52:33 PM] [Error] Failed to convert 100000000000 into a number.
+[12/16/2022 2:52:39 PM] [Info] [World] Smoke [Smoke]: "/Experience 100000"
+[12/16/2022 2:52:39 PM] [Info] Successfully gave Smoke +100000 experience!
+[12/16/2022 2:53:04 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "copper coil""
+[12/16/2022 2:53:23 PM] [Info] Giving Red__Bear item 19008:1
+[12/16/2022 2:53:23 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:53:23 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:53:27 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:53:27 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:53:28 PM] [Info] Red__Bear moved x:603.5515 y:90.24792(+62.31812) z:150.5177 in the last second (0.1144333)
+[12/16/2022 2:53:33 PM] [Info] [Group] Smoke [Smoke]: "/i Sentry"
+[12/16/2022 2:53:40 PM] [Info] Giving Smoke item 36406:1
+[12/16/2022 2:53:40 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 2:53:40 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 2:54:25 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp smoke"
+[12/16/2022 2:54:25 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:55:33 PM] [Info] [Area] Smoke [Smoke]: "/i "9mm Drum" 10"
+[12/16/2022 2:57:06 PM] [Info] Giving Smoke item 36454:10
+[12/16/2022 2:57:06 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i bounce 5"
+[12/16/2022 2:57:16 PM] [Info] Giving Red__Bear item 1691:5
+[12/16/2022 2:57:16 PM] [Info] Red__Bear moved x:104.6851 y:111.1456(+58.51815) z:153.4748 in the last second (64.4445)
+[12/16/2022 2:57:17 PM] [Info] Red__Bear moved x:89.59583 y:330.3574(+219.2119) z:113.7193 in the last second (283.6671)
+[12/16/2022 2:57:18 PM] [Info] Red__Bear moved x:79.07162 y:458.6364(+128.279) z:72.79543 in the last second (415.9875)
+[12/16/2022 2:58:18 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp smo"
+[12/16/2022 2:58:18 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 2:59:56 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp safe"
+[12/16/2022 3:00:13 PM] [Info] Red__Bear teleported to Safezone
+[12/16/2022 3:00:13 PM] [Info] [Group] Smoke [Smoke]: "/teleport wp"
+[12/16/2022 3:00:13 PM] [Info] Successfully teleported Smoke to waypoint!
+[12/16/2022 3:00:17 PM] [Info] [World] Smoke [Smoke]: "/tp Red"
+[12/16/2022 3:00:17 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 3:01:37 PM] [Info] [Area] Smoke [Smoke]: "/i Moses"
+[12/16/2022 3:01:38 PM] [Info] Giving Smoke item 36124:1
+[12/16/2022 3:01:38 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "gun oil""
+[12/16/2022 3:01:42 PM] [Info] Giving Red__Bear item 36356:1
+[12/16/2022 3:01:42 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "polaris rode""
+[12/16/2022 3:01:46 PM] [Info] [World] Red__Bear [Red__Bear]: "/i "polaris rose""
+[12/16/2022 3:02:14 PM] [Info] Giving Red__Bear item 36015:1
+[12/16/2022 3:02:14 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i k30"
+[12/16/2022 3:03:50 PM] [Info] Giving Red__Bear item 36557:1
+[12/16/2022 3:03:50 PM] [Info] Red__Bear moved x:474.5234 y:63.62183(+37.77024) z:511.1797 in the last second (0.1041183)
+[12/16/2022 3:03:54 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp smoke"
+[12/16/2022 3:03:54 PM] [Info] Red__Bear teleported to Smoke
+[12/16/2022 3:04:13 PM] [Info] [Group] Red__Bear [Red__Bear]: "/setwarp safe"
+[12/16/2022 3:05:00 PM] [Info] [Area] Smoke [Smoke]: "/tp Red"
+[12/16/2022 3:05:00 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 3:05:29 PM] [Info] [World] Smoke [Smoke]: "/tp Red"
+[12/16/2022 3:05:29 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 3:05:34 PM] [Info] [World] Smoke [Smoke]: "/tp Red"
+[12/16/2022 3:05:34 PM] [Info] Smoke teleported to Red__Bear
+[12/16/2022 3:06:25 PM] [Info] [Area] Smoke [Smoke]: "/i Tape"
+[12/16/2022 3:08:56 PM] [Info] Giving Smoke item 69:1
+[12/16/2022 3:08:56 PM] [Info] Smoke moved x:474.9088 y:63.62183(+37.45774) z:511.4121 in the last second (0.1041183)
+[12/16/2022 3:09:47 PM] [Info] Saving server
+[12/16/2022 3:10:21 PM] [Info] [Group] Smoke [Smoke]: "/i "HAZE BACK""
+[12/16/2022 3:11:58 PM] [Info] [Area] Smoke [Smoke]: "/Teleport wp"
+[12/16/2022 3:11:58 PM] [Info] Successfully teleported Smoke to waypoint!
+[12/16/2022 3:12:41 PM] [Info] [World] Smoke [Smoke]: "/Teleport wp"
+[12/16/2022 3:12:41 PM] [Info] Successfully teleported Smoke to waypoint!
+[12/16/2022 3:12:42 PM] [Info] Smoke moved x:683.2266 y:91.15308(+46.08142) z:134.8047 in the last second (1.001709)
+[12/16/2022 3:13:23 PM] [Info] [Area] Smoke [Smoke]: "/i Ladder"
+[12/16/2022 3:14:13 PM] [Info] Giving Smoke item 327:1
+[12/16/2022 3:14:13 PM] [Info] [World] Smoke [Smoke]: "/Teleport wp"
+[12/16/2022 3:14:13 PM] [Info] Successfully teleported Smoke to waypoint!
+[12/16/2022 3:14:40 PM] [Info] [World] Smoke [Smoke]: "/Teleport wp"
+[12/16/2022 3:14:40 PM] [Info] Successfully teleported Smoke to waypoint!
+[12/16/2022 3:18:34 PM] [Info] [Area] Smoke [Smoke]: "/teleport wp"
+[12/16/2022 3:18:34 PM] [Info] Successfully teleported Smoke to waypoint!
+[12/16/2022 3:19:32 PM] [Info] Disconnecting: PlayerID: 76561198796248492 Name: Smoke Character: Smoke
+[12/16/2022 3:23:15 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "small metal ore" 5"
+[12/16/2022 3:23:20 PM] [Info] [World] Red__Bear [Red__Bear]: "/i "metal ore" 5"
+[12/16/2022 3:23:31 PM] [Info] Giving Red__Bear item 19528:5
+[12/16/2022 3:23:31 PM] [Info] [World] Red__Bear [Red__Bear]: "/i "metal ores" 5"
+[12/16/2022 3:23:53 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "military crate""
+[12/16/2022 3:24:32 PM] [Info] Giving Red__Bear item 36587:1
+[12/16/2022 3:24:32 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "big ruck""
+[12/16/2022 3:26:52 PM] [Info] Giving Red__Bear item 19669:1
+[12/16/2022 3:26:52 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 3:26:52 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 3:26:52 PM] [Info] Red__Bear moved x:-921.0625 y:57.36402(+31.19993) z:-784.3047 in the last second (0.9974403)
+[12/16/2022 3:27:00 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "metal floor" 5"
+[12/16/2022 3:27:10 PM] [Info] Giving Red__Bear item 369:5
+[12/16/2022 3:27:10 PM] [Info] [Area] Red__Bear [Red__Bear]: "/i "triang metal floor" 10"
+[12/16/2022 3:27:14 PM] [Info] [World] Red__Bear [Red__Bear]: "/i "triangular metal floor" 10"
+[12/16/2022 3:27:56 PM] [Info] Giving Red__Bear item 1265:10
+[12/16/2022 3:27:56 PM] [Info] [World] Red__Bear [Red__Bear]: "/i "triangular metal floor" 2"
+[12/16/2022 3:28:04 PM] [Info] Giving Red__Bear item 1265:2
+[12/16/2022 3:28:04 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "metal ramp""
+[12/16/2022 3:28:24 PM] [Info] Giving Red__Bear item 377:1
+[12/16/2022 3:28:24 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 3:28:24 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 3:28:53 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "metal pillar" 20"
+[12/16/2022 3:30:25 PM] [Info] Giving Red__Bear item 374:20
+[12/16/2022 3:30:25 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i housing"
+[12/16/2022 3:30:52 PM] [Info] Giving Red__Bear item 1764:1
+[12/16/2022 3:30:52 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "metal wall" 6"
+[12/16/2022 3:31:03 PM] [Info] Giving Red__Bear item 371:6
+[12/16/2022 3:31:03 PM] [Info] [Area] Red__Bear [Red__Bear]: "/i "metal doorwa" 6"
+[12/16/2022 3:31:10 PM] [Info] Giving Red__Bear item 370:6
+[12/16/2022 3:31:10 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "armored door""
+[12/16/2022 3:34:26 PM] [Info] Giving Red__Bear item 36282:1
+[12/16/2022 3:34:26 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 3:34:26 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 3:34:42 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/16/2022 3:35:55 PM] [Info] Connecting: PlayerID: 76561199077460443 Name: Justnotacat Character: Justnotacat
+[12/16/2022 3:35:55 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 3:36:47 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/16/2022 3:36:47 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 3:36:51 PM] [Info] [Group] Red__Bear [Red__Bear]: "/unadmin red"
+[12/16/2022 3:37:10 PM] [Info] [World] Red__Bear [Red__Bear]: "hi"
+[12/16/2022 3:39:47 PM] [Info] Saving server
+[12/16/2022 3:40:51 PM] [Info] Disconnecting: PlayerID: 76561199077460443 Name: Justnotacat Character: Justnotacat
+[12/16/2022 3:45:22 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tpa"
+[12/16/2022 3:45:24 PM] [Info] [Group] Red__Bear [Red__Bear]: "/kits"
+[12/16/2022 3:45:26 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 3:57:58 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/16/2022 3:58:18 PM] [Info] 
+[unloading] Feli.RocketMod.JoinLeaveMessages

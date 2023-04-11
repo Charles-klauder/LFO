@@ -1,0 +1,18 @@
+roles:
+- id: default
+  priority: 0
+  parents: []
+  permissions:
+  - OpenMod.Core:commands.help
+  displayName: Default
+  data: {}
+  isAutoAssigned: true
+- id: vip
+  priority: 1
+  parents:
+  - default
+  permissions:
+  - SomeKitsPlugin:kits.vip
+  displayName: VIP
+  data: {}
+  isAutoAssigned: false

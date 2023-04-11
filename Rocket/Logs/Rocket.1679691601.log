@@ -1,0 +1,369 @@
+[3/24/2023 12:31:42 PM] [Info] Steam servers ready!
+[3/24/2023 12:31:42 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[3/24/2023 12:31:42 PM] [Info] 9 workshop item(s) requested
+[3/24/2023 12:31:42 PM] [Info] Submitting workshop query for 9 item(s)...
+[3/24/2023 12:31:42 PM] [Info] Workshop query yielded 9 result(s)
+[3/24/2023 12:31:42 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[3/24/2023 12:33:15 PM] [Info] 877777769 'Furniture Expansion' queued for download
+[3/24/2023 12:33:15 PM] [Info] 1717095606 'Creator Tools' queued for download
+[3/24/2023 12:33:15 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[3/24/2023 12:33:15 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[3/24/2023 12:33:15 PM] [Info] 2133808330 'Music Remaster 3.0' queued for download
+[3/24/2023 12:33:15 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[3/24/2023 12:33:15 PM] [Info] 1909152337 'California Assets' queued for download
+[3/24/2023 12:33:15 PM] [Info] Authorized to download 2802239233 'UDarkRP Vehicles'
+[3/24/2023 12:33:15 PM] [Info] 2802239233 'UDarkRP Vehicles' queued for download
+[3/24/2023 12:33:15 PM] [Info] 2683620106 'Arid' queued for download
+[3/24/2023 12:33:15 PM] [Info] 2839462324 'Uncreated Content' queued for download
+[3/24/2023 12:33:15 PM] [Info] 9 workshop item(s) to download...
+[3/24/2023 12:33:15 PM] [Info] Workshop item found in cache: 877777769
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 877777769
+[3/24/2023 12:33:15 PM] [Info] Installed workshop item: 877777769
+[3/24/2023 12:33:15 PM] [Info] Workshop item found in cache: 1717095606
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 1717095606
+[3/24/2023 12:33:15 PM] [Info] Installed workshop item: 1717095606
+[3/24/2023 12:33:15 PM] [Info] Workshop item found in cache: 2069342497
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 2069342497
+[3/24/2023 12:33:15 PM] [Info] Installed workshop item: 2069342497
+[3/24/2023 12:33:15 PM] [Info] Workshop item found in cache: 2133808330
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 2133808330
+[3/24/2023 12:33:15 PM] [Info] Installed workshop item: 2133808330
+[3/24/2023 12:33:15 PM] [Info] Workshop item found in cache: 1232252658
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 1232252658
+[3/24/2023 12:33:15 PM] [Info] Installed workshop item: 1232252658
+[3/24/2023 12:33:15 PM] [Info] Workshop item found in cache: 1909152337
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 1909152337
+[3/24/2023 12:33:15 PM] [Info] Installed workshop item: 1909152337
+[3/24/2023 12:33:15 PM] [Info] Workshop item found in cache: 2802239233
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 2802239233
+[3/24/2023 12:33:15 PM] [Info] Installed workshop item: 2802239233
+[3/24/2023 12:33:15 PM] [Info] Workshop item found in cache: 2683620106
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 2683620106
+[3/24/2023 12:33:15 PM] [Info] Installed workshop item: 2683620106
+[3/24/2023 12:33:15 PM] [Info] Downloading workshop item: 2839462324
+[3/24/2023 12:33:15 PM] [Info] Successfully downloaded workshop item: 2839462324
+[3/24/2023 12:33:15 PM] [Info] Installing workshop item: 2839462324
+[3/24/2023 12:33:30 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/24/2023 12:33:30 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <03935fc8f0dc414e987f6868eaf415df>:0 
+[3/24/2023 12:33:30 PM] [Error] Missing effect gameobject
+[3/24/2023 12:33:30 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <03935fc8f0dc414e987f6868eaf415df>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/24/2023 12:33:30 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/24/2023 12:33:30 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <03935fc8f0dc414e987f6868eaf415df>:0 
+[3/24/2023 12:33:30 PM] [Error] Missing effect gameobject
+[3/24/2023 12:33:30 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <03935fc8f0dc414e987f6868eaf415df>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/24/2023 12:33:30 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/24/2023 12:33:30 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <03935fc8f0dc414e987f6868eaf415df>:0 
+[3/24/2023 12:33:30 PM] [Error] Missing effect gameobject
+[3/24/2023 12:33:30 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <03935fc8f0dc414e987f6868eaf415df>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/24/2023 12:33:30 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/24/2023 12:33:30 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <03935fc8f0dc414e987f6868eaf415df>:0 
+[3/24/2023 12:33:30 PM] [Error] Missing effect gameobject
+[3/24/2023 12:33:30 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <03935fc8f0dc414e987f6868eaf415df>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/24/2023 12:33:30 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/24/2023 12:33:30 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <03935fc8f0dc414e987f6868eaf415df>:0 
+[3/24/2023 12:33:30 PM] [Error] Missing effect gameobject
+[3/24/2023 12:33:30 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <03935fc8f0dc414e987f6868eaf415df>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/24/2023 12:33:30 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/24/2023 12:33:30 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <03935fc8f0dc414e987f6868eaf415df>:0 
+[3/24/2023 12:33:30 PM] [Error] Missing effect gameobject
+[3/24/2023 12:33:30 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <03935fc8f0dc414e987f6868eaf415df>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/24/2023 12:33:30 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/24/2023 12:33:30 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <03935fc8f0dc414e987f6868eaf415df>:0 
+[3/24/2023 12:33:30 PM] [Error] Missing effect gameobject
+[3/24/2023 12:33:30 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <03935fc8f0dc414e987f6868eaf415df>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/24/2023 12:33:30 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/24/2023 12:33:30 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x004f6] in <03935fc8f0dc414e987f6868eaf415df>:0 
+[3/24/2023 12:33:30 PM] [Error] Missing effect gameobject
+[3/24/2023 12:33:30 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <03935fc8f0dc414e987f6868eaf415df>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/24/2023 12:33:30 PM] [Info] Installed workshop item: 2839462324
+[3/24/2023 12:33:30 PM] [Info] Loading level: 8%
+[3/24/2023 12:33:32 PM] [Info] Loading level: 16%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 25%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 33%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 41%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 50%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 58%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 66%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 75%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 83%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 91%
+[3/24/2023 12:33:35 PM] [Info] Loading level: 100%
+[3/24/2023 12:33:43 PM] [Error] Failed to generate an item with ID 31368 from type Military_High_Peaks [3]
+[3/24/2023 12:51:15 PM] [Error] Failed to generate an item with ID 31368 from type Military_High_Peaks [3]
+[3/24/2023 12:51:15 PM] [Error] Failed to respawn an item with ID 31368 from type Military_Low_Peaks [2]
+[3/24/2023 1:37:51 PM] [Info] BattlEye Server: Player #0 Shake (10.16.17.81:54417) connected
+[3/24/2023 1:37:51 PM] [Info] BattlEye Server: Player #0 Shake - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[3/24/2023 1:37:51 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/24/2023 1:37:51 PM] [Info] BattlEye Server: Connected to BE Master
+[3/24/2023 1:38:02 PM] [Info] [Group] Shake [Shake]: "/i woodland"
+[3/24/2023 1:38:07 PM] [Info] [Group] Shake [Shake]: "/i 30710"
+[3/24/2023 1:38:14 PM] [Info] [Group] Shake [Shake]: "/i "woodland mol""
+[3/24/2023 1:38:22 PM] [Info] [World] Shake [Shake]: "/i 30719"
+[3/24/2023 1:38:26 PM] [Info] [Group] Shake [Shake]: "/i 30718"
+[3/24/2023 1:40:05 PM] [Info] [Group] Shake [Shake]: "/heal"
+[3/24/2023 1:40:48 PM] [Info] [Group] Shake [Shake]: "/i g26"
+[3/24/2023 1:41:06 PM] [Info] [Group] Shake [Shake]: "/i g-2"
+[3/24/2023 1:41:49 PM] [Info] [Group] Shake [Shake]: "/teleport wp"
+[3/24/2023 1:41:49 PM] [Info] Successfully teleported Shake to waypoint!
+[3/24/2023 1:41:56 PM] [Info] [Group] Shake [Shake]: "/i nightvi"
+[3/24/2023 1:42:11 PM] [Info] [Group] Shake [Shake]: "/i "long wood""
+[3/24/2023 1:42:32 PM] [Info] [Group] Shake [Shake]: "/i "wooden crate""
+[3/24/2023 1:42:44 PM] [Info] [Group] Shake [Shake]: "/i "wooden door""
+[3/24/2023 1:43:00 PM] [Info] [Group] Shake [Shake]: "/i monob"
+[3/24/2023 1:43:06 PM] [Info] [Group] Shake [Shake]: "/i cot"
+[3/24/2023 1:43:25 PM] [Info] [Group] Shake [Shake]: "/i 59218"
+[3/24/2023 1:44:07 PM] [Info] [Group] Shake [Shake]: "/home"
+[3/24/2023 1:44:33 PM] [Info] [Group] Shake [Shake]: "/i radio"
+[3/24/2023 1:45:18 PM] [Info] [Group] Shake [Shake]: "/i 59512"
+[3/24/2023 1:45:28 PM] [Info] [Group] Shake [Shake]: "/i "wooden shut""
+[3/24/2023 1:45:31 PM] [Info] [World] Shake [Shake]: "/i "wooden shu""
+[3/24/2023 1:45:42 PM] [Info] [World] Shake [Shake]: "/i "pine barri""
+[3/24/2023 1:45:54 PM] [Info] [Group] Shake [Shake]: "/i "pine plan""
+[3/24/2023 1:46:05 PM] [Info] [Group] Shake [Shake]: "/i fortification"
+[3/24/2023 1:46:10 PM] [Info] [Group] Shake [Shake]: "/i "ple fort""
+[3/24/2023 1:46:20 PM] [Info] [Group] Shake [Shake]: "/i "pine fort" 3"
+[3/24/2023 1:46:47 PM] [Info] [Group] Shake [Shake]: "/day"
+[3/24/2023 1:46:47 PM] [Info] Successfully set time to day!
+[3/24/2023 1:47:08 PM] [Info] [Group] Shake [Shake]: "/i "ple for" 2"
+[3/24/2023 1:47:12 PM] [Info] [Area] Shake [Shake]: "/i "ple for" 3"
+[3/24/2023 1:48:56 PM] [Info] [Group] Shake [Shake]: "/i 16652 5"
+[3/24/2023 1:49:01 PM] [Info] [Group] Shake [Shake]: "/i ratio"
+[3/24/2023 1:49:07 PM] [Info] [Group] Shake [Shake]: "/i "us rat" 2"
+[3/24/2023 1:49:20 PM] [Info] [Group] Shake [Shake]: "/i ratio"
+[3/24/2023 1:50:15 PM] [Info] [Group] Shake [Shake]: "/i 59636"
+[3/24/2023 1:50:20 PM] [Info] [Group] Shake [Shake]: "/i medical"
+[3/24/2023 1:50:25 PM] [Info] [Group] Shake [Shake]: "/i "med kit""
+[3/24/2023 1:50:34 PM] [Info] [Group] Shake [Shake]: "/i 59617"
+[3/24/2023 1:50:41 PM] [Info] [Group] Shake [Shake]: "/i "wall ra""
+[3/24/2023 1:51:22 PM] [Info] [Group] Shake [Shake]: "/i "wall ra" 3"
+[3/24/2023 1:52:30 PM] [Info] [Group] Shake [Shake]: "/i 59545"
+[3/24/2023 1:54:39 PM] [Info] [Group] Shake [Shake]: "/i 59908"
+[3/24/2023 1:54:49 PM] [Info] [Group] Shake [Shake]: "/i 59908 3"
+[3/24/2023 1:56:19 PM] [Info] [Group] Shake [Shake]: "/i "metal man""
+[3/24/2023 1:56:19 PM] [Error] Failed to respawn an item with ID 31368 from type Military_High_Peaks [3]
+[3/24/2023 1:57:18 PM] [Info] [Group] Shake [Shake]: "/i woodla"
+[3/24/2023 1:57:24 PM] [Info] [Group] Shake [Shake]: "/i "nds jac""
+[3/24/2023 1:57:28 PM] [Info] [Group] Shake [Shake]: "/i balac"
+[3/24/2023 1:57:42 PM] [Info] [Group] Shake [Shake]: "/i "nds mol""
+[3/24/2023 1:57:46 PM] [Info] [Group] Shake [Shake]: "/i 16652 5"
+[3/24/2023 1:58:13 PM] [Info] [Group] Shake [Shake]: "/i 59344"
+[3/24/2023 1:59:09 PM] [Info] [Group] Shake [Shake]: "/i 59128"
+[3/24/2023 2:00:05 PM] [Info] [Group] Shake [Shake]: "/i "t22""
+[3/24/2023 2:00:18 PM] [Info] [Group] Shake [Shake]: "/i "target bo""
+[3/24/2023 2:02:01 PM] [Info] [Group] Shake [Shake]: "/i "ope tan""
+[3/24/2023 2:02:08 PM] [Info] [Group] Shake [Shake]: "/i 460s"
+[3/24/2023 2:02:17 PM] [Info] [Group] Shake [Shake]: "/i 59839"
+[3/24/2023 2:02:23 PM] [Info] [Area] Shake [Shake]: "/i 59840"
+[3/24/2023 2:03:43 PM] [Info] [Group] Shake [Shake]: "/i bru"
+[3/24/2023 2:03:47 PM] [Info] [Area] Shake [Shake]: "/i brun"
+[3/24/2023 2:03:53 PM] [Info] [World] Shake [Shake]: "/i bruh"
+[3/24/2023 2:04:13 PM] [Info] [Group] Shake [Shake]: "/i brut"
+[3/24/2023 2:04:21 PM] [Info] [Group] Shake [Shake]: "/i 59665"
+[3/24/2023 2:04:50 PM] [Info] [Group] Shake [Shake]: "/i dmr28"
+[3/24/2023 2:05:08 PM] [Info] [Group] Shake [Shake]: "/i lsr"
+[3/24/2023 2:05:42 PM] [Info] [Group] Shake [Shake]: "/i ebr2"
+[3/24/2023 2:05:49 PM] [Info] [Group] Shake [Shake]: "/i pointer"
+[3/24/2023 2:05:56 PM] [Info] [Group] Shake [Shake]: "/i "on range""
+[3/24/2023 2:06:03 PM] [Info] [Group] Shake [Shake]: "/i "hunting sco""
+[3/24/2023 2:06:19 PM] [Info] [Group] Shake [Shake]: "/i assau"
+[3/24/2023 2:06:36 PM] [Info] [Group] Shake [Shake]: "/i 59321"
+[3/24/2023 2:06:48 PM] [Info] [Group] Shake [Shake]: "/i "dmr mag" 5"
+[3/24/2023 2:08:37 PM] [Info] [Group] Shake [Shake]: "/i 59682"
+[3/24/2023 2:08:56 PM] [Info] [Group] Shake [Shake]: "/i "ar cask" 5"
+[3/24/2023 2:08:59 PM] [Info] [Group] Shake [Shake]: "/i "ar mag" 5"
+[3/24/2023 2:09:20 PM] [Info] [Group] Shake [Shake]: "/i cask 3"
+[3/24/2023 2:09:53 PM] [Info] [Group] Shake [Shake]: "/i 59171 5"
+[3/24/2023 2:10:10 PM] [Info] [Group] Shake [Shake]: "/i 16652"
+[3/24/2023 2:10:48 PM] [Info] [Group] Shake [Shake]: "/heal"
+[3/24/2023 2:11:19 PM] [Info] [Group] Shake [Shake]: "/v 38300"
+[3/24/2023 2:11:40 PM] [Info] [Group] Shake [Shake]: "/i "wooden floor""
+[3/24/2023 2:11:46 PM] [Info] [Group] Shake [Shake]: "/i "wooden pillar" 4"
+[3/24/2023 2:11:52 PM] [Info] [Group] Shake [Shake]: "/i "wooden wall" 3"
+[3/24/2023 2:13:28 PM] [Info] [Group] Shake [Shake]: "/i "wooden ramp""
+[3/24/2023 2:13:33 PM] [Info] [Group] Shake [Shake]: "/i "den roof""
+[3/24/2023 2:14:39 PM] [Info] [Group] Shake [Shake]: "/i "wooden grage""
+[3/24/2023 2:14:43 PM] [Info] [Area] Shake [Shake]: "/i "wooden garage""
+[3/24/2023 2:16:11 PM] [Info] [Group] Shake [Shake]: "/i "en floor""
+[3/24/2023 2:16:15 PM] [Info] [Group] Shake [Shake]: "/i "en roo""
+[3/24/2023 2:16:47 PM] [Info] [Group] Shake [Shake]: "/i "en doorfra""
+[3/24/2023 2:16:51 PM] [Info] [World] Shake [Shake]: "/i "en doorwa""
+[3/24/2023 2:17:04 PM] [Info] [Group] Shake [Shake]: "/i 59202"
+[3/24/2023 2:17:06 PM] [Info] [World] Shake [Shake]: "/i 59204"
+[3/24/2023 2:18:19 PM] [Info] [Group] Shake [Shake]: "/i 59219"
+[3/24/2023 2:18:47 PM] [Info] [Group] Shake [Shake]: "/i 59232"
+[3/24/2023 2:19:00 PM] [Info] [Group] Shake [Shake]: "/i 59210"
+[3/24/2023 2:19:14 PM] [Info] [Group] Shake [Shake]: "/i 59203"
+[3/24/2023 2:19:25 PM] [Info] [Area] Shake [Shake]: "/i 59202 5"
+[3/24/2023 2:19:39 PM] [Info] [Group] Shake [Shake]: "/i "wooden log" 5"
+[3/24/2023 2:20:02 PM] [Info] [Area] Shake [Shake]: "/i "wooden pillar""
+[3/24/2023 2:20:31 PM] [Info] [Group] Shake [Shake]: "/i "en door""
+[3/24/2023 2:21:18 PM] [Error] Failed to respawn an item with ID 31368 from type Military_Low_Peaks [2]
+[3/24/2023 2:22:08 PM] [Info] [Group] Shake [Shake]: "/i "maple log" 5"
+[3/24/2023 2:22:37 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/24/2023 2:22:37 PM] [Info] BattlEye Server: Player #0 Shake disconnected
+[3/24/2023 2:58:50 PM] [Error] Failed to respawn an item with ID 31368 from type Military_Low_Peaks [2]
+[3/24/2023 3:06:23 PM] [Error] Failed to respawn an item with ID 31368 from type Military_High_Peaks [3]
+[3/24/2023 3:08:50 PM] [Error] Failed to respawn an item with ID 31368 from type Police_Low_Peaks [0]
+[3/24/2023 3:36:35 PM] [Info] BattlEye Server: Player #0 Shake (10.16.17.81:55644) connected
+[3/24/2023 3:36:35 PM] [Info] BattlEye Server: Player #0 Shake - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[3/24/2023 3:36:53 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/24/2023 3:36:53 PM] [Info] [Group] Shake [Shake]: "/i headla"
+[3/24/2023 3:37:06 PM] [Info] BattlEye Server: Ban check timed out, no response from BE Master
+[3/24/2023 3:37:29 PM] [Info] [Group] Shake [Shake]: "/i 59886"
+[3/24/2023 3:37:50 PM] [Info] [Group] Shake [Shake]: "/i 59520"
+[3/24/2023 3:37:57 PM] [Info] [Group] Shake [Shake]: "/i 144-"
+[3/24/2023 3:37:59 PM] [Info] [World] Shake [Shake]: "/i 1440"
+[3/24/2023 3:39:43 PM] [Info] [Group] Shake [Shake]: "/heal"
+[3/24/2023 3:45:30 PM] [Info] [Group] Shake [Shake]: "/i "den lad""
+[3/24/2023 3:45:52 PM] [Info] [Group] Shake [Shake]: "/i fence"
+[3/24/2023 3:45:56 PM] [Info] [Group] Shake [Shake]: "/heal"
+[3/24/2023 3:45:59 PM] [Info] [Group] Shake [Shake]: "/god"
+[3/24/2023 3:46:44 PM] [Info] [Group] Shake [Shake]: "/i plank"
+[3/24/2023 3:46:57 PM] [Info] [Group] Shake [Shake]: "/i "den fence" 3"
+[3/24/2023 3:48:25 PM] [Info] [Group] Shake [Shake]: "/i 59908"
+[3/24/2023 3:48:33 PM] [Info] [Area] Shake [Shake]: "/i 59908 3"
+[3/24/2023 3:48:47 PM] [Info] [Area] Shake [Shake]: "/i 59908 3"
+[3/24/2023 3:48:57 PM] [Info] [Group] Shake [Shake]: "/v m340"
+[3/24/2023 3:48:59 PM] [Info] [World] Shake [Shake]: "/v m240"
+[3/24/2023 3:49:08 PM] [Info] [Group] Shake [Shake]: "/v m60"
+[3/24/2023 3:49:50 PM] [Info] [Group] Shake [Shake]: "/v brown"
+[3/24/2023 3:50:01 PM] [Info] [Group] Shake [Shake]: "/teleport port"
+[3/24/2023 3:50:01 PM] [Info] Successfully teleported Shake to Location!
+[3/24/2023 3:50:05 PM] [Info] [Group] Shake [Shake]: "/pointtool jump"
+[3/24/2023 3:50:21 PM] [Info] [Group] Shake [Shake]: "/v 38305"
+[3/24/2023 3:50:23 PM] [Info] [World] Shake [Shake]: "/v 38307"
+[3/24/2023 3:50:25 PM] [Info] [Area] Shake [Shake]: "/v 38308"
+[3/24/2023 3:50:28 PM] [Info] [Area] Shake [Shake]: "/v 38309"
+[3/24/2023 3:50:31 PM] [Info] [Area] Shake [Shake]: "/v 38310"
+[3/24/2023 3:50:33 PM] [Info] [World] Shake [Shake]: "j/v 38311"
+[3/24/2023 3:50:37 PM] [Info] [Area] Shake [Shake]: "/v 38311"
+[3/24/2023 3:50:39 PM] [Info] [Area] Shake [Shake]: "/v 38312"
+[3/24/2023 3:50:41 PM] [Info] [Area] Shake [Shake]: "/v 38313"
+[3/24/2023 3:50:42 PM] [Info] [World] Shake [Shake]: "/v 38314"
+[3/24/2023 3:50:44 PM] [Info] [Area] Shake [Shake]: "/v 38315"
+[3/24/2023 3:50:48 PM] [Info] [Area] Shake [Shake]: "/v 38316"
+[3/24/2023 3:50:55 PM] [Info] [Group] Shake [Shake]: "/ho,e"
+[3/24/2023 3:50:57 PM] [Info] [Group] Shake [Shake]: "/home"
+[3/24/2023 3:51:01 PM] [Info] [Group] Shake [Shake]: "/teleport wp"
+[3/24/2023 3:51:01 PM] [Info] Successfully teleported Shake to waypoint!
+[3/24/2023 3:51:43 PM] [Info] [World] Shake [Shake]: "/v 38316"
+[3/24/2023 3:51:49 PM] [Info] [Group] Shake [Shake]: "/i carjack"
+[3/24/2023 3:52:41 PM] [Info] [Group] Shake [Shake]: "/heal"
+[3/24/2023 3:52:55 PM] [Info] [Group] Shake [Shake]: "/heal"
+[3/24/2023 3:53:00 PM] [Info] [Area] Shake [Shake]: "/heal"
+[3/24/2023 3:53:04 PM] [Info] [Group] Shake [Shake]: "/i "large metal plate" 5"
+[3/24/2023 3:53:25 PM] [Info] [Area] Shake [Shake]: "/heal"
+[3/24/2023 3:54:23 PM] [Info] [Group] Shake [Shake]: "/i mgl"
+[3/24/2023 3:54:26 PM] [Info] [Group] Shake [Shake]: "/attachment grena"
+[3/24/2023 3:54:31 PM] [Info] [Area] Shake [Shake]: "/attachment grena"
+[3/24/2023 3:54:48 PM] [Info] [Group] Shake [Shake]: "/attachment "mgl he""
+[3/24/2023 3:54:55 PM] [Info] [Group] Shake [Shake]: "/unlimideammo"
+[3/24/2023 3:54:59 PM] [Info] [Group] Shake [Shake]: "/unlimitedammo"
+[3/24/2023 3:55:25 PM] [Info] [Group] Shake [Shake]: "/v 38316"
+[3/24/2023 3:56:41 PM] [Info] [Group] Shake [Shake]: "/i "large metal plate" 5"
+[3/24/2023 3:58:32 PM] [Info] [Group] Shake [Shake]: "/heal"
+[3/24/2023 4:01:08 PM] [Info] [Group] Shake [Shake]: "/i ebr"
+[3/24/2023 4:01:13 PM] [Info] [Group] Shake [Shake]: "/i "assault scope""
+[3/24/2023 4:01:32 PM] [Info] [Group] Shake [Shake]: "/i 59334"
+[3/24/2023 4:01:35 PM] [Info] [Area] Shake [Shake]: "/i 59335"
+[3/24/2023 4:01:37 PM] [Info] [Area] Shake [Shake]: "/i 59336"
+[3/24/2023 4:01:39 PM] [Info] [Area] Shake [Shake]: "/i 59337"
+[3/24/2023 4:01:40 PM] [Info] [Area] Shake [Shake]: "/i 59338"
+[3/24/2023 4:01:42 PM] [Info] [Area] Shake [Shake]: "/i 59339"
+[3/24/2023 4:05:44 PM] [Info] [Group] Shake [Shake]: "/i 59917"
+[3/24/2023 4:05:45 PM] [Info] [Group] Shake [Shake]: "/i 59918"
+[3/24/2023 4:06:00 PM] [Info] [Group] Shake [Shake]: "/i woodlands"
+[3/24/2023 4:06:04 PM] [Info] [Group] Shake [Shake]: "/i 30710"
+[3/24/2023 4:06:16 PM] [Info] [Group] Shake [Shake]: "/i ltc"
+[3/24/2023 4:06:23 PM] [Info] [Group] Shake [Shake]: "/i 59935"
+[3/24/2023 4:07:36 PM] [Info] BattlEye Server: Ban check timed out, no response from BE Master
+[3/24/2023 4:09:58 PM] [Info] [Group] Shake [Shake]: "/i frag"
+[3/24/2023 4:10:22 PM] [Info] [Group] Shake [Shake]: "/i thermo"
+[3/24/2023 4:10:31 PM] [Info] [World] Shake [Shake]: "/i thermo"
+[3/24/2023 4:10:38 PM] [Info] [Area] Shake [Shake]: "/i thermo"
+[3/24/2023 4:10:41 PM] [Info] [Area] Shake [Shake]: "/i thermo"
+[3/24/2023 4:10:44 PM] [Info] [Area] Shake [Shake]: "/i thermo"
+[3/24/2023 4:10:45 PM] [Info] [Area] Shake [Shake]: "/i thermo"
+[3/24/2023 4:10:57 PM] [Info] [Group] Shake [Shake]: "/i homemade"
+[3/24/2023 4:11:23 PM] [Info] [Area] Shake [Shake]: "/ i homemade 4"
+[3/24/2023 4:11:47 PM] [Info] [Area] Shake [Shake]: "/ i homemade 4"
+[3/24/2023 4:12:00 PM] [Info] [Area] Shake [Shake]: "/ i homemade 4"
+[3/24/2023 4:12:13 PM] [Info] [Area] Shake [Shake]: "/ i homemade 4"
+[3/24/2023 4:12:34 PM] [Info] [Area] Shake [Shake]: "/ i homemade 4"
+[3/24/2023 4:13:07 PM] [Info] [Area] Shake [Shake]: "/ i homemade 4"
+[3/24/2023 4:13:16 PM] [Info] [Group] Shake [Shake]: "/i dragon"
+[3/24/2023 4:14:11 PM] [Info] [Group] Shake [Shake]: "/god"
+[3/24/2023 4:14:14 PM] [Info] [Group] Shake [Shake]: "/pointtool"
+[3/24/2023 4:14:41 PM] [Info] [Group] Shake [Shake]: "/home"
+[3/24/2023 4:14:48 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[3/24/2023 4:14:48 PM] [Info] BattlEye Server: Player #0 Shake disconnected
+[3/24/2023 4:15:37 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[3/24/2023 4:15:38 PM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[3/24/2023 4:15:38 PM] [Info] BattlEye Server: Disconnected from BE Master
+[3/24/2023 4:16:12 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[3/24/2023 4:51:18 PM] [Info] 
+[unloading] ReponseMod_HiddenName

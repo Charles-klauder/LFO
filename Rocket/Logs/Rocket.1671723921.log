@@ -1,0 +1,201 @@
+[12/21/2022 11:20:47 AM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[12/21/2022 11:20:47 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[12/21/2022 11:20:47 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[12/21/2022 11:20:47 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[12/21/2022 11:20:47 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[12/21/2022 11:20:47 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[12/21/2022 11:20:47 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[12/21/2022 11:20:47 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[12/21/2022 11:20:47 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[12/21/2022 11:20:47 AM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[12/21/2022 11:20:47 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[12/21/2022 11:20:47 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[12/21/2022 11:20:47 AM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[12/21/2022 11:20:47 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[12/21/2022 11:20:47 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[12/21/2022 11:20:47 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[12/21/2022 11:20:47 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[12/21/2022 11:20:47 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[12/21/2022 11:20:47 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[12/21/2022 11:20:47 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[12/21/2022 11:20:47 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[12/21/2022 11:20:47 AM] [Info] Loading InfiniteEnergy from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\InfiniteEnergy.dll
+[12/21/2022 11:20:47 AM] [Info] Loading MoreHomes from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\MoreHomes.dll
+[12/21/2022 11:20:47 AM] [Info] Loading ReponseMod_HiddenName from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\ReponseMod_HiddenName.dll
+[12/21/2022 11:20:47 AM] [Info] Loading uEssentials from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\uEssentials.dll
+[12/21/2022 11:20:47 AM] [Info] 
+[loading] InfiniteEnergy
+[12/21/2022 11:20:47 AM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/21/2022 11:20:47 AM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/21/2022 11:20:47 AM] [Info] 
+[loading] ReponseMod_HiddenName
+[12/21/2022 11:20:47 AM] [Info] 
+[loading] uEssentials
+[12/21/2022 11:20:47 AM] [Error] Failed to load uEssentials, unloading now... :System.TypeLoadException: Could not resolve type with token 010000ed (from typeref, class/assembly SDG.Unturned.ConsoleInput, Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00033] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/21/2022 11:20:47 AM] [Info] 
+[unloading] uEssentials
+[12/21/2022 11:20:47 AM] [Error] Failed to unload uEssentials:System.TypeLoadException: Could not resolve type with token 010000ed (from typeref, class/assembly SDG.Unturned.ConsoleInput, Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)
+  at Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (Rocket.API.PluginState state) [0x0003b] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x0005c] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/21/2022 11:20:47 AM] [Info] This server will automatically save every 1800 seconds
+[12/21/2022 11:20:47 AM] [Info] Steam servers ready!
+[12/21/2022 11:20:47 AM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/MyServer/Workshop/Steam
+[12/21/2022 11:20:47 AM] [Info] 4 workshop item(s) requested
+[12/21/2022 11:20:47 AM] [Info] Submitting workshop query for 4 item(s)...
+[12/21/2022 11:20:47 AM] [Info] Workshop query yielded 4 result(s)
+[12/21/2022 11:20:47 AM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/21/2022 11:21:16 AM] [Info] 2898548949 'A6 Polaris' queued for download
+[12/21/2022 11:21:16 AM] [Info] 1717095606 'Creator Tools' queued for download
+[12/21/2022 11:21:16 AM] [Info] 2796081018 'Nordic Compatable Arid' queued for download
+[12/21/2022 11:21:16 AM] [Info] 2902515278 'A6 Polaris+ Mod [Spawn in map]' queued for download
+[12/21/2022 11:21:16 AM] [Info] 2902515278 'A6 Polaris+ Mod [Spawn in map]' has 1 children
+[12/21/2022 11:21:16 AM] [Info] 	2898548949 (already queued)
+[12/21/2022 11:21:16 AM] [Info] 4 workshop item(s) to download...
+[12/21/2022 11:21:16 AM] [Info] Workshop item found in cache: 2898548949
+[12/21/2022 11:21:16 AM] [Info] Installing workshop item: 2898548949
+[12/21/2022 11:21:16 AM] [Info] Installed workshop item: 2898548949
+[12/21/2022 11:21:16 AM] [Info] Workshop item found in cache: 1717095606
+[12/21/2022 11:21:16 AM] [Info] Installing workshop item: 1717095606
+[12/21/2022 11:21:16 AM] [Info] Installed workshop item: 1717095606
+[12/21/2022 11:21:16 AM] [Info] Workshop item found in cache: 2796081018
+[12/21/2022 11:21:16 AM] [Info] Installing workshop item: 2796081018
+[12/21/2022 11:21:16 AM] [Info] Installed workshop item: 2796081018
+[12/21/2022 11:21:16 AM] [Info] Workshop item found in cache: 2902515278
+[12/21/2022 11:21:16 AM] [Info] Installing workshop item: 2902515278
+[12/21/2022 11:21:16 AM] [Info] Installed workshop item: 2902515278
+[12/21/2022 11:21:16 AM] [Info] Skipping level config override Animals.Max_Instances_Medium because server value (50) is not the default (16)
+[12/21/2022 11:21:16 AM] [Info] Skipping level config override Items.Quality_Full_Chance because server value (1) is not the default (0.1)
+[12/21/2022 11:21:16 AM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: False (Default: True)
+[12/21/2022 11:21:16 AM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: False (Default: True)
+[12/21/2022 11:21:16 AM] [Info] Skipping level config override Barricades.Gun_Lowcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Barricades.Gun_Highcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Barricades.Armor_Lowtier_Multiplier because server value (100) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Barricades.Armor_Hightier_Multiplier because server value (100) is not the default (0.5)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Structures.Gun_Lowcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Structures.Gun_Highcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Structures.Armor_Lowtier_Multiplier because server value (0.01) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Structures.Armor_Hightier_Multiplier because server value (0.01) is not the default (0.5)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Structures.Melee_Damage_Multiplier because server value (0.01) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Structures.Melee_Repair_Multiplier because server value (5) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Events.Airdrop_Speed because server value (1) is not the default (128)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Events.Airdrop_Force because server value (1) is not the default (9.5)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Vehicles.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Vehicles.Melee_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Vehicles.Min_Battery_Charge because server value (1) is not the default (0.5)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Vehicles.Max_Battery_Charge because server value (1) is not the default (0.75)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Vehicles.Has_Battery_Chance because server value (1) is not the default (0.8)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Vehicles.Max_Instances_Medium because server value (40) is not the default (16)
+[12/21/2022 11:21:17 AM] [Info] Level overrides config Vehicles.Armor_Multiplier: 0.375 (Default: 1)
+[12/21/2022 11:21:17 AM] [Info] Level overrides config Players.Experience_Multiplier: 1 (Default: 1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Players.Virus_Infect because server value (90) is not the default (50)
+[12/21/2022 11:21:17 AM] [Info] Level overrides config Zombies.Armor_Multiplier: 1 (Default: 1)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Zombies.Full_Moon_Experience_Multiplier because server value (5) is not the default (2)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Zombies.Spawn_Chance because server value (1) is not the default (0.25)
+[12/21/2022 11:21:17 AM] [Info] Level overrides config Zombies.Min_Mega_Drops: 1 (Default: 5)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Zombies.Max_Mega_Drops because server value (10) is not the default (5)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Zombies.Min_Boss_Drops because server value (5) is not the default (8)
+[12/21/2022 11:21:17 AM] [Info] Level overrides config Zombies.Max_Boss_Drops: 1 (Default: 10)
+[12/21/2022 11:21:17 AM] [Info] Skipping level config override Zombies.Loot_Chance because server value (1) is not the default (0.5)
+[12/21/2022 11:21:17 AM] [Info] Level overrides config Gameplay.Chart: True (Default: False)
+[12/21/2022 11:21:17 AM] [Info] Monitoring workshop map 'A6 Polaris' (2898548949) for changes
+[12/21/2022 11:21:17 AM] [Info] Loading level: 8%
+[12/21/2022 11:21:19 AM] [Info] Loading level: 16%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 25%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 33%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 41%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 50%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 58%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 66%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 75%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 83%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 91%
+[12/21/2022 11:21:20 AM] [Info] Loading level: 100%
+[12/21/2022 11:21:44 AM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:60116) connected
+[12/21/2022 11:21:44 AM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/21/2022 11:21:45 AM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: [Sheriff] Red__Bear
+[12/21/2022 11:21:45 AM] [Info] BattlEye Server: Connected to BE Master
+[12/21/2022 11:21:48 AM] [Info] [Group] [Sheriff] Red__Bear [Red__Bear]: "/i floor"
+[12/21/2022 11:25:05 AM] [Info] Giving [Sheriff] Red__Bear item 52:1
+[12/21/2022 11:25:05 AM] [Info] [Group] [Sheriff] Red__Bear [Red__Bear]: "/i "pistol mag""
+[12/21/2022 11:25:14 AM] [Info] Giving [Sheriff] Red__Bear item 19289:1
+[12/21/2022 11:25:14 AM] [Info] [Area] [Sheriff] Red__Bear [Red__Bear]: "/i removal"
+[12/21/2022 11:25:33 AM] [Info] Giving [Sheriff] Red__Bear item 19946:1
+[12/21/2022 11:25:33 AM] [Info] [Group] [Sheriff] Red__Bear [Red__Bear]: "/i "pistol mag" 10"
+[12/21/2022 11:26:07 AM] [Info] Giving [Sheriff] Red__Bear item 19289:10
+[12/21/2022 11:26:07 AM] [Info] [Group] [Sheriff] Red__Bear [Red__Bear]: "/home"
+[12/21/2022 11:29:54 AM] [Info] [Group] [Sheriff] Red__Bear [Red__Bear]: "/kick red"
+[12/21/2022 11:30:35 AM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[12/21/2022 11:30:35 AM] [Info] Successfully kicked Red__Bear!
+[12/21/2022 11:30:35 AM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:51764) connected
+[12/21/2022 11:30:35 AM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/21/2022 11:30:43 AM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/21/2022 11:30:43 AM] [Info] [Group] Red__Bear [Red__Bear]: "/heal"
+[12/21/2022 11:31:28 AM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/21/2022 11:31:28 AM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[12/21/2022 11:44:47 AM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[12/21/2022 11:44:47 AM] [Info] BattlEye Server: Disconnected from BE Master
+[12/21/2022 11:50:47 AM] [Info] Saving server
+[12/21/2022 12:20:47 PM] [Info] Saving server
+[12/21/2022 12:38:45 PM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:62304) connected
+[12/21/2022 12:38:45 PM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/21/2022 12:38:46 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/21/2022 12:38:46 PM] [Info] BattlEye Server: Connected to BE Master
+[12/21/2022 12:39:20 PM] [Info] [Group] Red__Bear [Red__Bear]: "/unadmin red"
+[12/21/2022 12:41:59 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/21/2022 12:41:59 PM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[12/21/2022 12:45:19 PM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[12/21/2022 12:45:19 PM] [Info] BattlEye Server: Disconnected from BE Master
+[12/21/2022 12:50:47 PM] [Info] Saving server
+[12/21/2022 1:20:47 PM] [Info] Saving server
+[12/21/2022 1:50:47 PM] [Info] Saving server
+[12/21/2022 2:20:47 PM] [Info] Saving server
+[12/21/2022 2:50:47 PM] [Info] Saving server
+[12/21/2022 3:20:47 PM] [Info] Saving server
+[12/21/2022 3:50:47 PM] [Info] Saving server
+[12/21/2022 4:08:54 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER (108.90.241.159:55468) connected
+[12/21/2022 4:08:54 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER - BE GUID: 0b39942d7d9a57c3719c1f802044c592
+[12/21/2022 4:08:55 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/21/2022 4:08:55 PM] [Info] BattlEye Server: Connected to BE Master
+[12/21/2022 4:20:42 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/21/2022 4:20:42 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER disconnected
+[12/21/2022 4:20:47 PM] [Info] Saving server
+[12/21/2022 4:22:46 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER (108.90.241.159:55008) connected
+[12/21/2022 4:22:46 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER - BE GUID: 0b39942d7d9a57c3719c1f802044c592
+[12/21/2022 4:38:59 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/21/2022 4:38:59 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/21/2022 4:38:59 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER disconnected
+[12/21/2022 4:50:47 PM] [Info] Saving server
+[12/21/2022 5:20:47 PM] [Info] Saving server
+[12/21/2022 5:38:18 PM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[12/21/2022 5:38:18 PM] [Info] BattlEye Server: Disconnected from BE Master
+[12/21/2022 5:50:47 PM] [Info] Saving server
+[12/21/2022 6:20:47 PM] [Info] Saving server
+[12/21/2022 6:36:09 PM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:52236) connected
+[12/21/2022 6:36:09 PM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/21/2022 6:36:09 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/21/2022 6:36:09 PM] [Info] BattlEye Server: Connected to BE Master
+[12/21/2022 6:36:50 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/21/2022 6:36:50 PM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[12/21/2022 6:39:42 PM] [Info] BattlEye Server: Player #0 Cheese Boi (173.3.120.91:50814) connected
+[12/21/2022 6:39:42 PM] [Info] BattlEye Server: Player #0 Cheese Boi - BE GUID: 2b512fb04534f10758ddfe662a41a811
+[12/21/2022 6:39:58 PM] [Info] Connecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: [ Sheriff ] Soprano
+[12/21/2022 6:39:58 PM] [Info] [World] [ Sheriff ] Soprano [Cheese Boi]: "/home"
+[12/21/2022 6:50:47 PM] [Info] Saving server
+[12/21/2022 7:04:48 PM] [Info] Kicking for inactivity: PlayerID: 76561199129498897 Name: Cheese Boi Character: [ Sheriff ] Soprano
+[12/21/2022 7:20:47 PM] [Info] Disconnecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: [ Sheriff ] Soprano
+[12/21/2022 7:20:47 PM] [Info] BattlEye Server: Player #0 Cheese Boi disconnected
+[12/21/2022 7:20:47 PM] [Info] Saving server
+[12/21/2022 7:50:47 PM] [Info] Saving server
+[12/21/2022 8:20:47 PM] [Info] Saving server
+[12/21/2022 8:48:27 PM] [Info] BattlEye Server: Failed to receive from BE Master (0)
+[12/21/2022 8:48:27 PM] [Info] BattlEye Server: Disconnected from BE Master
+[12/21/2022 8:50:47 PM] [Info] Saving server
+[12/21/2022 9:20:47 PM] [Info] Saving server
+[12/21/2022 9:50:47 PM] [Info] Saving server
+[12/21/2022 10:20:47 PM] [Info] Saving server
+[12/21/2022 10:50:47 PM] [Info] Saving server
+[12/21/2022 11:01:02 PM] [Info] 
+[unloading] InfiniteEnergy

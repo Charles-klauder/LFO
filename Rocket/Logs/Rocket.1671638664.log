@@ -1,0 +1,660 @@
+[12/20/2022 2:47:31 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[12/20/2022 2:47:31 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[12/20/2022 2:47:31 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[12/20/2022 2:47:31 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[12/20/2022 2:47:31 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[12/20/2022 2:47:31 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[12/20/2022 2:47:31 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[12/20/2022 2:47:31 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[12/20/2022 2:47:31 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[12/20/2022 2:47:31 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[12/20/2022 2:47:31 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[12/20/2022 2:47:31 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[12/20/2022 2:47:31 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[12/20/2022 2:47:31 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[12/20/2022 2:47:31 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[12/20/2022 2:47:31 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[12/20/2022 2:47:31 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[12/20/2022 2:47:31 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[12/20/2022 2:47:31 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[12/20/2022 2:47:31 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[12/20/2022 2:47:31 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[12/20/2022 2:47:31 PM] [Info] Loading InfiniteEnergy from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\InfiniteEnergy.dll
+[12/20/2022 2:47:31 PM] [Info] Loading MoreHomes from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\MoreHomes.dll
+[12/20/2022 2:47:31 PM] [Info] Loading ReponseMod_HiddenName from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\ReponseMod_HiddenName.dll
+[12/20/2022 2:47:31 PM] [Info] Loading uEssentials from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\uEssentials.dll
+[12/20/2022 2:47:33 PM] [Info] 
+[loading] InfiniteEnergy
+[12/20/2022 2:47:33 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/20/2022 2:47:33 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/20/2022 2:47:33 PM] [Info] 
+[loading] ReponseMod_HiddenName
+[12/20/2022 2:47:33 PM] [Info] 
+[loading] uEssentials
+[12/20/2022 2:47:33 PM] [Error] Failed to load uEssentials, unloading now... :System.TypeLoadException: Could not resolve type with token 010000ed (from typeref, class/assembly SDG.Unturned.ConsoleInput, Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00033] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/20/2022 2:47:33 PM] [Info] 
+[unloading] uEssentials
+[12/20/2022 2:47:33 PM] [Error] Failed to unload uEssentials:System.TypeLoadException: Could not resolve type with token 010000ed (from typeref, class/assembly SDG.Unturned.ConsoleInput, Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)
+  at Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (Rocket.API.PluginState state) [0x0003b] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x0005c] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/20/2022 2:47:33 PM] [Info] This server will automatically save every 1800 seconds
+[12/20/2022 2:47:33 PM] [Info] Steam servers ready!
+[12/20/2022 2:47:33 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/MyServer/Workshop/Steam
+[12/20/2022 2:47:33 PM] [Info] 4 workshop item(s) requested
+[12/20/2022 2:47:33 PM] [Info] Submitting workshop query for 4 item(s)...
+[12/20/2022 2:47:33 PM] [Info] Workshop query yielded 4 result(s)
+[12/20/2022 2:47:33 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/20/2022 2:48:06 PM] [Info] 2898548949 'A6 Polaris' queued for download
+[12/20/2022 2:48:06 PM] [Info] 1717095606 'Creator Tools' queued for download
+[12/20/2022 2:48:06 PM] [Info] 2796081018 'Nordic Compatable Arid' queued for download
+[12/20/2022 2:48:06 PM] [Info] 2902515278 'A6 Polaris+ Mod [Spawn in map]' queued for download
+[12/20/2022 2:48:06 PM] [Info] 2902515278 'A6 Polaris+ Mod [Spawn in map]' has 1 children
+[12/20/2022 2:48:06 PM] [Info] 	2898548949 (already queued)
+[12/20/2022 2:48:06 PM] [Info] 4 workshop item(s) to download...
+[12/20/2022 2:48:06 PM] [Info] Workshop item found in cache: 2898548949
+[12/20/2022 2:48:06 PM] [Info] Installing workshop item: 2898548949
+[12/20/2022 2:48:06 PM] [Info] Installed workshop item: 2898548949
+[12/20/2022 2:48:06 PM] [Info] Workshop item found in cache: 1717095606
+[12/20/2022 2:48:06 PM] [Info] Installing workshop item: 1717095606
+[12/20/2022 2:48:06 PM] [Info] Installed workshop item: 1717095606
+[12/20/2022 2:48:06 PM] [Info] Workshop item found in cache: 2796081018
+[12/20/2022 2:48:06 PM] [Info] Installing workshop item: 2796081018
+[12/20/2022 2:48:06 PM] [Info] Installed workshop item: 2796081018
+[12/20/2022 2:48:06 PM] [Info] Downloading workshop item: 2902515278
+[12/20/2022 2:48:06 PM] [Info] Successfully downloaded workshop item: 2902515278
+[12/20/2022 2:48:06 PM] [Info] Installing workshop item: 2902515278
+[12/20/2022 2:48:08 PM] [Info] Installed workshop item: 2902515278
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Animals.Max_Instances_Medium because server value (50) is not the default (16)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Items.Quality_Full_Chance because server value (1) is not the default (0.1)
+[12/20/2022 2:48:08 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: False (Default: True)
+[12/20/2022 2:48:08 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: False (Default: True)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Barricades.Gun_Lowcal_Damage_Multiplier because server value (5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Barricades.Gun_Highcal_Damage_Multiplier because server value (5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Barricades.Armor_Lowtier_Multiplier because server value (5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Barricades.Armor_Hightier_Multiplier because server value (5) is not the default (0.5)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Structures.Gun_Lowcal_Damage_Multiplier because server value (5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Structures.Gun_Highcal_Damage_Multiplier because server value (5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Structures.Armor_Lowtier_Multiplier because server value (5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Structures.Armor_Hightier_Multiplier because server value (5) is not the default (0.5)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Structures.Melee_Damage_Multiplier because server value (5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Structures.Melee_Repair_Multiplier because server value (5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Events.Airdrop_Speed because server value (1) is not the default (128)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Events.Airdrop_Force because server value (1) is not the default (9.5)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Vehicles.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Vehicles.Melee_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Vehicles.Min_Battery_Charge because server value (1) is not the default (0.5)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Vehicles.Max_Battery_Charge because server value (1) is not the default (0.75)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Vehicles.Has_Battery_Chance because server value (1) is not the default (0.8)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Vehicles.Max_Instances_Medium because server value (40) is not the default (16)
+[12/20/2022 2:48:08 PM] [Info] Level overrides config Vehicles.Armor_Multiplier: 0.375 (Default: 1)
+[12/20/2022 2:48:08 PM] [Info] Level overrides config Players.Experience_Multiplier: 1 (Default: 1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Players.Virus_Infect because server value (90) is not the default (50)
+[12/20/2022 2:48:08 PM] [Info] Level overrides config Zombies.Armor_Multiplier: 1 (Default: 1)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Zombies.Full_Moon_Experience_Multiplier because server value (5) is not the default (2)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Zombies.Spawn_Chance because server value (1) is not the default (0.25)
+[12/20/2022 2:48:08 PM] [Info] Level overrides config Zombies.Min_Mega_Drops: 1 (Default: 5)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Zombies.Max_Mega_Drops because server value (10) is not the default (5)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Zombies.Min_Boss_Drops because server value (5) is not the default (8)
+[12/20/2022 2:48:08 PM] [Info] Level overrides config Zombies.Max_Boss_Drops: 1 (Default: 10)
+[12/20/2022 2:48:08 PM] [Info] Skipping level config override Zombies.Loot_Chance because server value (1) is not the default (0.5)
+[12/20/2022 2:48:08 PM] [Info] Level overrides config Gameplay.Chart: True (Default: False)
+[12/20/2022 2:48:08 PM] [Info] Monitoring workshop map 'A6 Polaris' (2898548949) for changes
+[12/20/2022 2:48:08 PM] [Info] Loading level: 8%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 16%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 25%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 33%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 41%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 50%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 58%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 66%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 75%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 83%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 91%
+[12/20/2022 2:48:11 PM] [Info] Loading level: 100%
+[12/20/2022 2:50:33 PM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:54219) connected
+[12/20/2022 2:50:34 PM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/20/2022 2:50:34 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/20/2022 2:50:34 PM] [Info] BattlEye Server: Connected to BE Master
+[12/20/2022 2:50:52 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 2:51:03 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 2:51:03 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/20/2022 2:51:33 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/20/2022 2:51:33 PM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[12/20/2022 3:08:07 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER (108.90.241.159:59561) connected
+[12/20/2022 3:08:07 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER - BE GUID: 0b39942d7d9a57c3719c1f802044c592
+[12/20/2022 3:08:13 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 3:08:13 PM] [Info] reaper [JACK THE RIPPER] was mauled by a zombie!
+[12/20/2022 3:08:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "/god"
+[12/20/2022 3:08:24 PM] [Info] reaper enabled Godmode
+[12/20/2022 3:08:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:08:24 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:08:24 PM] [Info] reaper moved x:-779.2344 y:77.1062(+51.23012) z:4.078125 in the last second (0.9987793)
+[12/20/2022 3:08:38 PM] [Info] BattlEye Server: Player #1 Red__Bear (73.253.101.49:65031) connected
+[12/20/2022 3:08:38 PM] [Info] BattlEye Server: Player #1 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/20/2022 3:08:47 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/20/2022 3:08:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:08:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "/god"
+[12/20/2022 3:08:53 PM] [Info] reaper disabled Godmode
+[12/20/2022 3:09:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "hi'"
+[12/20/2022 3:10:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:10:03 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:10:03 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reaper"
+[12/20/2022 3:10:03 PM] [Info] Red__Bear teleported to reaper
+[12/20/2022 3:10:05 PM] [Info] reaper [JACK THE RIPPER] was shot by a sentry gun!
+[12/20/2022 3:10:16 PM] [Info] [World] reaper [JACK THE RIPPER]: "dam"
+[12/20/2022 3:10:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "i tp to you thin nest i die"
+[12/20/2022 3:10:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "next"
+[12/20/2022 3:10:35 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tphere reaper"
+[12/20/2022 3:11:04 PM] [Info] reaper was teleported to Red__Bear
+[12/20/2022 3:11:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "nice farm"
+[12/20/2022 3:11:16 PM] [Info] [World] reaper [JACK THE RIPPER]: "i see you add a mode to the map"
+[12/20/2022 3:11:22 PM] [Info] [World] reaper [JACK THE RIPPER]: "or sever"
+[12/20/2022 3:12:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "red it's the same for me too"
+[12/20/2022 3:12:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "wait brb"
+[12/20/2022 3:13:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "back"
+[12/20/2022 3:13:16 PM] [Info] [World] reaper [JACK THE RIPPER]: "this car"
+[12/20/2022 3:13:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "can i take this truck"
+[12/20/2022 3:13:40 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i rpg"
+[12/20/2022 3:13:44 PM] [Info] Giving Red__Bear item 19358:1
+[12/20/2022 3:13:44 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "warhead" 5"
+[12/20/2022 3:14:04 PM] [Info] Giving Red__Bear item 19357:5
+[12/20/2022 3:14:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "am at 30%"
+[12/20/2022 3:14:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/20/2022 3:15:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "getting wood"
+[12/20/2022 3:16:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i tape 2"
+[12/20/2022 3:16:28 PM] [Info] Giving reaper item 69:2
+[12/20/2022 3:16:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:16:28 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:16:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:16:35 PM] [Info] reaper moved x:-578.5469 y:40.5989(+18.0364) z:-650.5625 in the last second (0.09999847)
+[12/20/2022 3:16:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:16:55 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:16:56 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 5.56mm"
+[12/20/2022 3:17:31 PM] [Info] Giving Red__Bear item 36140:1
+[12/20/2022 3:17:31 PM] [Info] Saving server
+[12/20/2022 3:19:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "my car"
+[12/20/2022 3:20:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "what?"
+[12/20/2022 3:21:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:21:24 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:22:56 PM] [Info] [World] reaper [JACK THE RIPPER]: "red what to have a gun fight later??"
+[12/20/2022 3:23:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "now or later??"
+[12/20/2022 3:23:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "ok so later"
+[12/20/2022 3:23:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "am getting greade"
+[12/20/2022 3:24:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "airdrop"
+[12/20/2022 3:24:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "i think"
+[12/20/2022 3:25:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "found a new gun!!!"
+[12/20/2022 3:25:51 PM] [Info] [World] reaper [JACK THE RIPPER]: "gpas-14"
+[12/20/2022 3:26:04 PM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[12/20/2022 3:26:04 PM] [Info] BattlEye Server: Disconnected from BE Master
+[12/20/2022 3:26:04 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/20/2022 3:26:04 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 3:26:08 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 3:26:09 PM] [Info] reaper [JACK THE RIPPER] was mauled by a zombie!
+[12/20/2022 3:26:19 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/20/2022 3:26:24 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 3:26:29 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 3:26:31 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/20/2022 3:26:31 PM] [Info] BattlEye Server: Player #1 Red__Bear disconnected
+[12/20/2022 3:26:35 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 3:26:35 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER disconnected
+[12/20/2022 3:26:47 PM] [Info] BattlEye Server: Player #1 Red__Bear (73.253.101.49:62152) connected
+[12/20/2022 3:26:47 PM] [Info] BattlEye Server: Player #1 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/20/2022 3:26:58 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/20/2022 3:26:58 PM] [Info] BattlEye Server: Player #2 JACK THE RIPPER (108.90.241.159:56909) connected
+[12/20/2022 3:26:58 PM] [Info] BattlEye Server: Player #2 JACK THE RIPPER - BE GUID: 0b39942d7d9a57c3719c1f802044c592
+[12/20/2022 3:27:07 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 3:27:07 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:27:07 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:27:08 PM] [Info] reaper moved x:-340.0938 y:51.51644(+25.7422) z:104.1563 in the last second (0.09999847)
+[12/20/2022 3:27:21 PM] [Info] BattlEye Server: Master query timed out, no response from BE Master
+[12/20/2022 3:27:59 PM] [Info] BattlEye Server: Connected to BE Master
+[12/20/2022 3:28:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "where"
+[12/20/2022 3:29:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:29:34 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:29:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "at mill"
+[12/20/2022 3:30:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "one i found from looting and the other one i found killing a zombie"
+[12/20/2022 3:30:33 PM] [Info] [Area] reaper [JACK THE RIPPER]: "9% damage to my body"
+[12/20/2022 3:30:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "am low"
+[12/20/2022 3:30:49 PM] [Info] reaper [JACK THE RIPPER] bled to death!
+[12/20/2022 3:30:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "am dead"
+[12/20/2022 3:30:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:30:55 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:32:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "brb going to drop the rpg in ocean"
+[12/20/2022 3:32:17 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:32:17 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:32:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:32:27 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:32:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:32:31 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:32:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:32:34 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:32:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:32:36 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:32:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "omg an new gun"
+[12/20/2022 3:33:11 PM] [Info] [World] reaper [JACK THE RIPPER]: "how did you miss it red"
+[12/20/2022 3:33:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/20/2022 3:33:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "om"
+[12/20/2022 3:33:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "omg'"
+[12/20/2022 3:33:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "ak"
+[12/20/2022 3:33:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "on me"
+[12/20/2022 3:33:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/telepor twp"
+[12/20/2022 3:33:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:33:59 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:34:17 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:36:01 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reaper"
+[12/20/2022 3:36:01 PM] [Info] Red__Bear teleported to reaper
+[12/20/2022 3:36:40 PM] [Info] [World] reaper [JACK THE RIPPER]: "kaboom going to kill you for it"
+[12/20/2022 3:36:50 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 363"
+[12/20/2022 3:36:50 PM] [Info] Giving Red__Bear item 363:1
+[12/20/2022 3:37:51 PM] [Info] [World] reaper [JACK THE RIPPER]: "here where i dip"
+[12/20/2022 3:37:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:38:18 PM] [Info] [Group] Red__Bear [Red__Bear]: "/vanish"
+[12/20/2022 3:38:35 PM] [Info] Red__Bear enabled Vanishmode
+[12/20/2022 3:38:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/20/2022 3:38:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "how"
+[12/20/2022 3:38:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "where"
+[12/20/2022 3:39:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "where the fuck are you??"
+[12/20/2022 3:39:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "redddddddddd"
+[12/20/2022 3:40:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "i have  ghost"
+[12/20/2022 3:40:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "in my house"
+[12/20/2022 3:40:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "the one thta hate black people"
+[12/20/2022 3:41:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "black life amtter"
+[12/20/2022 3:41:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "matter"
+[12/20/2022 3:42:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "god help use"
+[12/20/2022 3:43:50 PM] [Info] [Group] Red__Bear [Red__Bear]: "/vanish"
+[12/20/2022 3:43:50 PM] [Info] Red__Bear disabled Vanishmode
+[12/20/2022 3:43:52 PM] [Info] [Group] Red__Bear [Red__Bear]: "/vanish"
+[12/20/2022 3:43:52 PM] [Info] Red__Bear enabled Vanishmode
+[12/20/2022 3:43:55 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/20/2022 3:43:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "omg red i found a op admen base"
+[12/20/2022 3:44:00 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i man"
+[12/20/2022 3:44:07 PM] [Info] Giving Red__Bear item 36570:1
+[12/20/2022 3:44:07 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "scrap man""
+[12/20/2022 3:44:15 PM] [Info] Giving Red__Bear item 36573:1
+[12/20/2022 3:44:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "tp to me"
+[12/20/2022 3:44:17 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i ghost"
+[12/20/2022 3:44:21 PM] [Info] Giving Red__Bear item 36097:1
+[12/20/2022 3:44:21 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i pack"
+[12/20/2022 3:44:30 PM] [Info] Giving Red__Bear item 253:1
+[12/20/2022 3:44:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "tpa to me"
+[12/20/2022 3:44:49 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reaper"
+[12/20/2022 3:44:49 PM] [Info] Red__Bear teleported to reaper
+[12/20/2022 3:45:05 PM] [Info] [Group] Red__Bear [Red__Bear]: "/vanish"
+[12/20/2022 3:45:05 PM] [Info] Red__Bear disabled Vanishmode
+[12/20/2022 3:45:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i bed"
+[12/20/2022 3:46:03 PM] [Info] Giving reaper item 19864:1
+[12/20/2022 3:46:03 PM] [Info] [Group] Red__Bear [Red__Bear]: "/god"
+[12/20/2022 3:46:03 PM] [Info] Red__Bear enabled Godmode
+[12/20/2022 3:46:05 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reaper"
+[12/20/2022 3:46:05 PM] [Info] Red__Bear teleported to reaper
+[12/20/2022 3:46:07 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:46:11 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:46:46 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i hmg"
+[12/20/2022 3:46:55 PM] [Info] Giving Red__Bear item 1394:1
+[12/20/2022 3:46:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:47:21 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i hmg"
+[12/20/2022 3:47:31 PM] [Info] Giving Red__Bear item 1394:1
+[12/20/2022 3:47:31 PM] [Info] Saving server
+[12/20/2022 3:47:44 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:48:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "it over this wall red"
+[12/20/2022 3:48:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "just use f2"
+[12/20/2022 3:48:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "ya"
+[12/20/2022 3:48:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "but cant tpa over there"
+[12/20/2022 3:49:39 PM] [Info] reaper [JACK THE RIPPER] was shot in the arm by Red__Bear [Red__Bear]!
+[12/20/2022 3:49:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:49:42 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:49:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:49:47 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:50:00 PM] [Info] [Group] Red__Bear [Red__Bear]: "/v 140"
+[12/20/2022 3:50:51 PM] [Info] Giving Red__Bear vehicle 140
+[12/20/2022 3:50:51 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp rea"
+[12/20/2022 3:50:51 PM] [Info] Red__Bear teleported to reaper
+[12/20/2022 3:51:00 PM] [Info] reaper [JACK THE RIPPER] was mauled by a zombie!
+[12/20/2022 3:51:18 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i shade"
+[12/20/2022 3:51:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:51:19 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:51:19 PM] [Info] reaper moved x:-444.2656 y:46.28589(+20.24681) z:-737.3672 in the last second (0.9934273)
+[12/20/2022 3:51:21 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i glas"
+[12/20/2022 3:51:36 PM] [Info] Giving Red__Bear item 36490:1
+[12/20/2022 3:51:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 3:52:10 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 3:52:10 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 3:52:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "red you didt fix my thing"
+[12/20/2022 3:52:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "yes"
+[12/20/2022 3:52:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "no i fix it"
+[12/20/2022 3:53:05 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "penguin low""
+[12/20/2022 3:55:27 PM] [Info] Giving Red__Bear item 36584:1
+[12/20/2022 3:55:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:55:27 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:55:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/20/2022 3:56:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "where the fuck you went"
+[12/20/2022 3:58:16 PM] [Info] [Group] Red__Bear [Red__Bear]: "/god"
+[12/20/2022 3:58:16 PM] [Info] Red__Bear disabled Godmode
+[12/20/2022 3:58:22 PM] [Info] reaper [JACK THE RIPPER] bled to death!
+[12/20/2022 3:58:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 3:58:26 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 3:58:28 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i q-ti"
+[12/20/2022 3:58:35 PM] [Info] Giving Red__Bear item 36583:1
+[12/20/2022 3:58:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "no"
+[12/20/2022 3:58:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "ma out"
+[12/20/2022 3:59:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/20/2022 3:59:38 PM] [Info] reaper [JACK THE RIPPER] was chopped in the leg by Red__Bear [Red__Bear]!
+[12/20/2022 3:59:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 3:59:42 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 3:59:59 PM] [Info] [Group] Red__Bear [Red__Bear]: "/v hh-"
+[12/20/2022 4:00:04 PM] [Info] Giving Red__Bear vehicle 59026
+[12/20/2022 4:00:04 PM] [Info] Red__Bear [Red__Bear] was blown up by a vehicle!
+[12/20/2022 4:00:16 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i ghost"
+[12/20/2022 4:00:28 PM] [Info] Giving Red__Bear item 36097:1
+[12/20/2022 4:00:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "/jump"
+[12/20/2022 4:00:31 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:00:31 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:00:37 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 4:00:37 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 4:01:18 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/20/2022 4:01:52 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:01:52 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:01:53 PM] [Info] reaper moved x:-528.0078 y:51.13913(+23.73824) z:451.3984 in the last second (0.1418152)
+[12/20/2022 4:02:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:02:02 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:02:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "pvp"
+[12/20/2022 4:02:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "on the map"
+[12/20/2022 4:02:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "raid"
+[12/20/2022 4:02:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "can we find a empity base to do it"
+[12/20/2022 4:02:51 PM] [Info] [World] reaper [JACK THE RIPPER]: "sure"
+[12/20/2022 4:02:54 PM] [Info] [World] reaper [JACK THE RIPPER]: ">>>>>"
+[12/20/2022 4:03:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "where the haze base is ??"
+[12/20/2022 4:03:18 PM] [Info] [World] reaper [JACK THE RIPPER]: "ya"
+[12/20/2022 4:03:25 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tpr eaper"
+[12/20/2022 4:03:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "ya"
+[12/20/2022 4:03:27 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp raeper"
+[12/20/2022 4:03:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:03:28 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:03:28 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp re"
+[12/20/2022 4:03:28 PM] [Info] Red__Bear teleported to Red__Bear
+[12/20/2022 4:03:31 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp rea"
+[12/20/2022 4:03:31 PM] [Info] Red__Bear teleported to reaper
+[12/20/2022 4:03:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "my base"
+[12/20/2022 4:04:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:04:00 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:04:11 PM] [Info] [Group] Red__Bear [Red__Bear]: "/v hh-"
+[12/20/2022 4:04:18 PM] [Info] Giving Red__Bear vehicle 59026
+[12/20/2022 4:04:18 PM] [Info] Red__Bear moved x:-832.7416 y:71.81104(+18.33663) z:594.4338 in the last second (0.05776215)
+[12/20/2022 4:04:19 PM] [Info] Red__Bear moved x:-826.4019 y:97.71113(+25.90009) z:611.5635 in the last second (0.06255341)
+[12/20/2022 4:04:20 PM] [Info] Red__Bear moved x:-824.4937 y:123.1367(+25.42557) z:638.7493 in the last second (0.08311462)
+[12/20/2022 4:04:21 PM] [Info] Red__Bear moved x:-825.7791 y:140.0055(+16.8688) z:673.2306 in the last second (0.1190948)
+[12/20/2022 4:05:03 PM] [Info] Red__Bear moved x:-76.88315 y:88.89448(+16.99113) z:26.88181 in the last second (0.06058502)
+[12/20/2022 4:05:04 PM] [Info] Red__Bear moved x:-96.65315 y:107.1165(+18.22201) z:54.32126 in the last second (0.06385803)
+[12/20/2022 4:05:05 PM] [Info] Red__Bear moved x:-119.0705 y:122.1423(+15.02579) z:83.69528 in the last second (0.06941223)
+[12/20/2022 4:05:25 PM] [Info] [Group] Red__Bear [Red__Bear]: "/god"
+[12/20/2022 4:05:25 PM] [Info] Red__Bear enabled Godmode
+[12/20/2022 4:05:43 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 4:05:43 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 4:05:50 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 4:05:50 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 4:05:57 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 4:05:57 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 4:06:12 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 4:06:12 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 4:06:19 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 4:06:19 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 4:06:24 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 4:06:24 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 4:06:24 PM] [Info] Red__Bear moved x:-0.90625 y:46.60832(+19.25661) z:335.0938 in the last second (1.33305)
+[12/20/2022 4:06:30 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 4:06:30 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 4:06:34 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tpr eaper"
+[12/20/2022 4:06:36 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reap"
+[12/20/2022 4:06:36 PM] [Info] Red__Bear teleported to reaper
+[12/20/2022 4:06:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "hey my gun"
+[12/20/2022 4:07:01 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i mkp"
+[12/20/2022 4:07:05 PM] [Info] Giving Red__Bear item 19423:1
+[12/20/2022 4:07:05 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "mkp box""
+[12/20/2022 4:07:09 PM] [Info] Giving Red__Bear item 19424:1
+[12/20/2022 4:07:09 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "mkp box" 3"
+[12/20/2022 4:07:29 PM] [Info] Giving Red__Bear item 19424:3
+[12/20/2022 4:07:29 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i floor"
+[12/20/2022 4:08:49 PM] [Info] Giving Red__Bear item 52:1
+[12/20/2022 4:08:49 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i locker"
+[12/20/2022 4:09:20 PM] [Info] Giving Red__Bear item 328:1
+[12/20/2022 4:09:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 4:09:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:09:30 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:09:39 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/20/2022 4:09:39 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/20/2022 4:10:05 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i turret"
+[12/20/2022 4:10:08 PM] [Info] Giving Red__Bear item 36405:1
+[12/20/2022 4:10:08 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i sentry"
+[12/20/2022 4:10:21 PM] [Info] Giving Red__Bear item 36406:1
+[12/20/2022 4:10:21 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i turret 5"
+[12/20/2022 4:11:12 PM] [Info] Giving Red__Bear item 36405:5
+[12/20/2022 4:11:12 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i genera"
+[12/20/2022 4:11:38 PM] [Info] Giving Red__Bear item 36364:1
+[12/20/2022 4:11:38 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "op bar""
+[12/20/2022 4:11:45 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "indestructable" 3"
+[12/20/2022 4:11:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/telepor tpw"
+[12/20/2022 4:11:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:11:49 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:12:03 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 1440 3"
+[12/20/2022 4:12:03 PM] [Info] Giving Red__Bear item 1440:3
+[12/20/2022 4:12:35 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i deter"
+[12/20/2022 4:12:42 PM] [Info] Giving Red__Bear item 1480:1
+[12/20/2022 4:12:42 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "sentry bar""
+[12/20/2022 4:12:49 PM] [Info] Giving Red__Bear item 36402:1
+[12/20/2022 4:12:49 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i devas 5"
+[12/20/2022 4:13:10 PM] [Info] Giving Red__Bear item 36400:5
+[12/20/2022 4:13:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:13:10 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:13:10 PM] [Info] reaper moved x:685.2656 y:76.87964(+43.58876) z:179.7344 in the last second (0.5171585)
+[12/20/2022 4:13:16 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i devas"
+[12/20/2022 4:13:30 PM] [Info] Giving Red__Bear item 36400:1
+[12/20/2022 4:13:30 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "armored do""
+[12/20/2022 4:13:31 PM] [Info] Giving Red__Bear item 36282:1
+[12/20/2022 4:13:31 PM] [Info] [Area] Red__Bear [Red__Bear]: "/i "armored do""
+[12/20/2022 4:13:32 PM] [Info] Giving Red__Bear item 36282:1
+[12/20/2022 4:13:32 PM] [Info] [Area] Red__Bear [Red__Bear]: "/i "armored do""
+[12/20/2022 4:13:33 PM] [Info] Giving Red__Bear item 36282:1
+[12/20/2022 4:13:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 4:13:33 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 4:13:57 PM] [Info] [World] reaper [JACK THE RIPPER]: "can i see this"
+[12/20/2022 4:14:23 PM] [Info] reaper [JACK THE RIPPER] was shot by a sentry gun!
+[12/20/2022 4:14:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "dam"
+[12/20/2022 4:14:32 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 4:14:32 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 4:14:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "three shoot"
+[12/20/2022 4:14:55 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i fragmentat"
+[12/20/2022 4:14:55 PM] [Info] Giving Red__Bear item 254:1
+[12/20/2022 4:14:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:14:55 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:14:56 PM] [Info] reaper moved x:685.2656 y:75.97901(+40.09259) z:179.7344 in the last second (0.1016541)
+[12/20/2022 4:15:05 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 1717"
+[12/20/2022 4:15:08 PM] [Info] [World] Red__Bear [Red__Bear]: "/i 1716"
+[12/20/2022 4:15:11 PM] [Info] [Area] Red__Bear [Red__Bear]: "/i 1715"
+[12/20/2022 4:15:17 PM] [Info] [Area] Red__Bear [Red__Bear]: "/give 1715"
+[12/20/2022 4:15:22 PM] [Error] Failed to find any item called 1715.
+[12/20/2022 4:15:22 PM] [Info] [Area] Red__Bear [Red__Bear]: "/give 171"
+[12/20/2022 4:15:22 PM] [Info] Successfully gave Red__Bear 171 x1!
+[12/20/2022 4:15:26 PM] [Info] [Area] Red__Bear [Red__Bear]: "/give 1117"
+[12/20/2022 4:15:26 PM] [Info] Successfully gave Red__Bear 1117 x1!
+[12/20/2022 4:16:09 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i zolash"
+[12/20/2022 4:16:19 PM] [Info] Giving Red__Bear item 19314:1
+[12/20/2022 4:16:19 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "zolash mag" 2"
+[12/20/2022 4:16:29 PM] [Info] Giving Red__Bear item 19315:2
+[12/20/2022 4:16:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "fun"
+[12/20/2022 4:17:31 PM] [Info] Saving server
+[12/20/2022 4:17:33 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/20/2022 4:17:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "/god"
+[12/20/2022 4:17:41 PM] [Info] reaper enabled Godmode
+[12/20/2022 4:17:43 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "zolash mag" 10"
+[12/20/2022 4:17:49 PM] [Info] Giving Red__Bear item 19315:10
+[12/20/2022 4:17:49 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i crate"
+[12/20/2022 4:18:30 PM] [Info] Giving Red__Bear item 368:1
+[12/20/2022 4:18:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "/god"
+[12/20/2022 4:18:30 PM] [Info] reaper disabled Godmode
+[12/20/2022 4:18:34 PM] [Info] [Group] Red__Bear [Red__Bear]: "/kick red"
+[12/20/2022 4:19:04 PM] [Info] BattlEye Server: Player #1 Red__Bear disconnected
+[12/20/2022 4:19:04 PM] [Info] Successfully kicked Red__Bear!
+[12/20/2022 4:19:04 PM] [Info] BattlEye Server: Player #3 Red__Bear (73.253.101.49:63526) connected
+[12/20/2022 4:19:04 PM] [Info] BattlEye Server: Player #3 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/20/2022 4:19:13 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/20/2022 4:19:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 4:19:42 PM] [Info] [Area] Red__Bear [Red__Bear]: "/unadmin red"
+[12/20/2022 4:19:44 PM] [Info] Red__Bear [Red__Bear] killed themself.
+[12/20/2022 4:20:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "red where is the threed boss fight??"
+[12/20/2022 4:20:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 4:20:15 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 4:20:52 PM] [Info] [World] reaper [JACK THE RIPPER]: "haze, and deadzone"
+[12/20/2022 4:21:05 PM] [Info] [World] reaper [JACK THE RIPPER]: "where is the green guy"
+[12/20/2022 4:21:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "but where the green guy"
+[12/20/2022 4:21:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "oh i kill him"
+[12/20/2022 4:21:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "so it just three boss fight on this map"
+[12/20/2022 4:22:22 PM] [Info] [World] reaper [JACK THE RIPPER]: "lol"
+[12/20/2022 4:22:30 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 1516"
+[12/20/2022 4:22:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "red am getting my gun back"
+[12/20/2022 4:22:37 PM] [Info] Successfully admined Red__Bear
+[12/20/2022 4:22:39 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 1516"
+[12/20/2022 4:22:39 PM] [Info] Giving Red__Bear item 1516:1
+[12/20/2022 4:22:41 PM] [Info] [Area] Red__Bear [Red__Bear]: "/i 1517"
+[12/20/2022 4:22:41 PM] [Info] Giving Red__Bear item 1517:1
+[12/20/2022 4:22:44 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 1518"
+[12/20/2022 4:22:44 PM] [Info] Giving Red__Bear item 1518:1
+[12/20/2022 4:22:46 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 1519"
+[12/20/2022 4:22:46 PM] [Info] Giving Red__Bear item 1519:1
+[12/20/2022 4:22:49 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 1520"
+[12/20/2022 4:22:49 PM] [Info] Giving Red__Bear item 1520:1
+[12/20/2022 4:23:07 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "white skim""
+[12/20/2022 4:23:13 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i "white bala""
+[12/20/2022 4:23:15 PM] [Info] Giving Red__Bear item 440:1
+[12/20/2022 4:23:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "i have the same gun as you"
+[12/20/2022 4:23:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "no"
+[12/20/2022 4:24:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 4:24:51 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 4:24:51 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 4:24:51 PM] [Info] reaper moved x:-294.9297 y:61.14738(+20.98514) z:-836.0234 in the last second (0.4330063)
+[12/20/2022 4:24:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "1v1"
+[12/20/2022 4:25:10 PM] [Info] reaper [JACK THE RIPPER] was chopped in the torso by Red__Bear [Red__Bear]!
+[12/20/2022 4:25:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 4:25:13 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 4:25:13 PM] [Info] reaper moved x:-290.0609 y:60.81714(+35.0429) z:-834.2064 in the last second (0.1027679)
+[12/20/2022 4:25:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "again"
+[12/20/2022 4:26:12 PM] [Info] reaper [JACK THE RIPPER] was chopped in the head by Red__Bear [Red__Bear]!
+[12/20/2022 4:26:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 4:26:15 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 4:26:52 PM] [Info] reaper [JACK THE RIPPER] was chopped in the head by Red__Bear [Red__Bear]!
+[12/20/2022 4:26:56 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/20/2022 4:26:56 PM] [Info] reaper teleported to Red__Bear
+[12/20/2022 4:28:32 PM] [Info] [Group] Red__Bear [Red__Bear]: "/kick red"
+[12/20/2022 4:28:58 PM] [Info] BattlEye Server: Player #3 Red__Bear disconnected
+[12/20/2022 4:28:58 PM] [Info] Successfully kicked Red__Bear!
+[12/20/2022 4:28:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "nug-p new gun"
+[12/20/2022 4:30:06 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 4:30:06 PM] [Info] BattlEye Server: Player #2 JACK THE RIPPER disconnected
+[12/20/2022 4:31:50 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER (108.90.241.159:62723) connected
+[12/20/2022 4:31:50 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER - BE GUID: 0b39942d7d9a57c3719c1f802044c592
+[12/20/2022 4:32:17 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 4:32:17 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 4:36:09 PM] [Info] BattlEye Server: Player #1 Lagunastudios (24.10.47.186:59994) connected
+[12/20/2022 4:36:09 PM] [Info] BattlEye Server: Player #1 Lagunastudios - BE GUID: 93a5fd09183ed672330b59dd16bb82ae
+[12/20/2022 4:39:23 PM] [Info] Connecting: PlayerID: 76561198334369190 Name: Lagunastudios Character: Kaboomo Blastkerov
+[12/20/2022 4:39:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/20/2022 4:39:23 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/20/2022 4:39:25 PM] [Info] Disconnecting: PlayerID: 76561198334369190 Name: Lagunastudios Character: Kaboomo Blastkerov
+[12/20/2022 4:39:25 PM] [Info] BattlEye Server: Player #1 Lagunastudios disconnected
+[12/20/2022 4:40:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 4:47:31 PM] [Info] Saving server
+[12/20/2022 5:02:06 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/20/2022 5:02:36 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:03:05 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:03:39 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:04:17 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:04:52 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:05:38 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:06:01 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:06:49 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:07:53 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:09:12 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:11:14 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:12:45 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:15:02 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:17:31 PM] [Info] Saving server
+[12/20/2022 5:18:21 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:25:00 PM] [Info] Failed to connect to Steam servers because k_EResultServiceUnavailable, still retrying
+[12/20/2022 5:26:48 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 5:26:48 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER disconnected
+[12/20/2022 5:44:18 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER (108.90.241.159:61171) connected
+[12/20/2022 5:44:18 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER - BE GUID: 0b39942d7d9a57c3719c1f802044c592
+[12/20/2022 5:47:31 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 5:47:31 PM] [Info] Saving server
+[12/20/2022 5:53:43 PM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[12/20/2022 5:53:43 PM] [Info] BattlEye Server: Disconnected from BE Master
+[12/20/2022 5:53:44 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/20/2022 5:53:48 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:53:51 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:53:56 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 5:53:56 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER disconnected
+[12/20/2022 5:54:00 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/20/2022 5:54:00 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/20/2022 5:54:46 PM] [Info] BattlEye Server: Master query timed out, no response from BE Master
+[12/20/2022 5:59:23 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER (108.90.241.159:64619) connected
+[12/20/2022 5:59:23 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER - BE GUID: 0b39942d7d9a57c3719c1f802044c592
+[12/20/2022 5:59:24 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 5:59:24 PM] [Info] BattlEye Server: Connected to BE Master
+[12/20/2022 6:03:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/20/2022 6:15:18 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/20/2022 6:15:18 PM] [Info] BattlEye Server: Player #0 JACK THE RIPPER disconnected
+[12/20/2022 6:17:31 PM] [Info] Saving server
+[12/20/2022 6:47:31 PM] [Info] Saving server
+[12/20/2022 7:17:31 PM] [Info] Saving server
+[12/20/2022 7:47:31 PM] [Info] Saving server
+[12/20/2022 8:17:31 PM] [Info] Saving server
+[12/20/2022 8:47:31 PM] [Info] Saving server
+[12/20/2022 9:17:31 PM] [Info] Saving server
+[12/20/2022 9:47:31 PM] [Info] Saving server
+[12/20/2022 10:17:31 PM] [Info] Saving server
+[12/20/2022 10:47:31 PM] [Info] Saving server
+[12/20/2022 11:17:31 PM] [Info] Saving server
+[12/20/2022 11:47:31 PM] [Info] Saving server
+[12/21/2022 12:13:50 AM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[12/21/2022 12:13:50 AM] [Info] BattlEye Server: Disconnected from BE Master
+[12/21/2022 12:13:50 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/21/2022 12:13:50 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/21/2022 12:17:31 AM] [Info] Saving server
+[12/21/2022 12:47:31 AM] [Info] Saving server
+[12/21/2022 1:17:31 AM] [Info] Saving server
+[12/21/2022 1:47:31 AM] [Info] Saving server
+[12/21/2022 2:17:31 AM] [Info] Saving server
+[12/21/2022 2:47:31 AM] [Info] Saving server
+[12/21/2022 3:17:31 AM] [Info] Saving server
+[12/21/2022 3:47:31 AM] [Info] Saving server
+[12/21/2022 4:17:31 AM] [Info] Saving server
+[12/21/2022 4:43:03 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/21/2022 4:47:31 AM] [Info] Saving server
+[12/21/2022 5:17:31 AM] [Info] Saving server
+[12/21/2022 5:47:31 AM] [Info] Saving server
+[12/21/2022 6:17:31 AM] [Info] Saving server
+[12/21/2022 6:43:26 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/21/2022 6:47:31 AM] [Info] Saving server
+[12/21/2022 7:17:31 AM] [Info] Saving server
+[12/21/2022 7:47:31 AM] [Info] Saving server
+[12/21/2022 8:17:31 AM] [Info] Saving server
+[12/21/2022 8:47:31 AM] [Info] Saving server
+[12/21/2022 9:17:31 AM] [Info] Saving server
+[12/21/2022 9:47:31 AM] [Info] Saving server
+[12/21/2022 10:17:31 AM] [Info] Saving server
+[12/21/2022 10:29:16 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/21/2022 10:47:31 AM] [Info] Saving server
+[12/21/2022 11:02:27 AM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:51649) connected
+[12/21/2022 11:02:27 AM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/21/2022 11:02:28 AM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: [Sheriff] Red__Bear
+[12/21/2022 11:02:28 AM] [Info] BattlEye Server: Connected to BE Master
+[12/21/2022 11:02:45 AM] [Info] [Group] [Sheriff] Red__Bear [Red__Bear]: "/i "floor""
+[12/21/2022 11:02:48 AM] [Info] Giving [Sheriff] Red__Bear item 52:1
+[12/21/2022 11:02:48 AM] [Info] [Group] [Sheriff] Red__Bear [Red__Bear]: "/i dragon"
+[12/21/2022 11:03:07 AM] [Info] Giving [Sheriff] Red__Bear item 132:1
+[12/21/2022 11:03:07 AM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: [Sheriff] Red__Bear
+[12/21/2022 11:03:07 AM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[12/21/2022 11:03:39 AM] [Info] 
+[unloading] ReponseMod_HiddenName

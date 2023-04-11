@@ -1,0 +1,7 @@
+﻿packages:
+- id: OpenMod.Core
+  version: 3.3.10+53205e15
+- id: OpenMod.UnityEngine
+  version: 3.3.10+53205e15
+- id: OpenMod.Unturned
+  version: 3.3.10+53205e15

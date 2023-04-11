@@ -1,0 +1,440 @@
+[1/18/2023 10:32:36 PM] [Info] Steam servers ready!
+[1/18/2023 10:32:36 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[1/18/2023 10:32:36 PM] [Info] 8 workshop item(s) requested
+[1/18/2023 10:32:36 PM] [Info] Submitting workshop query for 8 item(s)...
+[1/18/2023 10:32:36 PM] [Info] Workshop query yielded 8 result(s)
+[1/18/2023 10:32:36 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[1/18/2023 10:33:21 PM] [Info] 2683620106 'Arid' queued for download
+[1/18/2023 10:33:21 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[1/18/2023 10:33:21 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[1/18/2023 10:33:21 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[1/18/2023 10:33:21 PM] [Info] 2133808330 'Music Remaster 3.0' queued for download
+[1/18/2023 10:33:21 PM] [Info] 1727733956 'Pento's Tactical Apparel' queued for download
+[1/18/2023 10:33:21 PM] [Info] 1909152337 'California Assets' queued for download
+[1/18/2023 10:33:21 PM] [Info] 2480988643 'LFO Washington' queued for download
+[1/18/2023 10:33:21 PM] [Info] 2363811642 'Uncreated Armory 2021 | The Uncreated Project™' queued for download
+[1/18/2023 10:33:21 PM] [Info] 8 workshop item(s) to download...
+[1/18/2023 10:33:21 PM] [Info] Workshop item found in cache: 2683620106
+[1/18/2023 10:33:21 PM] [Info] Installing workshop item: 2683620106
+[1/18/2023 10:33:21 PM] [Info] Installed workshop item: 2683620106
+[1/18/2023 10:33:21 PM] [Info] Workshop item found in cache: 1232252658
+[1/18/2023 10:33:21 PM] [Info] Installing workshop item: 1232252658
+[1/18/2023 10:33:21 PM] [Info] Installed workshop item: 1232252658
+[1/18/2023 10:33:21 PM] [Info] Workshop item found in cache: 2069342497
+[1/18/2023 10:33:21 PM] [Info] Installing workshop item: 2069342497
+[1/18/2023 10:33:21 PM] [Info] Installed workshop item: 2069342497
+[1/18/2023 10:33:21 PM] [Info] Workshop item found in cache: 2133808330
+[1/18/2023 10:33:21 PM] [Info] Installing workshop item: 2133808330
+[1/18/2023 10:33:21 PM] [Info] Installed workshop item: 2133808330
+[1/18/2023 10:33:21 PM] [Info] Workshop item found in cache: 1727733956
+[1/18/2023 10:33:21 PM] [Info] Installing workshop item: 1727733956
+[1/18/2023 10:33:21 PM] [Info] Installed workshop item: 1727733956
+[1/18/2023 10:33:21 PM] [Info] Workshop item found in cache: 1909152337
+[1/18/2023 10:33:21 PM] [Info] Installing workshop item: 1909152337
+[1/18/2023 10:33:21 PM] [Info] Installed workshop item: 1909152337
+[1/18/2023 10:33:21 PM] [Info] Workshop item found in cache: 2480988643
+[1/18/2023 10:33:21 PM] [Info] Installing workshop item: 2480988643
+[1/18/2023 10:33:21 PM] [Info] Installed workshop item: 2480988643
+[1/18/2023 10:33:21 PM] [Info] Workshop item found in cache: 2363811642
+[1/18/2023 10:33:21 PM] [Info] Installing workshop item: 2363811642
+[1/18/2023 10:33:21 PM] [Info] Installed workshop item: 2363811642
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Items.Quality_Full_Chance because server value (1) is not the default (0.1)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Items.Quality_Multiplier: 1 (Default: 1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Items.Gun_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Items.Gun_Bullets_Multiplier because server value (1) is not the default (0.25)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Items.Magazine_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Items.Magazine_Bullets_Multiplier because server value (1) is not the default (0.5)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Items.Crate_Bullets_Full_Chance because server value (1) is not the default (0.05)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Items.Crate_Bullets_Multiplier: 1 (Default: 1)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Items.Despawn_Dropped_Time: 1080 (Default: 600)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Items.Despawn_Natural_Time: 1080 (Default: 900)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Items.Respawn_Time: 80 (Default: 100)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Health_Default: 100 (Default: 100)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Food_Default: 100 (Default: 100)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Water_Default: 100 (Default: 100)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Virus_Default: 100 (Default: 100)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Health_Regen_Min_Food: 70 (Default: 90)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Health_Regen_Min_Water: 70 (Default: 90)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Health_Regen_Ticks: 45 (Default: 60)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Food_Use_Ticks: 1400 (Default: 300)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Food_Damage_Ticks: 5 (Default: 15)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Water_Use_Ticks: 1200 (Default: 270)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Water_Damage_Ticks: 5 (Default: 20)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Players.Virus_Infect because server value (90) is not the default (50)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Virus_Use_Ticks: 60 (Default: 125)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Virus_Damage_Ticks: 1 (Default: 25)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Players.Detect_Radius_Multiplier because server value (5) is not the default (1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Players.Ray_Aggressor_Distance because server value (30) is not the default (8)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Bleed_Damage_Ticks: 21 (Default: 10)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Can_Stop_Bleeding: True (Default: True)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Players.Experience_Multiplier: 0 (Default: 1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[1/18/2023 10:33:21 PM] [Error] Failed to find mode config for level override: Platers
+[1/18/2023 10:33:21 PM] [Error] Failed to find mode config for level override: Platers
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Zombies.Slow_Movement because server value (True) is not the default (False)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Zombies.Acid_Chance because server value (0) is not the default (0.025)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Zombies.Loot_Chance because server value (1) is not the default (0.5)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Zombies.Min_Mega_Drops: 5 (Default: 5)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Zombies.Max_Mega_Drops because server value (10) is not the default (5)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Zombies.Min_Boss_Drops because server value (5) is not the default (8)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Zombies.Max_Boss_Drops: 15 (Default: 10)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Zombies.Respawn_Day_Time because server value (600) is not the default (360)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Zombies.Respawn_Night_Time: 180 (Default: 30)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Gameplay.Chart: False (Default: False)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Gameplay.Satellite: False (Default: False)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Gameplay.Compass: True (Default: False)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Gameplay.Ballistics: True (Default: True)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Gameplay.Group_Map: True (Default: True)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Gameplay.Timer_Home because server value (10) is not the default (30)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Events.Airdrop_Frequency_Min because server value (0) is not the default (0.8)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Events.Airdrop_Frequency_Max because server value (5) is not the default (6.5)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Events.Airdrop_Speed because server value (1) is not the default (128)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Events.Airdrop_Force because server value (1) is not the default (9.5)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Vehicles.Min_Battery_Charge because server value (1) is not the default (0.5)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Vehicles.Max_Battery_Charge because server value (1) is not the default (0.75)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Vehicles.Has_Battery_Chance because server value (1) is not the default (0.8)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Vehicles.Max_Instances_Large because server value (60) is not the default (32)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Vehicles.Decay_Time because server value (0) is not the default (604800)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Vehicles.Decay_Damage_Per_Second because server value (0) is not the default (0.1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Barricades.Armor_Lowtier_Multiplier because server value (100) is not the default (1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Barricades.Armor_Hightier_Multiplier because server value (100) is not the default (0.5)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Structures.Armor_Lowtier_Multiplier because server value (0.01) is not the default (1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Structures.Armor_Hightier_Multiplier because server value (0.01) is not the default (0.5)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Barricades.Gun_Lowcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Barricades.Gun_Highcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Structures.Gun_Lowcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Structures.Gun_Highcal_Damage_Multiplier because server value (0.01) is not the default (1)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Barricades.Decay_Time because server value (0) is not the default (604800)
+[1/18/2023 10:33:21 PM] [Info] Skipping level config override Structures.Decay_Time because server value (0) is not the default (604800)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: True (Default: True)
+[1/18/2023 10:33:21 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: True (Default: True)
+[1/18/2023 10:33:21 PM] [Info] Monitoring workshop map 'LFO Washington' (2480988643) for changes
+[1/18/2023 10:33:21 PM] [Info] Loading level: 8%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 16%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 25%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 33%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 41%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 50%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 58%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 66%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 75%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 83%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 91%
+[1/18/2023 10:33:23 PM] [Info] Loading level: 100%
+[1/18/2023 10:36:07 PM] [Info] BattlEye Server: Player #0 Delta.97 (73.253.101.49:51079) connected
+[1/18/2023 10:36:07 PM] [Info] BattlEye Server: Player #0 Delta.97 - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[1/18/2023 10:36:07 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta.97 Character: Delta.97
+[1/18/2023 10:36:07 PM] [Info] BattlEye Server: Connected to BE Master
+[1/18/2023 10:36:14 PM] [Info] [Group] Delta.97 [Delta.97]: "/god"
+[1/18/2023 10:36:45 PM] [Info] [Group] Delta.97 [Delta.97]: "/unlimitedammo"
+[1/18/2023 10:38:43 PM] [Info] [Group] Delta.97 [Delta.97]: "/exit"
+[1/18/2023 10:38:43 PM] [Info] BattlEye Server: Player #0 Delta.97 disconnected
+[1/18/2023 10:39:50 PM] [Info] BattlEye Server: Player #0 sharkiesonly (71.228.21.117:65249) connected
+[1/18/2023 10:39:50 PM] [Info] BattlEye Server: Player #0 sharkiesonly - BE GUID: c45ce87da9d45551ed7badd391ca842d
+[1/18/2023 10:39:52 PM] [Info] Connecting: PlayerID: 76561199229417027 Name: sharkiesonly Character: sharkiesonly
+[1/18/2023 10:39:52 PM] [Info] Disconnecting: PlayerID: 76561199229417027 Name: sharkiesonly Character: sharkiesonly
+[1/18/2023 10:39:52 PM] [Info] BattlEye Server: Player #0 sharkiesonly disconnected
+[1/19/2023 12:30:53 AM] [Error] Failed to respawn an item with ID 31458 from type Police [0]
+[1/19/2023 2:05:31 AM] [Error] Failed to respawn an item with ID 31458 from type Guns_America [16]
+[1/19/2023 2:06:14 AM] [Error] Failed to respawn an item with ID 31368 from type Military_America [2]
+[1/19/2023 2:26:53 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/19/2023 3:12:13 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/19/2023 3:15:34 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/19/2023 5:04:07 AM] [Info] BattlEye Server: Failed to receive from BE Master (10054)
+[1/19/2023 5:04:07 AM] [Info] BattlEye Server: Disconnected from BE Master
+[1/19/2023 5:04:27 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/19/2023 5:04:27 AM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[1/19/2023 5:34:08 AM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[1/19/2023 6:03:36 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/19/2023 6:42:19 AM] [Error] Failed to respawn an item with ID 31368 from type Military_America [2]
+[1/19/2023 7:41:51 AM] [Info] Lost connection to Steam servers because k_EResultOK
+[1/19/2023 5:48:55 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/19/2023 9:01:38 PM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/19/2023 9:17:33 PM] [Info] BattlEye Server: Player #0 Happytoast767 (24.10.47.186:52103) connected
+[1/19/2023 9:17:33 PM] [Info] BattlEye Server: Player #0 Happytoast767 - BE GUID: 93a5fd09183ed672330b59dd16bb82ae
+[1/19/2023 9:17:34 PM] [Info] Connecting: PlayerID: 76561198334369190 Name: Happytoast767 Character: Kaboomo Blastkerov
+[1/19/2023 9:17:34 PM] [Info] BattlEye Server: Connected to BE Master
+[1/19/2023 9:17:43 PM] [Info] Kaboomo Blastkerov [Happytoast767] was mauled by a zombie!
+[1/19/2023 9:18:18 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/19/2023 9:18:22 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i nightvision"
+[1/19/2023 9:19:14 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i gps"
+[1/19/2023 9:19:17 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i chart"
+[1/19/2023 9:19:35 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/teleport wp"
+[1/19/2023 9:19:35 PM] [Info] Successfully teleported Happytoast767 to waypoint!
+[1/19/2023 9:19:39 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/day"
+[1/19/2023 9:19:39 PM] [Info] Successfully set time to day!
+[1/19/2023 9:20:35 PM] [Info] BattlEye Server: Player #1 Funfulcookie :D (ltn) (73.63.123.19:56418) connected
+[1/19/2023 9:20:35 PM] [Info] BattlEye Server: Player #1 Funfulcookie :D (ltn) - BE GUID: 0658651ba2fb80c330010a4c6b2f7a0a
+[1/19/2023 9:21:01 PM] [Info] Connecting: PlayerID: 76561198800771967 Name: Funfulcookie :D (ltn) Character:  Funfulcookie <9
+[1/19/2023 9:21:01 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment adapt"
+[1/19/2023 9:21:38 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/experience 100000"
+[1/19/2023 9:21:47 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "zolash mag" 5"
+[1/19/2023 9:21:52 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/admin fun"
+[1/19/2023 9:21:52 PM] [Info] Successfully admined 76561198800771967!
+[1/19/2023 9:21:55 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/tp fun"
+[1/19/2023 9:23:22 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/unlimitedammo"
+[1/19/2023 9:23:50 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i luger"
+[1/19/2023 9:23:51 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/experience 100000"
+[1/19/2023 9:23:51 PM] [Info] Successfully gave Funfulcookie :D (ltn) +100000 experience!
+[1/19/2023 9:23:56 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 4"
+[1/19/2023 9:24:00 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 5"
+[1/19/2023 9:24:15 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremod auto"
+[1/19/2023 9:24:20 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremode auto"
+[1/19/2023 9:24:39 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/i nailgun"
+[1/19/2023 9:24:40 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment adapt"
+[1/19/2023 9:24:49 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attach addapt"
+[1/19/2023 9:24:54 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attatch addapt"
+[1/19/2023 9:24:57 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1365"
+[1/19/2023 9:25:01 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attatch addapt"
+[1/19/2023 9:25:32 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "./setfiremode (semi/burst/auto)"
+[1/19/2023 9:25:35 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attach barrel"
+[1/19/2023 9:25:44 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/setfiremode auto"
+[1/19/2023 9:25:45 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "./attachment (number or first name"
+[1/19/2023 9:25:55 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "./unlimitedammo"
+[1/19/2023 9:25:58 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment adapt"
+[1/19/2023 9:26:05 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment hells"
+[1/19/2023 9:26:17 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 7"
+[1/19/2023 9:26:20 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment drum"
+[1/19/2023 9:26:27 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/maxammo"
+[1/19/2023 9:26:30 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1443"
+[1/19/2023 9:26:35 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/god"
+[1/19/2023 9:26:37 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/unlimtedammo"
+[1/19/2023 9:26:37 PM] [Info]  Funfulcookie <9 [Funfulcookie :D (ltn)] was blown up by Kaboomo Blastkerov [Happytoast767] with an explosive bullet!
+[1/19/2023 9:26:42 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/heal fun"
+[1/19/2023 9:26:44 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/tp happy"
+[1/19/2023 9:26:48 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "gof"
+[1/19/2023 9:26:51 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/god"
+[1/19/2023 9:27:06 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/unlimtedammo"
+[1/19/2023 9:27:15 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/unlimetedammo"
+[1/19/2023 9:27:26 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment laser"
+[1/19/2023 9:27:27 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/unlimitedammo"
+[1/19/2023 9:27:35 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "unlimitedammo"
+[1/19/2023 9:27:56 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment barrel"
+[1/19/2023 9:28:02 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nail gun mk"
+[1/19/2023 9:28:05 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nail gun mk""
+[1/19/2023 9:28:08 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nailgun mk""
+[1/19/2023 9:28:34 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment vert"
+[1/19/2023 9:28:54 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 144"
+[1/19/2023 9:29:14 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nailgun mk""
+[1/19/2023 9:29:21 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1191"
+[1/19/2023 9:29:24 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1191"
+[1/19/2023 9:29:35 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nailgun mk""
+[1/19/2023 9:29:38 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nailgun""
+[1/19/2023 9:29:49 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment ghost"
+[1/19/2023 9:30:03 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment adapt"
+[1/19/2023 9:30:14 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 6"
+[1/19/2023 9:30:27 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nails" 5"
+[1/19/2023 9:30:43 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremod auto"
+[1/19/2023 9:30:46 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremode auto"
+[1/19/2023 9:30:47 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/i grizzly"
+[1/19/2023 9:30:53 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment adapt"
+[1/19/2023 9:31:02 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment halo"
+[1/19/2023 9:31:04 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment barrel"
+[1/19/2023 9:31:15 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 110"
+[1/19/2023 9:31:26 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/setfiremode auto"
+[1/19/2023 9:31:36 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 102"
+[1/19/2023 9:31:53 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment mrk"
+[1/19/2023 9:31:58 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment mr"
+[1/19/2023 9:32:06 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 299"
+[1/19/2023 9:32:14 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 299"
+[1/19/2023 9:32:18 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment mk"
+[1/19/2023 9:33:48 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1486"
+[1/19/2023 9:34:06 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 364"
+[1/19/2023 9:34:22 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 110"
+[1/19/2023 9:34:50 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment hor"
+[1/19/2023 9:35:00 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment vert"
+[1/19/2023 9:35:09 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/i p."
+[1/19/2023 9:35:12 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/i pdw"
+[1/19/2023 9:35:13 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 6"
+[1/19/2023 9:35:18 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 7"
+[1/19/2023 9:35:20 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment safezone"
+[1/19/2023 9:35:38 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment adaptive"
+[1/19/2023 9:35:44 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 149"
+[1/19/2023 9:35:46 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment mk"
+[1/19/2023 9:35:51 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 7"
+[1/19/2023 9:35:54 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment vert"
+[1/19/2023 9:36:08 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 17"
+[1/19/2023 9:36:11 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attatchment barrel"
+[1/19/2023 9:36:27 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1177"
+[1/19/2023 9:36:32 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/attachment barrel"
+[1/19/2023 9:36:49 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment vert"
+[1/19/2023 9:36:55 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment hor"
+[1/19/2023 9:37:05 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/i 7x"
+[1/19/2023 9:37:06 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment muffler"
+[1/19/2023 9:37:16 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/i kobra"
+[1/19/2023 9:37:30 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment muffler"
+[1/19/2023 9:38:03 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 59252"
+[1/19/2023 9:38:14 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nailgun mk""
+[1/19/2023 9:38:21 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment adapt"
+[1/19/2023 9:38:28 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 59252"
+[1/19/2023 9:38:36 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment hor"
+[1/19/2023 9:39:01 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1191"
+[1/19/2023 9:39:16 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nailgun mk""
+[1/19/2023 9:39:19 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment adapt"
+[1/19/2023 9:39:57 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment heavy"
+[1/19/2023 9:40:21 PM] [Info] BattlEye Server: Player #2 Delta.97 (73.253.101.49:55770) connected
+[1/19/2023 9:40:21 PM] [Info] BattlEye Server: Player #2 Delta.97 - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[1/19/2023 9:40:33 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta.97 Character: Delta.97
+[1/19/2023 9:40:33 PM] [Info] [Group] Delta.97 [Delta.97]: "/god"
+[1/19/2023 9:40:37 PM] [Info] [Area] Delta.97 [Delta.97]: "/unlimitedammo"
+[1/19/2023 9:40:40 PM] [Info] [Group] Delta.97 [Delta.97]: "/tp toast"
+[1/19/2023 9:41:07 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment makeshift"
+[1/19/2023 9:41:21 PM] [Info] [Area] Kaboomo Blastkerov [Happytoast767]: "/attachment 476"
+[1/19/2023 9:41:31 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1363"
+[1/19/2023 9:41:40 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment missle"
+[1/19/2023 9:41:45 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment warhead"
+[1/19/2023 9:41:59 PM] [Info] [Group] Delta.97 [Delta.97]: "/tp fun"
+[1/19/2023 9:42:12 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1200"
+[1/19/2023 9:42:23 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/tp delta"
+[1/19/2023 9:42:39 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/tp delta"
+[1/19/2023 9:42:49 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i "nailgun mk""
+[1/19/2023 9:43:22 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment 31470"
+[1/19/2023 9:43:41 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment 117"
+[1/19/2023 9:43:49 PM] [Info] [Area] Delta.97 [Delta.97]: "/attachment val"
+[1/19/2023 9:43:51 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 59390"
+[1/19/2023 9:44:01 PM] [Info] [Area] Delta.97 [Delta.97]: "/attachment "val bar""
+[1/19/2023 9:44:15 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment groz"
+[1/19/2023 9:44:23 PM] [Info] [Group] Delta.97 [Delta.97]: "/tp toast"
+[1/19/2023 9:44:56 PM] [Info] [World]  Funfulcookie <9 [Funfulcookie :D (ltn)]: "/exit"
+[1/19/2023 9:44:56 PM] [Info] BattlEye Server: Player #1 Funfulcookie :D (ltn) disconnected
+[1/19/2023 9:44:58 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 144"
+[1/19/2023 9:44:58 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment "military bar""
+[1/19/2023 9:45:14 PM] [Info] [Area] Delta.97 [Delta.97]: "/attachment "ranger bar""
+[1/19/2023 9:45:55 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 17"
+[1/19/2023 9:46:08 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment bipod"
+[1/19/2023 9:46:56 PM] [Info] [Group] Delta.97 [Delta.97]: "/i m110"
+[1/19/2023 9:47:11 PM] [Info] [Group] Delta.97 [Delta.97]: "/setfiremode auto"
+[1/19/2023 9:47:16 PM] [Info] [Group] Delta.97 [Delta.97]: "/atatch 1443"
+[1/19/2023 9:47:19 PM] [Info] [World] Delta.97 [Delta.97]: "/atatchment 1443"
+[1/19/2023 9:47:23 PM] [Info] [Area] Delta.97 [Delta.97]: "/atachment 1443"
+[1/19/2023 9:47:27 PM] [Info] [World] Delta.97 [Delta.97]: "/attachment 1443"
+[1/19/2023 9:47:36 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 7"
+[1/19/2023 9:47:36 PM] [Info] [Group] Delta.97 [Delta.97]: "/i adapt"
+[1/19/2023 9:47:42 PM] [Info] [Group] Delta.97 [Delta.97]: "/i 31470"
+[1/19/2023 9:47:58 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i 4"
+[1/19/2023 9:48:05 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremode auto"
+[1/19/2023 9:48:11 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment "nailgun sup""
+[1/19/2023 9:48:14 PM] [Info] [World] Delta.97 [Delta.97]: "/attachment "nailgun bar""
+[1/19/2023 9:48:15 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 364"
+[1/19/2023 9:48:26 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment 364"
+[1/19/2023 9:49:23 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i 59665"
+[1/19/2023 9:49:35 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremode auto"
+[1/19/2023 9:49:41 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment holo"
+[1/19/2023 9:49:51 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremode burst"
+[1/19/2023 9:50:11 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment 1444"
+[1/19/2023 9:50:17 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/I 59348"
+[1/19/2023 9:50:19 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment "45 su""
+[1/19/2023 9:50:44 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/I 59329"
+[1/19/2023 9:50:56 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremode auto"
+[1/19/2023 9:51:19 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "REDBEAR"
+[1/19/2023 9:51:21 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "STOP"
+[1/19/2023 9:51:30 PM] [Info] [Group] Delta.97 [Delta.97]: "/i 117"
+[1/19/2023 9:51:46 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 59252"
+[1/19/2023 9:51:47 PM] [Info] [Group] Delta.97 [Delta.97]: "/i brun"
+[1/19/2023 9:51:48 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/day"
+[1/19/2023 9:51:48 PM] [Info] Successfully set time to day!
+[1/19/2023 9:51:56 PM] [Info] [Group] Delta.97 [Delta.97]: "/i "rpk bi""
+[1/19/2023 9:52:07 PM] [Info] [Group] Delta.97 [Delta.97]: "/i m4a1"
+[1/19/2023 9:52:07 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 114"
+[1/19/2023 9:52:17 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 144"
+[1/19/2023 9:52:21 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment "target dru""
+[1/19/2023 9:52:27 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment vert"
+[1/19/2023 9:52:32 PM] [Info] [Group] Delta.97 [Delta.97]: "/i "ar-15 irp""
+[1/19/2023 9:52:34 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment horizon"
+[1/19/2023 9:52:35 PM] [Info] [Area] Delta.97 [Delta.97]: "/i "ar-15 ir""
+[1/19/2023 9:52:40 PM] [Info] [Group] Delta.97 [Delta.97]: "/i ar-15"
+[1/19/2023 9:52:45 PM] [Info] [Group] Delta.97 [Delta.97]: "/firemode auto"
+[1/19/2023 9:52:49 PM] [Info] [Group] Delta.97 [Delta.97]: "/setfiremode auto"
+[1/19/2023 9:52:50 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1191"
+[1/19/2023 9:52:55 PM] [Info] [Group] Delta.97 [Delta.97]: "/i adapt"
+[1/19/2023 9:52:58 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment adapt"
+[1/19/2023 9:52:58 PM] [Error] Failed to respawn an item with ID 31458 from type Police [0]
+[1/19/2023 9:52:59 PM] [Info] [Group] Delta.97 [Delta.97]: "/i 31470"
+[1/19/2023 9:53:06 PM] [Info] [Group] Delta.97 [Delta.97]: "/i "56mm sup""
+[1/19/2023 9:53:25 PM] [Info] Disconnecting: PlayerID: 76561198334369190 Name: Happytoast767 Character: Kaboomo Blastkerov
+[1/19/2023 9:53:25 PM] [Info] BattlEye Server: Player #0 Happytoast767 disconnected
+[1/19/2023 9:53:33 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment "target dru""
+[1/19/2023 9:53:41 PM] [Info] BattlEye Server: Player #3 Happytoast767 (24.10.47.186:56534) connected
+[1/19/2023 9:53:41 PM] [Info] BattlEye Server: Player #3 Happytoast767 - BE GUID: 93a5fd09183ed672330b59dd16bb82ae
+[1/19/2023 9:53:42 PM] [Info] Connecting: PlayerID: 76561198334369190 Name: Happytoast767 Character: Kaboomo Blastkerov
+[1/19/2023 9:53:42 PM] [Info] [Group] Delta.97 [Delta.97]: "/i mcx"
+[1/19/2023 9:53:46 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i 31490"
+[1/19/2023 9:53:55 PM] [Info] [Group] Delta.97 [Delta.97]: "/i mpx"
+[1/19/2023 9:53:56 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremode auto"
+[1/19/2023 9:54:02 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/unlimitedammo"
+[1/19/2023 9:54:04 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/god"
+[1/19/2023 9:54:09 PM] [Info] [Group] Delta.97 [Delta.97]: "/i 31470"
+[1/19/2023 9:54:14 PM] [Info] [Group] Delta.97 [Delta.97]: "/attach pointer"
+[1/19/2023 9:54:17 PM] [Info] [Area] Delta.97 [Delta.97]: "/attachment pointer"
+[1/19/2023 9:54:18 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/god delta"
+[1/19/2023 9:54:23 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/god"
+[1/19/2023 9:54:42 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1443"
+[1/19/2023 9:54:59 PM] [Info] [Group] Delta.97 [Delta.97]: "/i adapt"
+[1/19/2023 9:55:07 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment "pistol br""
+[1/19/2023 9:55:09 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i 1480"
+[1/19/2023 9:55:13 PM] [Info] [World] Delta.97 [Delta.97]: "/attachment "pistol com""
+[1/19/2023 9:55:16 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1365"
+[1/19/2023 9:55:46 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/setfiremode auto"
+[1/19/2023 9:56:11 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment 1443"
+[1/19/2023 9:56:16 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 149"
+[1/19/2023 9:56:30 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 110"
+[1/19/2023 9:56:39 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i 1480"
+[1/19/2023 9:56:45 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1365"
+[1/19/2023 9:56:47 PM] [Info] [Group] Delta.97 [Delta.97]: "/i bru"
+[1/19/2023 9:56:50 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 110"
+[1/19/2023 9:56:52 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment adapt"
+[1/19/2023 9:56:54 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/tp delta"
+[1/19/2023 9:56:57 PM] [Info] [Group] Delta.97 [Delta.97]: "/setfiremode auto"
+[1/19/2023 9:57:13 PM] [Info] [Group] Delta.97 [Delta.97]: "/setfiremode burst"
+[1/19/2023 9:57:18 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment laser"
+[1/19/2023 9:57:38 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment hor"
+[1/19/2023 9:57:43 PM] [Info] [Group] Delta.97 [Delta.97]: "/attachment "45 sup""
+[1/19/2023 9:57:56 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1443"
+[1/19/2023 9:58:02 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment dot"
+[1/19/2023 9:58:37 PM] [Info] [Group] Delta.97 [Delta.97]: "/setfiremode auto"
+[1/19/2023 9:58:55 PM] [Info] [Group] Delta.97 [Delta.97]: "/unlimitedammo"
+[1/19/2023 9:58:57 PM] [Info] [World] Delta.97 [Delta.97]: "/unlimitedammo"
+[1/19/2023 9:59:01 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/attachment 1200"
+[1/19/2023 9:59:19 PM] [Info] [World] Kaboomo Blastkerov [Happytoast767]: "/i 59323"
+[1/19/2023 10:00:21 PM] [Info] Disconnecting: PlayerID: 76561198334369190 Name: Happytoast767 Character: Kaboomo Blastkerov
+[1/19/2023 10:00:21 PM] [Info] BattlEye Server: Player #3 Happytoast767 disconnected
+[1/19/2023 10:00:27 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta.97 Character: Delta.97
+[1/19/2023 10:00:27 PM] [Info] BattlEye Server: Player #2 Delta.97 disconnected
+[1/19/2023 10:14:18 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/19/2023 10:27:06 PM] [Error] Failed to respawn an item with ID 31458 from type Military_America [2]
+[1/19/2023 11:00:20 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/19/2023 11:30:18 PM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/20/2023 12:39:01 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/20/2023 1:10:19 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/20/2023 2:38:21 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/20/2023 5:31:22 AM] [Error] Failed to respawn an item with ID 31368 from type Military_America [2]
+[1/20/2023 5:37:02 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/20/2023 5:46:35 AM] [Error] Failed to respawn an item with ID 31368 from type Military_America [2]
+[1/20/2023 7:38:38 AM] [Error] Failed to respawn an item with ID 31458 from type Military_America [2]
+[1/20/2023 8:29:04 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/20/2023 9:30:41 AM] [Error] Failed to respawn an item with ID 31458 from type Military_America [2]
+[1/20/2023 10:35:45 AM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/20/2023 11:27:06 AM] [Error] Failed to respawn an item with ID 31458 from type Guns_America [16]
+[1/20/2023 11:39:06 AM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/20/2023 12:21:06 PM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/20/2023 12:31:46 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/20/2023 1:07:47 PM] [Error] Failed to respawn an item with ID 31458 from type Police [0]
+[1/20/2023 1:56:28 PM] [Error] Failed to respawn an item with ID 31458 from type Guns_America [16]
+[1/20/2023 3:09:08 PM] [Error] Failed to respawn an item with ID 31458 from type Guns_America [16]
+[1/20/2023 4:06:30 PM] [Error] Failed to respawn an item with ID 31368 from type Police [0]
+[1/20/2023 4:08:30 PM] [Error] Failed to respawn an item with ID 31368 from type Guns_America [16]
+[1/20/2023 5:56:43 PM] [Info] BattlEye Server: Player #0 Delta.97 (73.253.101.49:54813) connected
+[1/20/2023 5:56:43 PM] [Info] BattlEye Server: Player #0 Delta.97 - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[1/20/2023 5:56:57 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Delta.97 Character: Shake
+[1/20/2023 5:56:57 PM] [Info] [Group] Shake [Delta.97]: "/i 5700"
+[1/20/2023 5:57:00 PM] [Info] [World] Shake [Delta.97]: "/i 57000"
+[1/20/2023 5:57:06 PM] [Info] [Group] Shake [Delta.97]: "/give 57000"
+[1/20/2023 5:57:06 PM] [Error] Failed to find any item called 57000.
+[1/20/2023 5:57:15 PM] [Info] [Group] Shake [Delta.97]: "/i mcx"
+[1/20/2023 5:57:27 PM] [Info] [Group] Shake [Delta.97]: "/i sks"
+[1/20/2023 5:57:36 PM] [Info] [Group] Shake [Delta.97]: "/i 57004"
+[1/20/2023 5:57:39 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Delta.97 Character: Shake
+[1/20/2023 5:57:39 PM] [Info] BattlEye Server: Player #0 Delta.97 disconnected
+[1/20/2023 5:57:53 PM] [Info] ShimmysAdminTools >> 
+[unloading] ShimmysAdminTools

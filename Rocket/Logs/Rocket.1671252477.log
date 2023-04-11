@@ -1,0 +1,481 @@
+[12/16/2022 6:52:02 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[12/16/2022 6:52:02 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[12/16/2022 6:52:02 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[12/16/2022 6:52:02 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[12/16/2022 6:52:02 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[12/16/2022 6:52:02 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[12/16/2022 6:52:02 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[12/16/2022 6:52:02 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[12/16/2022 6:52:02 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[12/16/2022 6:52:02 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[12/16/2022 6:52:02 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[12/16/2022 6:52:02 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[12/16/2022 6:52:02 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[12/16/2022 6:52:02 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[12/16/2022 6:52:02 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[12/16/2022 6:52:02 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[12/16/2022 6:52:02 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[12/16/2022 6:52:02 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[12/16/2022 6:52:02 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[12/16/2022 6:52:02 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[12/16/2022 6:52:02 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[12/16/2022 6:52:02 PM] [Info] Loading Feli.RocketMod.JoinLeaveMessages from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\Feli.RocketMod.JoinLeaveMessages.dll
+[12/16/2022 6:52:02 PM] [Info] Loading Feli.RocketMod.Teleporting from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\Feli.RocketMod.Teleporting.dll
+[12/16/2022 6:52:02 PM] [Info] Loading GarageLite from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\GarageLite.dll
+[12/16/2022 6:52:02 PM] [Info] Loading InfiniteEnergy from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\InfiniteEnergy.dll
+[12/16/2022 6:52:02 PM] [Info] Loading MoreHomes from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\MoreHomes.dll
+[12/16/2022 6:52:02 PM] [Info] Loading ReponseMod_HiddenName from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\ReponseMod_HiddenName.dll
+[12/16/2022 6:52:02 PM] [Info] Loading uEssentials from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\uEssentials.dll
+[12/16/2022 6:52:03 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp-firstpass
+[12/16/2022 6:52:03 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp
+[12/16/2022 6:52:03 PM] [Error] Invalid or outdated plugin assembly: Rocket.API
+[12/16/2022 6:52:03 PM] [Error] Invalid or outdated plugin assembly: Rocket.Core
+[12/16/2022 6:52:03 PM] [Error] Invalid or outdated plugin assembly: Rocket.Unturned
+[12/16/2022 6:52:03 PM] [Error] Invalid or outdated plugin assembly: UnityEngine.CoreModule
+[12/16/2022 6:52:03 PM] [Error] Invalid or outdated plugin assembly: UnityEngine
+[12/16/2022 6:52:03 PM] [Error] Invalid or outdated plugin assembly: Newtonsoft.Json
+[12/16/2022 6:52:03 PM] [Info] 
+[loading] Feli.RocketMod.JoinLeaveMessages
+[12/16/2022 6:52:03 PM] [Info] Feli.RocketMod.JoinLeaveMessages >> JoinLeaveMessages plugin v1.0.2 loaded !
+[12/16/2022 6:52:03 PM] [Info] Feli.RocketMod.JoinLeaveMessages >> Do you want more cool plugins? Join now: https://discord.gg/4FF2548 !
+[12/16/2022 6:52:03 PM] [Info] 
+[loading] Feli.RocketMod.Teleporting
+[12/16/2022 6:52:03 PM] [Info] [registered] /tpa (Feli.RocketMod.Teleporting.Commands.TpaCommand/tpa)
+[12/16/2022 6:52:03 PM] [Info] [registered] /tpr (Feli.RocketMod.Teleporting.Commands.TpaCommand/tpr)
+[12/16/2022 6:52:03 PM] [Info] Feli.RocketMod.Teleporting >> Teleporting plugin v1.6.4 loaded !
+[12/16/2022 6:52:03 PM] [Info] Feli.RocketMod.Teleporting >> Do you want more cool plugins? Join now: https://discord.gg/4FF2548 !
+[12/16/2022 6:52:03 PM] [Info] Feli.RocketMod.Teleporting >> Economy Provider: ExperienceEconomyProvider
+[12/16/2022 6:52:03 PM] [Info] 
+[loading] GarageLite
+[12/16/2022 6:52:03 PM] [Info] [registered] /gadd (GarageLite.Code/gadd)
+[12/16/2022 6:52:03 PM] [Info] [registered] /garageadd (GarageLite.Code/garageadd)
+[12/16/2022 6:52:03 PM] [Info] [registered] /vadd (GarageLite.Code/vadd)
+[12/16/2022 6:52:03 PM] [Info] [registered] /glist (GarageLite.Vlist/glist)
+[12/16/2022 6:52:03 PM] [Info] [registered] /garagelist (GarageLite.Vlist/garagelist)
+[12/16/2022 6:52:03 PM] [Info] [registered] /vlist (GarageLite.Vlist/vlist)
+[12/16/2022 6:52:03 PM] [Info] [registered] /gretrieve (GarageLite.Vretrieve/gretrieve)
+[12/16/2022 6:52:03 PM] [Info] [registered] /garageretrieve (GarageLite.Vretrieve/garageretrieve)
+[12/16/2022 6:52:03 PM] [Info] [registered] /vretrieve (GarageLite.Vretrieve/vretrieve)
+[12/16/2022 6:52:03 PM] [Warning] ++++++++++++++++++++++++++++++++++++++
+[12/16/2022 6:52:03 PM] [Warning] [GarageLite] has been loaded!
+[12/16/2022 6:52:03 PM] [Warning] Dev: MQS#7816
+[12/16/2022 6:52:03 PM] [Warning] Join this Discord for Support: https://discord.gg/Ssbpd9cvgp
+[12/16/2022 6:52:03 PM] [Warning] ++++++++++++++++++++++++++++++++++++++
+[12/16/2022 6:52:03 PM] [Info] 
+[loading] InfiniteEnergy
+[12/16/2022 6:52:03 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/16/2022 6:52:03 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/16/2022 6:52:03 PM] [Info] 
+[loading] ReponseMod_HiddenName
+[12/16/2022 6:52:03 PM] [Info] 
+[loading] uEssentials
+[12/16/2022 6:52:03 PM] [Error] Failed to load uEssentials, unloading now... :System.MissingMethodException: SDG.Unturned.ConsoleInput SDG.Unturned.CommandWindow.get_input()
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00033] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/16/2022 6:52:03 PM] [Info] 
+[unloading] uEssentials
+[12/16/2022 6:52:03 PM] [Error] Failed to unload uEssentials:System.MissingMethodException: SDG.Unturned.ConsoleInput SDG.Unturned.CommandWindow.get_input()
+  at Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (Rocket.API.PluginState state) [0x0003b] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x0005c] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/16/2022 6:52:03 PM] [Info] This server will automatically save every 1800 seconds
+[12/16/2022 6:52:03 PM] [Info] Steam servers ready!
+[12/16/2022 6:52:03 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/MyServer/Workshop/Steam
+[12/16/2022 6:52:03 PM] [Info] 1 workshop item(s) requested
+[12/16/2022 6:52:03 PM] [Info] Submitting workshop query for 1 item(s)...
+[12/16/2022 6:52:03 PM] [Info] Workshop query yielded 1 result(s)
+[12/16/2022 6:52:10 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/16/2022 6:52:10 PM] [Info] 2898548949 'A6 Polaris' queued for download
+[12/16/2022 6:52:10 PM] [Info] 1 workshop item(s) to download...
+[12/16/2022 6:52:10 PM] [Info] Workshop item found in cache: 2898548949
+[12/16/2022 6:52:10 PM] [Info] Installing workshop item: 2898548949
+[12/16/2022 6:52:10 PM] [Info] Installed workshop item: 2898548949
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Animals.Max_Instances_Medium because server value (50) is not the default (16)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Items.Quality_Full_Chance because server value (1) is not the default (0.1)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: False (Default: True)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: False (Default: True)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Barricades.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Barricades.Gun_Highcal_Damage_Multiplier because server value (2) is not the default (1)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Barricades.Armor_Lowtier_Multiplier: 1 (Default: 1)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Barricades.Armor_Hightier_Multiplier: 1 (Default: 0.5)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Structures.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Structures.Gun_Highcal_Damage_Multiplier because server value (2) is not the default (1)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Structures.Armor_Lowtier_Multiplier: 1 (Default: 1)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Structures.Armor_Hightier_Multiplier: 1 (Default: 0.5)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Structures.Melee_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Structures.Melee_Repair_Multiplier because server value (2) is not the default (1)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Events.Airdrop_Speed because server value (0) is not the default (128)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Events.Airdrop_Force because server value (0) is not the default (9.5)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Vehicles.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Vehicles.Melee_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Vehicles.Min_Battery_Charge because server value (1) is not the default (0.5)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Vehicles.Max_Battery_Charge because server value (1) is not the default (0.75)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Vehicles.Has_Battery_Chance because server value (1) is not the default (0.8)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Vehicles.Max_Instances_Medium because server value (40) is not the default (16)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Vehicles.Armor_Multiplier: 0.375 (Default: 1)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Players.Experience_Multiplier: 1 (Default: 1)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Players.Virus_Infect because server value (90) is not the default (50)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Zombies.Armor_Multiplier: 1 (Default: 1)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Zombies.Full_Moon_Experience_Multiplier because server value (5) is not the default (2)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Zombies.Spawn_Chance because server value (1) is not the default (0.25)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Zombies.Min_Mega_Drops because server value (10) is not the default (5)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Zombies.Max_Mega_Drops because server value (20) is not the default (5)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Zombies.Min_Boss_Drops because server value (30) is not the default (8)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Zombies.Max_Boss_Drops because server value (50) is not the default (10)
+[12/16/2022 6:52:10 PM] [Info] Skipping level config override Zombies.Loot_Chance because server value (1) is not the default (0.5)
+[12/16/2022 6:52:10 PM] [Info] Level overrides config Gameplay.Chart: True (Default: False)
+[12/16/2022 6:52:10 PM] [Info] Monitoring workshop map 'A6 Polaris' (2898548949) for changes
+[12/16/2022 6:52:10 PM] [Info] Loading level: 8%
+[12/16/2022 6:52:13 PM] [Info] Loading level: 16%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 25%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 33%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 41%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 50%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 58%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 66%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 75%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 83%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 91%
+[12/16/2022 6:52:14 PM] [Info] Loading level: 100%
+[12/16/2022 6:55:23 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/16/2022 6:55:23 PM] [Error] Could not find dependency: System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[12/16/2022 6:55:23 PM] [Error] Could not find dependency: System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[12/16/2022 6:55:23 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.BadImageFormatException: Could not resolve field token 0x0400000a, due to: Could not load type of field 'Feli.RocketMod.JoinLeaveMessages.Helpers.IpGeolocationHelper+<GetCountryFromIp>d__0:<client>5__2' (3) due to: Could not load file or assembly 'System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. assembly:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a type:<unknown type> member:(null) signature:<none> assembly:C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\Feli.RocketMod.JoinLeaveMessages.dll type:<GetCountryFromIp>d__0 member:(null) signature:<none>
+File name: 'Feli.RocketMod.JoinLeaveMessages'
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 6:57:06 PM] [Info] Connecting: PlayerID: 76561198334369190 Name: Lagunastudios Character: The Drifter
+[12/16/2022 6:57:06 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 6:57:32 PM] [Info] [World] The Drifter [Lagunastudios]: "/unadmin laguna"
+[12/16/2022 6:58:56 PM] [Info] [World] The Drifter [Lagunastudios]: "/tpa red"
+[12/16/2022 6:59:04 PM] [Info] [World] The Drifter [Lagunastudios]: "/p"
+[12/16/2022 7:02:17 PM] [Info] Connecting: PlayerID: 76561198800771967 Name: Funfulcookie :D (ltn) Character:  Funfulcookie
+[12/16/2022 7:02:17 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 7:02:24 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 7:02:24 PM] [Info] Red__Bear moved x:-102.8359 y:50.55446(+26.59295) z:-108.4141 in the last second (0.09999847)
+[12/16/2022 7:02:24 PM] [Info] [Area] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 7:02:27 PM] [Info]  Funfulcookie [Funfulcookie :D (ltn)] was infected to death!
+[12/16/2022 7:05:35 PM] [Info] Red__Bear moved x:-41.12912 y:58.12495(+31.96582) z:287.8142 in the last second (0.1000023)
+[12/16/2022 7:09:08 PM] [Info] [Group] Red__Bear [Red__Bear]: "/garageadd wb"
+[12/16/2022 7:11:19 PM] [Info] [World] The Drifter [Lagunastudios]: "shoot for me one more time red"
+[12/16/2022 7:11:21 PM] [Info] [World] The Drifter [Lagunastudios]: "i think im close"
+[12/16/2022 7:22:02 PM] [Info] Saving server
+[12/16/2022 7:22:07 PM] [Info] Disconnecting: PlayerID: 76561198800771967 Name: Funfulcookie :D (ltn) Character:  Funfulcookie
+[12/16/2022 7:29:18 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 7:30:40 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 7:30:40 PM] [Info] Red__Bear moved x:-102.439 y:50.55447(+16.44365) z:-108.1661 in the last second (0.1000023)
+[12/16/2022 7:40:32 PM] [Info] The Drifter moved x:-73.92188 y:54.42304(+28.27267) z:-180.7266 in the last second (0.09999847)
+[12/16/2022 7:40:41 PM] [Info] Red__Bear moved x:-74.88223 y:54.42305(+28.28235) z:-179.0594 in the last second (0.1000023)
+[12/16/2022 7:45:49 PM] [Info] Successfully admined Red__Bear
+[12/16/2022 7:46:11 PM] [Info] [Group] Red__Bear [Red__Bear]: "/unadmin red"
+[12/16/2022 7:48:51 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 7:48:52 PM] [Info] Red__Bear moved x:-101.6366 y:50.55447(+16.44365) z:-108.5613 in the last second (0.1000023)
+[12/16/2022 7:52:02 PM] [Info] Saving server
+[12/16/2022 7:55:54 PM] [Info] Connecting: PlayerID: 76561198796248492 Name: Smoke Character: Martin Wilk
+[12/16/2022 7:55:54 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 7:57:08 PM] [Info] [Group] Martin Wilk [Smoke]: "/unadmin Smoke"
+[12/16/2022 8:01:14 PM] [Info] The Drifter [Lagunastudios] killed themself.
+[12/16/2022 8:01:29 PM] [Info] The Drifter [Lagunastudios] was infected to death!
+[12/16/2022 8:06:43 PM] [Info] Red__Bear [Red__Bear] bled to death!
+[12/16/2022 8:07:32 PM] [Info] The Drifter [Lagunastudios] was shot in the head by Red__Bear [Red__Bear]!
+[12/16/2022 8:07:47 PM] [Info] The Drifter [Lagunastudios] killed themself.
+[12/16/2022 8:07:49 PM] [Info] Disconnecting: PlayerID: 76561198334369190 Name: Lagunastudios Character: The Drifter
+[12/16/2022 8:13:06 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 8:15:11 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 8:15:30 PM] [Info] Connecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: Sheriff James
+[12/16/2022 8:15:30 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 8:17:12 PM] [Info] Sheriff James [Cheese Boi] was infected to death!
+[12/16/2022 8:22:02 PM] [Info] Saving server
+[12/16/2022 8:24:53 PM] [Info] Martin Wilk moved x:474.5234 y:63.62183(+37.45774) z:511.1797 in the last second (0.1041183)
+[12/16/2022 8:26:46 PM] [Info] Martin Wilk moved x:474.5234 y:63.62183(+37.45774) z:511.1797 in the last second (0.1041183)
+[12/16/2022 8:31:59 PM] [Info] Red__Bear [Red__Bear] was mauled by a zombie!
+[12/16/2022 8:32:11 PM] [Info] Red__Bear [Red__Bear] was infected to death!
+[12/16/2022 8:34:16 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 8:40:06 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 8:40:20 PM] [Info] Successfully unadmined Sheriff James
+[12/16/2022 8:40:51 PM] [Info] Disconnecting: PlayerID: 76561198796248492 Name: Smoke Character: Martin Wilk
+[12/16/2022 8:50:24 PM] [Info] Red__Bear moved x:474.9245 y:63.62183(+37.47334) z:511.4208 in the last second (0.1041183)
+[12/16/2022 8:52:02 PM] [Info] Saving server
+[12/16/2022 8:53:48 PM] [Info] Sheriff James [Cheese Boi] killed themself.
+[12/16/2022 9:02:50 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 9:03:52 PM] [Info] [World] Sheriff James [Cheese Boi]: "/tPA RED"
+[12/16/2022 9:05:02 PM] [Info] Disconnecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: Sheriff James
+[12/16/2022 9:06:54 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/16/2022 9:22:02 PM] [Info] Saving server
+[12/16/2022 9:39:49 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/16/2022 9:39:49 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 9:40:58 PM] [Info] Connecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: Sheriff James
+[12/16/2022 9:40:58 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 9:41:16 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/16/2022 9:41:16 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 9:41:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/16/2022 9:41:34 PM] [Info] reaper teleported to Red__Bear
+[12/16/2022 9:41:34 PM] [Info] [World] reaper [JACK THE RIPPER]: "/vansh"
+[12/16/2022 9:41:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i vanish"
+[12/16/2022 9:41:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "/spy 76561199129498897"
+[12/16/2022 9:41:55 PM] [Info] Successfully taking a screenshot of Cheese Boi.
+[12/16/2022 9:41:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/16/2022 9:42:01 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:42:02 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/16/2022 9:42:02 PM] [Info] reaper moved x:-291.0703 y:50.95058(+17.2518) z:132.7656 in the last second (0.09999847)
+[12/16/2022 9:42:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "am just look what going on"
+[12/16/2022 9:42:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i heal"
+[12/16/2022 9:42:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/16/2022 9:42:42 PM] [Info] reaper teleported to Red__Bear
+[12/16/2022 9:42:43 PM] [Info] [World] Sheriff James [Cheese Boi]: "/tpa red"
+[12/16/2022 9:42:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/16/2022 9:43:14 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:43:14 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/16/2022 9:43:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "welcome to mexico"
+[12/16/2022 9:43:32 PM] [Info] Successfully admined Red__Bear
+[12/16/2022 9:43:34 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp james"
+[12/16/2022 9:43:34 PM] [Info] Red__Bear teleported to Sheriff James
+[12/16/2022 9:43:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "lol"
+[12/16/2022 9:43:52 PM] [Info] [Area] Red__Bear [Red__Bear]: "/tp james"
+[12/16/2022 9:43:52 PM] [Info] Red__Bear teleported to Sheriff James
+[12/16/2022 9:44:25 PM] [Info] [Group] Red__Bear [Red__Bear]: "/unadmin reaper"
+[12/16/2022 9:44:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:44:36 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reaper"
+[12/16/2022 9:44:36 PM] [Info] Red__Bear teleported to reaper
+[12/16/2022 9:44:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:44:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:44:56 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i gen"
+[12/16/2022 9:45:14 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport red"
+[12/16/2022 9:45:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport james"
+[12/16/2022 9:45:22 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/16/2022 9:45:22 PM] [Info] [Group] Red__Bear [Red__Bear]: "/unadmin red"
+[12/16/2022 9:45:29 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/16/2022 9:45:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:45:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "why cant i teleport wp"
+[12/16/2022 9:45:54 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:45:55 PM] [Info] [Group] Red__Bear [Red__Bear]: "/admin reaper"
+[12/16/2022 9:45:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:46:00 PM] [Info] Successfully admined Red__Bear
+[12/16/2022 9:46:02 PM] [Info] [World] Red__Bear [Red__Bear]: "/admin reaper"
+[12/16/2022 9:46:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:46:06 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/16/2022 9:46:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "fuk"
+[12/16/2022 9:46:20 PM] [Info] [World] reaper [JACK THE RIPPER]: "i just fuck my slef"
+[12/16/2022 9:46:25 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reaper"
+[12/16/2022 9:46:25 PM] [Info] Red__Bear teleported to reaper
+[12/16/2022 9:46:31 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp james"
+[12/16/2022 9:46:31 PM] [Info] Red__Bear teleported to Sheriff James
+[12/16/2022 9:46:40 PM] [Info] Sheriff James moved x:-73.92188 y:54.42304(+28.25896) z:-180.7266 in the last second (0.09999847)
+[12/16/2022 9:46:40 PM] [Info] reaper [JACK THE RIPPER] was mauled by a zombie!
+[12/16/2022 9:46:40 PM] [Info] Red__Bear moved x:-73.92188 y:54.42304(+28.25896) z:-180.7266 in the last second (0.09999847)
+[12/16/2022 9:46:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "am trying to find an good place for base"
+[12/16/2022 9:47:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "show me"
+[12/16/2022 9:47:07 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:47:07 PM] [Error] Unable to teleport Red__Bear because waypoint was obstructed.
+[12/16/2022 9:47:10 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:47:10 PM] [Error] Unable to teleport Red__Bear because waypoint was obstructed.
+[12/16/2022 9:47:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "/slay 76561199129498897/Screenshot Evidence"
+[12/16/2022 9:47:14 PM] [Error] Failed to find parameters in format [SteamID | Player]/[Reason].
+[12/16/2022 9:47:14 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:47:14 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:47:22 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/16/2022 9:47:22 PM] [Info] reaper teleported to Red__Bear
+[12/16/2022 9:47:22 PM] [Info] reaper moved x:216.9219 y:51.13086(+20.75905) z:-44.86719 in the last second (0.1615639)
+[12/16/2022 9:47:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "show me cool place"
+[12/16/2022 9:47:58 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:47:58 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:48:07 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:48:07 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:48:28 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:48:28 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:48:48 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:48:48 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:49:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/16/2022 9:49:00 PM] [Info] reaper teleported to Red__Bear
+[12/16/2022 9:49:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/16/2022 9:49:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "na"
+[12/16/2022 9:49:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "there thing inside"
+[12/16/2022 9:49:31 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:49:31 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:49:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "is there other's"
+[12/16/2022 9:49:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/16/2022 9:49:36 PM] [Info] reaper teleported to Red__Bear
+[12/16/2022 9:49:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "mmm"
+[12/16/2022 9:49:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "my like"
+[12/16/2022 9:49:57 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:49:57 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:50:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/16/2022 9:50:09 PM] [Info] reaper teleported to Red__Bear
+[12/16/2022 9:50:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "is this other"
+[12/16/2022 9:50:37 PM] [Info] [World] reaper [JACK THE RIPPER]: "closer to city"
+[12/16/2022 9:50:40 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tphere james"
+[12/16/2022 9:51:09 PM] [Info] Sheriff James was teleported to Red__Bear
+[12/16/2022 9:51:09 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:51:09 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:51:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/16/2022 9:51:13 PM] [Info] reaper teleported to Red__Bear
+[12/16/2022 9:51:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:51:35 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/16/2022 9:51:35 PM] [Info] reaper moved x:-525.9609 y:50.18644(+18.37172) z:145.0156 in the last second (1.196789)
+[12/16/2022 9:51:36 PM] [Info] [Area] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:51:36 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:51:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "/tp red"
+[12/16/2022 9:51:42 PM] [Info] reaper teleported to Red__Bear
+[12/16/2022 9:51:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "my"
+[12/16/2022 9:51:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "takeing it now"
+[12/16/2022 9:51:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "call debt"
+[12/16/2022 9:52:02 PM] [Info] Saving server
+[12/16/2022 9:52:14 PM] [Info] [World] reaper [JACK THE RIPPER]: "i call all of this my land"
+[12/16/2022 9:52:19 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp james"
+[12/16/2022 9:52:19 PM] [Info] Red__Bear teleported to Sheriff James
+[12/16/2022 9:52:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:52:47 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/16/2022 9:52:57 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 9:53:01 PM] [Info] [World] reaper [JACK THE RIPPER]: "/teleport wp"
+[12/16/2022 9:53:01 PM] [Info] Successfully teleported JACK THE RIPPER to waypoint!
+[12/16/2022 9:53:02 PM] [Info] reaper moved x:-652.6016 y:56.91689(+20.90621) z:-408.5156 in the last second (0.09999847)
+[12/16/2022 9:53:03 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/16/2022 9:53:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "/heal"
+[12/16/2022 9:53:11 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp james"
+[12/16/2022 9:53:11 PM] [Info] Red__Bear teleported to Sheriff James
+[12/16/2022 9:53:15 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 9:53:34 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp james"
+[12/16/2022 9:53:34 PM] [Info] Red__Bear teleported to Sheriff James
+[12/16/2022 9:53:37 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp raeper"
+[12/16/2022 9:53:39 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reaper"
+[12/16/2022 9:53:39 PM] [Info] Red__Bear teleported to reaper
+[12/16/2022 9:53:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "dam"
+[12/16/2022 9:54:01 PM] [Info] [World] reaper [JACK THE RIPPER]: "that was muy idea red"
+[12/16/2022 9:54:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "makeing big metal base"
+[12/16/2022 9:54:57 PM] [Info] [World] reaper [JACK THE RIPPER]: "sure"
+[12/16/2022 9:55:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "tp over there you sad"
+[12/16/2022 9:55:05 PM] [Info] [World] reaper [JACK THE RIPPER]: "said"
+[12/16/2022 9:55:12 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i bed"
+[12/16/2022 9:55:14 PM] [Info] Giving Red__Bear item 36285:1
+[12/16/2022 9:55:14 PM] [Info] [World] reaper [JACK THE RIPPER]: "/i bed"
+[12/16/2022 9:55:23 PM] [Info] Giving reaper item 36285:1
+[12/16/2022 9:55:23 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp james"
+[12/16/2022 9:55:23 PM] [Info] Red__Bear teleported to Sheriff James
+[12/16/2022 9:55:28 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp reaper"
+[12/16/2022 9:55:28 PM] [Info] Red__Bear teleported to reaper
+[12/16/2022 9:55:32 PM] [Info] [World] reaper [JACK THE RIPPER]: "/un admen"
+[12/16/2022 9:55:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/admen"
+[12/16/2022 9:55:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "/unadmen"
+[12/16/2022 9:55:46 PM] [Info] [World] reaper [JACK THE RIPPER]: "any where"
+[12/16/2022 9:55:54 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/16/2022 9:55:54 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/16/2022 9:55:57 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tphere reaper"
+[12/16/2022 9:55:57 PM] [Info] reaper was teleported to Red__Bear
+[12/16/2022 9:56:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "fuck"
+[12/16/2022 9:56:00 PM] [Info] [Group] Red__Bear [Red__Bear]: "/unadmin reaper"
+[12/16/2022 9:56:02 PM] [Info] [Group] Red__Bear [Red__Bear]: "/unadmin red"
+[12/16/2022 9:56:05 PM] [Info] [World] reaper [JACK THE RIPPER]: "i was going to move place"
+[12/16/2022 9:56:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "the old place was to big'"
+[12/16/2022 9:56:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "i was moving into the bar"
+[12/16/2022 9:56:32 PM] [Info] [World] reaper [JACK THE RIPPER]: "red bar next to james"
+[12/16/2022 9:56:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "is there kos"
+[12/16/2022 9:56:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "james"
+[12/16/2022 9:57:43 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 9:57:44 PM] [Info] [World] reaper [JACK THE RIPPER]: "brb"
+[12/16/2022 9:57:51 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/16/2022 9:59:14 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/16/2022 9:59:14 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 10:03:27 PM] [Info] [World] reaper [JACK THE RIPPER]: "up"
+[12/16/2022 10:04:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "yes"
+[12/16/2022 10:05:07 PM] [Info] [World] reaper [JACK THE RIPPER]: "yes"
+[12/16/2022 10:05:15 PM] [Info] [World] reaper [JACK THE RIPPER]: "no"
+[12/16/2022 10:15:54 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 10:16:37 PM] [Info] [World] reaper [JACK THE RIPPER]: "i am"
+[12/16/2022 10:17:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "you mean metal base red"
+[12/16/2022 10:17:56 PM] [Info] [World] Sheriff James [Cheese Boi]: "/home"
+[12/16/2022 10:20:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/16/2022 10:22:02 PM] [Info] Saving server
+[12/16/2022 10:24:03 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 10:27:34 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/16/2022 10:30:09 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 10:37:07 PM] [Info] Connecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/16/2022 10:37:07 PM] [Error] Feli.RocketMod.JoinLeaveMessages >> There was an error during the player join -> Exception in Feli.RocketMod.JoinLeaveMessages: System.TypeLoadException: Failure has occurred while loading a type.
+  at Feli.RocketMod.JoinLeaveMessages.Plugin+<>c__DisplayClass3_0+<<OnPlayerConnected>b__0>d.MoveNext () [0x00053] in <1945374a95f44307b8d70b38b6f38669>:0 
+[12/16/2022 10:40:57 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 10:41:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/16/2022 10:41:44 PM] [Info] [World] reaper [JACK THE RIPPER]: "who at mill"
+[12/16/2022 10:41:52 PM] [Info] [World] reaper [JACK THE RIPPER]: "who have gas can"
+[12/16/2022 10:42:01 PM] [Info] [World] reaper [JACK THE RIPPER]: "i just need one'"
+[12/16/2022 10:42:14 PM] [Info] [World] reaper [JACK THE RIPPER]: "where are you james"
+[12/16/2022 10:43:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf it my"
+[12/16/2022 10:43:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/16/2022 10:43:59 PM] [Info] [World] reaper [JACK THE RIPPER]: "i was trying to get in"
+[12/16/2022 10:44:16 PM] [Info] reaper [JACK THE RIPPER] was infected to death!
+[12/16/2022 10:44:19 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/16/2022 10:45:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/16/2022 10:47:32 PM] [Info] reaper moved x:474.5234 y:63.62183(+37.45774) z:511.1797 in the last second (0.1041183)
+[12/16/2022 10:48:28 PM] [Info] [World] Sheriff James [Cheese Boi]: "/home"
+[12/16/2022 10:48:29 PM] [Info] Sheriff James moved x:-464.8984 y:47.1614(+20.60142) z:-168.125 in the last second (0.09999847)
+[12/16/2022 10:49:36 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/16/2022 10:49:49 PM] [Info] [World] reaper [JACK THE RIPPER]: "is there car on the sever"
+[12/16/2022 10:50:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "guys is there car in this sever"
+[12/16/2022 10:50:41 PM] [Info] [World] reaper [JACK THE RIPPER]: "vehicle"
+[12/16/2022 10:50:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "is there any on the ma"
+[12/16/2022 10:52:02 PM] [Info] Saving server
+[12/16/2022 10:52:44 PM] [Info] [World] reaper [JACK THE RIPPER]: "omg"
+[12/16/2022 10:52:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "tp"
+[12/16/2022 10:53:02 PM] [Info] [World] reaper [JACK THE RIPPER]: "it under an place"
+[12/16/2022 10:53:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "but it so big"
+[12/16/2022 10:53:10 PM] [Info] [World] reaper [JACK THE RIPPER]: "safezone"
+[12/16/2022 10:54:23 PM] [Info] Sheriff James [Cheese Boi] killed themself.
+[12/16/2022 10:55:24 PM] [Info] Disconnecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: Sheriff James
+[12/16/2022 10:57:53 PM] [Info] [World] reaper [JACK THE RIPPER]: "i found a op place"
+[12/16/2022 10:58:16 PM] [Info] [World] reaper [JACK THE RIPPER]: "find me"
+[12/16/2022 10:58:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "at"
+[12/16/2022 10:58:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "st.d"
+[12/16/2022 10:58:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "yup"
+[12/16/2022 11:03:55 PM] [Info] [World] reaper [JACK THE RIPPER]: "no"
+[12/16/2022 11:04:06 PM] [Info] [World] reaper [JACK THE RIPPER]: "where you at"
+[12/16/2022 11:04:48 PM] [Info] [Group] reaper [JACK THE RIPPER]: "come find me"
+[12/16/2022 11:04:58 PM] [Info] [World] reaper [JACK THE RIPPER]: "come find me"
+[12/16/2022 11:06:21 PM] [Info] [World] reaper [JACK THE RIPPER]: "idk hwo toi"
+[12/16/2022 11:06:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "to"
+[12/16/2022 11:06:28 PM] [Info] [World] reaper [JACK THE RIPPER]: "cant"
+[12/16/2022 11:06:33 PM] [Info] [World] reaper [JACK THE RIPPER]: "i have no gas mask"
+[12/16/2022 11:06:50 PM] [Info] [World] reaper [JACK THE RIPPER]: "how do i make gas mask"
+[12/16/2022 11:07:31 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 11:08:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "no'"
+[12/16/2022 11:08:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/16/2022 11:11:06 PM] [Info] [Group] reaper [JACK THE RIPPER]: "wtf'"
+[12/16/2022 11:11:08 PM] [Info] [World] reaper [JACK THE RIPPER]: "wtf"
+[12/16/2022 11:11:13 PM] [Info] [World] reaper [JACK THE RIPPER]: "where do i make gas mask'"
+[12/16/2022 11:11:24 PM] [Info] [World] reaper [JACK THE RIPPER]: "like what"
+[12/16/2022 11:14:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/16/2022 11:16:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "red"
+[12/16/2022 11:16:47 PM] [Info] [World] reaper [JACK THE RIPPER]: "you there ?"
+[12/16/2022 11:17:23 PM] [Info] [World] reaper [JACK THE RIPPER]: "my god this is so long red"
+[12/16/2022 11:17:35 PM] [Info] [World] reaper [JACK THE RIPPER]: "yesss"
+[12/16/2022 11:17:45 PM] [Info] [World] reaper [JACK THE RIPPER]: "what"
+[12/16/2022 11:20:04 PM] [Info] [World] reaper [JACK THE RIPPER]: "red can i buy a gas mask from you?"
+[12/16/2022 11:20:20 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/16/2022 11:20:26 PM] [Info] [World] reaper [JACK THE RIPPER]: "name your price"
+[12/16/2022 11:21:12 PM] [Info] [World] reaper [JACK THE RIPPER]: "but idk how to make fliter"
+[12/16/2022 11:22:02 PM] [Info] Saving server
+[12/16/2022 11:24:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "/home"
+[12/16/2022 11:24:17 PM] [Info] [World] reaper [JACK THE RIPPER]: "let me see"
+[12/16/2022 11:29:38 PM] [Info] [World] reaper [JACK THE RIPPER]: "yed"
+[12/16/2022 11:29:56 PM] [Info] [World] reaper [JACK THE RIPPER]: "i need lotus"
+[12/16/2022 11:30:00 PM] [Info] [World] reaper [JACK THE RIPPER]: "that all"
+[12/16/2022 11:31:09 PM] [Info] [World] reaper [JACK THE RIPPER]: "where do we meet"
+[12/16/2022 11:32:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "red where do we meet at?"
+[12/16/2022 11:32:39 PM] [Info] [World] reaper [JACK THE RIPPER]: "ok"
+[12/16/2022 11:33:30 PM] [Info] [World] reaper [JACK THE RIPPER]: "hi"
+[12/16/2022 11:33:42 PM] [Info] [World] reaper [JACK THE RIPPER]: "how do i pay"
+[12/16/2022 11:34:25 PM] [Info] [World] reaper [JACK THE RIPPER]: "that all i got"
+[12/16/2022 11:34:47 PM] [Info] Disconnecting: PlayerID: 76561199074224396 Name: JACK THE RIPPER Character: reaper
+[12/16/2022 11:35:00 PM] [Info] Red__Bear moved x:-40.07813 y:58.40519(+32.2411) z:288.3438 in the last second (0.3802452)
+[12/16/2022 11:35:01 PM] [Info] Lost connection to Steam servers because k_EResultNoConnection
+[12/16/2022 11:35:50 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/16/2022 11:36:38 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/16/2022 11:37:34 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/16/2022 11:38:27 PM] [Info] Failed to connect to Steam servers because k_EResultNoConnection, still retrying
+[12/16/2022 11:38:42 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/16/2022 11:38:44 PM] [Info] 
+[unloading] Feli.RocketMod.JoinLeaveMessages

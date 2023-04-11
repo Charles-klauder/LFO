@@ -1,0 +1,204 @@
+[12/19/2022 10:36:43 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[12/19/2022 10:36:43 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[12/19/2022 10:36:43 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[12/19/2022 10:36:43 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[12/19/2022 10:36:43 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[12/19/2022 10:36:43 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[12/19/2022 10:36:43 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[12/19/2022 10:36:43 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[12/19/2022 10:36:43 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[12/19/2022 10:36:43 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[12/19/2022 10:36:43 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[12/19/2022 10:36:43 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[12/19/2022 10:36:43 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[12/19/2022 10:36:43 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[12/19/2022 10:36:43 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[12/19/2022 10:36:43 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[12/19/2022 10:36:43 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[12/19/2022 10:36:43 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[12/19/2022 10:36:43 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[12/19/2022 10:36:43 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[12/19/2022 10:36:43 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[12/19/2022 10:36:43 PM] [Info] Loading InfiniteEnergy from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\InfiniteEnergy.dll
+[12/19/2022 10:36:43 PM] [Info] Loading MoreHomes from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\MoreHomes.dll
+[12/19/2022 10:36:43 PM] [Info] Loading ReponseMod_HiddenName from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\ReponseMod_HiddenName.dll
+[12/19/2022 10:36:43 PM] [Info] Loading uEssentials from C:\Program Files (x86)\Steam\steamapps\common\U3DS\Servers\MyServer\Rocket\Plugins\uEssentials.dll
+[12/19/2022 10:36:44 PM] [Info] 
+[loading] InfiniteEnergy
+[12/19/2022 10:36:44 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/19/2022 10:36:44 PM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[12/19/2022 10:36:44 PM] [Info] 
+[loading] ReponseMod_HiddenName
+[12/19/2022 10:36:44 PM] [Info] 
+[loading] uEssentials
+[12/19/2022 10:36:44 PM] [Error] Failed to load uEssentials, unloading now... :System.TypeLoadException: Could not resolve type with token 010000ed (from typeref, class/assembly SDG.Unturned.ConsoleInput, Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00033] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/19/2022 10:36:44 PM] [Info] 
+[unloading] uEssentials
+[12/19/2022 10:36:44 PM] [Error] Failed to unload uEssentials:System.TypeLoadException: Could not resolve type with token 010000ed (from typeref, class/assembly SDG.Unturned.ConsoleInput, Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)
+  at Rocket.Core.Plugins.RocketPlugin.UnloadPlugin (Rocket.API.PluginState state) [0x0003b] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x0005c] in <59a13feb721848c8b0cd173f6d0e820b>:0 
+[12/19/2022 10:36:44 PM] [Info] This server will automatically save every 1800 seconds
+[12/19/2022 10:36:44 PM] [Info] Steam servers ready!
+[12/19/2022 10:36:44 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/MyServer/Workshop/Steam
+[12/19/2022 10:36:44 PM] [Info] 4 workshop item(s) requested
+[12/19/2022 10:36:44 PM] [Info] Submitting workshop query for 4 item(s)...
+[12/19/2022 10:36:44 PM] [Info] Workshop query yielded 4 result(s)
+[12/19/2022 10:36:44 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[12/19/2022 10:37:15 PM] [Info] 2898548949 'A6 Polaris' queued for download
+[12/19/2022 10:37:15 PM] [Info] 1717095606 'Creator Tools' queued for download
+[12/19/2022 10:37:15 PM] [Info] 2796081018 'Nordic Compatable Arid' queued for download
+[12/19/2022 10:37:15 PM] [Info] 2658860724 'TF2 Launchers [3.28]' queued for download
+[12/19/2022 10:37:15 PM] [Info] 4 workshop item(s) to download...
+[12/19/2022 10:37:15 PM] [Info] Workshop item found in cache: 2898548949
+[12/19/2022 10:37:15 PM] [Info] Installing workshop item: 2898548949
+[12/19/2022 10:37:15 PM] [Info] Installed workshop item: 2898548949
+[12/19/2022 10:37:15 PM] [Info] Workshop item found in cache: 1717095606
+[12/19/2022 10:37:15 PM] [Info] Installing workshop item: 1717095606
+[12/19/2022 10:37:15 PM] [Info] Installed workshop item: 1717095606
+[12/19/2022 10:37:15 PM] [Info] Workshop item found in cache: 2796081018
+[12/19/2022 10:37:15 PM] [Info] Installing workshop item: 2796081018
+[12/19/2022 10:37:15 PM] [Info] Installed workshop item: 2796081018
+[12/19/2022 10:37:15 PM] [Info] Downloading workshop item: 2658860724
+[12/19/2022 10:37:15 PM] [Info] Successfully downloaded workshop item: 2658860724
+[12/19/2022 10:37:15 PM] [Info] Installing workshop item: 2658860724
+[12/19/2022 10:37:17 PM] [Info] Installed workshop item: 2658860724
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Animals.Max_Instances_Medium because server value (50) is not the default (16)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Items.Quality_Full_Chance because server value (1) is not the default (0.1)
+[12/19/2022 10:37:17 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: False (Default: True)
+[12/19/2022 10:37:17 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: False (Default: True)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Barricades.Gun_Lowcal_Damage_Multiplier because server value (5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Barricades.Gun_Highcal_Damage_Multiplier because server value (5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Barricades.Armor_Lowtier_Multiplier because server value (5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Barricades.Armor_Hightier_Multiplier because server value (5) is not the default (0.5)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Structures.Gun_Lowcal_Damage_Multiplier because server value (5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Structures.Gun_Highcal_Damage_Multiplier because server value (5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Structures.Armor_Lowtier_Multiplier because server value (5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Structures.Armor_Hightier_Multiplier because server value (5) is not the default (0.5)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Structures.Melee_Damage_Multiplier because server value (5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Structures.Melee_Repair_Multiplier because server value (5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Events.Airdrop_Speed because server value (1) is not the default (128)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Events.Airdrop_Force because server value (1) is not the default (9.5)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Vehicles.Gun_Lowcal_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Vehicles.Melee_Damage_Multiplier because server value (0.5) is not the default (1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Vehicles.Min_Battery_Charge because server value (1) is not the default (0.5)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Vehicles.Max_Battery_Charge because server value (1) is not the default (0.75)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Vehicles.Has_Battery_Chance because server value (1) is not the default (0.8)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Vehicles.Max_Instances_Medium because server value (40) is not the default (16)
+[12/19/2022 10:37:17 PM] [Info] Level overrides config Vehicles.Armor_Multiplier: 0.375 (Default: 1)
+[12/19/2022 10:37:17 PM] [Info] Level overrides config Players.Experience_Multiplier: 1 (Default: 1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Players.Virus_Infect because server value (90) is not the default (50)
+[12/19/2022 10:37:17 PM] [Info] Level overrides config Zombies.Armor_Multiplier: 1 (Default: 1)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Zombies.Full_Moon_Experience_Multiplier because server value (5) is not the default (2)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Zombies.Spawn_Chance because server value (1) is not the default (0.25)
+[12/19/2022 10:37:17 PM] [Info] Level overrides config Zombies.Min_Mega_Drops: 1 (Default: 5)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Zombies.Max_Mega_Drops because server value (10) is not the default (5)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Zombies.Min_Boss_Drops because server value (5) is not the default (8)
+[12/19/2022 10:37:17 PM] [Info] Level overrides config Zombies.Max_Boss_Drops: 1 (Default: 10)
+[12/19/2022 10:37:17 PM] [Info] Skipping level config override Zombies.Loot_Chance because server value (1) is not the default (0.5)
+[12/19/2022 10:37:17 PM] [Info] Level overrides config Gameplay.Chart: True (Default: False)
+[12/19/2022 10:37:17 PM] [Info] Monitoring workshop map 'A6 Polaris' (2898548949) for changes
+[12/19/2022 10:37:17 PM] [Info] Loading level: 8%
+[12/19/2022 10:37:20 PM] [Info] Loading level: 16%
+[12/19/2022 10:37:20 PM] [Info] Loading level: 25%
+[12/19/2022 10:37:20 PM] [Info] Loading level: 33%
+[12/19/2022 10:37:20 PM] [Info] Loading level: 41%
+[12/19/2022 10:37:20 PM] [Info] Loading level: 50%
+[12/19/2022 10:37:20 PM] [Info] Loading level: 58%
+[12/19/2022 10:37:20 PM] [Info] Loading level: 66%
+[12/19/2022 10:37:21 PM] [Info] Loading level: 75%
+[12/19/2022 10:37:21 PM] [Info] Loading level: 83%
+[12/19/2022 10:37:21 PM] [Info] Loading level: 91%
+[12/19/2022 10:37:21 PM] [Info] Loading level: 100%
+[12/19/2022 10:37:41 PM] [Info] BattlEye Server: Player #0 Red__Bear (73.253.101.49:64046) connected
+[12/19/2022 10:37:41 PM] [Info] BattlEye Server: Player #0 Red__Bear - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[12/19/2022 10:37:42 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/19/2022 10:37:42 PM] [Info] BattlEye Server: Connected to BE Master
+[12/19/2022 10:37:49 PM] [Info] [Group] Red__Bear [Red__Bear]: "/god"
+[12/19/2022 10:37:53 PM] [Info] Red__Bear enabled Godmode
+[12/19/2022 10:37:53 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i jumper"
+[12/19/2022 10:38:13 PM] [Info] Giving Red__Bear item 50031:1
+[12/19/2022 10:38:13 PM] [Info] BattlEye Server: Player #1 Cheese Boi (173.3.120.91:59450) connected
+[12/19/2022 10:38:13 PM] [Info] BattlEye Server: Player #1 Cheese Boi - BE GUID: 2b512fb04534f10758ddfe662a41a811
+[12/19/2022 10:38:27 PM] [Info] Connecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: [ Sheriff ] Soprano
+[12/19/2022 10:38:27 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i 50060"
+[12/19/2022 10:38:27 PM] [Info] Giving Red__Bear item 50060:1
+[12/19/2022 10:38:30 PM] [Info] [World] [ Sheriff ] Soprano [Cheese Boi]: "/god"
+[12/19/2022 10:38:30 PM] [Info] [ Sheriff ] Soprano enabled Godmode
+[12/19/2022 10:38:31 PM] [Info] Red__Bear moved x:-17.00122 y:61.80039(+24.69653) z:559.7564 in the last second (0.1287308)
+[12/19/2022 10:38:36 PM] [Info] [ Sheriff ] Soprano moved x:5.455117 y:69.68927(+18.19215) z:557.7727 in the last second (28.51299)
+[12/19/2022 10:38:36 PM] [Info] Red__Bear moved x:21.5682 y:75.01777(+20.46935) z:557.3981 in the last second (33.6928)
+[12/19/2022 10:38:40 PM] [Info] Red__Bear moved x:42.93983 y:57.6481(+16.22884) z:554.0811 in the last second (16.32988)
+[12/19/2022 10:38:47 PM] [Info] Red__Bear moved x:23.22548 y:72.1016(+20.51077) z:544.8377 in the last second (30.91154)
+[12/19/2022 10:38:50 PM] [Info] Red__Bear moved x:21.92975 y:75.98102(+15.92684) z:530.223 in the last second (0.1819687)
+[12/19/2022 10:38:53 PM] [Info] Red__Bear moved x:44.41452 y:77.55985(+21.89392) z:536.2265 in the last second (28.43768)
+[12/19/2022 10:38:56 PM] [Info] Red__Bear moved x:69.13792 y:58.74035(+17.50201) z:549.7839 in the last second (16.19719)
+[12/19/2022 10:38:59 PM] [Info] [World] [ Sheriff ] Soprano [Cheese Boi]: "/i "jumper""
+[12/19/2022 10:39:06 PM] [Info] Giving [ Sheriff ] Soprano item 50031:1
+[12/19/2022 10:39:06 PM] [Info] [World] [ Sheriff ] Soprano [Cheese Boi]: "/i "infinite jumper""
+[12/19/2022 10:39:08 PM] [Info] Giving [ Sheriff ] Soprano item 50060:1
+[12/19/2022 10:39:08 PM] [Info] Red__Bear moved x:56.17929 y:61.76089(+16.66698) z:571.1342 in the last second (16.76697)
+[12/19/2022 10:39:21 PM] [Info] Red__Bear moved x:15.23078 y:61.91635(+18.6657) z:566.4269 in the last second (18.60275)
+[12/19/2022 10:39:31 PM] [Info] [ Sheriff ] Soprano moved x:-246.7742 y:52.71656(+15.28004) z:594.4707 in the last second (17.73487)
+[12/19/2022 10:39:39 PM] [Info] Red__Bear moved x:-170.2753 y:43.36607(+16.58091) z:572.9321 in the last second (16.68032)
+[12/19/2022 10:39:42 PM] [Info] Red__Bear moved x:-244.3307 y:49.39672(+18.25086) z:575.3121 in the last second (14.70521)
+[12/19/2022 10:39:46 PM] [Info] [ Sheriff ] Soprano moved x:-19.54575 y:70.89558(+26.4257) z:589.8989 in the last second (34.41822)
+[12/19/2022 10:39:50 PM] [Info] [ Sheriff ] Soprano moved x:-98.15238 y:45.90631(+15.08564) z:598.8657 in the last second (18.9301)
+[12/19/2022 10:40:03 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/19/2022 10:40:12 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/19/2022 10:40:12 PM] [Info] Red__Bear moved x:609.5353 y:54.13396(+18.38596) z:-123.7193 in the last second (18.30632)
+[12/19/2022 10:40:16 PM] [Info] Red__Bear moved x:609.1176 y:49.05725(+15.10429) z:-121.6452 in the last second (13.50195)
+[12/19/2022 10:40:19 PM] [Info] Red__Bear moved x:607.8255 y:57.14069(+22.59125) z:-102.0588 in the last second (24.57134)
+[12/19/2022 10:40:24 PM] [Info] Red__Bear moved x:607.0179 y:55.39494(+18.28704) z:-60.7104 in the last second (14.58547)
+[12/19/2022 10:40:39 PM] [Info] Red__Bear moved x:609.6558 y:109.1718(+21.89759) z:21.24947 in the last second (31.30302)
+[12/19/2022 10:40:52 PM] [Info] Red__Bear moved x:446.9607 y:81.36664(+22.81017) z:-2.497151 in the last second (0.1256409)
+[12/19/2022 10:40:55 PM] [Info] Red__Bear moved x:426.1642 y:78.6336(+19.04441) z:-51.87611 in the last second (29.1928)
+[12/19/2022 10:41:08 PM] [Info] Red__Bear moved x:768.9477 y:57.98101(+15.45982) z:-178.9588 in the last second (21.08978)
+[12/19/2022 10:41:21 PM] [Info] [ Sheriff ] Soprano moved x:-239.6987 y:54.24719(+18.81742) z:581.1932 in the last second (20.25349)
+[12/19/2022 10:41:24 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp sop"
+[12/19/2022 10:41:26 PM] [Info] Red__Bear teleported to [ Sheriff ] Soprano
+[12/19/2022 10:41:26 PM] [Info] Red__Bear moved x:-225.9141 y:50.24822(+18.10603) z:581.0781 in the last second (18.48258)
+[12/19/2022 10:41:30 PM] [Info] Red__Bear moved x:-225.4614 y:57.611(+19.90423) z:580.9754 in the last second (25.91905)
+[12/19/2022 10:41:42 PM] [Info] [ Sheriff ] Soprano moved x:-15.76702 y:45.89252(+15.94128) z:582.6765 in the last second (8.072105)
+[12/19/2022 10:41:46 PM] [Info] [ Sheriff ] Soprano moved x:54.55585 y:67.84068(+22.55072) z:582.5481 in the last second (0.5419159)
+[12/19/2022 10:41:54 PM] [Info] [ Sheriff ] Soprano moved x:105.3965 y:60.46483(+15.13958) z:575.9478 in the last second (15.4923)
+[12/19/2022 10:42:09 PM] [Info] [Group] Red__Bear [Red__Bear]: "/tp sop"
+[12/19/2022 10:42:09 PM] [Info] Red__Bear teleported to [ Sheriff ] Soprano
+[12/19/2022 10:42:26 PM] [Info] Red__Bear moved x:126.8605 y:43.76384(+16.72475) z:597.3809 in the last second (16.78154)
+[12/19/2022 10:42:34 PM] [Info] [ Sheriff ] Soprano moved x:83.31308 y:71.28177(+20.22164) z:597.9579 in the last second (25.90947)
+[12/19/2022 10:42:45 PM] [Info] Red__Bear moved x:-223.6571 y:57.70757(+24.60808) z:573.338 in the last second (26.23402)
+[12/19/2022 10:43:10 PM] [Info] Red__Bear moved x:-620.3217 y:50.83689(+15.11658) z:578.549 in the last second (15.2173)
+[12/19/2022 10:43:55 PM] [Info] Red__Bear moved x:-1468.47 y:63.33751(+16.21766) z:593.967 in the last second (23.02125)
+[12/19/2022 10:44:52 PM] [Info] [ Sheriff ] Soprano moved x:-1490.9 y:70.66449(+19.55702) z:584.9378 in the last second (20.66139)
+[12/19/2022 10:44:55 PM] [Info] Red__Bear moved x:-1465.313 y:56.52494(+16.235) z:519.6838 in the last second (0.02650833)
+[12/19/2022 10:44:55 PM] [Info] [ Sheriff ] Soprano moved x:-1490.942 y:73.49866(+21.20762) z:590.3397 in the last second (20.73688)
+[12/19/2022 10:45:06 PM] [Info] Red__Bear moved x:-1392.41 y:56.08102(+15.52025) z:529.8615 in the last second (0.9276352)
+[12/19/2022 10:45:07 PM] [Info] Red__Bear moved x:-1389.44 y:72.04187(+15.96085) z:534.2628 in the last second (30.72009)
+[12/19/2022 10:45:13 PM] [Info] [ Sheriff ] Soprano moved x:-1463.488 y:67.86008(+15.54934) z:584.449 in the last second (27.54391)
+[12/19/2022 10:45:16 PM] [Info] [ Sheriff ] Soprano moved x:-1398.302 y:64.66709(+24.25193) z:575.5919 in the last second (24.35202)
+[12/19/2022 10:45:25 PM] [Info] Red__Bear moved x:-1396.548 y:74.08596(+20.51079) z:588.8854 in the last second (33.77092)
+[12/19/2022 10:45:39 PM] [Info] Red__Bear moved x:-1400.34 y:57.11896(+15.27127) z:601.3059 in the last second (16.82475)
+[12/19/2022 10:46:16 PM] [Info] Disconnecting: PlayerID: 76561199129498897 Name: Cheese Boi Character: [ Sheriff ] Soprano
+[12/19/2022 10:46:16 PM] [Info] BattlEye Server: Player #1 Cheese Boi disconnected
+[12/19/2022 10:47:46 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/19/2022 10:47:46 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/19/2022 10:47:53 PM] [Info] [Group] Red__Bear [Red__Bear]: "/v hover"
+[12/19/2022 10:47:55 PM] [Info] Giving Red__Bear vehicle 36030
+[12/19/2022 10:47:55 PM] [Info] [Group] Red__Bear [Red__Bear]: "/i bed"
+[12/19/2022 10:48:23 PM] [Info] Giving Red__Bear item 19864:1
+[12/19/2022 10:48:23 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/19/2022 10:48:30 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/19/2022 10:48:34 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/19/2022 10:48:39 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/19/2022 10:48:42 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/19/2022 10:51:37 PM] [Info] Red__Bear moved x:-509.9623 y:60.09811(+21.02402) z:1163.768 in the last second (31.58902)
+[12/19/2022 10:51:42 PM] [Info] Red__Bear moved x:-508.8608 y:74.89351(+40.74933) z:1160.813 in the last second (49.29351)
+[12/19/2022 10:51:44 PM] [Info] [Group] Red__Bear [Red__Bear]: "/home"
+[12/19/2022 10:51:50 PM] [Info] [Group] Red__Bear [Red__Bear]: "/teleport wp"
+[12/19/2022 10:51:50 PM] [Info] Successfully teleported Red__Bear to waypoint!
+[12/19/2022 10:52:22 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Red__Bear Character: Red__Bear
+[12/19/2022 10:52:22 PM] [Info] BattlEye Server: Player #0 Red__Bear disconnected
+[12/19/2022 10:52:57 PM] [Info] 
+[unloading] InfiniteEnergy

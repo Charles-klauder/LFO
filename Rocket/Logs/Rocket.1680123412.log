@@ -1,0 +1,191 @@
+[3/29/2023 4:38:09 PM] [Info] Failed to connect to Steam servers because k_EResultServiceUnavailable, still retrying
+[3/29/2023 4:38:20 PM] [Info] Steam servers ready!
+[3/29/2023 4:38:21 PM] [Info] Workshop install folder: C:\Program Files (x86)\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[3/29/2023 4:38:21 PM] [Info] 9 workshop item(s) requested
+[3/29/2023 4:38:21 PM] [Info] Submitting workshop query for 9 item(s)...
+[3/29/2023 4:38:21 PM] [Info] Workshop query yielded 9 result(s)
+[3/29/2023 4:38:21 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[3/29/2023 4:38:21 PM] [Info] 1516033219 'Carpat Bundles' queued for download
+[3/29/2023 4:38:21 PM] [Info] 2839462324 'Uncreated Content' queued for download
+[3/29/2023 4:38:21 PM] [Info] 2541661347 'Tyrant's Arctic Apparel' queued for download
+[3/29/2023 4:38:21 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[3/29/2023 4:38:21 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[3/29/2023 4:38:21 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[3/29/2023 4:38:21 PM] [Info] 2099073425 'Paradise Stereo [3.28]' queued for download
+[3/29/2023 4:38:21 PM] [Info] 2365700338 'Vanilla Vehicles 2' queued for download
+[3/29/2023 4:38:21 PM] [Info] 2852980785 'Alaska' queued for download
+[3/29/2023 4:38:21 PM] [Info] 2852980785 'Alaska' has 9 children
+[3/29/2023 4:38:21 PM] [Info] 	1232252658 (already queued)
+[3/29/2023 4:38:21 PM] [Info] 	1516033219 (already queued)
+[3/29/2023 4:38:21 PM] [Info] 	2069342497 (already queued)
+[3/29/2023 4:38:21 PM] [Info] 	2099073425 (already queued)
+[3/29/2023 4:38:21 PM] [Info] 	2365700338 (already queued)
+[3/29/2023 4:38:21 PM] [Info] 	2541661347 (already queued)
+[3/29/2023 4:38:21 PM] [Info] 	1717095606 (already queued)
+[3/29/2023 4:38:21 PM] [Info] 	2133808330
+[3/29/2023 4:38:21 PM] [Info] 	2839462324 (already queued)
+[3/29/2023 4:38:21 PM] [Info] 1717095606 'Creator Tools' queued for download
+[3/29/2023 4:38:21 PM] [Info] Submitting workshop query for 1 item(s)...
+[3/29/2023 4:38:21 PM] [Info] Workshop query yielded 1 result(s)
+[3/29/2023 4:38:21 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[3/29/2023 4:38:21 PM] [Info] 2133808330 'Music Remaster 3.0' queued for download
+[3/29/2023 4:38:21 PM] [Info] 10 workshop item(s) to download...
+[3/29/2023 4:38:21 PM] [Info] Downloading workshop item: 1516033219
+[3/29/2023 4:38:38 PM] [Info] Successfully downloaded workshop item: 1516033219
+[3/29/2023 4:38:57 PM] [Info] Installing workshop item: 1516033219
+[3/29/2023 4:38:57 PM] [Info] Installed workshop item: 1516033219
+[3/29/2023 4:38:57 PM] [Info] Workshop item 2839462324 found in cache, but remote (3/29/2023 12:52:56 PM) is newer than local (3/20/2023 3:04:07 PM)
+[3/29/2023 4:38:57 PM] [Info] Downloading workshop item: 2839462324
+[3/29/2023 4:38:57 PM] [Info] Successfully downloaded workshop item: 2839462324
+[3/29/2023 4:38:57 PM] [Info] Installing workshop item: 2839462324
+[3/29/2023 4:50:31 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:50:31 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:50:31 PM] [Error] Missing effect gameobject
+[3/29/2023 4:50:31 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:50:31 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:50:31 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:50:31 PM] [Error] Missing effect gameobject
+[3/29/2023 4:50:31 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:50:31 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:50:31 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:50:31 PM] [Error] Missing effect gameobject
+[3/29/2023 4:50:31 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:50:31 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:50:31 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:50:31 PM] [Error] Missing effect gameobject
+[3/29/2023 4:50:31 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:50:31 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:50:31 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:50:31 PM] [Error] Missing effect gameobject
+[3/29/2023 4:50:31 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:50:31 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:50:31 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:50:31 PM] [Error] Missing effect gameobject
+[3/29/2023 4:50:31 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:50:31 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:50:31 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:50:31 PM] [Error] Missing effect gameobject
+[3/29/2023 4:50:31 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:50:31 PM] [Error] Exception has been thrown by the target of an invocation.
+[3/29/2023 4:50:31 PM] [Error]   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00014] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.RuntimeType.CreateInstanceImpl (System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes, System.Threading.StackCrawlMark& stackMark) [0x00213] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Reflection.BindingFlags bindingAttr, System.Reflection.Binder binder, System.Object[] args, System.Globalization.CultureInfo culture, System.Object[] activationAttributes) [0x00095] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0051e] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:50:31 PM] [Error] Missing effect gameobject
+[3/29/2023 4:50:31 PM] [Error]   at SDG.Unturned.EffectAsset..ctor (SDG.Unturned.Bundle bundle, SDG.Unturned.Data data, SDG.Unturned.Local localization, System.UInt16 id) [0x00053] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod.InternalInvoke(System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <695d1cc93cca45069c528c15c9fdd749>:0 
+[3/29/2023 4:50:31 PM] [Info] Installed workshop item: 2839462324
+[3/29/2023 4:50:31 PM] [Info] Downloading workshop item: 2541661347
+[3/29/2023 4:50:31 PM] [Info] Successfully downloaded workshop item: 2541661347
+[3/29/2023 4:50:31 PM] [Info] Installing workshop item: 2541661347
+[3/29/2023 4:52:29 PM] [Info] Installed workshop item: 2541661347
+[3/29/2023 4:52:29 PM] [Info] Workshop item found in cache: 2069342497
+[3/29/2023 4:52:29 PM] [Info] Installing workshop item: 2069342497
+[3/29/2023 4:52:29 PM] [Info] Installed workshop item: 2069342497
+[3/29/2023 4:52:29 PM] [Info] Workshop item found in cache: 1232252658
+[3/29/2023 4:52:29 PM] [Info] Installing workshop item: 1232252658
+[3/29/2023 4:52:29 PM] [Info] Installed workshop item: 1232252658
+[3/29/2023 4:52:29 PM] [Info] Downloading workshop item: 2099073425
+[3/29/2023 4:52:29 PM] [Info] Successfully downloaded workshop item: 2099073425
+[3/29/2023 4:52:29 PM] [Info] Installing workshop item: 2099073425
+[3/29/2023 4:52:50 PM] [Info] Installed workshop item: 2099073425
+[3/29/2023 4:52:50 PM] [Info] Downloading workshop item: 2365700338
+[3/29/2023 4:52:50 PM] [Info] Successfully downloaded workshop item: 2365700338
+[3/29/2023 4:53:35 PM] [Info] Installing workshop item: 2365700338
+[3/29/2023 4:53:35 PM] [Error] Value cannot be null.
+Parameter name: key
+[3/29/2023 4:53:35 PM] [Error]   at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryGetValue (TKey key, TValue& value) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader.readDictionary (System.IO.StreamReader input, System.Collections.Generic.Dictionary`2[TKey,TValue] scope) [0x000fe] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader..ctor (System.IO.StreamReader input) [0x00019] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader.readDictionary (System.IO.StreamReader input, System.Collections.Generic.Dictionary`2[TKey,TValue] scope) [0x00124] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at SDG.Framework.IO.FormattedFiles.KeyValueTables.KeyValueTableReader..ctor (System.IO.StreamReader input) [0x00019] in <dd047bbdb659430bbea6ac404d09c571>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x0002f] in <dd047bbdb659430bbea6ac404d09c571>:0 
+[3/29/2023 4:53:35 PM] [Info] Installed workshop item: 2365700338
+[3/29/2023 4:53:35 PM] [Info] Downloading workshop item: 2852980785
+[3/29/2023 4:53:35 PM] [Info] Successfully downloaded workshop item: 2852980785
+[3/29/2023 4:53:35 PM] [Info] Installing workshop item: 2852980785
+[3/29/2023 4:53:53 PM] [Info] Installed workshop item: 2852980785
+[3/29/2023 4:53:53 PM] [Info] Workshop item found in cache: 1717095606
+[3/29/2023 4:53:53 PM] [Info] Installing workshop item: 1717095606
+[3/29/2023 4:53:53 PM] [Info] Installed workshop item: 1717095606
+[3/29/2023 4:53:53 PM] [Info] Workshop item found in cache: 2133808330
+[3/29/2023 4:53:53 PM] [Info] Installing workshop item: 2133808330
+[3/29/2023 4:53:53 PM] [Info] Installed workshop item: 2133808330
+[3/29/2023 4:53:53 PM] [Info] Loading level: 8%
+[3/29/2023 4:54:00 PM] [Info] Loading level: 16%
+[3/29/2023 4:54:03 PM] [Info] Loading level: 25%
+[3/29/2023 4:54:03 PM] [Info] Loading level: 33%
+[3/29/2023 4:54:05 PM] [Info] Loading level: 41%
+[3/29/2023 4:54:05 PM] [Info] Loading level: 50%
+[3/29/2023 4:54:05 PM] [Info] Loading level: 58%
+[3/29/2023 4:54:05 PM] [Info] Loading level: 66%
+[3/29/2023 4:54:05 PM] [Info] Loading level: 75%
+[3/29/2023 4:54:05 PM] [Info] Loading level: 83%
+[3/29/2023 4:54:05 PM] [Info] Loading level: 91%
+[3/29/2023 4:54:14 PM] [Info] Loading level: 100%
+[3/29/2023 4:54:14 PM] [Warning] Barricades associated with missing vehicle instance ID '86' subindex 0 were lost
+[3/29/2023 4:54:14 PM] [Error] Failed to generate an item with ID 36820 from type Fire [6]
+[3/29/2023 4:55:24 PM] [Error] Failed to generate an item with ID 36821 from type Fire [6]
+[3/29/2023 4:55:24 PM] [Info] 
+[unloading] ReponseMod_HiddenName
