@@ -111,13 +111,17 @@
 		{
 			"manifest"		"5524223338644110548"
 			"timeupdated"		"1583120522"
-			"timetouched"		"1681219901"
+			"timetouched"		"1682428389"
+			"BytesDownloaded"		"7397632"
+			"BytesToDownload"		"7397632"
 		}
 		"1232252658"
 		{
 			"manifest"		"8149215699489565028"
 			"timeupdated"		"1678456822"
-			"timetouched"		"1681219908"
+			"timetouched"		"1682428407"
+			"BytesDownloaded"		"150070560"
+			"BytesToDownload"		"150070560"
 		}
 		"1516033219"
 		{
@@ -129,25 +133,33 @@
 		{
 			"manifest"		"4850365518548847724"
 			"timeupdated"		"1555690163"
-			"timetouched"		"1681219906"
+			"timetouched"		"1682428391"
+			"BytesDownloaded"		"779952"
+			"BytesToDownload"		"779952"
 		}
 		"1727733956"
 		{
 			"manifest"		"6503631533599617539"
 			"timeupdated"		"1564400065"
-			"timetouched"		"1681220003"
+			"timetouched"		"1682428542"
+			"BytesDownloaded"		"1901632"
+			"BytesToDownload"		"1901632"
 		}
 		"1909152337"
 		{
 			"manifest"		"1299290552418381058"
 			"timeupdated"		"1576940248"
-			"timetouched"		"1681219923"
+			"timetouched"		"1682428430"
+			"BytesDownloaded"		"41687872"
+			"BytesToDownload"		"41687872"
 		}
 		"2069342497"
 		{
 			"manifest"		"95400586031295059"
 			"timeupdated"		"1589817708"
-			"timetouched"		"1681219906"
+			"timetouched"		"1682428391"
+			"BytesDownloaded"		"2866096"
+			"BytesToDownload"		"2866096"
 		}
 		"2099073425"
 		{
@@ -159,7 +171,9 @@
 		{
 			"manifest"		"2096718107100739241"
 			"timeupdated"		"1650223471"
-			"timetouched"		"1681219908"
+			"timetouched"		"1682428393"
+			"BytesDownloaded"		"199671472"
+			"BytesToDownload"		"199671472"
 		}
 		"2365700338"
 		{
@@ -177,19 +191,25 @@
 		{
 			"manifest"		"165435897737078693"
 			"timeupdated"		"1679713987"
-			"timetouched"		"1681219935"
+			"timetouched"		"1682428447"
+			"BytesDownloaded"		"355449776"
+			"BytesToDownload"		"355449776"
 		}
 		"2802239233"
 		{
 			"manifest"		"2382699667834548145"
 			"timeupdated"		"1672421861"
-			"timetouched"		"1681219933"
+			"timetouched"		"1682428442"
+			"BytesDownloaded"		"5972928"
+			"BytesToDownload"		"5972928"
 		}
 		"2839462324"
 		{
 			"manifest"		"1842793117096901280"
 			"timeupdated"		"1680108776"
-			"timetouched"		"1681219982"
+			"timetouched"		"1682428513"
+			"BytesDownloaded"		"153982800"
+			"BytesToDownload"		"153982800"
 		}
 		"2852980785"
 		{
