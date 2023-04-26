@@ -1,0 +1,91 @@
+
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/RootObject",
+    "definitions": {
+        "RootObject": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "users": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/User"
+                    }
+                }
+            },
+            "required": [
+                "users"
+            ],
+            "title": "Users Configuration"
+        },
+        "User": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "description": "The unique identifier of the user."
+                },
+                "type": {
+                    "type": "string"
+                },
+                "lastDisplayName": {
+                    "type": "string"
+                },
+                "firstSeen": {
+                    "type": ["string", "null"],
+                    "description": "The first time the user has been seen"
+                },
+                "lastSeen": {
+                    "type": ["string", "null"],
+                    "description": "The last time the user has been seen"
+                },
+                "banInfo": {
+                    "type": ["object", "null"],
+                    "additionalProperties": false,
+                    "properties": {
+                        "expireDate": {
+                            "type": "string"
+                        },
+                        "instigatorType": {
+                            "type": "string"
+                        },
+                        "instigatorId": {
+                            "type": "string"
+                        },
+                        "reason": {
+                            "type": "string"
+                        }
+                    },
+                    "title": "Ban Info"
+                },
+                "permissions": {
+                    "type": "array",
+                    "uniqueItems": true,
+                    "items": {
+                        "type": "string",
+                        "enum": ["*","OpenMod.*","OpenMod.Unturned:*","OpenMod.Unturned:commands.*","OpenMod.Unturned:commands.openmod.*","OpenMod.Unturned:commands.openmod.upgrade","OpenMod.Unturned:commands.admin","OpenMod.Unturned:commands.admins","OpenMod.Unturned:commands.airdrop","OpenMod.Unturned:commands.animal","OpenMod.Unturned:commands.ban","OpenMod.Unturned:commands.bans","OpenMod.Unturned:commands.bind","OpenMod.Unturned:commands.chatrate","OpenMod.Unturned:commands.cheats","OpenMod.Unturned:commands.cycle","OpenMod.Unturned:commands.day","OpenMod.Unturned:commands.debug","OpenMod.Unturned:commands.effectui","OpenMod.Unturned:commands.experience","OpenMod.Unturned:commands.filter","OpenMod.Unturned:commands.flag","OpenMod.Unturned:commands.gamemode","OpenMod.Unturned:commands.give","OpenMod.Unturned:commands.gold","OpenMod.Unturned:commands.gslt","OpenMod.Unturned:commands.help","OpenMod.Unturned:commands.hide_admins","OpenMod.Unturned:commands.kick","OpenMod.Unturned:commands.kill","OpenMod.Unturned:commands.loadout","OpenMod.Unturned:commands.log","OpenMod.Unturned:commands.logmemoryusage","OpenMod.Unturned:commands.map","OpenMod.Unturned:commands.maxplayers","OpenMod.Unturned:commands.mode","OpenMod.Unturned:commands.modules","OpenMod.Unturned:commands.name","OpenMod.Unturned:commands.night","OpenMod.Unturned:commands.npcevent","OpenMod.Unturned:commands.owner","OpenMod.Unturned:commands.password","OpenMod.Unturned:commands.permit","OpenMod.Unturned:commands.permits","OpenMod.Unturned:commands.perspective","OpenMod.Unturned:commands.players","OpenMod.Unturned:commands.port","OpenMod.Unturned:commands.pve","OpenMod.Unturned:commands.quest","OpenMod.Unturned:commands.queue_size","OpenMod.Unturned:commands.reload","OpenMod.Unturned:commands.reputation","OpenMod.Unturned:commands.resetconfig","OpenMod.Unturned:commands.save","OpenMod.Unturned:commands.say","OpenMod.Unturned:commands.scheduledshutdowninfo","OpenMod.Unturned:commands.setnpcspawn","OpenMod.Unturned:commands.shutdown","OpenMod.Unturned:commands.slay","OpenMod.Unturned:commands.spy","OpenMod.Unturned:commands.sync","OpenMod.Unturned:commands.teleport","OpenMod.Unturned:commands.time","OpenMod.Unturned:commands.timeout","OpenMod.Unturned:commands.unadmin","OpenMod.Unturned:commands.unban","OpenMod.Unturned:commands.unlocknpcachievement","OpenMod.Unturned:commands.unpermit","OpenMod.Unturned:commands.vehicle","OpenMod.Unturned:commands.votify","OpenMod.Unturned:commands.weather","OpenMod.Unturned:commands.welcome","OpenMod.Unturned:commands.whitelisted","OpenMod.Core:*","OpenMod.Core:commands.*","OpenMod.Core:commands.openmod","OpenMod.Core:commands.openmod.*","OpenMod.Core:commands.openmod.reload","OpenMod.Core:commands.openmod.install","OpenMod.Core:commands.openmod.uninstall","OpenMod.Core:commands.help","OpenMod.Core:commands.openmod.role.*","OpenMod.Core:commands.openmod.role.add","OpenMod.Core:commands.openmod.role","OpenMod.Core:commands.openmod.permission.*","OpenMod.Core:commands.openmod.permission.remove","OpenMod.Core:commands.openmod.role.remove","OpenMod.Core:commands.openmod.permission.add","OpenMod.Core:commands.shutdown","OpenMod.Core:commands.restart","OpenMod.Core:commands.openmod.permission","OpenMod.Core:commands.openmod.purge","OpenMod.Core:commands.openmod.plugins","!*","!OpenMod.*","!OpenMod.Unturned:*","!OpenMod.Unturned:commands.*","!OpenMod.Unturned:commands.openmod.*","!OpenMod.Unturned:commands.openmod.upgrade","!OpenMod.Unturned:commands.admin","!OpenMod.Unturned:commands.admins","!OpenMod.Unturned:commands.airdrop","!OpenMod.Unturned:commands.animal","!OpenMod.Unturned:commands.ban","!OpenMod.Unturned:commands.bans","!OpenMod.Unturned:commands.bind","!OpenMod.Unturned:commands.chatrate","!OpenMod.Unturned:commands.cheats","!OpenMod.Unturned:commands.cycle","!OpenMod.Unturned:commands.day","!OpenMod.Unturned:commands.debug","!OpenMod.Unturned:commands.effectui","!OpenMod.Unturned:commands.experience","!OpenMod.Unturned:commands.filter","!OpenMod.Unturned:commands.flag","!OpenMod.Unturned:commands.gamemode","!OpenMod.Unturned:commands.give","!OpenMod.Unturned:commands.gold","!OpenMod.Unturned:commands.gslt","!OpenMod.Unturned:commands.help","!OpenMod.Unturned:commands.hide_admins","!OpenMod.Unturned:commands.kick","!OpenMod.Unturned:commands.kill","!OpenMod.Unturned:commands.loadout","!OpenMod.Unturned:commands.log","!OpenMod.Unturned:commands.logmemoryusage","!OpenMod.Unturned:commands.map","!OpenMod.Unturned:commands.maxplayers","!OpenMod.Unturned:commands.mode","!OpenMod.Unturned:commands.modules","!OpenMod.Unturned:commands.name","!OpenMod.Unturned:commands.night","!OpenMod.Unturned:commands.npcevent","!OpenMod.Unturned:commands.owner","!OpenMod.Unturned:commands.password","!OpenMod.Unturned:commands.permit","!OpenMod.Unturned:commands.permits","!OpenMod.Unturned:commands.perspective","!OpenMod.Unturned:commands.players","!OpenMod.Unturned:commands.port","!OpenMod.Unturned:commands.pve","!OpenMod.Unturned:commands.quest","!OpenMod.Unturned:commands.queue_size","!OpenMod.Unturned:commands.reload","!OpenMod.Unturned:commands.reputation","!OpenMod.Unturned:commands.resetconfig","!OpenMod.Unturned:commands.save","!OpenMod.Unturned:commands.say","!OpenMod.Unturned:commands.scheduledshutdowninfo","!OpenMod.Unturned:commands.setnpcspawn","!OpenMod.Unturned:commands.shutdown","!OpenMod.Unturned:commands.slay","!OpenMod.Unturned:commands.spy","!OpenMod.Unturned:commands.sync","!OpenMod.Unturned:commands.teleport","!OpenMod.Unturned:commands.time","!OpenMod.Unturned:commands.timeout","!OpenMod.Unturned:commands.unadmin","!OpenMod.Unturned:commands.unban","!OpenMod.Unturned:commands.unlocknpcachievement","!OpenMod.Unturned:commands.unpermit","!OpenMod.Unturned:commands.vehicle","!OpenMod.Unturned:commands.votify","!OpenMod.Unturned:commands.weather","!OpenMod.Unturned:commands.welcome","!OpenMod.Unturned:commands.whitelisted","!OpenMod.Core:*","!OpenMod.Core:commands.*","!OpenMod.Core:commands.openmod","!OpenMod.Core:commands.openmod.*","!OpenMod.Core:commands.openmod.reload","!OpenMod.Core:commands.openmod.install","!OpenMod.Core:commands.openmod.uninstall","!OpenMod.Core:commands.help","!OpenMod.Core:commands.openmod.role.*","!OpenMod.Core:commands.openmod.role.add","!OpenMod.Core:commands.openmod.role","!OpenMod.Core:commands.openmod.permission.*","!OpenMod.Core:commands.openmod.permission.remove","!OpenMod.Core:commands.openmod.role.remove","!OpenMod.Core:commands.openmod.permission.add","!OpenMod.Core:commands.shutdown","!OpenMod.Core:commands.restart","!OpenMod.Core:commands.openmod.permission","!OpenMod.Core:commands.openmod.purge","!OpenMod.Core:commands.openmod.plugins"]
+                    }
+                },
+                "roles": {
+                    "type": "array",
+                    "uniqueItems": true,
+                    "items": {
+                        "type": "string",
+                        "enum": ["default","vip"]
+                    }
+                },
+                "data": {
+                    "type": "object",
+                    "title": "User Data"
+                }
+            },
+            "required": [
+                "id",
+                "type"
+            ],
+            "title": "User"
+        }
+    }
+}

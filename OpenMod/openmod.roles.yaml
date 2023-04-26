@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=./.schemas/openmod.roles.yaml.schema.json
 roles:
 - id: default
   priority: 0

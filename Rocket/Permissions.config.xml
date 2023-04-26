@@ -4,7 +4,7 @@
   <Groups>
     <Group>
       <Id>default</Id>
-      <DisplayName>Player</DisplayName>
+      <DisplayName>Guest</DisplayName>
       <Prefix />
       <Suffix />
       <Color>white</Color>
@@ -14,8 +14,6 @@
         <Permission Cooldown="0">p</Permission>
         <Permission Cooldown="0">compass</Permission>
         <Permission Cooldown="0">rocket</Permission>
-        <Permission Cooldown="0">tpa</Permission>
-        <Permission Cooldown="30">home</Permission>
       </Permissions>
     </Group>
     <Group>
@@ -23,7 +21,7 @@
       <DisplayName>VIP</DisplayName>
       <Prefix />
       <Suffix />
-      <Color>red</Color>
+      <Color>FF9900</Color>
       <Members>
         <Member>76561198016438091</Member>
       </Members>

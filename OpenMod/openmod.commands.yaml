@@ -311,6 +311,13 @@ commands:
   enabled: true
   data: {}
   priority: Lowest
+- id: SDG.Unturned.CommandLogMemoryUsage
+  parentId: 
+  name: logmemoryusage
+  aliases: []
+  enabled: true
+  data: {}
+  priority: Lowest
 - id: SDG.Unturned.CommandMap
   parentId: 
   name: map
@@ -587,13 +594,6 @@ commands:
 - id: SDG.Unturned.CommandWhitelisted
   parentId: 
   name: whitelisted
-  aliases: []
-  enabled: true
-  data: {}
-  priority: Lowest
-- id: SDG.Unturned.CommandLogMemoryUsage
-  parentId: 
-  name: logmemoryusage
   aliases: []
   enabled: true
   data: {}
