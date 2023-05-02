@@ -1,97 +1,62 @@
-[4/25/2023 9:30:37 AM] [Info] Steam servers ready!
-[4/25/2023 9:30:37 AM] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/LetsFindOut/Workshop/Steam
-[4/25/2023 9:30:37 AM] [Info] 10 workshop item(s) requested
-[4/25/2023 9:30:37 AM] [Info] Submitting workshop query for 10 item(s)...
-[4/25/2023 9:30:37 AM] [Info] Workshop query yielded 10 result(s)
-[4/25/2023 9:30:42 AM] [Info] This server's allowed IP for Workshop downloads: 50.235.87.42
-[4/25/2023 9:30:42 AM] [Info] 877777769 'Furniture Expansion' queued for download
-[4/25/2023 9:30:42 AM] [Info] 1717095606 'Creator Tools' queued for download
-[4/25/2023 9:30:42 AM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
-[4/25/2023 9:30:42 AM] [Info] 2069342497 'Survivor's Expansion' queued for download
-[4/25/2023 9:30:42 AM] [Info] 2133808330 'Music Remaster 3.0' queued for download
-[4/25/2023 9:30:42 AM] [Info] 1232252658 'More Farming Mod' queued for download
-[4/25/2023 9:30:42 AM] [Info] 1909152337 'California Assets' queued for download
-[4/25/2023 9:30:42 AM] [Info] Authorized to download 2802239233 'UDarkRP Vehicles'
-[4/25/2023 9:30:42 AM] [Info] 2802239233 'UDarkRP Vehicles' queued for download
-[4/25/2023 9:30:42 AM] [Info] 2683620106 'Arid' queued for download
-[4/25/2023 9:30:42 AM] [Info] 2839462324 'Uncreated Content' queued for download
-[4/25/2023 9:30:42 AM] [Info] 1727733956 'Pento's Tactical Apparel' queued for download
-[4/25/2023 9:30:42 AM] [Info] 10 workshop item(s) to download...
-[4/25/2023 9:30:42 AM] [Info] Downloading workshop item: 877777769
-[4/25/2023 9:30:42 AM] [Info] Successfully downloaded workshop item: 877777769
-[4/25/2023 9:30:42 AM] [Info] Installing workshop item: 877777769
-[4/25/2023 9:30:43 AM] [Info] Installed workshop item: 877777769
-[4/25/2023 9:30:43 AM] [Info] Downloading workshop item: 1717095606
-[4/25/2023 9:30:43 AM] [Info] Successfully downloaded workshop item: 1717095606
-[4/25/2023 9:30:43 AM] [Info] Installing workshop item: 1717095606
-[4/25/2023 9:30:45 AM] [Info] Installed workshop item: 1717095606
-[4/25/2023 9:30:45 AM] [Info] Downloading workshop item: 2069342497
-[4/25/2023 9:30:45 AM] [Info] Successfully downloaded workshop item: 2069342497
-[4/25/2023 9:30:45 AM] [Info] Installing workshop item: 2069342497
-[4/25/2023 9:31:11 AM] [Info] Installed workshop item: 2069342497
-[4/25/2023 9:31:11 AM] [Info] Downloading workshop item: 2133808330
-[4/25/2023 9:31:11 AM] [Info] Successfully downloaded workshop item: 2133808330
-[4/25/2023 9:31:11 AM] [Info] Installing workshop item: 2133808330
-[4/25/2023 9:31:53 AM] [Info] Installed workshop item: 2133808330
-[4/25/2023 9:31:53 AM] [Info] Downloading workshop item: 1232252658
-[4/25/2023 9:31:53 AM] [Info] Successfully downloaded workshop item: 1232252658
-[4/25/2023 9:31:53 AM] [Info] Installing workshop item: 1232252658
-[4/25/2023 9:32:27 AM] [Info] Installed workshop item: 1232252658
-[4/25/2023 9:32:27 AM] [Info] Downloading workshop item: 1909152337
-[4/25/2023 9:32:27 AM] [Info] Successfully downloaded workshop item: 1909152337
-[4/25/2023 9:32:27 AM] [Info] Installing workshop item: 1909152337
-[4/25/2023 9:32:35 AM] [Info] Installed workshop item: 1909152337
-[4/25/2023 9:32:35 AM] [Info] Downloading workshop item: 2802239233
-[4/25/2023 9:32:35 AM] [Info] Successfully downloaded workshop item: 2802239233
-[4/25/2023 9:32:35 AM] [Info] Installing workshop item: 2802239233
-[4/25/2023 9:34:01 AM] [Info] Installed workshop item: 2802239233
-[4/25/2023 9:34:01 AM] [Info] Downloading workshop item: 2683620106
-[4/25/2023 9:34:01 AM] [Info] Successfully downloaded workshop item: 2683620106
-[4/25/2023 9:34:01 AM] [Info] Installing workshop item: 2683620106
-[4/25/2023 9:34:52 AM] [Info] Installed workshop item: 2683620106
-[4/25/2023 9:34:52 AM] [Info] Downloading workshop item: 2839462324
-[4/25/2023 9:34:52 AM] [Info] Successfully downloaded workshop item: 2839462324
-[4/25/2023 9:34:52 AM] [Info] Installing workshop item: 2839462324
-[4/25/2023 9:35:15 AM] [Error] Missing effect gameobject
-[4/25/2023 9:35:15 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-[4/25/2023 9:35:15 AM] [Error] Missing effect gameobject
-[4/25/2023 9:35:15 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-[4/25/2023 9:35:15 AM] [Error] Missing effect gameobject
-[4/25/2023 9:35:15 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-[4/25/2023 9:35:15 AM] [Error] Missing effect gameobject
-[4/25/2023 9:35:15 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-[4/25/2023 9:35:15 AM] [Error] Missing effect gameobject
-[4/25/2023 9:35:15 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-[4/25/2023 9:35:15 AM] [Error] Missing effect gameobject
-[4/25/2023 9:35:15 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-[4/25/2023 9:35:15 AM] [Error] Missing effect gameobject
-[4/25/2023 9:35:15 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-[4/25/2023 9:35:15 AM] [Error] Missing effect gameobject
-[4/25/2023 9:35:15 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
-[4/25/2023 9:35:15 AM] [Info] Installed workshop item: 2839462324
-[4/25/2023 9:35:15 AM] [Info] Downloading workshop item: 1727733956
-[4/25/2023 9:35:15 AM] [Info] Successfully downloaded workshop item: 1727733956
-[4/25/2023 9:35:15 AM] [Info] Installing workshop item: 1727733956
-[4/25/2023 9:35:22 AM] [Info] Installed workshop item: 1727733956
-[4/25/2023 9:35:22 AM] [Info] Loading level: 8%
-[4/25/2023 9:35:31 AM] [Info] Loading level: 16%
-[4/25/2023 9:35:33 AM] [Info] Loading level: 25%
-[4/25/2023 9:35:33 AM] [Info] Loading level: 33%
-[4/25/2023 9:35:34 AM] [Info] Loading level: 41%
-[4/25/2023 9:35:34 AM] [Info] Loading level: 50%
-[4/25/2023 9:35:35 AM] [Info] Loading level: 58%
-[4/25/2023 9:35:35 AM] [Info] Loading level: 66%
-[4/25/2023 9:35:35 AM] [Info] Loading level: 75%
-[4/25/2023 9:35:35 AM] [Info] Loading level: 83%
-[4/25/2023 9:35:35 AM] [Info] Loading level: 91%
-[4/25/2023 9:35:35 AM] [Info] Loading level: 100%
-[4/25/2023 9:35:45 AM] [Error] Failed to generate an item with ID 31368 from type Military_Low_Peaks [2]
-[4/25/2023 9:35:45 AM] [Error] Failed to generate an item with ID 31368 from type Coalition_High_Peaks [29]
+[5/1/2023 1:12:26 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[5/1/2023 1:12:28 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[5/1/2023 1:12:28 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[5/1/2023 1:12:28 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[5/1/2023 1:12:28 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[5/1/2023 1:12:28 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[5/1/2023 1:12:28 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[5/1/2023 1:12:28 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[5/1/2023 1:12:28 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[5/1/2023 1:12:28 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[5/1/2023 1:12:28 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[5/1/2023 1:12:28 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[5/1/2023 1:12:28 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[5/1/2023 1:12:28 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[5/1/2023 1:12:28 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[5/1/2023 1:12:28 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[5/1/2023 1:12:28 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[5/1/2023 1:12:28 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[5/1/2023 1:12:28 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[5/1/2023 1:12:28 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[5/1/2023 1:12:28 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[5/1/2023 1:12:28 PM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp
+[5/1/2023 1:12:28 PM] [Info] This server will automatically save every 1800 seconds
+[5/1/2023 1:12:33 PM] [Info] Steam servers ready!
+[5/1/2023 1:12:33 PM] [Error] Unable to parse WorkshopDownloadConfig.json! consider validating with a JSON linter
+[5/1/2023 1:12:33 PM] [Error] After parsing a value an unexpected character was encountered: 2. Path 'File_IDs[9]', line 13, position 1.
+[5/1/2023 1:12:33 PM] [Error]   at Newtonsoft.Json.JsonTextReader.ParsePostValue (System.Boolean ignoreComments) [0x0019a] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x0005a] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.JsonReader.ReadAndMoveToContent () [0x00000] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.JsonReader.ReadForType (Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x0004a] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x00173] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x001c6] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00065] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00280] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x00161] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000db] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00054] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <f74995119334484fb6db6825be2eac0d>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value) [0x00000] in <f74995119334484fb6db6825be2eac0d>:0 
+  at SDG.Unturned.ReadWrite.deserializeJSON[T] (System.String path, System.Boolean useCloud, System.Boolean usePath) [0x00027] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.ReadWrite.deserializeJSON[T] (System.String path, System.Boolean useCloud) [0x00000] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.ServerSavedata.deserializeJSON[T] (System.String path) [0x00015] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.WorkshopDownloadConfig.loadFromConfig () [0x00000] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/1/2023 1:12:33 PM] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[5/1/2023 1:12:33 PM] [Info] 0 workshop item(s) requested
+[5/1/2023 1:12:33 PM] [Info] Loading level: 8%
+[5/1/2023 1:12:38 PM] [Info] Loading level: 16%
+[5/1/2023 1:12:41 PM] [Info] Loading level: 25%
+[5/1/2023 1:12:41 PM] [Info] Loading level: 33%
+[5/1/2023 1:12:41 PM] [Info] Loading level: 41%
+[5/1/2023 1:12:41 PM] [Info] Loading level: 50%
+[5/1/2023 1:12:42 PM] [Info] Loading level: 58%
+[5/1/2023 1:12:42 PM] [Info] Loading level: 66%
+[5/1/2023 1:12:42 PM] [Info] Loading level: 75%
+[5/1/2023 1:12:42 PM] [Info] Loading level: 83%
+[5/1/2023 1:12:42 PM] [Info] Loading level: 91%
+[5/1/2023 1:12:42 PM] [Info] Loading level: 100%
+[5/1/2023 1:13:00 PM] [Warning] Barricades associated with missing vehicle instance ID '6' subindex 0 were lost

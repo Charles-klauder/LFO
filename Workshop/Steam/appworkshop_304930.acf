@@ -1,10 +1,10 @@
 "AppWorkshop"
 {
-	"AppID"		"304930"
+	"appid"		"304930"
 	"SizeOnDisk"		"992198287"
 	"NeedsUpdate"		"0"
 	"NeedsDownload"		"0"
-	"TimeLastUpdated"		"0"
+	"TimeLastUpdated"		"1682602133"
 	"TimeLastAppRan"		"0"
 	"WorkshopItemsInstalled"
 	{
@@ -75,61 +75,81 @@
 		{
 			"manifest"		"5524223338644110548"
 			"timeupdated"		"1583120522"
-			"timetouched"		"1682429442"
+			"timetouched"		"1682947171"
+			"BytesDownloaded"		"7397632"
+			"BytesToDownload"		"7397632"
 		}
 		"1232252658"
 		{
 			"manifest"		"8149215699489565028"
 			"timeupdated"		"1678456822"
-			"timetouched"		"1682429513"
+			"timetouched"		"1682947189"
+			"BytesDownloaded"		"150070560"
+			"BytesToDownload"		"150070560"
 		}
 		"1717095606"
 		{
 			"manifest"		"4850365518548847724"
 			"timeupdated"		"1555690163"
-			"timetouched"		"1682429443"
+			"timetouched"		"1682947173"
+			"BytesDownloaded"		"779952"
+			"BytesToDownload"		"779952"
 		}
 		"1727733956"
 		{
 			"manifest"		"6503631533599617539"
 			"timeupdated"		"1564400065"
-			"timetouched"		"1682429715"
+			"timetouched"		"1682947467"
+			"BytesDownloaded"		"1901632"
+			"BytesToDownload"		"1901632"
 		}
 		"1909152337"
 		{
 			"manifest"		"1299290552418381058"
 			"timeupdated"		"1576940248"
-			"timetouched"		"1682429547"
+			"timetouched"		"1682947209"
+			"BytesDownloaded"		"41687872"
+			"BytesToDownload"		"41687872"
 		}
 		"2069342497"
 		{
 			"manifest"		"95400586031295059"
 			"timeupdated"		"1589817708"
-			"timetouched"		"1682429445"
+			"timetouched"		"1682947173"
+			"BytesDownloaded"		"2866096"
+			"BytesToDownload"		"2866096"
 		}
 		"2133808330"
 		{
 			"manifest"		"2096718107100739241"
 			"timeupdated"		"1650223471"
-			"timetouched"		"1682429471"
+			"timetouched"		"1682947175"
+			"BytesDownloaded"		"199671472"
+			"BytesToDownload"		"199671472"
 		}
 		"2683620106"
 		{
 			"manifest"		"165435897737078693"
 			"timeupdated"		"1679713987"
-			"timetouched"		"1682429641"
+			"timetouched"		"1682947223"
+			"BytesDownloaded"		"355449904"
+			"BytesToDownload"		"355449904"
 		}
 		"2802239233"
 		{
 			"manifest"		"2382699667834548145"
 			"timeupdated"		"1672421861"
-			"timetouched"		"1682429555"
+			"timetouched"		"1682947219"
+			"BytesDownloaded"		"5972928"
+			"BytesToDownload"		"5972928"
 		}
 		"2839462324"
 		{
 			"manifest"		"1842793117096901280"
 			"timeupdated"		"1680108776"
-			"timetouched"		"1682429692"
+			"timetouched"		"1682947300"
+			"BytesDownloaded"		"153982864"
+			"BytesToDownload"		"153982864"
 		}
 	}
 }
