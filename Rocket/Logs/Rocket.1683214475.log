@@ -1,0 +1,62 @@
+[5/4/2023 11:06:59 AM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[5/4/2023 11:06:59 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[5/4/2023 11:06:59 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[5/4/2023 11:07:01 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[5/4/2023 11:07:01 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[5/4/2023 11:07:01 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[5/4/2023 11:07:01 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[5/4/2023 11:07:01 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[5/4/2023 11:07:01 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[5/4/2023 11:07:01 AM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[5/4/2023 11:07:01 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[5/4/2023 11:07:01 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[5/4/2023 11:07:01 AM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[5/4/2023 11:07:01 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[5/4/2023 11:07:01 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[5/4/2023 11:07:01 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[5/4/2023 11:07:01 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[5/4/2023 11:07:01 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[5/4/2023 11:07:01 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[5/4/2023 11:07:01 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[5/4/2023 11:07:01 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[5/4/2023 11:07:01 AM] [Info] This server will automatically save every 1800 seconds
+[5/4/2023 11:07:08 AM] [Info] Steam servers ready!
+[5/4/2023 11:07:08 AM] [Error] Unable to parse WorkshopDownloadConfig.json! consider validating with a JSON linter
+[5/4/2023 11:07:08 AM] [Error] Unexpected character encountered while parsing value: T. Path 'Ignore_Children_File_IDs', line 13, position 32.
+[5/4/2023 11:07:08 AM] [Error]   at Newtonsoft.Json.JsonTextReader.ParseValue () [0x002c2] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.JsonTextReader.ReadInternal () [0x00043] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.JsonTextReader.Read () [0x00007] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType (Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonContract contract, System.Boolean hasConverter) [0x00039] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList (System.Collections.IList list, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonArrayContract contract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, System.String id) [0x00176] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.Object existingValue, System.String id) [0x001b9] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0007f] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue (Newtonsoft.Json.Serialization.JsonProperty property, Newtonsoft.Json.JsonConverter propertyConverter, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerProperty, Newtonsoft.Json.JsonReader reader, System.Object target) [0x00061] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject (System.Object newObject, Newtonsoft.Json.JsonReader reader, Newtonsoft.Json.Serialization.JsonObjectContract contract, Newtonsoft.Json.Serialization.JsonProperty member, System.String id) [0x00232] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x00161] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType, Newtonsoft.Json.Serialization.JsonContract contract, Newtonsoft.Json.Serialization.JsonProperty member, Newtonsoft.Json.Serialization.JsonContainerContract containerContract, Newtonsoft.Json.Serialization.JsonProperty containerMember, System.Object existingValue) [0x0006d] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType, System.Boolean checkAdditionalContent) [0x000dd] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.JsonSerializer.DeserializeInternal (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00057] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.JsonSerializer.Deserialize (Newtonsoft.Json.JsonReader reader, System.Type objectType) [0x00000] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject (System.String value, System.Type type, Newtonsoft.Json.JsonSerializerSettings settings) [0x0002d] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value, Newtonsoft.Json.JsonSerializerSettings settings) [0x00000] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at Newtonsoft.Json.JsonConvert.DeserializeObject[T] (System.String value) [0x00000] in <4f43f85b5e34433aa1670807f00609bb>:0 
+  at SDG.Unturned.ReadWrite.deserializeJSON[T] (System.String path, System.Boolean useCloud, System.Boolean usePath) [0x00027] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.ReadWrite.deserializeJSON[T] (System.String path, System.Boolean useCloud) [0x00000] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.ServerSavedata.deserializeJSON[T] (System.String path) [0x00015] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.WorkshopDownloadConfig.loadFromConfig () [0x00000] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 11:07:08 AM] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[5/4/2023 11:07:08 AM] [Info] 0 workshop item(s) requested
+[5/4/2023 11:07:08 AM] [Error] Failed to find map LFO Test Site, defaulting to PEI!
+[5/4/2023 11:07:08 AM] [Info] Loading level: 8%
+[5/4/2023 11:07:19 AM] [Info] Loading level: 16%
+[5/4/2023 11:07:20 AM] [Info] Loading level: 25%
+[5/4/2023 11:07:20 AM] [Info] Loading level: 33%
+[5/4/2023 11:07:21 AM] [Info] Loading level: 41%
+[5/4/2023 11:07:21 AM] [Info] Loading level: 50%
+[5/4/2023 11:07:21 AM] [Info] Loading level: 58%
+[5/4/2023 11:07:21 AM] [Info] Loading level: 66%
+[5/4/2023 11:07:21 AM] [Info] Loading level: 75%
+[5/4/2023 11:07:21 AM] [Info] Loading level: 83%
+[5/4/2023 11:07:22 AM] [Info] Loading level: 91%
+[5/4/2023 11:07:22 AM] [Info] Loading level: 100%
+[5/4/2023 11:11:01 AM] [Info] Lost connection to Steam servers because k_EResultOK

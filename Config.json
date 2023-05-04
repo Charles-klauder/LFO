@@ -74,7 +74,7 @@
       "Decay_Time": 604800.0,
       "Decay_Damage_Per_Second": 0.1,
       "Has_Battery_Chance": 1.0,
-      "Min_Battery_Charge": 0.0,
+      "Min_Battery_Charge": 0.8,
       "Max_Battery_Charge": 1.0,
       "Has_Tire_Chance": 1.0,
       "Respawn_Time": 300.0,

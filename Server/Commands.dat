@@ -1,8 +1,8 @@
-map Germany
+map LFO Test Site
 mode Normal
 port 27015
-name Lets Find Out [Survial RP]
-perspective first
+name Lets Find Out [Survial RP][Currently In Testing]
+perspective both
 GSLT B410310852D53B09E7B7AA37B125F7BA
 MaxPlayers 24
 cheats enabled

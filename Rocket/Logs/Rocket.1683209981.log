@@ -1,0 +1,46 @@
+[5/4/2023 10:16:27 AM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[5/4/2023 10:16:27 AM] [Info] Other mapping to: Rocket.Unturned.Commands.UnturnedCommands/admin / Rocket.Unturned.Commands.CommandAdmin/admin
+[5/4/2023 10:16:27 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[5/4/2023 10:16:27 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[5/4/2023 10:16:27 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[5/4/2023 10:16:27 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[5/4/2023 10:16:27 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[5/4/2023 10:16:27 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[5/4/2023 10:16:27 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[5/4/2023 10:16:27 AM] [Info] Other mapping to: Rocket.Unturned.Commands.UnturnedCommands/help / Rocket.Unturned.Commands.CommandHelp/help
+[5/4/2023 10:16:27 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[5/4/2023 10:16:27 AM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[5/4/2023 10:16:27 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[5/4/2023 10:16:27 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[5/4/2023 10:16:27 AM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[5/4/2023 10:16:27 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[5/4/2023 10:16:27 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[5/4/2023 10:16:27 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[5/4/2023 10:16:27 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[5/4/2023 10:16:27 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[5/4/2023 10:16:27 AM] [Info] Other mapping to: Rocket.Unturned.Commands.UnturnedCommands/unadmin / Rocket.Unturned.Commands.CommandUnadmin/unadmin
+[5/4/2023 10:16:27 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[5/4/2023 10:16:27 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[5/4/2023 10:16:27 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[5/4/2023 10:16:27 AM] [Info] This server will automatically save every 1800 seconds
+[5/4/2023 10:16:28 AM] [Info] Steam servers ready!
+[5/4/2023 10:16:29 AM] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[5/4/2023 10:16:29 AM] [Info] 0 workshop item(s) requested
+[5/4/2023 10:16:29 AM] [Info] Loading level: 8%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 16%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 25%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 33%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 41%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 50%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 58%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 66%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 75%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 83%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 91%
+[5/4/2023 10:16:31 AM] [Info] Loading level: 100%
+[5/4/2023 10:16:34 AM] [Warning] Steam Game Server Login Token (GSLT) not set
+[5/4/2023 10:16:34 AM] [Warning] Without a login token the server:
+[5/4/2023 10:16:34 AM] [Warning] - Is not visible in Internet server list
+[5/4/2023 10:16:34 AM] [Warning] - Cannot be joined over the Internet
+[5/4/2023 10:16:34 AM] [Warning] See this link for guide and more information:
+[5/4/2023 10:16:34 AM] [Warning] https://docs.smartlydressedgames.com/en/stable/servers/game-server-login-tokens.html

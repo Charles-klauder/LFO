@@ -1,0 +1,98 @@
+[5/4/2023 10:28:33 AM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[5/4/2023 10:28:33 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[5/4/2023 10:28:33 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[5/4/2023 10:28:33 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[5/4/2023 10:28:34 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[5/4/2023 10:28:34 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[5/4/2023 10:28:34 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[5/4/2023 10:28:34 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[5/4/2023 10:28:34 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[5/4/2023 10:28:34 AM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[5/4/2023 10:28:34 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[5/4/2023 10:28:34 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[5/4/2023 10:28:34 AM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[5/4/2023 10:28:34 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[5/4/2023 10:28:34 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[5/4/2023 10:28:34 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[5/4/2023 10:28:34 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[5/4/2023 10:28:34 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[5/4/2023 10:28:34 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[5/4/2023 10:28:34 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[5/4/2023 10:28:34 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[5/4/2023 10:28:34 AM] [Info] This server will automatically save every 1800 seconds
+[5/4/2023 10:28:34 AM] [Info] Steam servers ready!
+[5/4/2023 10:28:35 AM] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[5/4/2023 10:28:35 AM] [Info] 6 workshop item(s) requested
+[5/4/2023 10:28:35 AM] [Info] Submitting workshop query for 6 item(s)...
+[5/4/2023 10:28:35 AM] [Info] Workshop query yielded 6 result(s)
+[5/4/2023 10:28:38 AM] [Info] This server's allowed IP for Workshop downloads: 50.235.87.42
+[5/4/2023 10:28:38 AM] [Info] 1717095606 'Creator Tools' queued for download
+[5/4/2023 10:28:38 AM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[5/4/2023 10:28:38 AM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[5/4/2023 10:28:38 AM] [Info] 1232252658 'More Farming Mod' queued for download
+[5/4/2023 10:28:38 AM] [Info] 2839462324 'Uncreated Content' queued for download
+[5/4/2023 10:28:38 AM] [Info] 2943585795 'Paul's Tactical Apparel (Version 1.9)' queued for download
+[5/4/2023 10:28:38 AM] [Info] 2683620106 'Arid' queued for download
+[5/4/2023 10:28:38 AM] [Info] 6 workshop item(s) to download...
+[5/4/2023 10:28:38 AM] [Info] Downloading workshop item: 1717095606
+[5/4/2023 10:28:38 AM] [Info] Successfully downloaded workshop item: 1717095606
+[5/4/2023 10:28:41 AM] [Info] Installing workshop item: 1717095606
+[5/4/2023 10:28:41 AM] [Info] Installed workshop item: 1717095606
+[5/4/2023 10:28:41 AM] [Info] Downloading workshop item: 2069342497
+[5/4/2023 10:28:41 AM] [Info] Successfully downloaded workshop item: 2069342497
+[5/4/2023 10:28:41 AM] [Info] Installing workshop item: 2069342497
+[5/4/2023 10:29:31 AM] [Info] Installed workshop item: 2069342497
+[5/4/2023 10:29:31 AM] [Info] Downloading workshop item: 1232252658
+[5/4/2023 10:29:31 AM] [Info] Successfully downloaded workshop item: 1232252658
+[5/4/2023 10:29:31 AM] [Info] Installing workshop item: 1232252658
+[5/4/2023 10:30:32 AM] [Info] Installed workshop item: 1232252658
+[5/4/2023 10:30:32 AM] [Info] Downloading workshop item: 2839462324
+[5/4/2023 10:30:32 AM] [Info] Successfully downloaded workshop item: 2839462324
+[5/4/2023 10:30:32 AM] [Info] Installing workshop item: 2839462324
+[5/4/2023 10:38:50 AM] [Error] Missing effect gameobject
+[5/4/2023 10:38:50 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 10:38:50 AM] [Error] Missing effect gameobject
+[5/4/2023 10:38:50 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 10:38:50 AM] [Error] Missing effect gameobject
+[5/4/2023 10:38:50 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 10:38:50 AM] [Error] Missing effect gameobject
+[5/4/2023 10:38:50 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 10:38:50 AM] [Error] Missing effect gameobject
+[5/4/2023 10:38:50 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 10:38:50 AM] [Error] Missing effect gameobject
+[5/4/2023 10:38:50 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 10:38:50 AM] [Error] Missing effect gameobject
+[5/4/2023 10:38:50 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 10:38:50 AM] [Error] Missing effect gameobject
+[5/4/2023 10:38:50 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <92cd15f8f69f4be2b774ed1e0c34e0c2>:0 
+[5/4/2023 10:38:50 AM] [Info] Installed workshop item: 2839462324
+[5/4/2023 10:38:50 AM] [Info] Downloading workshop item: 2943585795
+[5/4/2023 10:38:50 AM] [Info] Successfully downloaded workshop item: 2943585795
+[5/4/2023 10:38:50 AM] [Info] Installing workshop item: 2943585795
+[5/4/2023 10:42:39 AM] [Info] Installed workshop item: 2943585795
+[5/4/2023 10:42:39 AM] [Info] Downloading workshop item: 2683620106
+[5/4/2023 10:42:39 AM] [Info] Successfully downloaded workshop item: 2683620106
+[5/4/2023 10:42:39 AM] [Info] Installing workshop item: 2683620106
+[5/4/2023 10:44:09 AM] [Info] Installed workshop item: 2683620106
+[5/4/2023 10:44:09 AM] [Error] Failed to find map LFO Test Site, defaulting to PEI!
+[5/4/2023 10:44:09 AM] [Info] Loading level: 8%
+[5/4/2023 10:44:13 AM] [Info] Loading level: 16%
+[5/4/2023 10:44:15 AM] [Info] Loading level: 25%
+[5/4/2023 10:44:15 AM] [Info] Loading level: 33%
+[5/4/2023 10:44:15 AM] [Info] Loading level: 41%
+[5/4/2023 10:44:15 AM] [Info] Loading level: 50%
+[5/4/2023 10:44:16 AM] [Info] Loading level: 58%
+[5/4/2023 10:44:16 AM] [Info] Loading level: 66%
+[5/4/2023 10:44:16 AM] [Info] Loading level: 75%
+[5/4/2023 10:44:16 AM] [Info] Loading level: 83%
+[5/4/2023 10:44:17 AM] [Info] Loading level: 91%
+[5/4/2023 10:44:17 AM] [Info] Loading level: 100%
+[5/4/2023 10:46:50 AM] [Info] Lost connection to Steam servers because k_EResultOK
