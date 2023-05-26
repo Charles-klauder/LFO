@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MaxGlobalFlySpeed>500</MaxGlobalFlySpeed>
+  <DisableAbusableCommands>false</DisableAbusableCommands>
+  <DelayStartEXECUtility>false</DelayStartEXECUtility>
+  <PointToolSettings>
+    <DestroyToolEnabled>true</DestroyToolEnabled>
+    <JumpToolEnabled>true</JumpToolEnabled>
+    <UtilityToolEnabled>true</UtilityToolEnabled>
+    <KillToolEnabled>true</KillToolEnabled>
+  </PointToolSettings>
+  <EnableExperimentalCommands>false</EnableExperimentalCommands>
+  <ExecEnabled>false</ExecEnabled>
+  <BlacklistedAttachments>
+    <ID>354</ID>
+    <ID>350</ID>
+    <ID>117</ID>
+    <ID>1002</ID>
+    <ID>1167</ID>
+    <ID>1338</ID>
+    <ID>1444</ID>
+    <ID>1394</ID>
+    <ID>1300</ID>
+  </BlacklistedAttachments>
+</PluginConfig>

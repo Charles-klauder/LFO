@@ -10,7 +10,9 @@
     2480988643,
     877777769
   ],
-  "Ignore_Children_File_IDs": [],
+  "Ignore_Children_File_IDs": [
+    1
+  ],
   "Query_Cache_Max_Age_Seconds": 600,
   "Max_Query_Retries": 2,
   "Use_Cached_Downloads": true,

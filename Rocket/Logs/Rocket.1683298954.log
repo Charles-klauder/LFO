@@ -1,0 +1,227 @@
+[5/5/2023 10:58:02 AM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[5/5/2023 10:58:02 AM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[5/5/2023 10:58:02 AM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[5/5/2023 10:58:03 AM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[5/5/2023 10:58:03 AM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[5/5/2023 10:58:03 AM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[5/5/2023 10:58:03 AM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[5/5/2023 10:58:03 AM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[5/5/2023 10:58:03 AM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[5/5/2023 10:58:03 AM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[5/5/2023 10:58:03 AM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[5/5/2023 10:58:03 AM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[5/5/2023 10:58:03 AM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[5/5/2023 10:58:03 AM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[5/5/2023 10:58:03 AM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[5/5/2023 10:58:03 AM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[5/5/2023 10:58:03 AM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[5/5/2023 10:58:03 AM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[5/5/2023 10:58:03 AM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[5/5/2023 10:58:03 AM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[5/5/2023 10:58:03 AM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[5/5/2023 10:58:03 AM] [Error] Invalid or outdated plugin assembly: Assembly-CSharp
+[5/5/2023 10:58:03 AM] [Info] Loading EasyAmmo from D:\Steam\steamapps\common\U3DS\Servers\LFO\Rocket\Plugins\EasyAmmo.dll
+[5/5/2023 10:58:03 AM] [Info] Loading InfiniteEnergy from D:\Steam\steamapps\common\U3DS\Servers\LFO\Rocket\Plugins\InfiniteEnergy.dll
+[5/5/2023 10:58:03 AM] [Info] Loading MoreHomes from D:\Steam\steamapps\common\U3DS\Servers\LFO\Rocket\Plugins\MoreHomes.dll
+[5/5/2023 10:58:03 AM] [Info] Loading ReponseMod_HiddenName from D:\Steam\steamapps\common\U3DS\Servers\LFO\Rocket\Plugins\ReponseMod_HiddenName.dll
+[5/5/2023 10:58:04 AM] [Info] 
+[loading] EasyAmmo
+[5/5/2023 10:58:04 AM] [Info] [registered] /ammo (EasyAmmoRocketMod.CommandAmmo/ammo)
+[5/5/2023 10:58:04 AM] [Info] [registered] /clearmag (EasyAmmoRocketMod.CommandClearMag/clearmag)
+[5/5/2023 10:58:04 AM] [Info] [registered] /clearm (EasyAmmoRocketMod.CommandClearMag/clearm)
+[5/5/2023 10:58:04 AM] [Info] [registered] /cm (EasyAmmoRocketMod.CommandClearMag/cm)
+[5/5/2023 10:58:04 AM] [Info] [registered] /clonei (EasyAmmoRocketMod.CommandCloneItem/clonei)
+[5/5/2023 10:58:04 AM] [Info] [registered] /dropammo (EasyAmmoRocketMod.CommandDropAmmo/dropammo)
+[5/5/2023 10:58:04 AM] [Info] [registered] /dammo (EasyAmmoRocketMod.CommandDropAmmo/dammo)
+[5/5/2023 10:58:04 AM] [Info] [registered] /da (EasyAmmoRocketMod.CommandDropAmmo/da)
+[5/5/2023 10:58:04 AM] [Info] [registered] /dropa (EasyAmmoRocketMod.CommandDropAmmo/dropa)
+[5/5/2023 10:58:04 AM] [Warning] --------------EasyAmmo--------------
+[5/5/2023 10:58:04 AM] [Info] EasyAmmo >> EasyAmmo loaded!
+[5/5/2023 10:58:04 AM] [Info] EasyAmmo >> ClipLimitEnabled : True
+[5/5/2023 10:58:04 AM] [Info] EasyAmmo >> ClipLimit : 10
+[5/5/2023 10:58:04 AM] [Info] EasyAmmo >> UconomySupportEnabled : False
+[5/5/2023 10:58:04 AM] [Info] EasyAmmo >> BulletCostMultiplier : 1
+[5/5/2023 10:58:04 AM] [Info] EasyAmmo >> ScaleCostByWeaponDamage : True
+[5/5/2023 10:58:04 AM] [Info] EasyAmmo >> WeaponDamageCostMultiplier : 2
+[5/5/2023 10:58:04 AM] [Warning] ------------------------------------
+[5/5/2023 10:58:04 AM] [Info] 
+[loading] InfiniteEnergy
+[5/5/2023 10:58:04 AM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[5/5/2023 10:58:04 AM] [Error] Could not find dependency: 0Harmony, Version=2.1.1.0, Culture=neutral, PublicKeyToken=null
+[5/5/2023 10:58:04 AM] [Info] 
+[loading] ReponseMod_HiddenName
+[5/5/2023 10:58:04 AM] [Info] This server will automatically save every 1800 seconds
+[5/5/2023 10:58:04 AM] [Info] Steam servers ready!
+[5/5/2023 10:58:04 AM] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[5/5/2023 10:58:04 AM] [Info] 9 workshop item(s) requested
+[5/5/2023 10:58:04 AM] [Info] Submitting workshop query for 9 item(s)...
+[5/5/2023 10:58:04 AM] [Info] Workshop query yielded 9 result(s)
+[5/5/2023 10:58:04 AM] [Info] This server's allowed IP for Workshop downloads: 50.235.87.42
+[5/5/2023 10:58:04 AM] [Info] 1717095606 'Creator Tools' queued for download
+[5/5/2023 10:58:04 AM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[5/5/2023 10:58:04 AM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[5/5/2023 10:58:04 AM] [Info] 1232252658 'More Farming Mod' queued for download
+[5/5/2023 10:58:04 AM] [Info] 2839462324 'Uncreated Content' queued for download
+[5/5/2023 10:58:04 AM] [Info] 2943585795 'Paul's Tactical Apparel (Version 1.9)' queued for download
+[5/5/2023 10:58:04 AM] [Info] 2683620106 'Arid' queued for download
+[5/5/2023 10:58:04 AM] [Info] 2971117980 'LFO Test Site' queued for download
+[5/5/2023 10:58:04 AM] [Info] 2971117980 'LFO Test Site' has 7 children
+[5/5/2023 10:58:04 AM] [Info] 	2683620106 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	1717095606 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	1232252658 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	2943585795 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	2069342497 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	2839462324 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	2480988643 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 2480988643 'LFO Washington' queued for download
+[5/5/2023 10:58:04 AM] [Info] 2480988643 'LFO Washington' has 4 children
+[5/5/2023 10:58:04 AM] [Info] 	2683620106 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	2069342497 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	1232252658 (already queued)
+[5/5/2023 10:58:04 AM] [Info] 	1909152337
+[5/5/2023 10:58:04 AM] [Info] 877777769 'Furniture Expansion' queued for download
+[5/5/2023 10:58:04 AM] [Info] Submitting workshop query for 1 item(s)...
+[5/5/2023 10:58:04 AM] [Info] Workshop query yielded 1 result(s)
+[5/5/2023 10:58:04 AM] [Info] This server's allowed IP for Workshop downloads: 50.235.87.42
+[5/5/2023 10:58:04 AM] [Info] 1909152337 'California Assets' queued for download
+[5/5/2023 10:59:20 AM] [Info] 10 workshop item(s) to download...
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 1717095606
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 1717095606
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 1717095606
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 2069342497
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 2069342497
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 2069342497
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 1232252658
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 1232252658
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 1232252658
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 2839462324
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 2839462324
+[5/5/2023 10:59:20 AM] [Error] Missing effect gameobject
+[5/5/2023 10:59:20 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/5/2023 10:59:20 AM] [Error] Missing effect gameobject
+[5/5/2023 10:59:20 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/5/2023 10:59:20 AM] [Error] Missing effect gameobject
+[5/5/2023 10:59:20 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/5/2023 10:59:20 AM] [Error] Missing effect gameobject
+[5/5/2023 10:59:20 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/5/2023 10:59:20 AM] [Error] Missing effect gameobject
+[5/5/2023 10:59:20 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/5/2023 10:59:20 AM] [Error] Missing effect gameobject
+[5/5/2023 10:59:20 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/5/2023 10:59:20 AM] [Error] Missing effect gameobject
+[5/5/2023 10:59:20 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/5/2023 10:59:20 AM] [Error] Missing effect gameobject
+[5/5/2023 10:59:20 AM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 2839462324
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 2943585795
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 2943585795
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 2943585795
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 2683620106
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 2683620106
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 2683620106
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 2971117980
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 2971117980
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 2971117980
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 2480988643
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 2480988643
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 2480988643
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 877777769
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 877777769
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 877777769
+[5/5/2023 10:59:20 AM] [Info] Workshop item found in cache: 1909152337
+[5/5/2023 10:59:20 AM] [Info] Installing workshop item: 1909152337
+[5/5/2023 10:59:20 AM] [Info] Installed workshop item: 1909152337
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Quality_Full_Chance: 0 (Default: 0.1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Quality_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Gun_Bullets_Full_Chance: 0 (Default: 0.1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Gun_Bullets_Multiplier: 0 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Magazine_Bullets_Full_Chance: 1 (Default: 0.1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Magazine_Bullets_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Crate_Bullets_Full_Chance: 1 (Default: 0.1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Crate_Bullets_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Despawn_Dropped_Time: 1080 (Default: 600)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Despawn_Natural_Time: 1080 (Default: 900)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Items.Respawn_Time: 80 (Default: 50)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Health_Default: 100 (Default: 100)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Food_Default: 100 (Default: 100)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Water_Default: 100 (Default: 100)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Virus_Default: 100 (Default: 100)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Health_Regen_Min_Food: 70 (Default: 90)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Health_Regen_Min_Water: 70 (Default: 90)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Health_Regen_Ticks: 45 (Default: 60)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Food_Use_Ticks: 1400 (Default: 350)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Food_Damage_Ticks: 5 (Default: 15)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Water_Use_Ticks: 1200 (Default: 320)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Water_Damage_Ticks: 5 (Default: 20)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Virus_Infect: 0 (Default: 50)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Virus_Use_Ticks: 60 (Default: 125)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Virus_Damage_Ticks: 1 (Default: 25)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Detect_Radius_Multiplier: 0.9 (Default: 0.5)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Ray_Aggressor_Distance: 12 (Default: 8)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Bleed_Damage_Ticks: 21 (Default: 10)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Can_Stop_Bleeding: True (Default: True)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Players.Experience_Multiplier: 0 (Default: 1.5)
+[5/5/2023 10:59:20 AM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[5/5/2023 10:59:20 AM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[5/5/2023 10:59:20 AM] [Error] Failed to find mode config for level override: Platers
+[5/5/2023 10:59:20 AM] [Error] Failed to find mode config for level override: Platers
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Slow_Movement: False (Default: True)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Acid_Chance: 0 (Default: 0)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Loot_Chance: 0.7 (Default: 0.55)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Min_Mega_Drops: 5 (Default: 5)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Max_Mega_Drops: 10 (Default: 5)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Min_Boss_Drops: 10 (Default: 8)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Max_Boss_Drops: 15 (Default: 10)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Respawn_Day_Time: 360 (Default: 360)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Zombies.Respawn_Night_Time: 180 (Default: 30)
+[5/5/2023 10:59:20 AM] [Info] Skipping level config override Gameplay.Chart because server value (False) is not the default (True)
+[5/5/2023 10:59:20 AM] [Info] Skipping level config override Gameplay.Satellite because server value (True) is not the default (False)
+[5/5/2023 10:59:20 AM] [Info] Skipping level config override Gameplay.Compass because server value (True) is not the default (False)
+[5/5/2023 10:59:20 AM] [Info] Skipping level config override Gameplay.Ballistics because server value (True) is not the default (False)
+[5/5/2023 10:59:20 AM] [Info] Skipping level config override Gameplay.Group_Map because server value (False) is not the default (True)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Gameplay.Timer_Home: 15 (Default: 30)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Events.Airdrop_Frequency_Min: 1.8 (Default: 0.8)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Events.Airdrop_Frequency_Max: 3.5 (Default: 6.5)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Events.Airdrop_Speed: 70 (Default: 128)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Events.Airdrop_Force: 11.95 (Default: 9.5)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Vehicles.Min_Battery_Charge: 1 (Default: 0.8)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Vehicles.Max_Battery_Charge: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Vehicles.Has_Battery_Chance: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Vehicles.Max_Instances_Large: 64 (Default: 32)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Vehicles.Decay_Time: 0 (Default: 604800)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Vehicles.Decay_Damage_Per_Second: 200 (Default: 0.1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Barricades.Armor_Lowtier_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Barricades.Armor_Hightier_Multiplier: 1 (Default: 0.5)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Structures.Armor_Lowtier_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Structures.Armor_Hightier_Multiplier: 1 (Default: 0.5)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Barricades.Gun_Lowcal_Damage_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Barricades.Gun_Highcal_Damage_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Structures.Gun_Lowcal_Damage_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Structures.Gun_Highcal_Damage_Multiplier: 1 (Default: 1)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Barricades.Decay_Time: 432000 (Default: 604800)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Structures.Decay_Time: 432000 (Default: 604800)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: True (Default: True)
+[5/5/2023 10:59:20 AM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: True (Default: True)
+[5/5/2023 10:59:20 AM] [Info] Monitoring workshop map 'LFO Test Site' (2971117980) for changes
+[5/5/2023 10:59:20 AM] [Info] Loading level: 8%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 16%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 25%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 33%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 41%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 50%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 58%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 66%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 75%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 83%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 91%
+[5/5/2023 10:59:22 AM] [Info] Loading level: 100%
+[5/5/2023 11:01:58 AM] [Info] 
+[unloading] InfiniteEnergy

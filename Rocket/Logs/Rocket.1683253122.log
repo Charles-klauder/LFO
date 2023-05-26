@@ -1,0 +1,404 @@
+[5/4/2023 9:10:03 PM] [Info] [registered] /more (Rocket.Unturned.Commands.CommandMore/more)
+[5/4/2023 9:10:03 PM] [Info] [registered] /admin (Rocket.Unturned.Commands.CommandAdmin/admin)
+[5/4/2023 9:10:03 PM] [Info] [registered] /broadcast (Rocket.Unturned.Commands.CommandBroadcast/broadcast)
+[5/4/2023 9:10:04 PM] [Info] [registered] /compass (Rocket.Unturned.Commands.CommandCompass/compass)
+[5/4/2023 9:10:04 PM] [Info] [registered] /effect (Rocket.Unturned.Commands.CommandEffect/effect)
+[5/4/2023 9:10:04 PM] [Info] [registered] /exit (Rocket.Unturned.Commands.CommandExit/exit)
+[5/4/2023 9:10:04 PM] [Info] [registered] /god (Rocket.Unturned.Commands.CommandGod/god)
+[5/4/2023 9:10:04 PM] [Info] [registered] /heal (Rocket.Unturned.Commands.CommandHeal/heal)
+[5/4/2023 9:10:04 PM] [Info] [registered] /help (Rocket.Unturned.Commands.CommandHelp/help)
+[5/4/2023 9:10:04 PM] [Info] [registered] /home (Rocket.Unturned.Commands.CommandHome/home)
+[5/4/2023 9:10:04 PM] [Info] [registered] /i (Rocket.Unturned.Commands.CommandI/i)
+[5/4/2023 9:10:04 PM] [Info] [registered] /item (Rocket.Unturned.Commands.CommandI/item)
+[5/4/2023 9:10:04 PM] [Info] [registered] /investigate (Rocket.Unturned.Commands.CommandInvestigate/investigate)
+[5/4/2023 9:10:04 PM] [Info] [registered] /p (Rocket.Unturned.Commands.CommandP/p)
+[5/4/2023 9:10:04 PM] [Info] [registered] /permissions (Rocket.Unturned.Commands.CommandP/permissions)
+[5/4/2023 9:10:04 PM] [Info] [registered] /rocket (Rocket.Unturned.Commands.CommandRocket/rocket)
+[5/4/2023 9:10:04 PM] [Info] [registered] /tp (Rocket.Unturned.Commands.CommandTp/tp)
+[5/4/2023 9:10:04 PM] [Info] [registered] /tphere (Rocket.Unturned.Commands.CommandTphere/tphere)
+[5/4/2023 9:10:04 PM] [Info] [registered] /unadmin (Rocket.Unturned.Commands.CommandUnadmin/unadmin)
+[5/4/2023 9:10:04 PM] [Info] [registered] /v (Rocket.Unturned.Commands.CommandV/v)
+[5/4/2023 9:10:04 PM] [Info] [registered] /vanish (Rocket.Unturned.Commands.CommandVanish/vanish)
+[5/4/2023 9:10:04 PM] [Info] This server will automatically save every 1800 seconds
+[5/4/2023 9:10:04 PM] [Info] Steam servers ready!
+[5/4/2023 9:10:04 PM] [Info] Workshop install folder: D:\Steam\steamapps\common\U3DS/Servers/LFO/Workshop/Steam
+[5/4/2023 9:10:04 PM] [Info] 9 workshop item(s) requested
+[5/4/2023 9:10:04 PM] [Info] Submitting workshop query for 9 item(s)...
+[5/4/2023 9:10:04 PM] [Info] Workshop query yielded 9 result(s)
+[5/4/2023 9:10:04 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[5/4/2023 9:10:04 PM] [Info] 1717095606 'Creator Tools' queued for download
+[5/4/2023 9:10:04 PM] [Info] Authorized to download 2069342497 'Survivor's Expansion'
+[5/4/2023 9:10:04 PM] [Info] 2069342497 'Survivor's Expansion' queued for download
+[5/4/2023 9:10:04 PM] [Info] 1232252658 'More Farming Mod' queued for download
+[5/4/2023 9:10:04 PM] [Info] 2839462324 'Uncreated Content' queued for download
+[5/4/2023 9:10:04 PM] [Info] 2943585795 'Paul's Tactical Apparel (Version 1.9)' queued for download
+[5/4/2023 9:10:04 PM] [Info] 2683620106 'Arid' queued for download
+[5/4/2023 9:10:04 PM] [Info] 2971117980 'LFO Test Site' queued for download
+[5/4/2023 9:10:04 PM] [Info] 2971117980 'LFO Test Site' has 7 children
+[5/4/2023 9:10:04 PM] [Info] 	2683620106 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	1717095606 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	1232252658 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	2943585795 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	2069342497 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	2839462324 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	2480988643 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 2480988643 'LFO Washington' queued for download
+[5/4/2023 9:10:04 PM] [Info] 2480988643 'LFO Washington' has 4 children
+[5/4/2023 9:10:04 PM] [Info] 	2683620106 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	2069342497 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	1232252658 (already queued)
+[5/4/2023 9:10:04 PM] [Info] 	1909152337
+[5/4/2023 9:10:04 PM] [Info] 877777769 'Furniture Expansion' queued for download
+[5/4/2023 9:10:04 PM] [Info] Submitting workshop query for 1 item(s)...
+[5/4/2023 9:10:05 PM] [Info] Workshop query yielded 1 result(s)
+[5/4/2023 9:10:05 PM] [Info] This server's allowed IP for Workshop downloads: 73.253.101.49
+[5/4/2023 9:10:05 PM] [Info] 1909152337 'California Assets' queued for download
+[5/4/2023 9:10:05 PM] [Info] 10 workshop item(s) to download...
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 1717095606
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 1717095606
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 1717095606
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 2069342497
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 2069342497
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 2069342497
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 1232252658
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 1232252658
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 1232252658
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 2839462324
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 2839462324
+[5/4/2023 9:10:46 PM] [Error] Missing effect gameobject
+[5/4/2023 9:10:46 PM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/4/2023 9:10:46 PM] [Error] Missing effect gameobject
+[5/4/2023 9:10:46 PM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/4/2023 9:10:46 PM] [Error] Missing effect gameobject
+[5/4/2023 9:10:46 PM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/4/2023 9:10:46 PM] [Error] Missing effect gameobject
+[5/4/2023 9:10:46 PM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/4/2023 9:10:46 PM] [Error] Missing effect gameobject
+[5/4/2023 9:10:46 PM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/4/2023 9:10:46 PM] [Error] Missing effect gameobject
+[5/4/2023 9:10:46 PM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/4/2023 9:10:46 PM] [Error] Missing effect gameobject
+[5/4/2023 9:10:46 PM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/4/2023 9:10:46 PM] [Error] Missing effect gameobject
+[5/4/2023 9:10:46 PM] [Error]   at SDG.Unturned.EffectAsset.PopulateAsset (SDG.Unturned.Bundle bundle, SDG.Unturned.DatDictionary data, SDG.Unturned.Local localization) [0x00055] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+  at SDG.Unturned.Assets.loadFile (SDG.Unturned.Assets+ScannedFileInfo file) [0x005a1] in <0233b1acfe4e414a83e1d826583f0dbc>:0 
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 2839462324
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 2943585795
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 2943585795
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 2943585795
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 2683620106
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 2683620106
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 2683620106
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 2971117980
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 2971117980
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 2971117980
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 2480988643
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 2480988643
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 2480988643
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 877777769
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 877777769
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 877777769
+[5/4/2023 9:10:46 PM] [Info] Workshop item found in cache: 1909152337
+[5/4/2023 9:10:46 PM] [Info] Installing workshop item: 1909152337
+[5/4/2023 9:10:46 PM] [Info] Installed workshop item: 1909152337
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Quality_Full_Chance: 0 (Default: 0.1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Quality_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Gun_Bullets_Full_Chance: 0 (Default: 0.1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Gun_Bullets_Multiplier: 0 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Magazine_Bullets_Full_Chance: 1 (Default: 0.1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Magazine_Bullets_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Crate_Bullets_Full_Chance: 1 (Default: 0.1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Crate_Bullets_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Despawn_Dropped_Time: 1080 (Default: 600)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Despawn_Natural_Time: 1080 (Default: 900)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Items.Respawn_Time: 80 (Default: 50)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Health_Default: 100 (Default: 100)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Food_Default: 100 (Default: 100)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Water_Default: 100 (Default: 100)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Virus_Default: 100 (Default: 100)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Health_Regen_Min_Food: 70 (Default: 90)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Health_Regen_Min_Water: 70 (Default: 90)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Health_Regen_Ticks: 45 (Default: 60)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Food_Use_Ticks: 1400 (Default: 350)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Food_Damage_Ticks: 5 (Default: 15)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Water_Use_Ticks: 1200 (Default: 320)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Water_Damage_Ticks: 5 (Default: 20)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Virus_Infect: 0 (Default: 50)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Virus_Use_Ticks: 60 (Default: 125)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Virus_Damage_Ticks: 1 (Default: 25)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Detect_Radius_Multiplier: 0.9 (Default: 0.5)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Ray_Aggressor_Distance: 12 (Default: 8)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Bleed_Damage_Ticks: 21 (Default: 10)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Can_Stop_Bleeding: True (Default: True)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Players.Experience_Multiplier: 0 (Default: 1.5)
+[5/4/2023 9:10:46 PM] [Info] Skipping level config override Players.Lose_Skills_PvP because server value (1) is not the default (0.75)
+[5/4/2023 9:10:46 PM] [Info] Skipping level config override Players.Lose_Skills_PvE because server value (1) is not the default (0.75)
+[5/4/2023 9:10:46 PM] [Error] Failed to find mode config for level override: Platers
+[5/4/2023 9:10:46 PM] [Error] Failed to find mode config for level override: Platers
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Slow_Movement: False (Default: True)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Acid_Chance: 0 (Default: 0)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Loot_Chance: 0.7 (Default: 0.55)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Min_Mega_Drops: 5 (Default: 5)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Max_Mega_Drops: 10 (Default: 5)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Min_Boss_Drops: 10 (Default: 8)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Max_Boss_Drops: 15 (Default: 10)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Respawn_Day_Time: 360 (Default: 360)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Zombies.Respawn_Night_Time: 180 (Default: 30)
+[5/4/2023 9:10:46 PM] [Info] Skipping level config override Gameplay.Chart because server value (False) is not the default (True)
+[5/4/2023 9:10:46 PM] [Info] Skipping level config override Gameplay.Satellite because server value (True) is not the default (False)
+[5/4/2023 9:10:46 PM] [Info] Skipping level config override Gameplay.Compass because server value (True) is not the default (False)
+[5/4/2023 9:10:46 PM] [Info] Skipping level config override Gameplay.Ballistics because server value (True) is not the default (False)
+[5/4/2023 9:10:46 PM] [Info] Skipping level config override Gameplay.Group_Map because server value (False) is not the default (True)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Gameplay.Timer_Home: 15 (Default: 30)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Events.Airdrop_Frequency_Min: 1.8 (Default: 0.8)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Events.Airdrop_Frequency_Max: 3.5 (Default: 6.5)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Events.Airdrop_Speed: 70 (Default: 128)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Events.Airdrop_Force: 11.95 (Default: 9.5)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Vehicles.Min_Battery_Charge: 1 (Default: 0.8)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Vehicles.Max_Battery_Charge: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Vehicles.Has_Battery_Chance: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Vehicles.Max_Instances_Large: 64 (Default: 32)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Vehicles.Decay_Time: 0 (Default: 604800)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Vehicles.Decay_Damage_Per_Second: 200 (Default: 0.1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Barricades.Armor_Lowtier_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Barricades.Armor_Hightier_Multiplier: 1 (Default: 0.5)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Structures.Armor_Lowtier_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Structures.Armor_Hightier_Multiplier: 1 (Default: 0.5)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Barricades.Gun_Lowcal_Damage_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Barricades.Gun_Highcal_Damage_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Structures.Gun_Lowcal_Damage_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Structures.Gun_Highcal_Damage_Multiplier: 1 (Default: 1)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Barricades.Decay_Time: 432000 (Default: 604800)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Structures.Decay_Time: 432000 (Default: 604800)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Barricades.Allow_Item_Placement_On_Vehicle: True (Default: True)
+[5/4/2023 9:10:46 PM] [Info] Level overrides config Barricades.Allow_Trap_Placement_On_Vehicle: True (Default: True)
+[5/4/2023 9:10:46 PM] [Info] Monitoring workshop map 'LFO Test Site' (2971117980) for changes
+[5/4/2023 9:10:46 PM] [Info] Loading level: 8%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 16%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 25%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 33%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 41%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 50%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 58%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 66%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 75%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 83%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 91%
+[5/4/2023 9:10:47 PM] [Info] Loading level: 100%
+[5/4/2023 9:11:45 PM] [Info] BattlEye Server: Player #0 Shake (73.253.101.49:52479) connected
+[5/4/2023 9:11:45 PM] [Info] BattlEye Server: Player #0 Shake - BE GUID: f4abbf8aa333c3b24b5656c70080f342
+[5/4/2023 9:11:48 PM] [Error] Unable to find spawn table for resolve with id 0
+[5/4/2023 9:11:48 PM] [Error] Unable to find spawn table for resolve with id 0
+[5/4/2023 9:11:48 PM] [Error] Unable to find spawn table for resolve with id 0
+[5/4/2023 9:11:48 PM] [Error] Unable to find spawn table for resolve with id 0
+[5/4/2023 9:11:48 PM] [Error] Unable to find spawn table for resolve with id 0
+[5/4/2023 9:11:48 PM] [Info] Connecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[5/4/2023 9:11:48 PM] [Info] BattlEye Server: Could not connect to BE Master
+[5/4/2023 9:11:48 PM] [Info] BattlEye Server: Disconnected from BE Master
+[5/4/2023 9:11:58 PM] [Info] [Group] Shake [Shake]: "/teleport wp"
+[5/4/2023 9:12:01 PM] [Error] Failed to find anyone or anywhere called wp.
+[5/4/2023 9:12:01 PM] [Info] [Group] Shake [Shake]: "/teleport wp"
+[5/4/2023 9:12:10 PM] [Info] Successfully teleported Shake to waypoint!
+[5/4/2023 9:12:10 PM] [Info] BattlEye Server: Ban check timed out, no response from BE Master
+[5/4/2023 9:12:10 PM] [Info] Shake moved x:-300.0625 y:157.2669(+39.09718) z:625.7969 in the last second (0.09999084)
+[5/4/2023 9:13:35 PM] [Info] [Group] Shake [Shake]: "/i 20167"
+[5/4/2023 9:13:43 PM] [Info] Giving Shake item 20167:1
+[5/4/2023 9:13:43 PM] [Info] BattlEye Server: Connected to BE Master
+[5/4/2023 9:14:01 PM] [Info] [Group] Shake [Shake]: "/i 2004"
+[5/4/2023 9:14:03 PM] [Info] [Area] Shake [Shake]: "/i 20042"
+[5/4/2023 9:14:47 PM] [Info] Giving Shake item 20042:1
+[5/4/2023 9:14:47 PM] [Info] [Group] Shake [Shake]: "/i 20062"
+[5/4/2023 9:15:01 PM] [Info] Giving Shake item 20062:1
+[5/4/2023 9:15:01 PM] [Info] [Group] Shake [Shake]: "/i 20063"
+[5/4/2023 9:15:22 PM] [Info] Giving Shake item 20063:1
+[5/4/2023 9:15:22 PM] [Info] [Group] Shake [Shake]: "/i 20057"
+[5/4/2023 9:15:35 PM] [Info] Giving Shake item 20057:1
+[5/4/2023 9:15:35 PM] [Info] [Group] Shake [Shake]: "/i 20431"
+[5/4/2023 9:16:31 PM] [Info] Giving Shake item 20431:1
+[5/4/2023 9:16:31 PM] [Info] [Group] Shake [Shake]: "/i 20457"
+[5/4/2023 9:16:34 PM] [Info] Giving Shake item 20457:1
+[5/4/2023 9:16:34 PM] [Info] [Group] Shake [Shake]: "/i 20540"
+[5/4/2023 9:16:34 PM] [Info] Giving Shake item 20540:1
+[5/4/2023 9:16:43 PM] [Info] [Group] Shake [Shake]: "/i multicam"
+[5/4/2023 9:16:47 PM] [Info] Giving Shake item 30941:1
+[5/4/2023 9:16:47 PM] [Info] [Group] Shake [Shake]: "/i 30940"
+[5/4/2023 9:17:27 PM] [Info] Giving Shake item 30940:1
+[5/4/2023 9:17:27 PM] [Info] [Group] Shake [Shake]: "/i 49839"
+[5/4/2023 9:17:33 PM] [Info] [Area] Shake [Shake]: "/i 59839"
+[5/4/2023 9:17:39 PM] [Info] Giving Shake item 59839:1
+[5/4/2023 9:17:39 PM] [Info] [Group] Shake [Shake]: "/i casket 6"
+[5/4/2023 9:18:42 PM] [Info] Giving Shake item 59860:6
+[5/4/2023 9:18:42 PM] [Info] [Group] Shake [Shake]: "/i 59171 5"
+[5/4/2023 9:18:56 PM] [Info] Giving Shake item 59171:5
+[5/4/2023 9:18:56 PM] [Info] [Group] Shake [Shake]: "/attachment "yer-100""
+[5/4/2023 9:19:01 PM] [Info] [Area] Shake [Shake]: "/attach "yer-100""
+[5/4/2023 9:20:04 PM] [Info] [Group] Shake [Shake]: "/pointtool jump"
+[5/4/2023 9:20:17 PM] [Info] [Group] Shake [Shake]: "/home"
+[5/4/2023 9:20:19 PM] [Info] [Group] Shake [Shake]: "/i bed"
+[5/4/2023 9:20:24 PM] [Info] Giving Shake item 59864:1
+[5/4/2023 9:20:24 PM] [Info] Shake moved x:-299.1854 y:157.2669(+39.0972) z:625.5958 in the last second (0.1000061)
+[5/4/2023 9:20:35 PM] [Info] [Group] Shake [Shake]: "/homes"
+[5/4/2023 9:20:37 PM] [Info] [Group] Shake [Shake]: "/home"
+[5/4/2023 9:20:58 PM] [Info] [Group] Shake [Shake]: "/i "metal man" 3"
+[5/4/2023 9:22:54 PM] [Info] Giving Shake item 1409:3
+[5/4/2023 9:22:54 PM] [Info] [Group] Shake [Shake]: "/i 20061"
+[5/4/2023 9:22:54 PM] [Info] Giving Shake item 20061:1
+[5/4/2023 9:22:56 PM] [Info] [Group] Shake [Shake]: "/i 20071"
+[5/4/2023 9:23:04 PM] [Info] Giving Shake item 20071:1
+[5/4/2023 9:23:04 PM] [Info] [Group] Shake [Shake]: "/i 20271"
+[5/4/2023 9:23:04 PM] [Info] Giving Shake item 20271:1
+[5/4/2023 9:23:06 PM] [Info] [Area] Shake [Shake]: "/i 20261"
+[5/4/2023 9:23:42 PM] [Info] Giving Shake item 20261:1
+[5/4/2023 9:23:42 PM] [Info] [Group] Shake [Shake]: "/i 16652 3"
+[5/4/2023 9:23:42 PM] [Info] Giving Shake item 16652:3
+[5/4/2023 9:24:25 PM] [Info] [Group] Shake [Shake]: "/i 20270 2"
+[5/4/2023 9:24:25 PM] [Info] Giving Shake item 20270:2
+[5/4/2023 9:25:06 PM] [Info] [Group] Shake [Shake]: "/i 20533"
+[5/4/2023 9:25:06 PM] [Info] Giving Shake item 20533:1
+[5/4/2023 9:25:25 PM] [Info] [Group] Shake [Shake]: "/i 20270"
+[5/4/2023 9:25:34 PM] [Info] Giving Shake item 20270:1
+[5/4/2023 9:25:34 PM] [Info] [Group] Shake [Shake]: "/i 20269"
+[5/4/2023 9:25:34 PM] [Info] Giving Shake item 20269:1
+[5/4/2023 9:25:54 PM] [Info] [Group] Shake [Shake]: "/i 20194"
+[5/4/2023 9:25:54 PM] [Info] Giving Shake item 20194:1
+[5/4/2023 9:26:00 PM] [Info] [Group] Shake [Shake]: "/i 20164"
+[5/4/2023 9:26:05 PM] [Info] Giving Shake item 20164:1
+[5/4/2023 9:26:05 PM] [Info] [Group] Shake [Shake]: "/i 20166"
+[5/4/2023 9:26:05 PM] [Info] Giving Shake item 20166:1
+[5/4/2023 9:26:09 PM] [Info] [Group] Shake [Shake]: "/i 20167"
+[5/4/2023 9:26:15 PM] [Info] Giving Shake item 20167:1
+[5/4/2023 9:26:15 PM] [Info] [Group] Shake [Shake]: "/i 20168"
+[5/4/2023 9:26:15 PM] [Info] Giving Shake item 20168:1
+[5/4/2023 9:26:32 PM] [Info] [Group] Shake [Shake]: "/i 20269"
+[5/4/2023 9:26:32 PM] [Info] Giving Shake item 20269:1
+[5/4/2023 9:27:18 PM] [Info] [Group] Shake [Shake]: "/i 20193"
+[5/4/2023 9:27:18 PM] [Info] Giving Shake item 20193:1
+[5/4/2023 9:27:26 PM] [Info] [Group] Shake [Shake]: "/i 20197"
+[5/4/2023 9:27:26 PM] [Info] Giving Shake item 20197:1
+[5/4/2023 9:27:34 PM] [Info] [Group] Shake [Shake]: "/i 20196"
+[5/4/2023 9:27:40 PM] [Info] Giving Shake item 20196:1
+[5/4/2023 9:27:40 PM] [Info] [Group] Shake [Shake]: "/i mp5"
+[5/4/2023 9:27:54 PM] [Info] Giving Shake item 31323:1
+[5/4/2023 9:27:54 PM] [Info] [Group] Shake [Shake]: "/i tarn"
+[5/4/2023 9:28:11 PM] [Info] Giving Shake item 30841:1
+[5/4/2023 9:28:11 PM] [Info] [Group] Shake [Shake]: "/i 30840"
+[5/4/2023 9:28:11 PM] [Info] Giving Shake item 30840:1
+[5/4/2023 9:28:23 PM] [Info] [Group] Shake [Shake]: "/i "assault backpack""
+[5/4/2023 9:28:37 PM] [Info] Giving Shake item 20251:1
+[5/4/2023 9:28:37 PM] [Info] [Group] Shake [Shake]: "/i 20166"
+[5/4/2023 9:28:37 PM] [Info] Giving Shake item 20166:1
+[5/4/2023 9:28:46 PM] [Info] [Group] Shake [Shake]: "/i 20186"
+[5/4/2023 9:29:15 PM] [Info] Giving Shake item 20186:1
+[5/4/2023 9:29:15 PM] [Info] [Area] Shake [Shake]: "/i 20186"
+[5/4/2023 9:29:15 PM] [Info] Giving Shake item 20186:1
+[5/4/2023 9:29:24 PM] [Info] [Area] Shake [Shake]: "/i 20166"
+[5/4/2023 9:29:27 PM] [Info] Giving Shake item 20166:1
+[5/4/2023 9:29:27 PM] [Info] [Area] Shake [Shake]: "/i 30840"
+[5/4/2023 9:29:27 PM] [Info] Giving Shake item 30840:1
+[5/4/2023 9:29:41 PM] [Info] [Group] Shake [Shake]: "/i 20193"
+[5/4/2023 9:29:41 PM] [Info] Giving Shake item 20193:1
+[5/4/2023 9:30:14 PM] [Info] [Group] Shake [Shake]: "/i "fast helmet""
+[5/4/2023 9:30:21 PM] [Info] [Group] Shake [Shake]: "/i "mk 6""
+[5/4/2023 9:30:31 PM] [Info] [Group] Shake [Shake]: "/i osprey"
+[5/4/2023 9:30:38 PM] [Info] [Group] Shake [Shake]: "/i "armored rig""
+[5/4/2023 9:31:05 PM] [Info] [Group] Shake [Shake]: "/i 20269"
+[5/4/2023 9:31:15 PM] [Info] Giving Shake item 20269:1
+[5/4/2023 9:31:15 PM] [Info] [Group] Shake [Shake]: "/i 20274 2"
+[5/4/2023 9:31:15 PM] [Info] Giving Shake item 20274:2
+[5/4/2023 9:31:49 PM] [Info] [Group] Shake [Shake]: "/i 20260"
+[5/4/2023 9:31:49 PM] [Info] Giving Shake item 20260:1
+[5/4/2023 9:32:00 PM] [Info] [Area] Shake [Shake]: "/i 20528"
+[5/4/2023 9:32:02 PM] [Info] Giving Shake item 20528:1
+[5/4/2023 9:32:02 PM] [Info] [Area] Shake [Shake]: "/i 20527"
+[5/4/2023 9:32:02 PM] [Info] Giving Shake item 20527:1
+[5/4/2023 9:32:21 PM] [Info] [Group] Shake [Shake]: "/i 20532"
+[5/4/2023 9:35:12 PM] [Info] Giving Shake item 20532:1
+[5/4/2023 9:35:12 PM] [Info] [Group] Shake [Shake]: "/i 20434"
+[5/4/2023 9:35:12 PM] [Info] Giving Shake item 20434:1
+[5/4/2023 9:35:31 PM] [Info] [Group] Shake [Shake]: "/i 20431"
+[5/4/2023 9:35:40 PM] [Info] Giving Shake item 20431:1
+[5/4/2023 9:35:40 PM] [Info] [Group] Shake [Shake]: "/i multicam"
+[5/4/2023 9:35:58 PM] [Info] Giving Shake item 30941:1
+[5/4/2023 9:35:58 PM] [Info] [Group] Shake [Shake]: "/i 20147"
+[5/4/2023 9:35:58 PM] [Info] Giving Shake item 20147:1
+[5/4/2023 9:36:08 PM] [Info] [Group] Shake [Shake]: "/i 20062"
+[5/4/2023 9:36:30 PM] [Info] Giving Shake item 20062:1
+[5/4/2023 9:36:30 PM] [Info] [Group] Shake [Shake]: "/i woodland"
+[5/4/2023 9:36:36 PM] [Info] Giving Shake item 30711:1
+[5/4/2023 9:36:36 PM] [Info] [Group] Shake [Shake]: "/i 30710"
+[5/4/2023 9:36:36 PM] [Info] Giving Shake item 30710:1
+[5/4/2023 9:36:59 PM] [Info] [Group] Shake [Shake]: "/i 20063"
+[5/4/2023 9:36:59 PM] [Info] Giving Shake item 20063:1
+[5/4/2023 9:37:17 PM] [Info] [Group] Shake [Shake]: "/i 20365"
+[5/4/2023 9:37:37 PM] [Info] Giving Shake item 20365:1
+[5/4/2023 9:37:37 PM] [Info] [Group] Shake [Shake]: "/i 16652"
+[5/4/2023 9:37:37 PM] [Info] Giving Shake item 16652:1
+[5/4/2023 9:38:38 PM] [Info] [Group] Shake [Shake]: "/i p226"
+[5/4/2023 9:39:51 PM] [Info] Giving Shake item 31326:1
+[5/4/2023 9:39:51 PM] [Info] [Group] Shake [Shake]: "/i 20186"
+[5/4/2023 9:39:51 PM] [Info] Giving Shake item 20186:1
+[5/4/2023 9:40:04 PM] [Info] Saving server
+[5/4/2023 9:40:36 PM] [Info] [Group] Shake [Shake]: "/i 59947"
+[5/4/2023 9:40:50 PM] [Info] Giving Shake item 59947:1
+[5/4/2023 9:40:50 PM] [Info] [Group] Shake [Shake]: "/i lsr"
+[5/4/2023 9:41:08 PM] [Info] Giving Shake item 59436:1
+[5/4/2023 9:41:08 PM] [Info] [Group] Shake [Shake]: "/i "swift box" 3"
+[5/4/2023 9:41:15 PM] [Info] Giving Shake item 59798:3
+[5/4/2023 9:41:15 PM] [Info] [Group] Shake [Shake]: "/i casket 4"
+[5/4/2023 9:41:55 PM] [Info] Giving Shake item 59860:4
+[5/4/2023 9:41:55 PM] [Info] [Group] Shake [Shake]: "/i 59027"
+[5/4/2023 9:42:13 PM] [Info] Giving Shake item 59027:1
+[5/4/2023 9:42:13 PM] [Info] [Group] Shake [Shake]: "/i 59146 2"
+[5/4/2023 9:42:17 PM] [Info] Giving Shake item 59146:2
+[5/4/2023 9:42:17 PM] [Info] [Area] Shake [Shake]: "/i 59147"
+[5/4/2023 9:42:17 PM] [Info] Giving Shake item 59147:1
+[5/4/2023 9:42:33 PM] [Info] [Group] Shake [Shake]: "/i bato"
+[5/4/2023 9:42:46 PM] [Info] Giving Shake item 1023:1
+[5/4/2023 9:42:46 PM] [Info] [Group] Shake [Shake]: "/i 59636"
+[5/4/2023 9:42:57 PM] [Info] [Group] Shake [Shake]: "/i 59437"
+[5/4/2023 9:42:57 PM] [Info] Giving Shake item 59437:1
+[5/4/2023 9:43:19 PM] [Info] [Group] Shake [Shake]: "/i 59651"
+[5/4/2023 9:43:29 PM] [Info] Giving Shake item 59651:1
+[5/4/2023 9:43:29 PM] [Info] [Group] Shake [Shake]: "/i 59545"
+[5/4/2023 9:43:29 PM] [Info] Giving Shake item 59545:1
+[5/4/2023 9:43:48 PM] [Info] [Group] Shake [Shake]: "/i 59917"
+[5/4/2023 9:43:48 PM] [Info] Giving Shake item 59917:1
+[5/4/2023 9:43:51 PM] [Info] [Area] Shake [Shake]: "/i 59918"
+[5/4/2023 9:43:56 PM] [Info] Giving Shake item 59918:1
+[5/4/2023 9:43:56 PM] [Info] [Group] Shake [Shake]: "/day"
+[5/4/2023 9:44:37 PM] [Info] Successfully set time to day!
+[5/4/2023 9:44:37 PM] [Info] [Group] Shake [Shake]: "/i aviators"
+[5/4/2023 9:45:01 PM] [Info] Giving Shake item 31252:1
+[5/4/2023 9:45:01 PM] [Info] [Group] Shake [Shake]: "/i 59614"
+[5/4/2023 9:45:01 PM] [Info] Giving Shake item 59614:1
+[5/4/2023 9:45:35 PM] [Info] [Group] Shake [Shake]: "/i 59171 5"
+[5/4/2023 9:45:35 PM] [Info] Giving Shake item 59171:5
+[5/4/2023 9:46:19 PM] [Info] [Group] Shake [Shake]: "/i 59608"
+[5/4/2023 9:46:28 PM] [Info] Giving Shake item 59608:1
+[5/4/2023 9:46:28 PM] [Info] [Group] Shake [Shake]: "/i painki;"
+[5/4/2023 9:46:30 PM] [Info] [Area] Shake [Shake]: "/i painki"
+[5/4/2023 9:46:51 PM] [Info] Giving Shake item 390:1
+[5/4/2023 9:46:51 PM] [Info] [Group] Shake [Shake]: "/i 59639"
+[5/4/2023 9:46:51 PM] [Info] Giving Shake item 59639:1
+[5/4/2023 9:47:18 PM] [Info] [Group] Shake [Shake]: "/i grenade"
+[5/4/2023 9:47:50 PM] [Info] Giving Shake item 31475:1
+[5/4/2023 9:47:50 PM] [Info] [Group] Shake [Shake]: "/teleport wp"
+[5/4/2023 9:48:31 PM] [Info] Successfully teleported Shake to waypoint!
+[5/4/2023 9:48:31 PM] [Info] [Group] Shake [Shake]: "/teleport wp"
+[5/4/2023 9:48:31 PM] [Info] Successfully teleported Shake to waypoint!
+[5/4/2023 9:48:49 PM] [Info] [Group] Shake [Shake]: "/home"
+[5/4/2023 9:48:49 PM] [Info] Shake moved x:-297.1406 y:166.0975(+50.61388) z:608.9141 in the last second (0.1000061)
+[5/4/2023 9:49:09 PM] [Info] [Group] Shake [Shake]: "/teleport wp"
+[5/4/2023 9:49:09 PM] [Info] Successfully teleported Shake to waypoint!
+[5/4/2023 9:52:55 PM] [Info] [Group] Shake [Shake]: "/i casket 5"
+[5/4/2023 9:55:41 PM] [Info] Giving Shake item 59860:5
+[5/4/2023 9:55:41 PM] [Info] Disconnecting: PlayerID: 76561199035738472 Name: Shake Character: Shake
+[5/4/2023 9:55:41 PM] [Info] BattlEye Server: Player #0 Shake disconnected
+[5/4/2023 10:10:04 PM] [Info] Saving server

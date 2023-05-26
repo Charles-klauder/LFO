@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="Flight_Enabled" Value="Flight Enabled." />
+  <Translation Id="Flight_Disabled" Value="Flight Disabled." />
+  <Translation Id="Flight_Enabled_Other" Value="Enabled {0}'s Flight." />
+  <Translation Id="Flight_Disabled_Other" Value="Disabled {0}'s Flight." />
+  <Translation Id="Flight_Speed_Reset" Value="Fly Speed Reset." />
+  <Translation Id="Flight_Speed_NotFlying" Value="You are not flying." />
+  <Translation Id="Flight_Speed_Changed" Value="Fly speed set to {0}." />
+  <Translation Id="Flight_Speed_Denied" Value="You don't have permission to fly that fast." />
+  <Translation Id="Flight_Speed_Denied_Hotkey" Value="You can't fly any faster." />
+  <Translation Id="Flight_Speed_Vertical_Reset" Value="Vertical Fly Speed reset." />
+  <Translation Id="Flight_Speed_Vertical_Changed" Value="Vertical Fly Speed set to {0}." />
+  <Translation Id="Flight_PermitSpeed_InvalidNumber" Value="Speed needs to be a valid whole number." />
+  <Translation Id="Flight_PermitSpeed_Reset" Value="Player max fly speed reset." />
+  <Translation Id="Flight_PermitSpeed_Updated" Value="Player max fly speed updated." />
+  <Translation Id="CheckBedOwner_NotClaimed" Value="Bed is not claimed." />
+  <Translation Id="CheckBedOwner_ShowOwner" Value="Bed Owner: {0}" />
+  <Translation Id="CheckBedOwner_NoBedFound" Value="Nothing found." />
+  <Translation Id="DisableVehicleAccess_NoPlayer" Value="Failed to find player." />
+  <Translation Id="DisableVehicleAccess_AccessEnabled" Value="Player may now use vehicles." />
+  <Translation Id="DisableVehicleAccess_AccessDisabled" Value="Player no longer has access to vehicles." />
+  <Translation Id="ForceDismount_Dismounted" Value="Player Dismounted." />
+  <Translation Id="ForceDismount_NoVehicle" Value="Player is not in Vehicle." />
+  <Translation Id="ForceDismount_NoPlayer" Value="Failed to find player." />
+  <Translation Id="GotoBed_NoPlayer" Value="Failed to find player." />
+  <Translation Id="GotoBed_NoBed" Value="Failed to find bed for player with ID of {0}." />
+  <Translation Id="GotoMarker_Teleported" Value="Teleported to marker {0}." />
+  <Translation Id="GotoMarker_NoMarker" Value="Failed to find a marker called {0}." />
+  <Translation Id="Marker_Placed" Value="Placed marker {0}." />
+  <Translation Id="Noclip_Enabled" Value="Noclip enabled." />
+  <Translation Id="Noclip_Disabled" Value="Noclip disabled." />
+  <Translation Id="PointTool_EnabledActive" Value="Point tool enabled, Active Tool: {0}." />
+  <Translation Id="PointTool_Disabled" Value="Point tool disabled." />
+  <Translation Id="PointTool_Denied" Value="You don't have access to that tool." />
+  <Translation Id="PointTool_Selected_Destroy" Value="Destroy tool selected, be careful." />
+  <Translation Id="PointTool_Selected_Repair" Value="Repair tool selected." />
+  <Translation Id="PointTool_Selected_Utility" Value="Utility tool selected." />
+  <Translation Id="PointTool_Selected_Kill" Value="Kill tool selected, be careful." />
+  <Translation Id="PointTool_Selected_Jump" Value="Jump tool selected." />
+  <Translation Id="PointTool_Selected_CheckOwner" Value="Check Owner tool selected." />
+  <Translation Id="PointTool_Extension_Enabled" Value=" Point tool enabled." />
+  <Translation Id="PointTool_Utility_Bed_ShowOwner" Value="[PointTool] Bed Owner: {0}" />
+  <Translation Id="PointTool_Utility_Bed_NotClaimed" Value="[PointTool] Bed is not claimed." />
+  <Translation Id="PointTool_Jump_NoPlatformBelow" Value="Failed to find a platform below you." />
+  <Translation Id="PointTool_Destroy_Denied" Value="You don't have permission to destroy that." />
+  <Translation Id="PointTool_CheckOwner_Barricade_Group" Value="[{3}] Owner: {0} ({1}), Group: {2}" />
+  <Translation Id="PointTool_CheckOwner_Barricade" Value="[{2}] Owner: {0} ({1})" />
+  <Translation Id="PointTool_CheckOwner_Structure_Group" Value="[{3}] Owner: {0} ({1}), Group: {2}" />
+  <Translation Id="PointTool_CheckOwner_Structure" Value="[{2}] Owner: {0} ({1})" />
+  <Translation Id="PointTool_CheckOwner_Vehicle_Group" Value="[{3}] Owner: {0} ({1}), Group: {2}" />
+  <Translation Id="PointTool_CheckOwner_Vehicle" Value="[{2}] Owner: {0} ({1})" />
+  <Translation Id="Mute_PlayerNotFound" Value="Player not found." />
+  <Translation Id="Mute_PlayerMuted" Value="Player Muted." />
+  <Translation Id="Mute_PlayerMuted_Time" Value="Player Muted for {0}." />
+  <Translation Id="Mute_ChatBlocked" Value="You cannot speak, you are muted." />
+  <Translation Id="Mute_ChatBlocked_TimeLeft" Value="You cannot speak, you are muted. {0} left." />
+  <Translation Id="Mute_PlayerUnmuted" Value="Player Unmuted." />
+  <Translation Id="Mute_PlayerUnmuted_Self" Value="You have been unmuted." />
+  <Translation Id="Plugin_Error" Value="An error occurred." />
+  <Translation Id="MapJump_Enabled" Value="Waypoint jumping enabled." />
+  <Translation Id="MapJump_Disabled" Value="Waypoint jumping disabled." />
+  <Translation Id="Error_PlayerNotFound" Value="Failed to find player." />
+  <Translation Id="CommandSpy_Disabled" Value="Command Spying Disabled." />
+  <Translation Id="CommandSpy_Disabled_Player" Value="You are no longer spying {0}'s commands." />
+  <Translation Id="CommandSpy_Enabled_Global" Value="Global Command Spying Enabled." />
+  <Translation Id="CommandSpy_Enabled_Player" Value="You are now spying on {0}'s commands." />
+  <Translation Id="Firemode_Changed" Value="Changed firemode to {0}." />
+  <Translation Id="Firemode_Modes" Value="Modes: Safety, Semi, Burst, Auto." />
+  <Translation Id="Firemode_Unsupported" Value="You can't change the firemode of this item!" />
+  <Translation Id="Firemode_Unlocker_Enabled" Value="Weapon firemodes unlocked." />
+  <Translation Id="Firemode_Unlocker_Disabled" Value="Weapon firemodes reverted." />
+  <Translation Id="UnlimitedAmmo_Enabled" Value="Unlimited ammo enabled." />
+  <Translation Id="UnlimitedAmmo_Enabled_OverrideAmount" Value="Unlimited ammo enabled. Overriding max ammo to {0}." />
+  <Translation Id="UnlimitedAmmo_Disabled" Value="Unlimited ammo disabled." />
+  <Translation Id="UnlimitedAmmo_Fail_Override" Value="Amount override must be between 0 and 255." />
+  <Translation Id="SetAttachment_Fail_Gun" Value="You cannot put an attachment on this item." />
+  <Translation Id="SetAttachment_Fail_Item" Value="Failed to find item." />
+  <Translation Id="SetAttachment_Fail_Blacklist" Value="This attachment is blacklisted." />
+  <Translation Id="SetAttachment_GaveAttachment" Value="Gave your gun {0}." />
+  <Translation Id="Fail_Command_Disabled" Value="This command is disabled." />
+  <Translation Id="Exec_Fail_NoPlayer" Value="Failed to find player." />
+  <Translation Id="Exec_Fail_NotActive" Value="ERROR: The EXEC Permissions utility is not active. Try restarting the server." />
+  <Translation Id="ForceTP_Fail_NoPlayer" Value="Failed to find player" />
+  <Translation Id="ForceTP_Fail_IsConsole" Value="Can't run this command variation from console." />
+  <Translation Id="ForceTP_Pass_TeleportSelfTo" Value="Teleported to {0}." />
+  <Translation Id="ForceTP_Pass_TeleportOtherTo" Value="Teleported {1} to {0}." />
+  <Translation Id="SetGravity_Self_Fail_IsFlying" Value="Can't change your gravity while flying." />
+  <Translation Id="SetGravity_Self_Fail_InvalidParameter" Value="Invalid multiplier." />
+  <Translation Id="SetGravity_Self_Pass_GravityChanged" Value="Set your gravity multiplier to {0}x." />
+  <Translation Id="SetSpeed_Self_Fail_IsFlying" Value="Can't change your run speed while flying." />
+  <Translation Id="SetSpeed_Self_Fail_InvalidParameter" Value="Invalid multiplier." />
+  <Translation Id="SetSpeed_Self_Pass_SpeedChanged" Value="Set your run speed multiplier to {0}x." />
+  <Translation Id="SetJump_Self_Fail_InvalidParameter" Value="Invalid multiplier." />
+  <Translation Id="SetJump_Self_Pass_JumpChanged" Value="Set your jump multiplier to {0}x." />
+  <Translation Id="SetGravity_Global_Pass_Changed" Value="Set server gravity multiplier to {0}x." />
+  <Translation Id="SetSpeed_Global_Pass_Changed" Value="Set server speed multiplier to {0}x." />
+  <Translation Id="SetJump_Global_Pass_Changed" Value="Set server jump multiplier to {0}x." />
+  <Translation Id="NoDrain_Enabled" Value="No Drain Enabled." />
+  <Translation Id="NoDrain_Disabled" Value="No Drain Disabled." />
+  <Translation Id="NoDrain_OverKill_Disabled" Value="Overkill Disabled." />
+  <Translation Id="NoDrain_OverKill_Enabled" Value="Overkill Disabled." />
+  <Translation Id="CheckOwner_Fail_NotFound" Value="Nothing Found." />
+  <Translation Id="CheckOwner_Pass_Found" Value="Owner: {0} ({1})." />
+  <Translation Id="CheckOwner_Pass_Found_Bed" Value="Owner: {0} ({1}). Bed claimed by {2} ({3})" />
+  <Translation Id="SeeInv_Fail_NoPlayer" Value="Failed to find a player with that name" />
+  <Translation Id="SeeInv_Fail_BadPage" Value="No such page." />
+  <Translation Id="SeeInv_Experimental" Value="This command is experimental, and can cause instability issues." />
+  <Translation Id="Experimental_Disabled" Value="This command is experimentl, and has been disabled in the config." />
+</Translations>

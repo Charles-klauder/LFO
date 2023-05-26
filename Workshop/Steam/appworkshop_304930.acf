@@ -1,7 +1,7 @@
 "AppWorkshop"
 {
 	"appid"		"304930"
-	"SizeOnDisk"		"869643005"
+	"SizeOnDisk"		"976410274"
 	"NeedsUpdate"		"0"
 	"NeedsDownload"		"0"
 	"TimeLastUpdated"		"0"
@@ -64,9 +64,9 @@
 		}
 		"2971117980"
 		{
-			"size"		"39194624"
-			"timeupdated"		"1683173743"
-			"manifest"		"7406055294433572217"
+			"size"		"145961893"
+			"timeupdated"		"1683253045"
+			"manifest"		"7119721964725148243"
 		}
 	}
 	"WorkshopItemDetails"
@@ -75,61 +75,61 @@
 		{
 			"manifest"		"5524223338644110548"
 			"timeupdated"		"1583120522"
-			"timetouched"		"1683217592"
+			"timetouched"		"1684158159"
 		}
 		"1232252658"
 		{
 			"manifest"		"8149215699489565028"
 			"timeupdated"		"1678456822"
-			"timetouched"		"1683217385"
+			"timetouched"		"1684157627"
 		}
 		"1717095606"
 		{
 			"manifest"		"4850365518548847724"
 			"timeupdated"		"1555690163"
-			"timetouched"		"1683217380"
+			"timetouched"		"1684157614"
 		}
 		"1909152337"
 		{
 			"manifest"		"1299290552418381058"
 			"timeupdated"		"1576940248"
-			"timetouched"		"1683217645"
+			"timetouched"		"1684158172"
 		}
 		"2069342497"
 		{
 			"manifest"		"95400586031295059"
 			"timeupdated"		"1589817708"
-			"timetouched"		"1683217380"
+			"timetouched"		"1684157616"
 		}
 		"2480988643"
 		{
 			"manifest"		"2886647216053694681"
 			"timeupdated"		"1673621540"
-			"timetouched"		"1683217586"
+			"timetouched"		"1684158150"
 		}
 		"2683620106"
 		{
 			"manifest"		"165435897737078693"
 			"timeupdated"		"1679713987"
-			"timetouched"		"1683217515"
+			"timetouched"		"1684157874"
 		}
 		"2839462324"
 		{
 			"manifest"		"1842793117096901280"
 			"timeupdated"		"1680108776"
-			"timetouched"		"1683217464"
+			"timetouched"		"1684157783"
 		}
 		"2943585795"
 		{
 			"manifest"		"4937554241935766234"
 			"timeupdated"		"1682352636"
-			"timetouched"		"1683217509"
+			"timetouched"		"1684157865"
 		}
 		"2971117980"
 		{
-			"manifest"		"7406055294433572217"
-			"timeupdated"		"1683173743"
-			"timetouched"		"1683217576"
+			"manifest"		"7119721964725148243"
+			"timeupdated"		"1683253045"
+			"timetouched"		"1684158150"
 		}
 	}
 }

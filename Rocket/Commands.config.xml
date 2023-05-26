@@ -80,7 +80,7 @@
     <Command Name="god" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandGod/god</Command>
     <Command Name="heal" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandHeal/heal</Command>
     <Command Name="help" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandHelp/help</Command>
-    <Command Name="home" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandHome/home</Command>
+    <Command Name="home" Enabled="false" Priority="Normal">Rocket.Unturned.Commands.CommandHome/home</Command>
     <Command Name="i" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandI/i</Command>
     <Command Name="item" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandI/item</Command>
     <Command Name="investigate" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandInvestigate/investigate</Command>
@@ -92,5 +92,82 @@
     <Command Name="unadmin" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandUnadmin/unadmin</Command>
     <Command Name="v" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandV/v</Command>
     <Command Name="vanish" Enabled="true" Priority="Normal">Rocket.Unturned.Commands.CommandVanish/vanish</Command>
+    <Command Name="ammo" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandAmmo/ammo</Command>
+    <Command Name="clearmag" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandClearMag/clearmag</Command>
+    <Command Name="clearm" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandClearMag/clearm</Command>
+    <Command Name="cm" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandClearMag/cm</Command>
+    <Command Name="clonei" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandCloneItem/clonei</Command>
+    <Command Name="dropammo" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandDropAmmo/dropammo</Command>
+    <Command Name="dammo" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandDropAmmo/dammo</Command>
+    <Command Name="da" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandDropAmmo/da</Command>
+    <Command Name="dropa" Enabled="true" Priority="Normal">EasyAmmoRocketMod.CommandDropAmmo/dropa</Command>
+    <Command Name="AlertZombies" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.AlertZombiesCommand/AlertZombies</Command>
+    <Command Name="AFly" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.AFlyCommand/AFly</Command>
+    <Command Name="AFlySpeedPermit" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.AFlySpeedPermitCommand/AFlySpeedPermit</Command>
+    <Command Name="Ascend" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.AscendCommand/Ascend</Command>
+    <Command Name="CheckOwner" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.CheckOwnerCommand/CheckOwner</Command>
+    <Command Name="ck" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.CheckOwnerCommand/ck</Command>
+    <Command Name="ClearInv" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ClearInventoryCommand/ClearInv</Command>
+    <Command Name="ci" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ClearInventoryCommand/ci</Command>
+    <Command Name="CommandSpy" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.CommandSpyCommand/CommandSpy</Command>
+    <Command Name="Descend" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.DescendCommand/Descend</Command>
+    <Command Name="ForceEquip" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ForceEquipCommand/ForceEquip</Command>
+    <Command Name="ReviveResources" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ReviveResourcesCommand/ReviveResources</Command>
+    <Command Name="DestroyResources" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.DestroyResourcesCommand/DestroyResources</Command>
+    <Command Name="DisableVehicleAccess" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.DisableVehicleAccess/DisableVehicleAccess</Command>
+    <Command Name="EnableVehicleAccess" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.DisableVehicleAccess/EnableVehicleAccess</Command>
+    <Command Name="DVA" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.DisableVehicleAccess/DVA</Command>
+    <Command Name="EVA" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.DisableVehicleAccess/EVA</Command>
+    <Command Name="AFlyVSpeed" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.AFlyVSpeedCommand/AFlyVSpeed</Command>
+    <Command Name="AFlySpeed" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.AFlySpeedCommand/AFlySpeed</Command>
+    <Command Name="execall" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ExecAllCommand/execall</Command>
+    <Command Name="exec" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ExecCommand/exec</Command>
+    <Command Name="FindBase" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.FindBaseCommand/FindBase</Command>
+    <Command Name="Firework" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.FireworkCommand/Firework</Command>
+    <Command Name="ForceDismount" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ForceDemountCommand/ForceDismount</Command>
+    <Command Name="ForceSave" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ForceSaveCommand/ForceSave</Command>
+    <Command Name="FTP" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.ForceTPCommand/FTP</Command>
+    <Command Name="gotobed" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.GotoBedCommand/gotobed</Command>
+    <Command Name="tpbed" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.GotoBedCommand/tpbed</Command>
+    <Command Name="GotoMarker" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.GotoMarker/GotoMarker</Command>
+    <Command Name="SetJump" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.JumpHeightCommand/SetJump</Command>
+    <Command Name="KickAll" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.KickAllCommand/KickAll</Command>
+    <Command Name="LaunchBushes" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.LaunchBushesCommand/LaunchBushes</Command>
+    <Command Name="MapJump" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.MapJumpCommand/MapJump</Command>
+    <Command Name="MapJumping" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.MapJumpCommand/MapJumping</Command>
+    <Command Name="Marker" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.MarkerCommand/Marker</Command>
+    <Command Name="NoClip" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.NoClipCommand/NoClip</Command>
+    <Command Name="NoDrain" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.NoDrainCommand/NoDrain</Command>
+    <Command Name="PlaceObject" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.PlaceObjectCommand/PlaceObject</Command>
+    <Command Name="PointTool" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.PointToolCommand/PointTool</Command>
+    <Command Name="pt" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.PointToolCommand/pt</Command>
+    <Command Name="Repeat" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.RepeatCommand/Repeat</Command>
+    <Command Name="SalvageTime" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SalvageTimeCommand/SalvageTime</Command>
+    <Command Name="ShimmysAdminTools" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SATCommand/ShimmysAdminTools</Command>
+    <Command Name="SAT" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SATCommand/SAT</Command>
+    <Command Name="SeeInv" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SeeInventoryCommand/SeeInv</Command>
+    <Command Name="SetAttachment" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetAttachmentCommand/SetAttachment</Command>
+    <Command Name="Attachment" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetAttachmentCommand/Attachment</Command>
+    <Command Name="Att" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetAttachmentCommand/Att</Command>
+    <Command Name="SetFiremode" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetFiremodeCommand/SetFiremode</Command>
+    <Command Name="SetGravity" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetGravityCommand/SetGravity</Command>
+    <Command Name="ServerGravity" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetServerGravity/ServerGravity</Command>
+    <Command Name="ServerJump" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetServerJump/ServerJump</Command>
+    <Command Name="ServerSpeed" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetServerSpeed/ServerSpeed</Command>
+    <Command Name="SetSpeed" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SetSpeedCommand/SetSpeed</Command>
+    <Command Name="SimFire" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.SimFireCommand/SimFire</Command>
+    <Command Name="StructureESP" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.StructureESPCommand/StructureESP</Command>
+    <Command Name="Trail" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.TrailCommand/Trail</Command>
+    <Command Name="TTR" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.TTCommand/TTR</Command>
+    <Command Name="UnlimitedAmmo" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.UnlimitedAmmoCommand/UnlimitedAmmo</Command>
+    <Command Name="UnlockFireModes" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.UnlockFireModesCommand/UnlockFireModes</Command>
+    <Command Name="WipePlayerBuildings" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.WipePlayerBuildingsCommand/WipePlayerBuildings</Command>
+    <Command Name="WPB" Enabled="true" Priority="Normal">ShimmysAdminTools.Commands.WipePlayerBuildingsCommand/WPB</Command>
+    <Command Name="Boom" Enabled="true" Priority="Normal">ShimmysAdminTools.Behaviors.BoomCommand/Boom</Command>
+    <Command Name="home" Enabled="true" Priority="Normal">RestoreMonarchy.MoreHomes.Commands.HomeCommand/home</Command>
+    <Command Name="homes" Enabled="true" Priority="Normal">RestoreMonarchy.MoreHomes.Commands.HomesCommand/homes</Command>
+    <Command Name="destroyhome" Enabled="true" Priority="Normal">RestoreMonarchy.MoreHomes.Commands.DestroyHomeCommand/destroyhome</Command>
+    <Command Name="renamehome" Enabled="true" Priority="Normal">RestoreMonarchy.MoreHomes.Commands.RenameHomeCommand/renamehome</Command>
+    <Command Name="restorehomes" Enabled="true" Priority="Normal">RestoreMonarchy.MoreHomes.Commands.RestoreHomesCommand/restorehomes</Command>
   </Commands>
 </RocketCommands>
